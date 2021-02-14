@@ -1,0 +1,34 @@
+#
+# Author: Mr. Kin
+# Description: This file is used for luna_pinyin_simp scheme's customized setting.
+#
+
+patch:
+  translator/dictionary: luna_pinyin_simp.extended.list # 载入扩充词库列表
+  speller/algebra/@before 0: xform/^([a-z])$/$1_/
+  speller/algebra:
+    - erase/^xx$/                      # 第一行保留
+    # 自动纠正一些常见的按键错误
+    - derive/([aeiou])ng$/$1gn/        # dagn => dang
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
+    - derive/ong$/on/                  # zhonguo => zhong guo
+    - derive/ao$/oa/                   # hoa => hao
+    - derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian
+    # 用拼写运算定义简码（简拼）
+    - 'abbrev/^([a-z]).+$/$1/'
+    - 'abbrev/^([zcs]h).+$/$1/'
+  punctuator/import_preset: symbols
+  recognizer/patterns/punct: '^/([0-9]0?|[A-Za-z]+)$'
+  punctuator/symbols:
+    '/ywz': [(ಡωಡ), (ಥ﹏ಥ), (ง •_•)ง, (눈_눈), (＞﹏＜), ╥﹏╥..., (lll￢ω￢), (๑•̀ㅂ•́)و✧, (￣▽￣)～■干杯□～(￣▽￣)]
+    '/hexo': [hexo generate && hexo server --draft, hexo clean && hexo generate && hexo server --draft, hexo new draft, hexo publish, hexo new page, hexo generate && hexo server, hexo clean && hexo generate && hexo deploy, hexo clean --silent && hexo generate --silent && hexo deploy, hexo clean --silent && hexo generate --silent && hexo server --draft, hexo clean --silent && hexo generate --silent && hexo server, hexo clean, hexo generate, hexo server, hexo server --draft, hexo deploy]
+    '/mlh': [pandoc -s -o, pandoc -o, sfc /scannow, dism /online /cleanup-image /scanhealth, dism /online /cleanup-image /restorehealth]
+    '/url': [https://github.com, https://mister-kin.github.io/, https://github.com/Mister-Kin/OpenDocs/, https://github.com/Mister-Kin/]
+    '/ipaqfy': [p, t, tʃ, k, f, θ, s, ʃ]
+    '/iparfy': [b, d, dʒ, g, v, ð, z, ʒ]
+    '/ipafy': [m, n, ŋ, j, w, r, l, h, x]
+    '/ipadyy': [ɪ, ʊ, ɒ, ʌ, ə, e]
+    '/ipacyy': [iː, uː, ɔː, ɑː, ɜː, æ]
+    '/ipasyy': [eɪ, aɪ, ɔɪ, aʊ, əʊ, ɪə, ʊə, eə, eɪə, aɪə, ɔɪə, aʊə, əʊə]
+    '/ipafh': [ˈ, ˌ, .]
+    '/bhs': [UID：135108871, 135108871]
