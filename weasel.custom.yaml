@@ -1,0 +1,9 @@
+#
+# Author: Mr. Kin
+# Description: This file is used for Weasel's customized setting.
+#
+
+patch:
+  style/color_scheme: aqua                   # 皮肤主题（默认就是 aqua 碧水主题）
+  style/font_face: "思源黑体"  # 显示字体
+  style/font_point: 30                      # 显示字号

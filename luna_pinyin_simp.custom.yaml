@@ -1,0 +1,43 @@
+#
+# Author: Mr. Kin
+# Description: This file is used for luna_pinyin_simp schema's customized setting.
+#
+
+patch:
+  translator/dictionary: luna_pinyin_simp.extended.list # 载入扩充词库列表
+  schema/dependencies/@1: english # 需要方案依赖，不然仅有 table_translator@english 无法解决
+  engine/translators/@next: table_translator@english # 设定输入英文的码表副翻译器，取名为 english
+  # english 翻译器的设定项
+  english:
+    dictionary: english.extended.list # 载入 english 方案扩充词库列表
+    enable_user_dict: false # 设定用戶詞典（禁用使其不产生 english 方案的用户词典）
+    enable_completion: true  # 设定该翻译器的联想补全
+    enable_sentence: false # 设定自動造句
+    initial_quality: 1 # 设定该翻译器出字的优先级
+  speller/algebra/@before 0: xform/^([b-df-hj-np-tv-z])$/$1_/ # 令包含英文的词库不影响简拼功能
+  speller/algebra:
+    - erase/^xx$/                      # 第一行保留
+    # 自动纠正一些常见的按键错误
+    - derive/([aeiou])ng$/$1gn/        # dagn => dang
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
+    - derive/ong$/on/                  # zhonguo => zhong guo
+    - derive/ao$/oa/                   # hoa => hao
+    - derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian
+    # 用拼写运算定义简码（简拼）
+    - 'abbrev/^([a-z]).+$/$1/'
+    - 'abbrev/^([zcs]h).+$/$1/'
+  punctuator/import_preset: symbols
+  recognizer/patterns/punct: '^/([0-9]0?|[A-Za-z]+)$' # 支持 / 特殊符号输入
+  punctuator/symbols:
+    '/ywz': [(ಡωಡ), (ಥ﹏ಥ), (ง •_•)ง, (눈_눈), (＞﹏＜), ╥﹏╥..., (lll￢ω￢), (๑•̀ㅂ•́)و✧, (￣▽￣)～■干杯□～(￣▽￣)]
+    '/hexo': [hexo generate && hexo server --draft, hexo clean && hexo generate && hexo server --draft, hexo new draft, hexo publish, hexo new page, hexo generate && hexo server, hexo clean && hexo generate && hexo deploy, hexo clean --silent && hexo generate --silent && hexo deploy, hexo clean --silent && hexo generate --silent && hexo server --draft, hexo clean --silent && hexo generate --silent && hexo server, hexo clean, hexo generate, hexo server, hexo server --draft, hexo deploy]
+    '/mlh': [pandoc -s -o, pandoc -o, sfc /scannow, dism /online /cleanup-image /scanhealth, dism /online /cleanup-image /restorehealth, 'rundll32.exe powrprof.dll,SetSuspendState']
+    '/url': [https://github.com, https://github.com/Mister-Kin/, https://mister-kin.github.io/, https://github.com/Mister-Kin/OpenDocs/, https://github.com/Mister-Kin/OpenDocs/tree/master/, https://pd.zwc365.com/seturl/, https://pd.zwc365.com/cfworker/]
+    '/ipabpy': [p, b, t, d, k, g] # 爆破音
+    '/ipamcy': [f, v, s, z, f, ʒ, θ, ð, h] # 摩擦音
+    '/ipaby': [m, n, ŋ] # 鼻音
+    '/ipafy': [tʃ, dʒ, l, r, j, w, x] # 其他辅音
+    '/ipadyy': [ɪ, ʊ, ɒ, ʌ, ə, e] # 单元音
+    '/ipacyy': [iː, uː, ɔː, ɑː, ɜː, æ] # 长元音
+    '/ipasyy': [eɪ, aɪ, ɔɪ, aʊ, əʊ, ɪə, ʊə, eə, eɪə, aɪə, ɔɪə, aʊə, əʊə] # 双元音
+    '/ipafh': [ˈ, ˌ, .] # 声调符号

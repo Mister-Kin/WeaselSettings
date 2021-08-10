@@ -1,0 +1,51 @@
+#
+# Author: Mr. Kin
+# Description: This file is english schema.
+#
+
+schema:
+  schema_id: english
+  name: 英文
+  version: "0.1"
+  author:
+    - Mr. Kin <im.misterkin@gmail.com>
+  description: |
+    英文输出方案
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+
+translator:
+  dictionary: english.extended.list
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default

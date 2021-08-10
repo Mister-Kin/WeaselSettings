@@ -1,0 +1,14 @@
+#
+# Author: Mr. Kin
+# Description: This file is the extended list for english schema.
+#
+
+---
+name: english.extended.list
+version: "2021/2/13"
+sort: by_weight
+use_preset_vocabulary: false
+import_tables:
+  - ./dict_en/easy_en
+  - ./dict_en/personal_words
+...

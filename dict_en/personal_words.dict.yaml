@@ -1,0 +1,41 @@
+#
+# Author: Mr. Kin
+# Description: This file is Rime extended dictionary - personal_words （个人常用语）
+#
+
+---
+name: personal_words
+version: "2019.07.12"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+Android	android
+Audacity	audacity
+blender	bl
+Blender	bl
+bilibili	bili
+Deepin	deepin
+DNA	dna
+DVD	dvd
+Google	google
+Gimp	gimp
+Kali	kali
+Krita	krita
+Linux	linux
+Manjaro	manjaro
+OK	ok
+QQ	qq
+PDF	pdf
+Rime	rime
+Rime	zhongzhouyun
+Unreal	unreal
+VirtualBox	virtualbox
+WiFi	waifai
+WiFi	wifi
+iOS	ios
+iPad	ipad
+iPhone	iphone
+iPod	ipod
+TeX	tex
+LaTeX	latex
