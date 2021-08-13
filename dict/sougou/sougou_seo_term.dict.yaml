@@ -1,0 +1,212 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - seo_term
+# Source: 搜狗细胞词库「SEO 搜索引擎优化 专业词汇」
+#
+
+---
+name: sougou_seo_term
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+按点击数付费	an dian ji shu fu fei	1
+按每个点击多少钱	an mei ge dian ji duo shao qian	1
+按效果付费	an xiao guo fu fei	1
+按效果付费的营销方式	an xiao guo fu fei de ying xiao fang shi	1
+按销售额付费	an xiao shou e fu fei	1
+按销售额付费的方法	an xiao shou e fu fei de fang fa	1
+按引导数付费	an yin dao shu fu fei	1
+百度公关部	bai du gong guan bu	1
+百度技术工程师	bai du ji shu gong cheng shi	1
+百度开发人员	bai du kai fa ren yuan	1
+百度快照	bai du kuai zhao	1
+百度人为因素	bai du ren wei yin su	1
+百度收录	bai du shou lu	1
+百度调整算法	bai du tiao zheng suan fa	1
+包含大量关键词	bao han da liang guan jian ci	1
+被搜索引擎察觉	bei sou suo yin qing cha jue	1
+比较容易接受	bi jiao rong yi jie shou	1
+标签	biao qian	1
+标题标记	biao ti biao ji	1
+不合理的重复	bu he li de chong fu	1
+不区分大小写	bu qu fen da xiao xie	1
+常见专业词汇介绍大全	chang jian zhuan ye ci hui jie shao da quan	1
+惩罚力度	cheng fa li du	1
+程序和数据库	cheng xu he shu ju ku	1
+重复性关键词	chong fu xing guan jian ci	1
+出现的关键词	chu xian de guan jian ci	1
+词汇解释	ci hui jie shi	1
+大宗链接交换程序	da zong lian jie jiao huan cheng xu	1
+导出链接	dao chu lian jie	1
+动态网页	dong tai wang ye	1
+堆砌关键字	dui qi guan jian zi	1
+对应给这个联属会员的引导记录	dui ying gei zhe ge lian zhu hui yuan de yin dao ji lu	1
+多次索引	duo ci suo yin	1
+恶意链接	e yi lian jie	1
+反向导入链接	fan xiang dao ru lian jie	1
+访问用户数	fang wen yong hu shu	1
+非真实的搜索引擎友好的内容	fei zhen shi de sou suo yin qing you hao de nei rong	1
+富含目标关键词的域名	fu han mu biao guan jian ci de yu ming	1
+服务器	fu wu qi	1
+复制网站	fu zhi wang zhan	1
+改善搜索引擎排名	gai shan sou suo yin qing pai ming	1
+高度关注	gao du guan zhu	1
+给联属会员付费	gei lian zhu hui yuan fu fei	1
+工程师	gong cheng shi	1
+工具栏	gong ju lan	1
+关键词堆砌	guan jian ci dui qi	1
+关键词堆砌欺骗	guan jian ci dui qi qi pian	1
+关键词密度	guan jian ci mi du	1
+关键词填充	guan jian ci tian chong	1
+关键词相关性得分	guan jian ci xiang guan xing de fen	1
+关键字标记	guan jian zi biao ji	1
+管理系统	guan li xi tong	1
+广告按钮	guang gao an niu	1
+广告分销方式	guang gao fen xiao fang shi	1
+广告系统	guang gao xi tong	1
+广告主	guang gao zhu	1
+鬼域	gui yu	1
+过度重复	guo du chong fu	1
+过滤词	guo lv ci	1
+过滤系统	guo lv xi tong	1
+毫不相干的误导性关键词	hao bu xiang gan de wu dao xing guan jian ci	1
+回档因素	hui dang yin su	1
+回佣	hui yong	1
+会员制营销	hui yuan zhi ying xiao	1
+检索程序	jian suo cheng xu	1
+检索价值	jian suo jia zhi	1
+交叉链接	jiao cha lian jie	1
+竞价排名	jing jia pai ming	1
+镜象站点	jing xiang zhan dian	1
+客观性	ke guan xing	1
+快速准确	kuai su zhun que	1
+框架集标记	kuang jia ji biao ji	1
+框架结构	kuang jia jie gou	1
+类似的做法	lei si de zuo fa	1
+链接	lian jie	1
+链接工厂	lian jie gong chang	1
+链接广泛度	lian jie guang fan du	1
+链接介绍	lian jie jie shao	1
+连接制作	lian jie zhi zuo	1
+联属会员网站	lian zhu hui yuan wang zhan	1
+联属网络营销	lian zhu wang luo ying xiao	1
+联属网络营销管理系统	lian zhu wang luo ying xiao guan li xi tong	1
+联属营销	lian zhu ying xiao	1
+零风险的广告分销方式	ling feng xian de guang gao fen xiao fang shi	1
+浏览器	liu lan qi	1
+浏览习惯	liu lan xi guan	1
+埋藏	mai cang	1
+每百万用户访问网站人次	mei bai wan yong hu fang wen wang zhan ren ci	1
+门页	men ye	1
+门域	men yu	1
+免费链接列表	mian fei lian jie lie biao	1
+描述标记	miao shu biao ji	1
+某个表单	mou ge biao dan	1
+某些关键字	mou xie guan jian zi	1
+目录索引	mu lu suo yin	1
+目录索引类搜索引擎	mu lu suo yin lei sou suo yin qing	1
+内部链接	nei bu lian jie	1
+内部网页	nei bu wang ye	1
+能够检测镜象站点	neng gou jian ce jing xiang zhan dian	1
+排名	pai ming	1
+欺骗搜索引擎	qi pian sou suo yin qing	1
+欺骗性重定向	qi pian xing chong ding xiang	1
+欺骗性重定向技术	qi pian xing chong ding xiang ji shu	1
+其他类似符号	qi ta lei si fu hao	1
+其他网站	qi ta wang zhan	1
+其它页面	qi ta ye mian	1
+全文搜索引擎	quan wen sou suo yin qing	1
+任何地址	ren he di zhi	1
+认证	ren zheng	1
+商家网站	shang jia wang zhan	1
+市场信息	shi chang xin xi	1
+实际的购买行为	shi ji de gou mai xing wei	1
+实际访问者	shi ji fang wen zhe	1
+使用多个关键字元标识	shi yong duo ge guan jian zi yuan biao zhi	1
+受到相应惩罚	shou dao xiang ying cheng fa	1
+刷新标识	shua xin biao zhi	1
+搜索机器人	sou suo ji qi ren	1
+搜索引擎	sou suo yin qing	1
+搜索引擎定位	sou suo yin qing ding wei	1
+搜索引擎排名	sou suo yin qing pai ming	1
+搜索引擎优化	sou suo yin qing you hua	1
+索引数据库	suo yin shu ju ku	1
+特别制作	te bie zhi zuo	1
+特定关键词	te ding guan jian ci	1
+提倡使用	ti chang shi yong	1
+提高关键词的相关性	ti gao guan jian ci de xiang guan xing	1
+提升链接得分	ti sheng lian jie de fen	1
+提升排名	ti sheng pai ming	1
+停用词	ting yong ci	1
+同一页面	tong yi ye mian	1
+同一站点	tong yi zhan dian	1
+图片的链接	tu pian de lian jie	1
+图象区块	tu xiang qu kuai	1
+外部链接	wai bu lian jie	1
+外部文件	wai bu wen jian	1
+外部文件存储	wai bu wen jian cun chu	1
+完善	wan shan	1
+网络爬虫	wang luo pa chong	1
+网络设计	wang luo she ji	1
+网页存在时间	wang ye cun zai shi jian	1
+网页的重要性	wang ye de zhong yao xing	1
+网页访问量排名	wang ye fang wen liang pai ming	1
+网页平均访问量	wang ye ping jun fang wen liang	1
+网站的链接广泛度	wang zhan de lian jie guang fan du	1
+网站访问人次排名	wang zhan fang wen ren ci pai ming	1
+网站联盟等	wang zhan lian meng deng	1
+网站流量排名	wang zhan liu liang pai ming	1
+网站排名	wang zhan pai ming	1
+为搜索引擎所深恶痛绝	wei sou suo yin qing suo shen wu tong jue	1
+误导性关键词	wu dao xing guan jian ci	1
+现金销售	xian jin xiao shou	1
+显示正常	xian shi zheng chang	1
+相关性	xiang guan xing	1
+肖锦恒	xiao jin heng	1
+肖俊	xiao jun	1
+销售额	xiao shou e	1
+新网站	xin wang zhan	1
+迅速重定向	xun su chong ding xiang	1
+验证码	yan zheng ma	1
+页面的检索	ye mian de jian suo	1
+页面顶部	ye mian ding bu	1
+页面浏览数	ye mian liu lan shu	1
+页面内容	ye mian nei rong	1
+页面相似度	ye mian xiang si du	1
+页面重要内容	ye mian zhong yao nei rong	1
+隐藏链接	yin cang lian jie	1
+隐藏文本内容	yin cang wen ben nei rong	1
+隐藏真实网站内容	yin cang zhen shi wang zhan nei rong	1
+引导记录	yin dao ji lu	1
+隐形链接	yin xing lian jie	1
+隐形页面	yin xing ye mian	1
+影响网站美观	ying xiang wang zhan mei guan	1
+营销费用	ying xiao fei yong	1
+用户模型	yong hu mo xing	1
+佣金比例	yong jin bi li	1
+域名	yu ming	1
+原标记	yuan biao ji	1
+元标识	yuan biao zhi	1
+元搜索引擎	yuan sou suo yin qing	1
+源站点	yuan zhan dian	1
+在线支付系统	zai xian zhi fu xi tong	1
+针对性的投放	zhen dui xing de tou fang	1
+正常分析	zheng chang fen xi	1
+正文和标题	zheng wen he biao ti	1
+支持框架结构	zhi chi kuang jia jie gou	1
+支付广告费	zhi fu guang gao fei	1
+指向目标优化页	zhi xiang mu biao you hua ye	1
+蜘蛛	zhi zhu	1
+蜘蛛程序	zhi zhu cheng xu	1
+主要因素	zhu yao yin su	1
+抓取	zhua qu	1
+专为搜索引擎设计	zhuan wei sou suo yin qing she ji	1
+着陆页	zhuo lu ye	1
+自动重定向	zi dong chong ding xiang	1
+自动化流程	zi dong hua liu cheng	1
+资料	zi liao	1
+字母	zi mu	1
+作弊技术	zuo bi ji shu	1
+作弊链接	zuo bi lian jie	1

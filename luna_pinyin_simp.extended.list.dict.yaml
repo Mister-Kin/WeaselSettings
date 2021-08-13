@@ -1,71 +1,81 @@
 #
-# Author: Mr. Kin
+# Author: Mr. Kin <im.misterkin@gmail.com>
 # Description: This file is the extended list for luna_pinyin_simp schema.
 #
 
 ---
 name: luna_pinyin_simp.extended.list
-version: "2021/8/10"
+version: "2021/8/13"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
   - luna_pinyin # 从 luna_pinyin.dict.yaml 导入包含单字的码表
-  - ./dict/cn_en
-  - ./dict/luna_pinyin.basic
-  - ./dict/luna_pinyin.hanyu
-  - ./dict/luna_pinyin.poetry
-  - ./dict/luna_pinyin.four_character_idiom
-  - ./dict/luna_pinyin.3D_vocabulary
-  - ./dict/luna_pinyin.147_fruits_name
-  - ./dict/luna_pinyin.deep_learning_terms
-  - ./dict/luna_pinyin.IT_vocabulary
-  - ./dict/luna_pinyin.IT_computer
-  - ./dict/luna_pinyin.matlab
-  - ./dict/luna_pinyin.ocr
-  - ./dict/luna_pinyin.python_terms
-  - ./dict/luna_pinyin.seo_terms
-  - ./dict/luna_pinyin.finance
-  - ./dict/luna_pinyin.idiom_adage
-  - ./dict/luna_pinyin.geography
-  - ./dict/luna_pinyin.electricity_vocabulary
-  - ./dict/luna_pinyin.computer_vocabulary
-  - ./dict/luna_pinyin.electron_vocabulary
-  - ./dict/luna_pinyin.animal_vocabulary
-  - ./dict/luna_pinyin.law_vacabulary
-  - ./dict/luna_pinyin.singer_name
-  - ./dict/luna_pinyin.ancient_poetry
-  - ./dict/luna_pinyin.hacker
-  - ./dict/luna_pinyin.chemistry_vocabulary
-  - ./dict/luna_pinyin.painting_art
-  - ./dict/luna_pinyin.fitment
-  - ./dict/luna_pinyin.architecture
-  - ./dict/luna_pinyin.software_development
-  - ./dict/luna_pinyin.tree_name
-  - ./dict/luna_pinyin.tour_vocabulary
-  - ./dict/luna_pinyin.agriculture
-  - ./dict/luna_pinyin.weather
-  - ./dict/luna_pinyin.car_vocabulary
-  - ./dict/luna_pinyin.movie_name
-  - ./dict/luna_pinyin.anatomy
-  - ./dict/luna_pinyin.acupoint_name
-  - ./dict/luna_pinyin.Japanese_animation
-  - ./dict/luna_pinyin.software_major
-  - ./dict/luna_pinyin.three_character_idiom
-  - ./dict/luna_pinyin.biology_vocabulary
-  - ./dict/luna_pinyin.calligraphy_vocabulary
-  - ./dict/luna_pinyin.maths_vocabulary
-  - ./dict/luna_pinyin.Song_Poems
-  - ./dict/luna_pinyin.Tai_Ji
-  - ./dict/luna_pinyin.astronomy_vocabulary
-  - ./dict/luna_pinyin.edaphology_vocabulary
-  - ./dict/luna_pinyin.network_buzzwords
-  - ./dict/luna_pinyin.physics_vocabulary
-  - ./dict/luna_pinyin.chess
-  - ./dict/luna_pinyin.phychology_vocabulary
-  - ./dict/luna_pinyin.drug_name
-  - ./dict/luna_pinyin.medical_apparatus
-  - ./dict/luna_pinyin.medical_science_vocabulary
-  - ./dict/luna_pinyin.diet_vocabulary
-  - ./dict/luna_pinyin.plants_vocabulary
-  - ./dict/luna_pinyin.traditional_Chinese_medicine
+  - ./dict/cn_en # 导入自定义词库
+  - ./dict/THUOCL/THUOCL_animal # 导入 11 个清华大学开放词库
+  - ./dict/THUOCL/THUOCL_caijing
+  - ./dict/THUOCL/THUOCL_car
+  - ./dict/THUOCL/THUOCL_chengyu
+  - ./dict/THUOCL/THUOCL_diming
+  - ./dict/THUOCL/THUOCL_food
+  - ./dict/THUOCL/THUOCL_IT
+  - ./dict/THUOCL/THUOCL_law
+  - ./dict/THUOCL/THUOCL_lishimingren
+  - ./dict/THUOCL/THUOCL_medical
+  - ./dict/THUOCL/THUOCL_poem
+  - ./dict/sougou/sougou_3D # 导入 56 个搜狗细胞词库
+  - ./dict/sougou/sougou_147_fruits_name
+  - ./dict/sougou/sougou_agriculture
+  - ./dict/sougou/sougou_animal
+  - ./dict/sougou/sougou_architecture
+  - ./dict/sougou/sougou_astronomy
+  - ./dict/sougou/sougou_biology
+  - ./dict/sougou/sougou_calligraphy
+  - ./dict/sougou/sougou_car
+  - ./dict/sougou/sougou_chemistry
+  - ./dict/sougou/sougou_chess
+  - ./dict/sougou/sougou_color_name
+  - ./dict/sougou/sougou_computer
+  - ./dict/sougou/sougou_diet
+  - ./dict/sougou/sougou_drug_name
+  - ./dict/sougou/sougou_edaphology
+  - ./dict/sougou/sougou_electricity
+  - ./dict/sougou/sougou_electron
+  - ./dict/sougou/sougou_famous_ancient_poetry
+  - ./dict/sougou/sougou_finance
+  - ./dict/sougou/sougou_fitment
+  - ./dict/sougou/sougou_four_characters_idiom
+  - ./dict/sougou/sougou_geography
+  - ./dict/sougou/sougou_governmental_apparatus
+  - ./dict/sougou/sougou_hacker
+  - ./dict/sougou/sougou_human_acupoint_name
+  - ./dict/sougou/sougou_human_anatomy
+  - ./dict/sougou/sougou_idiom_adage
+  - ./dict/sougou/sougou_IT_computer
+  - ./dict/sougou/sougou_IT
+  - ./dict/sougou/sougou_Japanese_animation
+  - ./dict/sougou/sougou_law
+  - ./dict/sougou/sougou_lunyu
+  - ./dict/sougou/sougou_maths
+  - ./dict/sougou/sougou_matlab
+  - ./dict/sougou/sougou_medical_apparatus
+  - ./dict/sougou/sougou_medical_science
+  - ./dict/sougou/sougou_movie_name
+  - ./dict/sougou/sougou_network_buzzword
+  - ./dict/sougou/sougou_painting_art
+  - ./dict/sougou/sougou_phychology
+  - ./dict/sougou/sougou_physics
+  - ./dict/sougou/sougou_plants
+  - ./dict/sougou/sougou_scenery
+  - ./dict/sougou/sougou_seo_term
+  - ./dict/sougou/sougou_singer_name
+  - ./dict/sougou/sougou_software_development
+  - ./dict/sougou/sougou_software_major
+  - ./dict/sougou/sougou_song_dynasty_poem
+  - ./dict/sougou/sougou_tai_chi
+  - ./dict/sougou/sougou_three_characters_idiom
+  - ./dict/sougou/sougou_tour
+  - ./dict/sougou/sougou_traditional_Chinese_medicine
+  - ./dict/sougou/sougou_tree_name
+  - ./dict/sougou/sougou_university_name
+  - ./dict/sougou/sougou_weather
 ...

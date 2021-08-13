@@ -1,0 +1,4124 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - tree_name
+# Source: 搜狗细胞词库「林业树种名词库」
+#
+
+---
+name: sougou_tree_name
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿柏麻属	a bai ma shu	1
+阿米属	a mi shu	1
+阿魏属	a wei shu	1
+矮刺苏属	ai ci su shu	1
+爱地草属	ai di cao shu	1
+艾堇属	ai jin shu	1
+艾麻属	ai ma shu	1
+艾纳香属	ai na xiang shu	1
+矮伞芹属	ai san qin shu	1
+矮生百慕大草	ai sheng bai mu da cao	1
+矮生高羊茅	ai sheng gao yang mao	1
+矮生美人蕉	ai sheng mei ren jiao	1
+矮泽芹属	ai ze qin shu	1
+矮柱兰属	ai zhu lan shu	1
+安旱苋属	an han xian shu	1
+安兰属	an lan shu	1
+安龙花属	an long hua shu	1
+暗罗属	an luo shu	1
+安石榴科	an shi liu ke	1
+安石榴属	an shi liu shu	1
+桉属	an shu	1
+暗叶柳	an ye liu	1
+桉叶藤属	an ye teng shu	1
+凹唇姜属	ao chun jiang shu	1
+凹乳芹属	ao ru qin shu	1
+凹舌兰属	ao she lan shu	1
+澳杨属	ao yang shu	1
+凹叶厚朴	ao ye hou pu	1
+澳洲坚果属	ao zhou jian guo shu	1
+八宝景天	ba bao jing tian	1
+巴豆属	ba dou shu	1
+巴豆藤属	ba dou teng shu	1
+巴戟天属	ba ji tian shu	1
+芭蕉	ba jiao	1
+八角枫	ba jiao feng	1
+八角枫科	ba jiao feng ke	1
+八角枫属	ba jiao feng shu	1
+八角金盘	ba jiao jin pan	1
+八角金盘属	ba jiao jin pan shu	1
+芭蕉科	ba jiao ke	1
+八角科	ba jiao ke	1
+八角莲属	ba jiao lian shu	1
+芭蕉属	ba jiao shu	1
+八角属	ba jiao shu	1
+芭蕾舞美人	ba lei wu mei ren	1
+巴拿马草科	ba na ma cao ke	1
+巴拿马草科环花科	ba na ma cao ke huan hua ke	1
+巴拿马草属	ba na ma cao shu	1
+菝葜	ba qia	1
+八蕊花属	ba rui hua shu	1
+八仙花	ba xian hua	1
+八月瓜属	ba yue gua shu	1
+白苞芹属	bai bao qin shu	1
+白茶树属	bai cha shu shu	1
+白刺	bai ci	1
+白刺菊属	bai ci ju shu	1
+白刺属	bai ci shu	1
+白点兰属	bai dian lan shu	1
+白蝶兰属	bai die lan shu	1
+白丁香	bai ding xiang	1
+白豆杉属	bai dou shan shu	1
+白饭树属	bai fan shu shu	1
+白粉藤属	bai fen teng shu	1
+白鼓丁属	bai gu ding shu	1
+百合科	bai he ke	1
+白鹤灵芝属	bai he ling zhi shu	1
+百合属	bai he shu	1
+白鹤藤属	bai he teng shu	1
+白桦	bai hua	1
+白花菜科	bai hua cai ke	1
+白花菜属	bai hua cai shu	1
+百花蒿属	bai hua hao shu	1
+白花苋属	bai hua xian shu	1
+白芨	bai ji	1
+白及属	bai ji shu	1
+败酱科	bai jiang ke	1
+败酱属	bai jiang shu	1
+白接骨属	bai jie gu shu	1
+百金花属	bai jin hua shu	1
+稗荩属	bai jin shu	1
+白菊木属	bai ju mu shu	1
+白鹃梅属	bai juan mei shu	1
+柏科	bai ke	1
+白蜡	bai la	1
+柏拉木属	bai la mu shu	1
+白腊树	bai la shu	1
+白蜡树属	bai la shu shu	1
+柏蕾荠属	bai lei ji shu	1
+百里香	bai li xiang	1
+百里香属	bai li xiang shu	1
+白蔹	bai lian	1
+白灵菇	bai ling gu	1
+白麻属	bai ma shu	1
+百脉根属	bai mai gen shu	1
+白茅属	bai mao shu	1
+百慕大草	bai mu da cao	1
+柏木属	bai mu shu	1
+白牛子	bai niu zi	1
+白皮松	bai pi song	1
+白杞柳	bai qi liu	1
+白千层属	bai qian ceng shu	1
+白杄云杉	bai qian yun shan	1
+白屈莱属	bai qu lai shu	1
+百日菊属	bai ri ju shu	1
+百蕊草属	bai rui cao shu	1
+白三叶草	bai san ye cao	1
+稗属	bai shu	1
+白树属	bai shu shu	1
+白丝草属	bai si cao shu	1
+白穗花属	bai sui hua shu	1
+白檀山矾	bai tan shan fan	1
+白桐树属	bai tong shu shu	1
+白头翁属	bai tou weng shu	1
+白鲜属	bai xian shu	1
+白颜树属	bai yan shu shu	1
+白叶藤属	bai ye teng shu	1
+白榆	bai yu	1
+白玉兰	bai yu lan	1
+白玉簪	bai yu zan	1
+白珠树属	bai zhu shu shu	1
+百子莲属	bai zi lian shu	1
+半边莲科	ban bian lian ke	1
+半边莲属	ban bian lian shu	1
+半枫荷属	ban feng he shu	1
+绊根草	ban gen cao	1
+半脊荠属	ban ji ji shu	1
+斑鸠菊属	ban jiu ju shu	1
+板蓝属	ban lan shu	1
+板栗	ban li	1
+瓣鳞花科	ban lin hua ke	1
+瓣鳞花属	ban lin hua shu	1
+斑龙芋属	ban long yu shu	1
+斑膜芹属	ban mo qin shu	1
+半日花科	ban ri hua ke	1
+半日花属	ban ri hua shu	1
+半蒴苣苔属	ban shuo ju tai shu	1
+半夏属	ban xia shu	1
+斑叶兰属	ban ye lan shu	1
+斑枝卫矛	ban zhi wei mao	1
+斑种草属	ban zhong cao shu	1
+半柱花属	ban zhu hua shu	1
+斑籽属	ban zi shu	1
+棒柄花属	bang bing hua shu	1
+棒锤瓜属	bang chui gua shu	1
+棒瓜属	bang gua shu	1
+棒果芥属	bang guo jie shu	1
+棒头草属	bang tou cao shu	1
+报春花科	bao chun hua ke	1
+报春花属	bao chun hua shu	1
+报春苣苔属	bao chun ju tai shu	1
+报春茜属	bao chun qian shu	1
+苞护豆属	bao hu dou shu	1
+枹栎	bao li	1
+苞藜属	bao li shu	1
+苞裂芹属	bao lie qin shu	1
+暴马子	bao ma zi	1
+苞茅属	bao mao shu	1
+刨木	bao mu	1
+豹皮花属	bao pi hua shu	1
+苞舌兰属	bao she lan shu	1
+保亭花属	bao ting hua shu	1
+苞叶兰属	bao ye lan shu	1
+苞叶木属	bao ye mu shu	1
+苞叶藤属	bao ye teng shu	1
+豹子花属	bao zi hua shu	1
+杯冠木属	bei guan mu shu	1
+北海道黄杨	bei hai dao huang yang	1
+北极花属	bei ji hua shu	1
+北京丁香	bei jing ding xiang	1
+北京桧柏	bei jing gui bai	1
+北京桧柏球	bei jing gui bai qiu	1
+北京山梅花	bei jing shan mei hua	1
+北京杨	bei jing yang	1
+被菊属	bei ju shu	1
+杯菊属	bei ju shu	1
+贝壳杉属	bei ke shan shu	1
+北美海棠系列	bei mei hai tang xi lie	1
+北美红杉属	bei mei hong shan shu	1
+贝母兰属	bei mu lan shu	1
+贝母属	bei mu shu	1
+倍蕊苔属	bei rui tai shu	1
+杯苋属	bei xian shu	1
+被子植物	bei zi zhi wu	1
+本特一号草	ben te yi hao cao	1
+荸艾属	bi ai shu	1
+笔花豆属	bi hua dou shu	1
+闭花木属	bi hua mu shu	1
+薜荔	bi li	1
+蓖麻属	bi ma shu	1
+荸荠	bi qi	1
+荸荠属	bi qi shu	1
+闭鞘姜属	bi qiao jiang shu	1
+碧桃	bi tao	1
+臂形草属	bi xing cao shu	1
+扁柏属	bian bai shu	1
+扁柄草属	bian bing cao shu	1
+扁担杆属	bian dan gan shu	1
+扁担格子	bian dan ge zi	1
+变豆菜属	bian dou cai shu	1
+藊豆属	bian dou shu	1
+蝙蝠草属	bian fu cao shu	1
+蝙蝠葛属	bian fu ge shu	1
+扁果草属	bian guo cao shu	1
+扁果藤属	bian guo teng shu	1
+扁核木属	bian he mu shu	1
+扁蕾属	bian lei shu	1
+扁芒草属	bian mang cao shu	1
+扁芒菊属	bian mang ju shu	1
+扁蒴苣苔属	bian shuo ju tai shu	1
+扁蒴藤属	bian shuo teng shu	1
+扁穗草属	bian sui cao shu	1
+扁穗莞属	bian sui guan shu	1
+扁莎草属	bian suo cao shu	1
+鞭藤科	bian teng ke	1
+鞭藤属	bian teng shu	1
+变叶木属	bian ye mu shu	1
+扁轴木属	bian zhou mu shu	1
+藨草属	biao cao shu	1
+鳔冠花属	biao guan hua shu	1
+藨寄生属	biao ji sheng shu	1
+杓兰属	biao lan shu	1
+滨菊属	bin ju shu	1
+滨藜属	bin li shu	1
+滨木患属	bin mu huan shu	1
+滨紫草属	bin zi cao shu	1
+冰草属	bing cao shu	1
+柄翅果属	bing chi guo shu	1
+柄唇兰属	bing chun lan shu	1
+冰岛蓼属	bing dao liao shu	1
+兵豆属	bing dou shu	1
+冰防风属	bing fang feng shu	1
+柄果木属	bing guo mu shu	1
+槟榔青属	bing lang qing shu	1
+槟榔属	bing lang shu	1
+菠菜属	bo cai shu	1
+薄稃草属	bo fu cao shu	1
+驳骨草属	bo gu cao shu	1
+薄果草属	bo guo cao shu	1
+薄果荠属	bo guo ji shu	1
+薄荷属	bo he shu	1
+薄核藤属	bo he teng shu	1
+伯乐树科	bo le shu ke	1
+伯乐树属	bo le shu shu	1
+波棱瓜属	bo leng gua shu	1
+玻璃苣属	bo li ju shu	1
+薄鳞菊属	bo lin ju shu	1
+博落回属	bo luo hui shu	1
+薄毛绣线菊	bo mao xiu xian ju	1
+播娘蒿属	bo niang hao shu	1
+波漆属	bo qi shu	1
+薄壳山核桃	bo qiao shan he tao	1
+薄蒴草属	bo shuo cao shu	1
+波喜荡草科	bo xi dang cao ke	1
+波喜荡草属	bo xi dang cao shu	1
+波叶忍冬	bo ye ren dong	1
+薄钟花属	bo zhong hua shu	1
+薄柱草属	bo zhu cao shu	1
+薄竹属	bo zhu shu	1
+捕虫堇属	bu chong jin shu	1
+布袋兰属	bu dai lan shu	1
+补骨脂属	bu gu zhi shu	1
+哺鸡竹	bu ji zhu	1
+补血草属	bu xue cao shu	1
+布渣叶属	bu zha ye shu	1
+菜豆属	cai dou shu	1
+菜豆树属	cai dou shu shu	1
+彩花菰属	cai hua gu shu	1
+菜蓟属	cai ji shu	1
+采木属	cai mu shu	1
+彩叶花木类	cai ye hua mu lei	1
+蚕豆属	can dou shu	1
+藏百合属	cang bai he shu	1
+藏豆属	cang dou shu	1
+苍耳属	cang er shu	1
+藏瓜属	cang gua shu	1
+藏花忍冬	cang hua ren dong	1
+藏荠属	cang ji shu	1
+藏芥属	cang jie shu	1
+藏菊属	cang ju shu	1
+藏榄属	cang lan shu	1
+藏瓦莲属	cang wa lian shu	1
+苍术属	cang zhu shu	1
+糙草属	cao cao shu	1
+草苁蓉属	cao cong rong shu	1
+草菇	cao gu	1
+草海桐科	cao hai tong ke	1
+草海桐属	cao hai tong shu	1
+草胡椒属	cao hu jiao shu	1
+草莓果冻海棠	cao mei guo dong hai tang	1
+草莓属	cao mei shu	1
+草棉属	cao mian shu	1
+草木犀属	cao mu xi shu	1
+草沙蚕属	cao sha can shu	1
+草珊瑚属	cao shan hu shu	1
+槽舌兰属	cao she lan shu	1
+糙苏属	cao su shu	1
+草绣球属	cao xiu qiu shu	1
+糙叶树属	cao ye shu shu	1
+草茱萸属	cao zhu yu shu	1
+侧柏	ce bai	1
+侧柏属	ce bai shu	1
+侧金盏花属	ce jin zhan hua shu	1
+侧蕊属	ce rui shu	1
+箣柊属	ce zhong shu	1
+箣竹属	ce zhu shu	1
+茶藨子属	cha biao zi shu	1
+茶秆竹属	cha gan zhu shu	1
+叉喙兰属	cha hui lan shu	1
+茶科	cha ke	1
+茶梨属	cha li shu	1
+茶菱属	cha ling shu	1
+茶鹿子科	cha lu zi ke	1
+叉毛蓬属	cha mao peng shu	1
+茶梅	cha mei	1
+檫木属	cha mu shu	1
+茶属	cha shu	1
+茶条木属	cha tiao mu shu	1
+茶条槭	cha tiao qi	1
+茶新菇	cha xin gu	1
+叉序草属	cha xu cao shu	1
+叉叶蓝属	cha ye lan shu	1
+叉柱花属	cha zhu hua shu	1
+叉柱兰属	cha zhu lan shu	1
+茶茱萸科	cha zhu yu ke	1
+柴胡属	chai hu shu	1
+柴龙树属	chai long shu shu	1
+钗子股属	chai zi gu shu	1
+蝉翼藤属	chan yi teng shu	1
+长白茶藨子	chang bai cha biao zi	1
+长白落叶松	chang bai luo ye song	1
+长白忍冬	chang bai ren dong	1
+长柄侧耳	chang bing ce er	1
+长柄荚属	chang bing jia shu	1
+长柄芥属	chang bing jie shu	1
+长柄山蚂蝗属	chang bing shan ma huang shu	1
+长春花属	chang chun hua shu	1
+常春木属	chang chun mu shu	1
+常春藤	chang chun teng	1
+常春藤属	chang chun teng shu	1
+长隔木属	chang ge mu shu	1
+长梗郁李	chang geng yu li	1
+长冠苣苔属	chang guan ju tai shu	1
+长果姜属	chang guo jiang shu	1
+长喙兰属	chang hui lan shu	1
+长节珠属	chang jie zhu shu	1
+常绿类	chang lv lei	1
+菖蒲属	chang pu shu	1
+长蕊琉璃草属	chang rui liu li cao shu	1
+长蕊木兰属	chang rui mu lan shu	1
+长蕊青兰属	chang rui qing lan shu	1
+常山属	chang shan shu	1
+长舌蓍属	chang she shi shu	1
+长生草属	chang sheng cao shu	1
+长蒴苣苔属	chang shuo ju tai shu	1
+长穗花属	chang sui hua shu	1
+长穗马蓝属	chang sui ma lan shu	1
+常夏石竹	chang xia shi zhu	1
+肠须草属	chang xu cao shu	1
+长柱琉璃草属	chang zhu liu li cao shu	1
+长柱山丹属	chang zhu shan dan shu	1
+长足兰属	chang zu lan shu	1
+朝鲜丁香	chao xian ding xiang	1
+朝鲜黄杨	chao xian huang yang	1
+朝鲜柳	chao xian liu	1
+朝鲜山茱萸	chao xian shan zhu yu	1
+朝鲜鼠李	chao xian shu li	1
+朝鲜鱼鳞松	chao xian yu lin song	1
+朝鲜越桔	chao xian yue ju	1
+朝鲜栀子花	chao xian zhi zi hua	1
+车梁木	che liang mu	1
+车前草科	che qian cao ke	1
+车前草属	che qian cao shu	1
+车前紫草属	che qian zi cao shu	1
+车叶草属	che ye cao shu	1
+车轴草属	che zhou cao shu	1
+沉香属	chen xiang shu	1
+秤钩风属	cheng gou feng shu	1
+澄广花属	cheng guang hua shu	1
+柽柳	cheng liu	1
+柽柳科	cheng liu ke	1
+柽柳属	cheng liu shu	1
+赪桐属	cheng tong shu	1
+赤壁草属	chi bi cao shu	1
+赤瓟属	chi bo shu	1
+赤才属	chi cai shu	1
+赤苍藤属	chi cang teng shu	1
+赤车属	chi che shu	1
+齿唇兰属	chi chun lan shu	1
+匙唇兰属	chi chun lan shu	1
+翅春榆	chi chun yu	1
+齿稃草属	chi fu cao shu	1
+匙羹藤属	chi geng teng shu	1
+齿冠草属	chi guan cao shu	1
+齿果草属	chi guo cao shu	1
+翅果蓼属	chi guo liao shu	1
+翅果麻属	chi guo ma shu	1
+翅果藤属	chi guo teng shu	1
+翅鹤虱属	chi he shi shu	1
+匙荠属	chi ji shu	1
+翅荚木属	chi jia mu shu	1
+赤箭莎属	chi jian sha shu	1
+翅棱芹属	chi leng qin shu	1
+齿鳞草属	chi lin cao shu	1
+翅鳞莎属	chi lin sha shu	1
+池杉	chi shan	1
+翅实藤属	chi shi teng shu	1
+赤松	chi song	1
+赤杨	chi yang	1
+赤杨属	chi yang shu	1
+匙叶草属	chi ye cao shu	1
+翅叶木属	chi ye mu shu	1
+翅子瓜属	chi zi gua shu	1
+翅子藤科	chi zi teng ke	1
+翅子藤属	chi zi teng shu	1
+虫豆属	chong dou shu	1
+重楼属	chong lou shu	1
+虫实属	chong shi shu	1
+重阳木	chong yang mu	1
+重阳木属	chong yang mu shu	1
+臭草属	chou cao shu	1
+臭常山属	chou chang shan shu	1
+臭椿	chou chun	1
+稠李	chou li	1
+臭松	chou song	1
+臭松属	chou song shu	1
+臭樱属	chou ying shu	1
+雏菊属	chu ju shu	1
+楮树	chu shu	1
+船唇兰属	chuan chun lan shu	1
+串果藤属	chuan guo teng shu	1
+川蔓藻科	chuan man zao ke	1
+川蔓藻属	chuan man zao shu	1
+川明参属	chuan ming can shu	1
+川木香属	chuan mu xiang shu	1
+穿鞘花属	chuan qiao hua shu	1
+川苔草科	chuan tai cao ke	1
+川苔草属	chuan tai cao shu	1
+穿心草属	chuan xin cao shu	1
+穿心莲属	chuan xin lian shu	1
+川续断科	chuan xu duan ke	1
+川续断属	chuan xu duan shu	1
+川藻属	chuan zao shu	1
+槌果藤属	chui guo teng shu	1
+垂柳	chui liu	1
+垂丝海棠	chui si hai tang	1
+垂头菊属	chui tou ju shu	1
+垂枝梅	chui zhi mei	1
+垂枝桃	chui zhi tao	1
+垂枝榆	chui zhi yu	1
+槌柱兰属	chui zhu lan shu	1
+莼菜	chun cai	1
+莼菜科	chun cai ke	1
+莼菜属	chun cai shu	1
+唇萼苣苔属	chun e ju tai shu	1
+春黄菊属	chun huang ju shu	1
+春鹃	chun juan	1
+唇兰属	chun lan shu	1
+唇形科	chun xing ke	1
+春雪海棠	chun xue hai tang	1
+春榆	chun yu	1
+唇柱苣苔属	chun zhu ju tai shu	1
+刺柏球	ci bai qiu	1
+刺柏属	ci bai shu	1
+刺苞果属	ci bao guo shu	1
+刺苞术属	ci bao shu shu	1
+刺儿菜属	ci er cai shu	1
+慈姑	ci gu	1
+慈姑属	ci gu shu	1
+刺冠菊属	ci guan ju shu	1
+刺果茶藨子	ci guo cha biao zi	1
+刺果芹属	ci guo qin shu	1
+刺果树属	ci guo shu shu	1
+刺核藤属	ci he teng shu	1
+刺槐	ci huai	1
+刺槐属	ci huai shu	1
+刺矶松属	ci ji song shu	1
+刺葵属	ci kui shu	1
+刺榄属	ci lan shu	1
+刺篱木属	ci li mu shu	1
+刺鳞草科	ci lin cao ke	1
+刺鳞草属	ci lin cao shu	1
+刺龙牙	ci long ya	1
+刺锚草属	ci mao cao shu	1
+刺茉莉科	ci mo li ke	1
+刺茉莉属	ci mo li shu	1
+刺芹属	ci qin shu	1
+刺楸	ci qiu	1
+刺楸属	ci qiu shu	1
+刺蕊草属	ci rui cao shu	1
+刺蒴麻属	ci shuo ma shu	1
+刺桐属	ci tong shu	1
+刺头菊属	ci tou ju shu	1
+刺五加	ci wu jia	1
+慈孝竹	ci xiao zhu	1
+刺续断属	ci xu duan shu	1
+刺叶南蛇藤	ci ye nan she teng	1
+刺叶属	ci ye shu	1
+刺罂粟属	ci ying su shu	1
+刺榆	ci yu	1
+刺芋属	ci yu shu	1
+刺榆属	ci yu shu	1
+茨藻科	ci zao ke	1
+茨藻属	ci zao shu	1
+刺枝豆属	ci zhi dou shu	1
+刺子莞属	ci zi guan shu	1
+丛菔属	cong fu shu	1
+葱芥属	cong jie shu	1
+葱兰	cong lan	1
+楤木属	cong mu shu	1
+丛生福禄考	cong sheng fu lu kao	1
+葱属	cong shu	1
+葱叶兰属	cong ye lan shu	1
+簇花芹属	cu hua qin shu	1
+簇芥属	cu jie shu	1
+簇毛槭	cu mao qi	1
+粗毛藤属	cu mao teng shu	1
+粗丝木属	cu si mu shu	1
+簇序草属	cu xu cao shu	1
+粗叶木属	cu ye mu shu	1
+翠柏	cui bai	1
+翠柏球	cui bai qiu	1
+翠柏属	cui bai shu	1
+翠菊属	cui ju shu	1
+脆兰属	cui lan shu	1
+翠雀属	cui que shu	1
+大百合属	da bai he shu	1
+大白柳	da bai liu	1
+大苞寄生属	da bao ji sheng shu	1
+大苞姜属	da bao jiang shu	1
+大苞兰属	da bao lan shu	1
+大苞鞘花属	da bao qiao hua shu	1
+大参属	da can shu	1
+大翅蓟属	da chi ji shu	1
+大翅卫矛	da chi wei mao	1
+大丁草属	da ding cao shu	1
+大豆蔻属	da dou kou shu	1
+大豆属	da dou shu	1
+大萼葵属	da e kui shu	1
+大风子科	da feng zi ke	1
+大风子属	da feng zi shu	1
+大果五加属	da guo wu jia shu	1
+大合欢属	da he huan shu	1
+大胡椒属	da hu jiao shu	1
+大花草科	da hua cao ke	1
+大花秋葵	da hua qiu kui	1
+大花溲疏	da hua sou shu	1
+大花藤属	da hua teng shu	1
+大花萱草	da hua xuan cao	1
+大花月季	da hua yue ji	1
+大花醉鱼草	da hua zui yu cao	1
+大黄柳	da huang liu	1
+大黄属	da huang shu	1
+大戟科	da ji ke	1
+大戟属	da ji shu	1
+大节竹属	da jie zhu shu	1
+大丽花属	da li hua shu	1
+大麻科	da ma ke	1
+大麻属	da ma shu	1
+大麦属	da mai shu	1
+大米草属	da mi cao shu	1
+大漂属	da piao shu	1
+大青杨	da qing yang	1
+大沙叶属	da sha ye shu	1
+大山樱花	da shan ying hua	1
+大蒜芥属	da suan jie shu	1
+大头茶属	da tou cha shu	1
+打碗花属	da wan hua shu	1
+大吴风草	da wu feng cao	1
+大吴风草属	da wu feng cao shu	1
+大血藤科	da xue teng ke	1
+大血藤属	da xue teng shu	1
+大叶垂榆	da ye chui yu	1
+大叶海菜花	da ye hai cai hua	1
+大叶槲栎	da ye hu li	1
+大叶华北绣线菊	da ye hua bei xiu xian ju	1
+大叶黄杨	da ye huang yang	1
+大叶黄杨球	da ye huang yang qiu	1
+大叶朴	da ye pu	1
+大叶鼠李	da ye shu li	1
+大叶藤属	da ye teng shu	1
+大叶小檗	da ye xiao bo	1
+大叶藻科	da ye zao ke	1
+大叶藻属	da ye zao shu	1
+大叶钻天杨	da ye zuan tian yang	1
+大叶柞	da ye zuo	1
+大油芒属	da you mang shu	1
+大枣	da zao	1
+大爪草属	da zhao cao shu	1
+大钟花属	da zhong hua shu	1
+大柱藤属	da zhu teng shu	1
+大字香	da zi xiang	1
+袋唇兰属	dai chun lan shu	1
+带唇兰属	dai chun lan shu	1
+代儿茶属	dai er cha shu	1
+戴星草属	dai xing cao shu	1
+带叶兰属	dai ye lan shu	1
+单瓣茶花	dan ban cha hua	1
+单瓣红花油茶花	dan ban hong hua you cha hua	1
+单侧花属	dan ce hua shu	1
+单刺蓬属	dan ci peng shu	1
+丹桂	dan gui	1
+萏雷草属	dan lei cao shu	1
+丹麦草	dan mai cao	1
+单球芹属	dan qiu qin shu	1
+单蕊草属	dan rui cao shu	1
+单蕊麻属	dan rui ma shu	1
+单室茱萸属	dan shi zhu yu shu	1
+单性木兰属	dan xing mu lan shu	1
+单叶豆属	dan ye dou shu	1
+单叶藤桔属	dan ye teng ju shu	1
+淡竹	dan zhu	1
+淡竹叶属	dan zhu ye shu	1
+当归属	dang gui shu	1
+党参属	dang shen shu	1
+稻槎菜属	dao cha cai shu	1
+倒地铃属	dao di ling shu	1
+倒吊笔属	dao diao bi shu	1
+刀豆属	dao dou shu	1
+倒挂金钟属	dao gua jin zhong shu	1
+稻属	dao shu	1
+倒提壶属	dao ti hu shu	1
+倒缨木属	dao ying mu shu	1
+德国景天	de guo jing tian	1
+德国鸢尾	de guo yuan wei	1
+灯台树	deng tai shu	1
+灯心草	deng xin cao	1
+灯心草科	deng xin cao ke	1
+灯心草属	deng xin cao shu	1
+地宝兰属	di bao lan shu	1
+地被菊	di bei ju	1
+地胆草属	di dan cao shu	1
+地肤属	di fu shu	1
+地构叶属	di gou ye shu	1
+地桂属	di gui shu	1
+地黄连属	di huang lian zhu	1
+第伦桃科	di lun tao ke	1
+第伦桃科五丫果科	di lun tao ke wu ya guo ke	1
+第伦桃属	di lun tao shu	1
+地蔷薇属	di qiang wei shu	1
+地笋属	di sun shu	1
+地毯草属	di tan cao shu	1
+棣棠	di tang	1
+棣棠花	di tang hua	1
+棣棠属	di tang shu	1
+地杨梅属	di yang mei shu	1
+地杨桃属	di yang tao shu	1
+地涌金莲属	di yong jin lian shu	1
+地榆属	di yu shu	1
+点柄粘盖牛肝菌	dian bing zhan gai niu gan jun	1
+滇赤才属	dian chi cai shu	1
+电灯花属	dian deng hua shu	1
+点地梅属	dian di mei shu	1
+滇丁香属	dian ding xiang shu	1
+滇黄芩属	dian huang qin shu	1
+滇兰属	dian lan shu	1
+滇芹属	dian qin shu	1
+滇桐属	dian tong shu	1
+滇芎属	dian xiong shu	1
+滇竹属	dian zhu shu	1
+垫紫草属	dian zi cao shu	1
+滇紫草属	dian zi cao shu	1
+吊灯花属	diao deng hua shu	1
+吊灯树属	diao deng shu shu	1
+吊兰属	diao lan shu	1
+吊石苣苔属	diao shi ju tai shu	1
+凋缨菊属	diao ying ju shu	1
+吊钟花属	diao zhong hua shu	1
+蝶豆属	die dou shu	1
+蝶兰属	die lan shu	1
+蝶形花科	die xing hua ke	1
+蝶须属	die xu shu	1
+顶冰花属	ding bing hua shu	1
+丁公藤属	ding gong teng shu	1
+丁癸草属	ding gui cao shu	1
+顶果树属	ding guo shu shu	1
+丁茜属	ding qian shu	1
+钉头果属	ding tou guo shu	1
+丁香	ding xiang	1
+丁香蓼属	ding xiang liao shu	1
+丁香属	ding xiang shu	1
+顶羽菊属	ding yu ju shu	1
+丁座草属	ding zuo cao shu	1
+东北扁核木	dong bei bian he mu	1
+东北茶藨子	dong bei cha biao zi	1
+东北刺人参	dong bei ci ren can	1
+东北接骨木	dong bei jie gu mu	1
+东北雷公藤	dong bei lei gong teng	1
+东北连翘	dong bei lian qiao	1
+东北木蓼	dong bei mu liao	1
+东北山梅花	dong bei shan mei hua	1
+东北鼠李	dong bei shu li	1
+东北溲疏	dong bei sou shu	1
+东北杏	dong bei xing	1
+东北柞	dong bei zuo	1
+东风菜属	dong feng cai shu	1
+东谷芹属	dong gu qin shu	1
+冬瓜属	dong gua shu	1
+冬红花属	dong hong hua shu	1
+东京桐属	dong jing tong shu	1
+冬麻豆属	dong ma dou shu	1
+冬青科	dong qing ke	1
+冬青属	dong qing shu	1
+动蕊花属	dong rui hua shu	1
+苳叶科	dong ye ke	1
+苳叶属	dong ye shu	1
+东爪草属	dong zhao cao shu	1
+豆瓣菜属	dou ban cai shu	1
+兜被兰属	dou bei lan shu	1
+豆腐柴属	dou fu chai shu	1
+豆科	dou ke	1
+豆蔻属	dou kou shu	1
+兜兰属	dou lan shu	1
+都丽菊属	dou li ju shu	1
+兜藜属	dou li shu	1
+豆列当属	dou lie dang shu	1
+兜蕊兰属	dou rui lan shu	1
+豆薯属	dou shu shu	1
+毒参属	du can shu	1
+毒豆属	du dou shu	1
+杜根藤属	du gen teng shu	1
+毒瓜属	du gua shu	1
+独花报春属	du hua bao chun shu	1
+独花兰属	du hua lan shu	1
+独活属	du huo shu	1
+杜茎山属	du jing shan shu	1
+杜鹃花科	du juan hua ke	1
+杜鹃花属	du juan hua shu	1
+杜鹃兰属	du juan lan shu	1
+杜梨	du li	1
+独丽花属	du li hua shu	1
+杜楝属	du lian shu	1
+度量草属	du liang cao shu	1
+毒马草属	du ma cao shu	1
+毒麦属	du mai shu	1
+毒芹属	du qin shu	1
+杜若属	du ruo shu	1
+毒鼠子科	du shu zi ke	1
+毒鼠子属	du shu zi shu	1
+杜松	du song	1
+独蒜兰属	du suan lan shu	1
+独尾草属	du wei cao shu	1
+独行菜属	du xing cai shu	1
+独叶草属	du ye cao shu	1
+独一味属	du yi wei shu	1
+杜英	du ying	1
+杜英科	du ying ke	1
+杜英属	du ying shu	1
+杜仲	du zhong	1
+杜仲科	du zhong ke	1
+杜仲属	du zhong shu	1
+杜仲藤属	du zhong teng shu	1
+独子藤属	du zi teng shu	1
+短瓣兰属	duan ban lan shu	1
+短瓣石竹属	duan ban shi zhu shu	1
+短柄草属	duan bing cao shu	1
+短萼齿木属	duan e chi mu shu	1
+断节莎草属	duan jie suo cao shu	1
+短舌菊属	duan she ju shu	1
+椴树科	duan shu ke	1
+椴树属	duan shu shu	1
+短穗竹属	duan sui zhu shu	1
+短筒苣苔属	duan tong ju tai shu	1
+短星菊属	duan xing ju shu	1
+短序胡枝子	duan xu hu zhi zi	1
+短序花属	duan xu hua shu	1
+短檐苣苔属	duan yan ju tai shu	1
+短颖草属	duan ying cao shu	1
+对刺藤属	dui ci teng shu	1
+对节刺属	dui jie ci shu	1
+对穗草属	dui sui cao shu	1
+堆心菊属	dui xin ju shu	1
+对叶兰属	dui ye lan shu	1
+对叶盐蓬属	dui ye yan peng shu	1
+盾苞藤属	dun bao teng shu	1
+钝背草属	dun bei cao shu	1
+盾翅果属	dun chi guo shu	1
+盾果草属	dun guo cao shu	1
+钝果寄生属	dun guo ji sheng shu	1
+钝叶草属	dun ye cao shu	1
+盾柱木属	dun zhu mu shu	1
+盾柱卫矛属	dun zhu wei mao shu	1
+盾座苣苔属	dun zuo ju tai shu	1
+多瓣核果茶属	duo ban he guo cha shu	1
+多核果属	duo he guo shu	1
+多花胡枝子	duo hua hu zhi zi	1
+多荚草属	duo jia cao shu	1
+多榔菊属	duo lang ju shu	1
+多蕊木属	duo rui mu shu	1
+多穗兰属	duo sui lan shu	1
+多香木属	duo xiang mu shu	1
+多裔黍属	duo yi shu shu	1
+多枝苦荬菜属	duo zhi ku mai cai shu	1
+鹅不食草属	e bu shi cao shu	1
+峨参属	e can shu	1
+鹅肠菜属	e chang cai shu	1
+鹅耳枥	e er li	1
+鹅耳枥属	e er li shu	1
+鹅观草属	e guan cao shu	1
+萼距花属	e ju hua shu	1
+鳄咀花属	e ju hua shu	1
+遏蓝菜属	e lan cai shu	1
+鳄梨属	e li shu	1
+鹅绒藤属	e rong teng shu	1
+鹅掌柴属	e zhang chai shu	1
+鹅掌楸	e zhang qiu	1
+鹅掌楸属	e zhang qiu shu	1
+耳草属	er cao shu	1
+耳唇兰属	er chun lan shu	1
+二行芥属	er hang jie shu	1
+二花六道木	er hua liu dao mu	1
+二节豆属	er jie dou shu	1
+二乔玉兰	er qiao yu lan	1
+二台枸骨球	er tai gou gu qiu	1
+二尾兰属	er wei lan shu	1
+耳药花属	er yao hua shu	1
+二药藻属	er yao zao shu	1
+耳叶爵床属	er ye jue chuang shu	1
+发草属	fa cao shu	1
+法国梧桐	fa guo wu tong	1
+法桐	fa tong	1
+反唇兰属	fan chun lan shu	1
+翻唇兰属	fan chun lan shu	1
+番红花属	fan hong hua shu	1
+番荔枝科	fan li zhi ke	1
+番荔枝属	fan li zhi shu	1
+番龙眼属	fan long yan shu	1
+繁缕属	fan lv shu	1
+番木瓜科	fan mu gua ke	1
+番木瓜属	fan mu gua shu	1
+番石榴属	fan shi liu shu	1
+番薯属	fan shu shu	1
+梵天花属	fan tian hua shu	1
+番杏科	fan xing ke	1
+番杏属	fan xing shu	1
+番樱桃属	fan ying tao shu	1
+防风属	fang feng shu	1
+防已科	fang yi ke	1
+方竹属	fang zhu shu	1
+肺草属	fei cao shu	1
+飞蛾藤属	fei e teng shu	1
+肥根兰属	fei gen lan shu	1
+飞廉属	fei lian shu	1
+飞龙掌血属	fei long zhang xue shu	1
+肥牛木属	fei niu mu shu	1
+飞蓬属	fei peng shu	1
+榧树	fei shu	1
+榧树属	fei shu shu	1
+飞燕草属	fei yan cao shu	1
+飞鸢果属	fei yuan guo shu	1
+肥皂草属	fei zao cao shu	1
+非洲楝属	fei zhou lian shu	1
+非洲凌霄属	fei zhou ling xiao shu	1
+菲柞属	fei zuo shu	1
+粉苞苣属	fen bao ju shu	1
+粉花凌霄属	fen hua ling xiao shu	1
+粉花麦李	fen hua mai li	1
+粉口兰属	fen kou lan shu	1
+粉绿藤属	fen lv teng shu	1
+粉条儿菜属	fen tiao er cai shu	1
+分药花属	fen yao hua shu	1
+粉枝柳	fen zhi liu	1
+风车藤属	feng che teng shu	1
+蜂出巢属	feng chu chao shu	1
+风吹楠属	feng chui nan shu	1
+风吹萧属	feng chui xiao shu	1
+蜂斗菜属	feng dou cai shu	1
+蜂斗草属	feng dou cao shu	1
+丰花草属	feng hua cao shu	1
+丰花月季	feng hua yue ji	1
+凤凰木属	feng huang mu shu	1
+风兰属	feng lan shu	1
+凤梨科	feng li ke	1
+凤梨属	feng li shu	1
+风铃草属	feng ling cao shu	1
+风龙属	feng long shu	1
+风轮菜属	feng lun cai shu	1
+风轮桐属	feng lun tong shu	1
+风毛菊属	feng mao ju shu	1
+凤头黍属	feng tou shu shu	1
+凤尾竹	feng wei zhu	1
+凤仙花科	feng xian hua ke	1
+凤仙花属	feng xian hua shu	1
+枫香	feng xiang	1
+风箱果属	feng xiang guo shu	1
+枫香属	feng xiang shu	1
+风箱树属	feng xiang shu shu	1
+风信子属	feng xin zi shu	1
+凤眼蓝属	feng yan lan shu	1
+枫杨	feng yang	1
+枫杨属	feng yang shu	1
+蜂腰兰属	feng yao lan shu	1
+佛肚苣苔属	fo du ju tai shu	1
+佛手瓜属	fo shou gua shu	1
+附地菜属	fu di cai shu	1
+扶芳藤	fu fang teng	1
+富贵草属	fu gui cao shu	1
+辐花属	fu hua shu	1
+福建柏属	fu jian bai shu	1
+馥兰属	fu lan shu	1
+茯苓	fu ling	1
+复芒菊属	fu mang ju shu	1
+富宁藤属	fu ning teng shu	1
+浮萍科	fu ping ke	1
+浮萍属	fu ping shu	1
+腹脐草属	fu qi cao shu	1
+拂子茅属	fu zi mao shu	1
+盖裂木属	gai lie mu shu	1
+甘草属	gan cao shu	1
+干果木属	gan guo mu shu	1
+干花豆属	gan hua dou shu	1
+橄榄科	gan lan ke	1
+橄榄属	gan lan shu	1
+柑属	gan shu	1
+甘松香属	gan song xiang shu	1
+感应草属	gan ying cao shu	1
+甘蔗属	gan zhe shu	1
+杠柳	gang liu	1
+刚毛药花属	gang mao yao hua shu	1
+岗松属	gang song shu	1
+刚竹	gang zhu	1
+藁本属	gao ben shu	1
+高河菜属	gao he cai shu	1
+高粱属	gao liang shu	1
+高山豆属	gao shan dou shu	1
+高山漆姑草属	gao shan qi gu cao shu	1
+高山芹属	gao shan qin shu	1
+高羊茅	gao yang mao	1
+高原芥属	gao yuan jie shu	1
+高原之火海棠	gao yuan zhi huo hai tang	1
+革苞菊属	ge bao ju shu	1
+戈壁藜属	ge bi li shu	1
+割鸡芒属	ge ji mang shu	1
+隔距兰属	ge ju lan shu	1
+格兰马草属	ge lan ma cao shu	1
+葛缕子属	ge lv zi shu	1
+格木属	ge mu shu	1
+哥纳香属	ge na xiang shu	1
+割舌树属	ge she shu shu	1
+葛属	ge shu	1
+隔蒴苘属	ge shuo qing shu	1
+葛藤	ge teng	1
+革叶荠属	ge ye ji shu	1
+葛枣子	ge zao zi	1
+弓果黍属	gong guo shu shu	1
+弓果藤	gong guo teng	1
+珙桐科	gong tong ke	1
+珙桐属	gong tong shu	1
+沟瓣木属	gou ban mu shu	1
+钩豆属	gou dou shu	1
+钩萼草属	gou e cao shu	1
+勾儿茶属	gou er cha shu	1
+沟繁缕科	gou fan lv ke	1
+沟繁缕属	gou fan lv shu	1
+钩粉草属	gou fen cao shu	1
+沟稃草属	gou fu cao shu	1
+狗肝菜属	gou gan cai shu	1
+枸骨	gou gu	1
+狗骨柴属	gou gu chai shu	1
+枸骨球	gou gu qiu	1
+狗筋蔓属	gou jin man shu	1
+钩毛草属	gou mao cao shu	1
+钩毛果属	gou mao guo shu	1
+枸杞	gou qi	1
+构属	gou shu	1
+构树	gou shu	1
+钩藤属	gou teng shu	1
+狗哇花属	gou wa hua shu	1
+狗尾草属	gou wei cao shu	1
+狗牙根属	gou ya gen shu	1
+狗牙花属	gou ya hua shu	1
+钩叶藤属	gou ye teng shu	1
+沟颖草属	gou ying cao shu	1
+狗枣子	gou zao zi	1
+钩枝藤科	gou zhi teng ke	1
+钩枝藤属	gou zhi teng shu	1
+沟子荠属	gou zi ji shu	1
+钩子木属	gou zi mu shu	1
+古当归属	gu dang gui shu	1
+谷精草科	gu jing cao ke	1
+谷精草属	gu jing cao shu	1
+古柯科	gu ke ke	1
+古柯属	gu ke shu	1
+谷木属	gu mu shu	1
+固沙草属	gu sha cao shu	1
+古山龙属	gu shan long shu	1
+菰属	gu shu	1
+瓜馥木属	gua fu mu shu	1
+栝楼属	gua lou shu	1
+寡毛菊属	gua mao ju shu	1
+瓜叶菊属	gua ye ju shu	1
+瓜子黄杨	gua zi huang yang	1
+瓜子黄杨球	gua zi huang yang qiu	1
+冠唇花属	guan chun hua shu	1
+管唇兰属	guan chun lan shu	1
+关东丁香	guan dong ding xiang	1
+冠盖藤属	guan gai teng shu	1
+观光木属	guan guang mu shu	1
+冠果草属	guan guo cao shu	1
+管花兰属	guan hua lan shu	1
+冠芒草属	guan mang cao shu	1
+冠毛草属	guan mao cao shu	1
+广东万年青属	guang dong wan nian qing shu	1
+光萼溲疏	guang e sou shu	1
+广防风属	guang fang feng shu	1
+桄榔属	guang lang shu	1
+广叶参属	guang ye can shu	1
+光叶榉	guang ye ju	1
+广玉兰	guang yu lan	1
+桧柏	gui bai	1
+龟背竹属	gui bei zhu shu	1
+龟甲冬青	gui jia dong qing	1
+桂木属	gui mu shu	1
+鬼针草属	gui zhen cao shu	1
+桂竹香属	gui zhu xiang shu	1
+国槐	guo huai	1
+过江藤属	guo jiang teng shu	1
+过路黄	guo lu huang	1
+果梅	guo mei	1
+果石榴	guo shi liu	1
+果树类	guo shu lei	1
+海岸桐属	hai an tong shu	1
+海滨木槿	hai bin mu jin	1
+海滨莎属	hai bin sha shu	1
+海菖蒲属	hai chang pu shu	1
+海岛藤属	hai dao teng shu	1
+孩儿参属	hai er can shu	1
+孩儿草属	hai er cao shu	1
+海红豆属	hai hong dou shu	1
+海榄雌属	hai lan ci shu	1
+海马齿属	hai ma chi shu	1
+海杧果属	hai mang guo shu	1
+海南椴属	hai nan duan shu	1
+海葡萄属	hai pu tao shu	1
+海漆属	hai qi shu	1
+海乳草属	hai ru cao shu	1
+海檀木属	hai tan mu shu	1
+海棠果	hai tang guo	1
+海桐	hai tong	1
+海桐花科	hai tong hua ke	1
+海桐花属	hai tong hua shu	1
+海桐球	hai tong qiu	1
+海罂粟属	hai ying su shu	1
+海芋属	hai yu shu	1
+海州常山	hai zhou chang shan	1
+蔊菜属	han cai shu	1
+旱垂柳	han chui liu	1
+旱花属	han hua shu	1
+旱金莲科	han jin lian ke	1
+旱柳	han liu	1
+旱麦草属	han mai cao shu	1
+寒蓬属	han peng shu	1
+旱伞草	han san cao	1
+汉松科	han song ke	1
+含笑	han xiao	1
+含笑属	han xiao shu	1
+含羞草科	han xiu cao ke	1
+含羞草属	han xiu cao shu	1
+寒原荠属	han yuan ji shu	1
+蒿柳	hao liu	1
+蒿属	hao shu	1
+河八王属	he ba wang shu	1
+合苞菊属	he bao ju shu	1
+荷包牡丹科	he bao mu dan ke	1
+荷包牡丹科紫堇科	he bao mu dan ke zi jin ke	1
+荷包牡丹属	he bao mu dan shu	1
+荷包藤属	he bao teng shu	1
+禾本科	he ben ke	1
+鹤顶兰属	he ding lan shu	1
+核果茶属	he guo cha shu	1
+合果含笑属	he guo han xiao shu	1
+核果木属	he guo mu shu	1
+盒果藤属	he guo teng shu	1
+荷花	he hua	1
+合欢	he huan	1
+合欢草属	he huan cao shu	1
+合欢属	he huan shu	1
+荷兰菊	he lan ju	1
+荷莲豆属	he lian dou shu	1
+褐鳞木属	he lin mu shu	1
+合萌属	he meng shu	1
+河南桧	he nan gui	1
+河南桧柏球	he nan gui bai qiu	1
+荷青花属	he qing hua shu	1
+鹤虱属	he shi shu	1
+核桃	he tao	1
+合头草属	he tou cao shu	1
+合头菊属	he tou ju shu	1
+禾叶兰属	he ye lan shu	1
+合叶子属	he ye zi shu	1
+貉藻属	he zao shu	1
+合柱兰属	he zhu lan shu	1
+合子草属	he zi cao shu	1
+核子木属	he zi mu shu	1
+黑钩叶	hei gou ye	1
+黑钩叶属	hei gou ye shu	1
+黑桦	hei hua	1
+黑麦草	hei mai cao	1
+黑麦属	hei mai shu	1
+黑鳗藤属	hei man teng shu	1
+黑面神属	hei mian shen shu	1
+黑木耳	hei mu er	1
+黑松	hei song	1
+黑莎草属	hei suo cao shu	1
+黑杨	hei yang	1
+黑榆	hei yu	1
+黑藻属	hei zao shu	1
+黑种草属	hei zhong cao shu	1
+横蒴苣苔属	heng shuo ju tai shu	1
+红宝石海棠	hong bao shi hai tang	1
+红葱属	hong cong shu	1
+红丁香	hong ding xiang	1
+红豆杉科	hong dou shan ke	1
+红豆杉属	hong dou shan shu	1
+红豆属	hong dou shu	1
+红枫	hong feng	1
+红菇	hong gu	1
+红瓜属	hong gua shu	1
+红光树属	hong guang shu shu	1
+红果冬青	hong guo dong qing	1
+红果海棠	hong guo hai tang	1
+红果山楂	hong guo shan zha	1
+红果树属	hong guo shu shu	1
+红厚壳属	hong hou ke shu	1
+红槲栎	hong hu li	1
+红花荷属	hong hua he shu	1
+红花继木	hong hua ji mu	1
+红花继木球	hong hua ji mu qiu	1
+红花金丝桃属	hong hua jin si tao shu	1
+红花麦李	hong hua mai li	1
+红花木莲	hong hua mu lian	1
+红花属	hong hua shu	1
+红花酢浆草	hong hua zuo jiang cao	1
+红胶木属	hong jiao mu shu	1
+红景天属	hong jing tian shu	1
+红丽海棠	hong li hai tang	1
+红毛草属	hong mao cao shu	1
+红毛七属	hong mao qi shu	1
+红帽子月季	hong mao zi yue ji	1
+红梅	hong mei	1
+红玫瑰	hong mei gui	1
+红门兰属	hong men lan shu	1
+红木科	hong mu ke	1
+红木属	hong mu shu	1
+红楠	hong nan	1
+红钮子属	hong niu zi shu	1
+红千层属	hong qian ceng shu	1
+红杄云杉	hong qian yun shan	1
+红雀珊瑚属	hong que shan hu shu	1
+红乳牛肝菌	hong ru niu gan jun	1
+红瑞木	hong rui mu	1
+红沙属	hong sha shu	1
+红树科	hong shu ke	1
+红树属	hong shu shu	1
+红松	hong song	1
+红王子锦带	hong wang zi jin dai	1
+红小麻属	hong xiao ma shu	1
+红雪果	hong xue guo	1
+红芽大戟属	hong ya da ji shu	1
+红叶碧桃	hong ye bi tao	1
+红叶红花垂枝海棠	hong ye hong hua chui zhi hai tang	1
+红叶景天	hong ye jing tian	1
+红叶李	hong ye li	1
+红叶石楠	hong ye shi nan	1
+红叶桃	hong ye tao	1
+红叶藤属	hong ye teng shu	1
+红玉海棠	hong yu hai tang	1
+红玉兰	hong yu lan	1
+红子木属	hong zi mu shu	1
+厚翅荠属	hou chi ji shu	1
+厚唇兰属	hou chun lan shu	1
+猴耳环属	hou er huan shu	1
+猴欢喜属	hou huan xi shu	1
+厚喙菊属	hou hui ju shu	1
+厚距花属	hou ju hua shu	1
+厚壳桂属	hou ke gui shu	1
+厚壳树属	hou ke shu shu	1
+厚肋苦荬菜属	hou lei ku mai cai shu	1
+厚棱芹属	hou leng qin shu	1
+厚皮树属	hou pi shu shu	1
+厚皮香	hou pi xiang	1
+厚皮香属	hou pi xiang shu	1
+后蕊苣苔属	hou rui ju tai shu	1
+猴头菇	hou tou gu	1
+虎刺属	hu ci shu	1
+蝴蝶果属	hu die guo shu	1
+蝴蝶花	hu die hua	1
+蝴蝶槐	hu die huai	1
+虎耳草科	hu er cao ke	1
+湖瓜草属	hu gua cao shu	1
+槲寄生	hu ji sheng	1
+槲寄生属	hu ji sheng shu	1
+胡椒科	hu jiao ke	1
+胡椒属	hu jiao shu	1
+槲栎	hu li	1
+胡莲属	hu lian shu	1
+胡卢巴属	hu lu ba shu	1
+葫芦草属	hu lu cao shu	1
+葫芦茶属	hu lu cha shu	1
+葫芦科	hu lu ke	1
+葫芦属	hu lu shu	1
+胡萝卜属	hu luo bo shu	1
+胡麻花属	hu ma hua shu	1
+胡麻科	hu ma ke	1
+胡麻属	hu ma shu	1
+胡蔓藤属	hu man teng shu	1
+虎皮花属	hu pi hua shu	1
+虎舌兰属	hu she lan shu	1
+胡桃	hu tao	1
+胡桃科	hu tao ke	1
+胡桃楸	hu tao qiu	1
+胡桃属	hu tao shu	1
+胡颓子	hu tui zi	1
+胡颓子科	hu tui zi ke	1
+胡颓子球	hu tui zi qiu	1
+虎尾草属	hu wei cao shu	1
+虎尾兰属	hu wei lan shu	1
+狐尾藻	hu wei zao	1
+虎颜花属	hu yan hua shu	1
+虎眼万年青属	hu yan wan nian qing shu	1
+胡杨	hu yang	1
+互叶铁线莲属	hu ye tie xian lian shu	1
+虎掌菌	hu zhang jun	1
+胡榛属	hu zhen shu	1
+胡榛子	hu zhen zi	1
+虎榛子	hu zhen zi	1
+胡枝子	hu zhi zi	1
+胡枝子属	hu zhi zi shu	1
+花柏	hua bai	1
+花柏球	hua bai qiu	1
+华北柽柳	hua bei cheng liu	1
+华北落叶松	hua bei luo ye song	1
+华北卫矛	hua bei wei mao	1
+华北紫丁香	hua bei zi ding xiang	1
+画笔菊属	hua bi ju shu	1
+华参属	hua can shu	1
+花菖蒲	hua chang pu	1
+花点草属	hua dian cao shu	1
+华福花属	hua fu hua shu	1
+华盖木属	hua gai mu shu	1
+滑菇	hua gu	1
+花灌木类	hua guan mu lei	1
+花红	hua hong	1
+花花柴属	hua hua chai shu	1
+花椒	hua jiao	1
+花椒属	hua jiao shu	1
+花楷槭	hua kai qi	1
+花葵属	hua kui shu	1
+花蔺	hua lin	1
+花蔺科	hua lin ke	1
+花蔺属	hua lin shu	1
+花菱草属	hua ling cao shu	1
+花锚属	hua mao shu	1
+画眉草属	hua mei cao shu	1
+桦木科	hua mu ke	1
+花木兰	hua mu lan	1
+桦木属	hua mu shu	1
+花佩菊属	hua pei ju shu	1
+花皮胶藤属	hua pi jiao teng shu	1
+花旗竿属	hua qi gan shu	1
+花楸	hua qiu	1
+花楸属	hua qiu shu	1
+花曲柳	hua qu liu	1
+花荵科	hua ren ke	1
+花荵属	hua ren shu	1
+华箬竹属	hua ruo zhu shu	1
+华山松	hua shan song	1
+花石榴	hua shi liu	1
+滑桃树属	hua tao shu shu	1
+滑藤属	hua teng shu	1
+化香属	hua xiang shu	1
+花叶丁香	hua ye ding xiang	1
+花叶芦苇	hua ye lu wei	1
+花叶水葱	hua ye shui cong	1
+花叶万年青属	hua ye wan nian qing shu	1
+花叶芋属	hua ye yu shu	1
+花叶玉簪	hua ye yu zan	1
+花叶泽苔	hua ye ze tai	1
+花蜘蛛兰属	hua zhi zhu lan shu	1
+华中木兰	hua zhong mu lan	1
+花烛属	hua zhu shu	1
+怀槐	huai huai	1
+槐蓝属	huai lan shu	1
+槐属	huai shu	1
+槐树	huai shu	1
+环根芹属	huan gen qin shu	1
+环花科	huan hua ke	1
+还阳参属	huan yang can shu	1
+黄鹌菜属	huang an cai shu	1
+黄柏属	huang bai shu	1
+黄波萝	huang bo luo	1
+黄蝉属	huang chan shu	1
+黄菖蒲	huang chang pu	1
+黄刺梅	huang ci mei	1
+黄刺玫	huang ci mei	1
+黄冠菊属	huang guan ju shu	1
+黄果木属	huang guo mu shu	1
+黄桦	huang hua	1
+黄花夹竹桃属	huang hua jia zhu tao shu	1
+黄花锦鸡儿	huang hua jin ji er	1
+黄花蔺	huang hua lin	1
+黄花茅属	huang hua mao shu	1
+黄花木属	huang hua mu shu	1
+黄花忍冬	huang hua ren dong	1
+黄花稔属	huang hua ren shu	1
+黄金槐	huang jin huai	1
+黄金树	huang jin shu	1
+黄精属	huang jing shu	1
+黄葵属	huang kui shu	1
+黄兰属	huang lan shu	1
+黄梨木属	huang li mu shu	1
+黄连木	huang lian mu	1
+黄连木属	huang lian mu shu	1
+黄连属	huang lian shu	1
+黄柳	huang liu	1
+黄栌属	huang lu shu	1
+黄麻属	huang ma shu	1
+黄脉爵床属	huang mai jue chuang shu	1
+黄茅属	huang mao shu	1
+黄牛肝菌	huang niu gan jun	1
+黄牛木属	huang niu mu shu	1
+黄皮属	huang pi shu	1
+黄杞属	huang qi shu	1
+黄芩属	huang qin shu	1
+黄球花属	huang qiu hua shu	1
+黄雀儿属	huang que er shu	1
+黄蓉花属	huang rong hua shu	1
+黄肉楠属	huang rou nan shu	1
+幌伞枫属	huang san feng shu	1
+黄伞菇	huang san gu	1
+黄三七属	huang san qi shu	1
+黄山栾树	huang shan luan shu	1
+黄山梅属	huang shan mei shu	1
+黄杉属	huang shan shu	1
+黄丝草	huang si cao	1
+黄藤属	huang teng shu	1
+黄筒花属	huang tong hua shu	1
+黄桐属	huang tong shu	1
+黄薇属	huang wei shu	1
+黄细心属	huang xi xin shu	1
+黄眼草科	huang yan cao ke	1
+黄眼草属	huang yan cao shu	1
+黄杨科	huang yang ke	1
+黄杨属	huang yang shu	1
+黄叶树属	huang ye shu shu	1
+黄榆	huang yu	1
+黄钟花属	huang zhong hua shu	1
+喙核桃属	hui he tao shu	1
+喙花姜属	hui hua jiang shu	1
+灰莉属	hui li shu	1
+荟蔓藤属	hui man teng shu	1
+茴芹属	hui qin shu	1
+灰树花	hui shu hua	1
+茴香砂仁属	hui xiang sha ren shu	1
+茴香属	hui xiang shu	1
+灰叶属	hui ye shu	1
+火把花属	huo ba hua shu	1
+火棘	huo ji	1
+火棘球	huo ji qiu	1
+火棘属	huo ji shu	1
+火炬	huo ju	1
+火炬树	huo ju shu	1
+火绒草属	huo rong cao shu	1
+火烧花属	huo shao hua shu	1
+火烧兰属	huo shao lan shu	1
+火筒树属	huo tong shu shu	1
+藿香属	huo xiang shu	1
+活血丹属	huo xue dan shu	1
+火焰海棠	huo yan hai tang	1
+火焰花属	huo yan hua shu	1
+火焰兰属	huo yan lan shu	1
+火焰树属	huo yan shu shu	1
+棘苞菊属	ji bao ju shu	1
+鸡枞菌	ji cong jun	1
+鸡蛋花属	ji dan hua shu	1
+棘豆属	ji dou shu	1
+姬菇	ji gu	1
+鸡骨常山属	ji gu chang shan shu	1
+芨芨草属	ji ji cao shu	1
+基及树属	ji ji shu shu	1
+鸡脚参属	ji jiao can shu	1
+蒺藜草属	ji li cao shu	1
+蒺藜科	ji li ke	1
+蒺藜属	ji li shu	1
+鸡麻	ji ma	1
+鸡麻属	ji ma shu	1
+姬苗属	ji miao shu	1
+继木属	ji mu shu	1
+寄生花属	ji sheng hua shu	1
+寄生鳞叶草属	ji sheng lin ye cao shu	1
+寄生藤属	ji sheng teng shu	1
+鸡矢藤属	ji shi teng shu	1
+荠属	ji shu	1
+蓟属	ji shu	1
+寄树兰属	ji shu lan shu	1
+鸡树条子	ji shu tiao zi	1
+姬松茸	ji song rong	1
+吉粟草属	ji su cao shu	1
+鸡嗉子树	ji su zi shu	1
+棘头花属	ji tou hua shu	1
+鸡腿菇	ji tui gu	1
+吉祥草属	ji xiang cao shu	1
+积雪草属	ji xue cao shu	1
+鸡血藤	ji xue teng	1
+鸡眼草属	ji yan cao shu	1
+鸡油菌	ji you jun	1
+鲫鱼藤属	ji yu teng shu	1
+鸡爪草属	ji zhua cao shu	1
+鸡爪槭	ji zhua qi	1
+假百合属	jia bai he shu	1
+假报春属	jia bao chun shu	1
+假贝母属	jia bei mu shu	1
+假扁果草属	jia bian guo cao shu	1
+假摈榔属	jia bin lang shu	1
+假糙苏属	jia cao su shu	1
+假柴龙树属	jia chai long shu shu	1
+假葱属	jia cong shu	1
+假稻属	jia dao shu	1
+假地胆草属	jia di dan cao shu	1
+假杜鹃属	jia du juan shu	1
+假繁缕科	jia fan lv ke	1
+假海齿属	jia hai chi shu	1
+假海桐属	jia hai tong shu	1
+假含羞草属	jia han xiu cao shu	1
+假鹤虱属	jia he shi shu	1
+假虎刺属	jia hu ci shu	1
+假还阳参属	jia huan yang can shu	1
+假金发草属	jia jin fa cao shu	1
+假金桔属	jia jin ju shu	1
+假兰科	jia lan ke	1
+假蓝属	jia lan shu	1
+假兰属	jia lan shu	1
+嘉兰属	jia lan shu	1
+嘉榄属	jia lan shu	1
+假狼毒属	jia lang du shu	1
+假狼紫草属	jia lang zi cao shu	1
+假连翘属	jia lian qiao shu	1
+嘉陵花属	jia ling hua shu	1
+假龙胆属	jia long dan shu	1
+假龙头	jia long tou	1
+假耧斗菜属	jia lou dou cai shu	1
+假楼梯草属	jia lou ti cao shu	1
+假马鞭属	jia ma bian shu	1
+荚蒾属	jia mi shu	1
+假木豆属	jia mu dou shu	1
+假木荷属	jia mu he shu	1
+假木贼属	jia mu zei shu	1
+加拿大杨	jia na da yang	1
+假囊距兰属	jia nang ju lan shu	1
+假牛鞭草属	jia niu bian cao shu	1
+假蓬属	jia peng shu	1
+假婆婆纳属	jia po po na shu	1
+假千里光属	jia qian li guang shu	1
+家桑	jia sang	1
+假色槭	jia se qi	1
+假山龙眼属	jia shan long yan shu	1
+假山萝属	jia shan luo shu	1
+假韶子属	jia shao zi shu	1
+假蛇尾草属	jia she wei cao shu	1
+假升麻属	jia sheng ma shu	1
+假石柑属	jia shi gan shu	1
+假水晶兰属	jia shui jing lan shu	1
+假水苏属	jia shui su shu	1
+假铁秆草属	jia tie gan cao shu	1
+假万带兰属	jia wan dai lan shu	1
+假卫矛属	jia wei mao shu	1
+假吻兰属	jia wen lan shu	1
+假小喙菊属	jia xiao hui ju shu	1
+假叶树科	jia ye shu ke	1
+假叶树属	jia ye shu shu	1
+假野芝麻属	jia ye zhi ma shu	1
+假鹰爪属	jia ying zhao shu	1
+家榆	jia yu	1
+假泽兰属	jia ze lan shu	1
+假奓包叶属	jia zha bao ye shu	1
+夹竹桃	jia zhu tao	1
+夹竹桃科	jia zhu tao ke	1
+夹竹桃属	jia zhu tao shu	1
+假紫草属	jia zi cao shu	1
+假紫万年青属	jia zi wan nian qing shu	1
+尖稃草属	jian fu cao shu	1
+箭杆杨	jian gan yang	1
+剪股颖草	jian gu ying cao	1
+剪股颖属	jian gu ying shu	1
+坚桦	jian hua	1
+尖花藤属	jian hua teng shu	1
+尖槐藤属	jian huai teng shu	1
+剑麻	jian ma	1
+硷茅属	jian mao shu	1
+尖囊兰属	jian nang lan shu	1
+碱蓬属	jian peng shu	1
+剪秋罗属	jian qiu luo shu	1
+尖蕊花属	jian rui hua shu	1
+尖舌苣苔属	jian she ju tai shu	1
+菅属	jian shu	1
+尖头花属	jian tou hua shu	1
+碱菀属	jian wan shu	1
+见血飞属	jian xue fei shu	1
+见血封喉属	jian xue feng hou shu	1
+健杨	jian yang	1
+尖药花属	jian yao hua shu	1
+尖药兰属	jian yao lan shu	1
+箭药藤属	jian yao teng shu	1
+尖叶木属	jian ye mu shu	1
+剑叶莎属	jian ye sha shu	1
+箭叶水苏属	jian ye shui su shu	1
+箭竹属	jian zhu shu	1
+尖子木属	jian zi mu shu	1
+尖子藤属	jian zi teng shu	1
+尖柞	jian zuo	1
+豇豆属	jiang dou shu	1
+浆果楝属	jiang guo lian shu	1
+浆果苋属	jiang guo xian shu	1
+姜花属	jiang hua shu	1
+姜黄属	jiang huang shu	1
+疆堇属	jiang jin shu	1
+疆菊属	jiang ju shu	1
+姜科	jiang ke	1
+江南槐	jiang nan huai	1
+江南桤木	jiang nan qi mu	1
+疆南星属	jiang nan xing shu	1
+姜属	jiang shu	1
+姜味草属	jiang wei cao shu	1
+胶东卫矛	jiao dong wei mao	1
+绞股蓝属	jiao gu lan shu	1
+角果藜属	jiao guo li shu	1
+角果毛茛属	jiao guo mao gen shu	1
+角果木属	jiao guo mu shu	1
+角果藻科	jiao guo zao ke	1
+角果藻属	jiao guo zao shu	1
+角蒿属	jiao hao shu	1
+胶核木属	jiao he mu shu	1
+角花属	jiao hua shu	1
+角茴香属	jiao hui xiang shu	1
+铰剪藤属	jiao jian teng shu	1
+胶木属	jiao mu shu	1
+蕉木属	jiao mu shu	1
+角盘兰属	jiao pan lan shu	1
+交让木科	jiao rang mu ke	1
+交让木属	jiao rang mu shu	1
+胶州卫矛	jiao zhou wei mao	1
+角柱花属	jiao zhu hua shu	1
+睫苞豆属	jie bao dou shu	1
+桔梗科	jie geng ke	1
+桔梗属	jie geng shu	1
+接骨木	jie gu mu	1
+接骨木属	jie gu mu shu	1
+节节菜属	jie jie cai shu	1
+节节木属	jie jie mu shu	1
+结缕草属	jie lv cao shu	1
+节蒴木属	jie shuo mu shu	1
+结香	jie xiang	1
+结香属	jie xiang shu	1
+截叶榆叶梅	jie ye yu ye mei	1
+金边扶芳藤	jin bian fu fang teng	1
+金边黄杨	jin bian huang yang	1
+金边黄杨球	jin bian huang yang qiu	1
+堇菜科	jin cai ke	1
+堇菜属	jin cai shu	1
+荩草属	jin cao shu	1
+金唇兰属	jin chun lan shu	1
+锦带花	jin dai hua	1
+锦带花属	jin dai hua shu	1
+金发草属	jin fa cao shu	1
+金凤藤属	jin feng teng shu	1
+金佛山兰属	jin fo shan lan shu	1
+金钢鼠李	jin gang shu li	1
+金钩花属	jin gou hua shu	1
+筋骨草属	jin gu cao shu	1
+金瓜属	jin gua shu	1
+金光菊属	jin guang ju shu	1
+金桂	jin gui	1
+金合欢	jin he huan	1
+金合欢属	jin he huan shu	1
+金虎尾科	jin hu wei ke	1
+金虎尾属	jin hu wei shu	1
+锦鸡儿	jin ji er	1
+锦鸡儿属	jin ji er shu	1
+金鸡菊属	jin ji ju shu	1
+金鸡纳属	jin ji na shu	1
+金锦香属	jin jin xiang shu	1
+金桔	jin ju	1
+金桔属	jin ju shu	1
+锦葵科	jin kui ke	1
+锦葵属	jin kui shu	1
+堇兰属	jin lan shu	1
+金老梅	jin lao mei	1
+金栗兰科	jin li lan ke	1
+金莲花科	jin lian hua ke	1
+金莲花属	jin lian hua shu	1
+金莲木科	jin lian mu ke	1
+金莲木属	jin lian mu shu	1
+金露梅	jin lu mei	1
+金缕梅科	jin lv mei ke	1
+金缕梅属	jin lv mei shu	1
+金玛丽月季	jin ma li yue ji	1
+金茅属	jin mao shu	1
+金梅草属	jin mei cao shu	1
+金钮扣属	jin niu kou shu	1
+金平藤属	jin ping teng shu	1
+金钱豹属	jin qian bao shu	1
+金钱槭属	jin qian qi shu	1
+金钱松	jin qian song	1
+金钱松属	jin qian song shu	1
+金雀儿属	jin que er shu	1
+金雀锦鸡儿	jin que jin ji er	1
+金山绣线菊	jin shan xiu xian ju	1
+金石斛属	jin shi hu shu	1
+金丝垂柳	jin si chui liu	1
+金丝梅	jin si mei	1
+金丝桃	jin si tao	1
+金丝桃科	jin si tao ke	1
+金丝桃属	jin si tao shu	1
+金松属	jin song shu	1
+金粟兰科	jin su lan ke	1
+金粟兰属	jin su lan shu	1
+锦绦花属	jin tao hua shu	1
+金铁锁属	jin tie suo shu	1
+金娃娃萱草	jin wa wa xuan cao	1
+金线草属	jin xian cao shu	1
+锦香草属	jin xiang cao shu	1
+金须茅属	jin xu mao shu	1
+金焰绣线菊	jin yan xiu xian ju	1
+金腰箭属	jin yao jian shu	1
+金叶垂槐	jin ye chui huai	1
+金叶风箱果	jin ye feng xiang guo	1
+金叶复叶槭	jin ye fu ye qi	1
+金叶红瑞木	jin ye hong rui mu	1
+金叶接骨木	jin ye jie gu mu	1
+堇叶芥属	jin ye jie shu	1
+金叶锦带	jin ye jin dai	1
+金叶景天	jin ye jing tian	1
+金叶连翘	jin ye lian qiao	1
+金叶裂叶接骨木	jin ye lie ye jie gu mu	1
+金叶女贞	jin ye nv zhen	1
+金叶女贞球	jin ye nv zhen qiu	1
+金叶山梅花	jin ye shan mei hua	1
+堇叶山梅花	jin ye shan mei hua	1
+金叶树属	jin ye shu shu	1
+金叶莸	jin ye you	1
+金叶榆	jin ye yu	1
+金银花	jin yin hua	1
+金银木	jin yin mu	1
+金银忍冬	jin yin ren dong	1
+金英属	jin ying shu	1
+金罂粟属	jin ying su shu	1
+金鱼花属	jin yu hua shu	1
+金鱼藻	jin yu zao	1
+金鱼藻科	jin yu zao ke	1
+金盏花属	jin zhan hua shu	1
+金盏苣苔属	jin zhan ju tai shu	1
+金枝红瑞木	jin zhi hong rui mu	1
+金枝梾木	jin zhi lai mu	1
+金钟	jin zhong	1
+金钟花	jin zhong hua	1
+金钟连翘	jin zhong lian qiao	1
+金州锦鸡儿	jin zhou jin ji er	1
+金州绣线菊	jin zhou xiu xian ju	1
+颈果草属	jing guo cao shu	1
+荆芥属	jing jie shu	1
+景天科	jing tian ke	1
+景天属	jing tian shu	1
+荆条	jing tiao	1
+秔子梢属	jing zi shao shu	1
+酒饼簕属	jiu bing le shu	1
+九节属	jiu jie shu	1
+韭兰	jiu lan	1
+九里香属	jiu li xiang shu	1
+九头狮子草属	jiu tou shi zi cao shu	1
+九子母科	jiu zi mu ke	1
+九子母属	jiu zi mu shu	1
+距瓣豆属	ju ban dou shu	1
+聚草	ju cao	1
+菊蒿属	ju hao shu	1
+聚花草属	ju hua cao shu	1
+距花黍属	ju hua shu shu	1
+菊花桃	ju hua tao	1
+菊苣属	ju ju shu	1
+菊科	ju ke	1
+巨盘木属	ju pan mu shu	1
+咀签属	ju qian shu	1
+菊芹属	ju qin shu	1
+蒟蒻薯科	ju ruo shu ke	1
+蒟蒻薯属	ju ruo shu shu	1
+巨杉属	ju shan shu	1
+菊属	ju shu	1
+榉属	ju shu	1
+榉树	ju shu	1
+距药姜属	ju yao jiang shu	1
+桔子	ju zi	1
+卷瓣兰属	juan ban lan shu	1
+卷边柳	juan bian liu	1
+卷耳属	juan er shu	1
+卷花丹属	juan hua dan shu	1
+绢毛苣属	juan mao ju shu	1
+爵床科	jue chuang ke	1
+爵床属	jue chuang shu	1
+决明属	jue ming shu	1
+君迁子	jun qian zi	1
+君子兰属	jun zi lan shu	1
+咖啡属	ka fei shu	1
+喀什菊属	ka shi ju shu	1
+开唇兰属	kai chun lan shu	1
+凯尔斯海棠	kai er si hai tang	1
+开口箭属	kai kou jian shu	1
+铠兰属	kai lan shu	1
+勘察加费菜	kan cha jia fei cai	1
+看麦娘属	kan mai niang shu	1
+糠椴	kang duan	1
+可爱花属	ke ai hua shu	1
+柯树属	ke shu shu	1
+榼藤子属	ke teng zi shu	1
+棵柱花属	ke zhu hua shu	1
+铿木属	keng mu shu	1
+孔唇兰属	kong chun lan shu	1
+空棱芹属	kong leng qin shu	1
+孔药花属	kong yao hua shu	1
+孔颖草属	kong ying cao shu	1
+空竹属	kong zhu shu	1
+口蘑	kou mo	1
+苦草	ku cao	1
+苦草属	ku cao shu	1
+苦瓜属	ku gua shu	1
+苦苣菜属	ku ju cai shu	1
+苦苣苔科	ku ju tai ke	1
+苦苣苔属	ku ju tai shu	1
+苦槛蓝科	ku kan lan ke	1
+苦槛蓝属	ku kan lan shu	1
+苦楝	ku lian	1
+库林木属	ku lin mu shu	1
+苦马豆属	ku ma dou shu	1
+苦荬菜属	ku mai cai shu	1
+苦木	ku mu	1
+苦木科	ku mu ke	1
+苦参	ku shen	1
+库页悬钩子	ku ye xuan gou zi	1
+苦槠	ku zhu	1
+苦竹	ku zhu	1
+苦竹属	ku zhu shu	1
+块茎芹属	kuai jing qin shu	1
+款冬属	kuan dong shu	1
+宽萼苣苔属	kuan e ju tai shu	1
+宽距兰属	kuan ju lan shu	1
+宽框荠属	kuan kuang ji shu	1
+宽叶泽苔	kuan ye ze tai	1
+昆栏树科	kun lan shu ke	1
+昆栏树属	kun lan shu shu	1
+阔带芹属	kuo dai qin shu	1
+阔蕊兰属	kuo rui lan shu	1
+阔叶十大功劳	kuo ye shi da gong lao	1
+喇叭茶属	la ba cha shu	1
+喇叭陀螺菌	la ba tuo luo jun	1
+蜡瓣花属	la ban hua shu	1
+辣根属	la gen shu	1
+蜡菊属	la ju shu	1
+拉拉藤属	la la teng shu	1
+腊梅	la mei	1
+蜡梅	la mei	1
+蜡梅科	la mei ke	1
+蜡梅属	la mei shu	1
+辣木科	la mu ke	1
+辣木属	la mu shu	1
+辣莸属	la you shu	1
+蜡烛果属	la zhu guo shu	1
+辣子瓜属	la zi gua shu	1
+赖草属	lai cao shu	1
+梾木属	lai mu shu	1
+蓝刺头属	lan ci tou shu	1
+兰锭果忍冬	lan ding guo ren dong	1
+蓝耳草属	lan er cao shu	1
+兰花蕉科	lan hua jiao ke	1
+兰花蕉属	lan hua jiao shu	1
+蓝花参属	lan hua shen shu	1
+蓝花楹属	lan hua ying shu	1
+兰花莸	lan hua you	1
+蓝花鸢尾	lan hua yuan wei	1
+篮蓟属	lan ji shu	1
+篮堇草属	lan jin cao shu	1
+兰科	lan ke	1
+榄李属	lan li shu	1
+兰嵌马蓝属	lan qian ma lan shu	1
+蓝雀花属	lan que hua shu	1
+榄仁树属	lan ren shu shu	1
+兰属	lan shu	1
+蓝雪科	lan xue ke	1
+蓝雪属	lan xue shu	1
+蓝叶景天	lan ye jing tian	1
+蓝钟花属	lan zhong hua shu	1
+郎德木属	lang de mu shu	1
+狼毒属	lang du shu	1
+榔色木属	lang se mu shu	1
+狼尾草属	lang wei cao shu	1
+榔榆	lang yu	1
+狼紫草属	lang zi cao shu	1
+老虎刺属	lao hu ci shu	1
+老颧草属	lao quan cao shu	1
+老人头	lao ren tou	1
+老鼠拉冬瓜属	lao shu la dong gua shu	1
+老鼠簕属	lao shu le shu	1
+老鸦咀属	lao ya ju shu	1
+乐昌含笑	le chang han xiao	1
+乐东藤属	le dong teng shu	1
+雷公连属	lei gong lian zhu	1
+雷公藤属	lei gong teng shu	1
+擂鼓艻属	lei gu ji shu	1
+肋果蓟属	lei guo ji shu	1
+类芦属	lei lu shu	1
+类雀稗属	lei que bai shu	1
+类蜀黍属	lei shu shu shu	1
+雷丸	lei wan	1
+类叶升麻属	lei ye sheng ma shu	1
+雷竹	lei zhu	1
+棱萼茜属	leng e qian shu	1
+棱果芥属	leng guo jie shu	1
+冷杉属	leng shan shu	1
+冷水花属	leng shui hua shu	1
+棱子芹属	leng zi qin shu	1
+离瓣寄生属	li ban ji sheng shu	1
+鳢肠属	li chang shu	1
+黎豆属	li dou shu	1
+丽豆属	li dou shu	1
+栗豆藤属	li dou teng shu	1
+梨果寄生属	li guo ji sheng shu	1
+栗寄生属	li ji sheng shu	1
+藜科	li ke	1
+李榄属	li lan shu	1
+藜芦属	li lu shu	1
+栎木	li mu	1
+藜属	li shu	1
+栎属	li shu	1
+栗属	li shu	1
+梨属	li shu	1
+梨树	li shu	1
+犁头尖属	li tou jian shu	1
+狸尾豆属	li wei dou shu	1
+丽薇属	li wei shu	1
+李叶溲疏	li ye sou shu	1
+狸藻科	li zao ke	1
+狸藻属	li zao shu	1
+荔枝属	li zhi shu	1
+梨竹属	li zhu shu	1
+李子	li zi	1
+离子芥属	li zi jie shu	1
+镰稃草属	lian fu cao shu	1
+莲桂属	lian gui shu	1
+链荚豆属	lian jia dou shu	1
+链荚木属	lian jia mu shu	1
+楝科	lian ke	1
+连理藤属	lian li teng shu	1
+莲楠草属	lian nan cao shu	1
+连翘	lian qiao	1
+连翘属	lian qiao shu	1
+连蕊芥属	lian rui jie shu	1
+连蕊藤属	lian rui teng shu	1
+莲属	lian shu	1
+楝属	lian shu	1
+连香树科	lian xiang shu ke	1
+连香树属	lian xiang shu shu	1
+莲叶桐科	lian ye tong ke	1
+莲叶桐属	lian ye tong shu	1
+帘子藤属	lian zi teng shu	1
+凉粉草属	liang fen cao shu	1
+亮花木属	liang hua mu shu	1
+两节荠属	liang jie ji shu	1
+亮蛇床属	liang she chuang shu	1
+量天尺属	liang tian chi shu	1
+梁王茶属	liang wang cha shu	1
+两型豆属	liang xing dou shu	1
+辽东丁香	liao dong ding xiang	1
+辽东桦	liao dong hua	1
+辽东杨	liao dong yang	1
+辽东柞	liao dong zuo	1
+蓼科	liao ke	1
+辽宁山楂	liao ning shan zha	1
+蓼属	liao shu	1
+蓼树属	liao shu shu	1
+鬣刺属	lie ci shu	1
+列当科	lie dang ke	1
+列当属	lie dang shu	1
+裂稃草属	lie fu cao shu	1
+裂稃茅属	lie fu mao shu	1
+裂瓜属	lie gua shu	1
+裂果金花属	lie guo jin hua shu	1
+裂叶荆芥属	lie ye jing jie shu	1
+裂叶罂粟属	lie ye ying su shu	1
+裂叶榆	lie ye yu	1
+裂颖茅属	lie ying mao shu	1
+林地苋属	lin di xian shu	1
+鳞隔堇属	lin ge jin shu	1
+鳞果草属	lin guo cao shu	1
+鳞花草属	lin hua cao shu	1
+鳞花木属	lin hua mu shu	1
+鳞蕊藤属	lin rui teng shu	1
+林石草属	lin shi cao shu	1
+鳞叶寄生木属	lin ye ji sheng mu shu	1
+鳞子莎属	lin zi sha shu	1
+领春木科	ling chun mu ke	1
+领春木属	ling chun mu shu	1
+凌风草属	ling feng cao shu	1
+令箭荷花属	ling jian he hua shu	1
+苓菊属	ling ju shu	1
+菱科	ling ke	1
+铃兰属	ling lan shu	1
+菱属	ling shu	1
+柃属	ling shu	1
+凌霄	ling xiao	1
+菱叶元宝草属	ling ye yuan bao cao shu	1
+灵芝	ling zhi	1
+铃子香属	ling zi xiang shu	1
+柳安属	liu an shu	1
+六瓣景天属	liu ban jing tian shu	1
+琉苞菊属	liu bao ju shu	1
+六翅木属	liu chi mu shu	1
+六道木	liu dao mu	1
+六道木属	liu dao mu shu	1
+留萼木属	liu e mu shu	1
+瘤果芹属	liu guo qin shu	1
+柳兰属	liu lan shu	1
+六棱菊属	liu leng ju shu	1
+琉璃草属	liu li cao shu	1
+琉璃繁缕属	liu li fan lv shu	1
+榴莲属	liu lian shu	1
+柳杉属	liu shan shu	1
+柳属	liu shu	1
+流苏树	liu su shu	1
+流苏树属	liu su shu shu	1
+流苏子属	liu su zi shu	1
+柳叶菜科	liu ye cai ke	1
+柳叶菜属	liu ye cai shu	1
+柳叶箬属	liu ye ruo shu	1
+柳叶绣线菊	liu ye xiu xian ju	1
+六月雪	liu yue xue	1
+六月雪属	liu yue xue shu	1
+瘤子草属	liu zi cao shu	1
+龙柏	long bai	1
+龙柏球	long bai qiu	1
+龙常草属	long chang cao shu	1
+龙船草属	long chuan cao shu	1
+龙船花属	long chuan hua shu	1
+龙胆科	long dan ke	1
+龙胆木属	long dan mu shu	1
+龙胆属	long dan shu	1
+龙老根属	long lao gen shu	1
+龙脑香科	long nao xiang ke	1
+龙脑香属	long nao xiang shu	1
+龙舌兰科	long she lan ke	1
+龙舌兰属	long she lan shu	1
+龙头草属	long tou cao shu	1
+龙须海棠属	long xu hai tang shu	1
+龙须柳	long xu liu	1
+龙血树属	long xue shu shu	1
+龙牙草属	long ya cao shu	1
+龙眼属	long yan shu	1
+龙爪槐	long zhao huai	1
+龙爪柳	long zhua liu	1
+龙爪茅属	long zhua mao shu	1
+龙爪枣	long zhua zao	1
+龙爪紫花槐	long zhua zi hua huai	1
+耧斗菜属	lou dou cai shu	1
+漏斗苣苔属	lou dou ju tai shu	1
+楼梯草属	lou ti cao shu	1
+路边青属	lu bian qing shu	1
+露兜树科	lu dou shu ke	1
+露兜树属	lu dou shu shu	1
+颅果草属	lu guo cao shu	1
+芦荟属	lu hui shu	1
+鹿霍属	lu huo shu	1
+鹿角兰属	lu jiao lan shu	1
+鹿角藤属	lu jiao teng shu	1
+栌菊木属	lu ju mu shu	1
+陆均松属	lu jun song shu	1
+芦莉草属	lu li cao shu	1
+鹿茸木属	lu rong mu shu	1
+鹭鸶兰属	lu si lan shu	1
+鹿蹄草科	lu ti cao ke	1
+鹿蹄草属	lu ti cao shu	1
+芦苇属	lu wei shu	1
+鹿药属	lu yao shu	1
+露珠草属	lu zhu cao shu	1
+芦竹属	lu zhu shu	1
+露籽草属	lu zi cao shu	1
+栾树	luan shu	1
+栾树属	luan shu shu	1
+孪叶豆属	luan ye dou shu	1
+乱子草属	luan zi cao shu	1
+轮冠木属	lun guan mu shu	1
+轮环藤属	lun huan teng shu	1
+轮叶黑藻	lun ye hei zao	1
+萝卜属	luo bo shu	1
+罗布麻属	luo bu ma shu	1
+罗顿豆属	luo dun dou shu	1
+萝芙木属	luo fu mu shu	1
+裸果木属	luo guo mu shu	1
+罗汉柏属	luo han bai shu	1
+罗汉松	luo han song	1
+罗汉松球	luo han song qiu	1
+罗汉松属	luo han song shu	1
+裸花草属	luo hua cao shu	1
+落花生属	luo hua sheng shu	1
+螺喙荠属	luo hui ji shu	1
+落葵科	luo kui ke	1
+落葵属	luo kui shu	1
+落葵薯属	luo kui shu shu	1
+罗勒属	luo le shu	1
+落芒草属	luo mang cao shu	1
+萝藦科	luo mo ke	1
+萝藦属	luo mo shu	1
+罗伞属	luo san shu	1
+络石	luo shi	1
+络石属	luo shi shu	1
+骆驼刺属	luo tuo ci shu	1
+骆驼蓬属	luo tuo peng shu	1
+裸菀属	luo wan shu	1
+落尾木属	luo wei mu shu	1
+落新妇	luo xin fu	1
+螺序草属	luo xu cao shu	1
+落檐属	luo yan shu	1
+落叶松属	luo ye song shu	1
+落羽杉	luo yu shan	1
+落羽松属	luo yu song shu	1
+裸芸香属	luo yun xiang shu	1
+罗志藤属	luo zhi teng shu	1
+裸柱菊属	luo zhu ju shu	1
+葎草属	lv cao shu	1
+驴臭草属	lv chou cao shu	1
+驴豆属	lv dou shu	1
+绿梅	lv mei	1
+绿绒篙属	lv rong gao shu	1
+驴蹄草属	lv ti cao shu	1
+绿叶碧桃	lv ye bi tao	1
+马鞍树属	ma an shu shu	1
+马鞭草科	ma bian cao ke	1
+马鞭草属	ma bian cao shu	1
+马贬儿属	ma bian er shu	1
+马齿苋科	ma chi xian ke	1
+马齿苋属	ma chi xian shu	1
+马蛋果属	ma dan guo shu	1
+马兜铃科	ma dou ling ke	1
+马兜铃属	ma dou ling shu	1
+麻疯树属	ma feng shu shu	1
+麻核藤属	ma he teng shu	1
+麻花头属	ma hua tou shu	1
+麻黄	ma huang	1
+麻黄科	ma huang ke	1
+麻黄属	ma huang shu	1
+马甲子属	ma jia zi shu	1
+马兰	ma lan	1
+马兰木属	ma lan mu shu	1
+马蓝属	ma lan shu	1
+马兰属	ma lan shu	1
+马兰藤属	ma lan teng shu	1
+马利筋属	ma li jin shu	1
+马莲鞍属	ma lian an shu	1
+麻楝属	ma lian shu	1
+马铃苣苔属	ma ling ju tai shu	1
+玛瑙石榴	ma nao shi liu	1
+马尼拉草	ma ni la cao	1
+马钱科	ma qian ke	1
+马钱属	ma qian shu	1
+马桑科	ma sang ke	1
+马桑属	ma sang shu	1
+马蹄果属	ma ti guo shu	1
+马蹄荷属	ma ti he shu	1
+马蹄黄属	ma ti huang shu	1
+马蹄筋草	ma ti jin cao	1
+马蹄金属	ma ti jin shu	1
+马蹄莲属	ma ti lian shu	1
+马蹄芹属	ma ti qin shu	1
+马蹄香属	ma ti xiang shu	1
+麻菀属	ma wan shu	1
+马尾树科	ma wei shu ke	1
+马尾树属	ma wei shu shu	1
+马缨丹属	ma ying dan shu	1
+蚂蚱腿子	ma zha tui zi	1
+蚂蚱腿子属	ma zha tui zi shu	1
+马醉木属	ma zui mu shu	1
+麦冬草	mai dong cao	1
+买麻藤科	mai ma teng ke	1
+买麻藤属	mai ma teng shu	1
+麦仙翁属	mai xian weng shu	1
+麦珠子属	mai zhu zi shu	1
+蔓长春花属	man chang chun hua shu	1
+曼海姆月季	man hai mu yue ji	1
+蔓虎刺属	man hu ci shu	1
+蔓芹属	man qin shu	1
+馒头柳	man tou liu	1
+芒苞草属	mang bao cao shu	1
+芒柄花属	mang bing hua shu	1
+杧果属	mang guo shu	1
+芒麦草属	mang mai cao shu	1
+芒毛苣苔属	mang mao ju tai shu	1
+牻牛儿苗科	mang niu er miao ke	1
+牻牛儿苗属	mang niu er miao shu	1
+芒属	mang shu	1
+毛白杨	mao bai yang	1
+毛茶属	mao cha shu	1
+毛车藤属	mao che teng shu	1
+毛稠李	mao chou li	1
+毛刺槐	mao ci huai	1
+毛丁香	mao ding xiang	1
+猫儿菊属	mao er ju shu	1
+猫儿子属	mao er zi shu	1
+茅膏菜科	mao gao cai ke	1
+茅膏菜属	mao gao cai shu	1
+毛茛科	mao gen ke	1
+茅根属	mao gen shu	1
+毛茛属	mao gen shu	1
+毛梗兰属	mao geng lan shu	1
+茅瓜属	mao gua shu	1
+毛冠菊属	mao guan ju shu	1
+毛果草属	mao guo cao shu	1
+毛果苦木	mao guo ku mu	1
+毛果绣线菊	mao guo xiu xian ju	1
+毛核木属	mao he mu shu	1
+毛胡枝子	mao hu zhi zi	1
+毛花瑞香属	mao hua rui xiang shu	1
+毛黄栌	mao huang lu	1
+毛俭草属	mao jian cao shu	1
+毛接骨木	mao jie gu mu	1
+毛鹃	mao juan	1
+毛兰属	mao lan shu	1
+毛棱芹属	mao leng qin shu	1
+毛连菜属	mao lian cai shu	1
+毛莨泽泻属	mao liang ze xie shu	1
+茅莓悬钩子	mao mei xuan gou zi	1
+毛蒙古桑	mao meng gu sang	1
+毛木耳	mao mu er	1
+毛泡桐	mao pao tong	1
+猫乳属	mao ru shu	1
+帽蕊草属	mao rui cao shu	1
+毛蕊草属	mao rui cao shu	1
+毛蕊菊属	mao rui ju shu	1
+毛舌兰属	mao she lan shu	1
+毛束草属	mao shu cao shu	1
+猫尾树属	mao wei shu shu	1
+茅香属	mao xiang shu	1
+毛药花属	mao yao hua shu	1
+毛药苣苔属	mao yao ju tai shu	1
+毛药藤属	mao yao teng shu	1
+毛颖草属	mao ying cao shu	1
+毛樱桃	mao ying tao	1
+毛竹	mao zhu	1
+帽柱木属	mao zhu mu shu	1
+毛竹属	mao zhu shu	1
+毛足菊属	mao zu ju shu	1
+霉草科	mei cao ke	1
+霉草属	mei cao shu	1
+美登木属	mei deng mu shu	1
+美冠兰属	mei guan lan shu	1
+玫瑰木属	mei gui mu shu	1
+玫瑰树属	mei gui shu shu	1
+美国薄荷属	mei guo bo he shu	1
+美国短叶松	mei guo duan ye song	1
+美国花曲柳	mei guo hua qu liu	1
+美国黄松	mei guo huang song	1
+美国梧桐	mei guo wu tong	1
+美国五叶松	mei guo wu ye song	1
+美国五针松	mei guo wu zhen song	1
+美国榆	mei guo yu	1
+美花草属	mei hua cao shu	1
+梅兰属	mei lan shu	1
+美人蕉科	mei ren jiao ke	1
+美人蕉属	mei ren jiao shu	1
+美人梅	mei ren mei	1
+美桐	mei tong	1
+美味牛肝菌	mei wei niu gan jun	1
+栂樱属	mei ying shu	1
+美柱草属	mei zhu cao shu	1
+蒙篙子属	meng gao zi shu	1
+蒙古椴	meng gu duan	1
+蒙古柳	meng gu liu	1
+蒙古桑	meng gu sang	1
+蒙古柞	meng gu zuo	1
+檬果樟属	meng guo zhang shu	1
+勐腊藤属	meng la teng shu	1
+萌芽松	meng ya song	1
+迷迭香属	mi die xiang shu	1
+蜜蜂花属	mi feng hua shu	1
+迷果芹属	mi guo qin shu	1
+猕猴桃	mi hou tao	1
+猕猴桃科	mi hou tao ke	1
+猕猴桃属	mi hou tao shu	1
+密花豆属	mi hua dou shu	1
+密花兰属	mi hua lan shu	1
+米花树科	mi hua shu ke	1
+密花树属	mi hua shu shu	1
+密花藤属	mi hua teng shu	1
+米口袋属	mi kou dai shu	1
+密脉木属	mi mai mu shu	1
+米面蓊属	mi mian weng shu	1
+密穗桔梗属	mi sui jie geng shu	1
+米团花属	mi tuan hua shu	1
+密叶苣苔属	mi ye ju tai shu	1
+米仔兰属	mi zai lan shu	1
+蜜茱萸属	mi zhu yu shu	1
+密子豆属	mi zi dou shu	1
+绵参属	mian can shu	1
+绵刺属	mian ci shu	1
+绵果荠属	mian guo ji shu	1
+绵果芹属	mian guo qin shu	1
+棉藜属	mian li shu	1
+棉毛草属	mian mao cao shu	1
+缅茄属	mian qie shu	1
+绵穗苏属	mian sui su shu	1
+绵枣儿属	mian zao er shu	1
+苗木名称	miao mu ming cheng	1
+皿果草属	min guo cao shu	1
+明党参属	ming dang shen shu	1
+膜萼花属	mo e hua shu	1
+膜稃草属	mo fu cao shu	1
+墨鳞木属	mo lin mu shu	1
+魔芋属	mo yu shu	1
+木瓣树属	mu ban shu shu	1
+牡丹草属	mu dan cao shu	1
+木豆属	mu dou shu	1
+牧豆树属	mu dou shu shu	1
+木防己属	mu fang ji shu	1
+木芙蓉	mu fu rong	1
+牧根草属	mu gen cao shu	1
+木瓜	mu gua	1
+木瓜属	mu gua shu	1
+木果楝属	mu guo lian shu	1
+木荷	mu he	1
+木姜子属	mu jiang zi shu	1
+木槿	mu jin	1
+木槿属	mu jin shu	1
+牡荆属	mu jing shu	1
+木桔属	mu ju shu	1
+木兰科	mu lan ke	1
+木兰属	mu lan shu	1
+木榄属	mu lan shu	1
+木藜芦属	mu li lu shu	1
+木莲属	mu lian shu	1
+木麻黄科	mu ma huang ke	1
+木麻黄属	mu ma huang shu	1
+木莓属	mu mei shu	1
+木棉科	mu mian ke	1
+木棉属	mu mian shu	1
+木奶果属	mu nai guo shu	1
+木苹果属	mu ping guo shu	1
+木薯属	mu shu shu	1
+木通	mu tong	1
+木筒篙属	mu tong gao shu	1
+木通科	mu tong ke	1
+木通属	mu tong shu	1
+木樨科	mu xi ke	1
+木犀科	mu xi ke	1
+木犀榄属	mu xi lan shu	1
+木犀属	mu xi shu	1
+木香	mu xiang	1
+木绣球	mu xiu qiu	1
+苜蓿属	mu xu shu	1
+牡竹属	mu zhu shu	1
+纳茜菜属	na qian cai shu	1
+奶子藤属	nai zi teng shu	1
+南方红豆杉	nan fang hong dou shan	1
+南瓜属	nan gua shu	1
+南芥属	nan jie shu	1
+南美稔属	nan mei ren shu	1
+南山藤属	nan shan teng shu	1
+南蛇藤	nan she teng	1
+南蛇藤属	nan she teng shu	1
+楠属	nan shu	1
+南酸枣属	nan suan zao shu	1
+南天竺	nan tian zhu	1
+南天竹属	nan tian zhu shu	1
+南亚苦荬菜属	nan ya ku mai cai shu	1
+南洋参属	nan yang can shu	1
+南洋杉科	nan yang sha ke	1
+南烛属	nan zhu shu	1
+囊瓣木属	nang ban mu shu	1
+囊瓣芹属	nang ban qin shu	1
+囊苞花属	nang bao hua shu	1
+囊稃竹属	nang fu zhu shu	1
+囊舌兰属	nang she lan shu	1
+囊颖草属	nang ying cao shu	1
+拟艾脑属	ni ai nao shu	1
+拟大豆属	ni da dou shu	1
+拟单性木兰属	ni dan xing mu lan shu	1
+拟地皮消属	ni di pi xiao shu	1
+泥胡菜属	ni hu cai shu	1
+拟花蔺属	ni hua lin shu	1
+拟金茅属	ni jin mao shu	1
+拟九节属	ni jiu jie shu	1
+拟南芥属	ni nan jie shu	1
+拟水晶兰属	ni shui jing lan shu	1
+拟紫草属	ni zi cao shu	1
+念珠芥属	nian zhu jie shu	1
+念珠藤属	nian zhu teng shu	1
+鸟巢兰属	niao chao lan shu	1
+茑萝属	niao luo shu	1
+鸟舌兰属	niao she lan shu	1
+鸟头荠属	niao tou ji shu	1
+鸟足兰属	niao zu lan shu	1
+牛蒡属	niu bang shu	1
+牛鼻栓属	niu bi shuan shu	1
+牛鞭草属	niu bian cao shu	1
+扭柄花属	niu bing hua shu	1
+牛齿兰属	niu chi lan shu	1
+牛果藤属	niu guo teng shu	1
+扭藿香属	niu huo xiang shu	1
+牛角瓜属	niu jiao gua shu	1
+牛角兰属	niu jiao lan shu	1
+牛筋藤属	niu jin teng shu	1
+牛筋条属	niu jin tiao shu	1
+扭靳子	niu jin zi	1
+扭连钱属	niu lian qian shu	1
+牛奶菜属	niu nai cai shu	1
+牛漆姑草属	niu qi gu cao shu	1
+牛舌草属	niu she cao shu	1
+牛栓藤科	niu shuan teng ke	1
+牛栓藤属	niu shuan teng shu	1
+牛膝菊属	niu xi ju shu	1
+牛膝属	niu xi shu	1
+牛眼菊属	niu yan ju shu	1
+牛至属	niu zhi shu	1
+纽子花属	niu zi hua shu	1
+脓疮草属	nong chuang cao shu	1
+暖木条子	nuan mu tiao zi	1
+糯米条	nuo mi tiao	1
+挪威枫	nuo wei feng	1
+挪威云杉	nuo wei yun shan	1
+女蒿属	nv hao shu	1
+女娄菜属	nv lou cai shu	1
+女菀属	nv wan shu	1
+女贞	nv zhen	1
+女贞属	nv zhen shu	1
+欧白芥属	ou bai jie shu	1
+欧当归属	ou dang gui shu	1
+欧防风属	ou fang feng shu	1
+欧李	ou li	1
+欧芹属	ou qin shu	1
+欧夏至草属	ou xia zhi cao shu	1
+欧洲赤松	ou zhou chi song	1
+欧洲椴	ou zhou duan	1
+爬地柏	pa di bai	1
+爬兰属	pa lan shu	1
+爬墙虎	pa qiang hu	1
+爬山虎属	pa shan hu shu	1
+排钱草属	pai qian cao shu	1
+排香草属	pai xiang cao shu	1
+盘果草属	pan guo cao shu	1
+盘果菊属	pan guo ju shu	1
+盘槐	pan huai	1
+炮弹果属	pao dan guo shu	1
+泡果苘属	pao guo qing shu	1
+泡花树属	pao hua shu shu	1
+泡桐	pao tong	1
+炮仗花属	pao zhang hua shu	1
+泡竹属	pao zhu shu	1
+喷瓜属	pen gua shu	1
+盆架树属	pen jia shu shu	1
+盆距兰属	pen ju lan shu	1
+蓬莱藤属	peng lai teng shu	1
+蟚蜞菊属	peng qi ju shu	1
+披硷草属	pi jian cao shu	1
+枇杷	pi pa	1
+枇杷柴属	pi pa chai shu	1
+枇杷属	pi pa shu	1
+偏瓣花属	pian ban hua shu	1
+偏穗姜属	pian sui jiang shu	1
+飘拂草属	piao fu cao shu	1
+平菇	ping gu	1
+苹果	ping guo	1
+苹果属	ping guo shu	1
+瓶花木属	ping hua mu shu	1
+萍蓬草	ping peng cao	1
+萍篷草属	ping peng cao shu	1
+瓶头菊属	ping tou ju shu	1
+平枝栒子	ping zhi xun zi	1
+破布木属	po bu mu shu	1
+珀菊属	po ju shu	1
+坡垒属	po lei shu	1
+坡柳属	po liu shu	1
+婆罗门参属	po luo men can shu	1
+婆婆娜	po po na	1
+坡油甘属	po you gan shu	1
+蒲草属	pu cao shu	1
+铺地柏	pu di bai	1
+蒲公英属	pu gong ying shu	1
+蒲葵属	pu kui shu	1
+朴树属	pu shu shu	1
+葡萄	pu tao	1
+葡萄科	pu tao ke	1
+葡萄属	pu tao shu	1
+蒲桃属	pu tao shu	1
+蒲苇属	pu wei shu	1
+蕲艾属	qi ai shu	1
+七瓣莲属	qi ban lian shu	1
+旗唇兰属	qi chun lan shu	1
+齐墩果	qi dun guo	1
+旗竿芥属	qi gan jie shu	1
+漆姑草属	qi gu cao shu	1
+鳍蓟属	qi ji shu	1
+七角白蔹	qi jiao bai lian	1
+七姐妹	qi jie mei	1
+七筋菇属	qi jin gu shu	1
+麒麟尾属	qi lin wei shu	1
+桤木	qi mu	1
+棋盘花属	qi pan hua shu	1
+歧伞花属	qi san hua shu	1
+歧伞菊属	qi san ju shu	1
+槭属	qi shu	1
+漆树	qi shu	1
+槭树科	qi shu ke	1
+漆树科	qi shu ke	1
+漆树属	qi shu shu	1
+齐头绒属	qi tou rong shu	1
+七叶树	qi ye shu	1
+七叶树科	qi ye shu ke	1
+七叶树属	qi ye shu shu	1
+祈州漏卢属	qi zhou lou lu shu	1
+棋子豆属	qi zi dou shu	1
+七子花属	qi zi hua shu	1
+洽草属	qia cao shu	1
+铅笔柏	qian bi bai	1
+茜草科	qian cao ke	1
+茜草属	qian cao shu	1
+前胡属	qian hu shu	1
+钳喙兰瞩	qian hui lan zhu	1
+千解草属	qian jie cao shu	1
+千斤拔属	qian jin ba shu	1
+千金藤属	qian jin teng shu	1
+千金榆	qian jin yu	1
+千金子属	qian jin zi shu	1
+黔苣苔属	qian ju tai shu	1
+千里光属	qian li guang shu	1
+荨麻科	qian ma ke	1
+荨麻属	qian ma shu	1
+千年健属	qian nian jian shu	1
+牵牛属	qian niu shu	1
+千屈菜	qian qu cai	1
+千屈菜科	qian qu cai ke	1
+千屈菜属	qian qu cai shu	1
+千日红属	qian ri hong shu	1
+千山山梅花	qian shan shan mei hua	1
+芡实	qian shi	1
+芡实属	qian shi shu	1
+千头柏	qian tou bai	1
+千头椿	qian tou chun	1
+千张纸属	qian zhang zhi shu	1
+千针苋属	qian zhen xian shu	1
+墙草属	qiang cao shu	1
+枪刀药属	qiang dao yao shu	1
+羌活属	qiang huo shu	1
+蔷薇	qiang wei	1
+蔷薇科	qiang wei ke	1
+蔷薇属	qiang wei shu	1
+鞘苞花属	qiao bao hua shu	1
+鞘柄木科	qiao bing mu ke	1
+鞘柄木属	qiao bing mu shu	1
+壳菜果属	qiao cai guo shu	1
+壳斗科	qiao dou ke	1
+鞘花属	qiao hua shu	1
+荞麦属	qiao mai shu	1
+乔木类	qiao mu lei	1
+鞘蕊属	qiao rui shu	1
+茄科	qie ke	1
+伽蓝菜属	qie lan cai shu	1
+窃衣属	qie yi shu	1
+秦岭藤属	qin ling teng shu	1
+芹属	qin shu	1
+芹叶荠属	qin ye ji shu	1
+清风藤科	qing feng teng ke	1
+清风藤属	qing feng teng shu	1
+青冈栎	qing gang li	1
+青荚叶属	qing jia ye shu	1
+青楷槭	qing kai qi	1
+青兰属	qing lan shu	1
+青篱柴属	qing li chai shu	1
+苘麻属	qing ma shu	1
+青梅属	qing mei shu	1
+清明花属	qing ming hua shu	1
+轻木属	qing mu shu	1
+青牛胆属	qing niu dan shu	1
+青钱柳属	qing qian liu shu	1
+青杄云杉	qing qian yun shan	1
+青藤属	qing teng shu	1
+蜻蜓兰属	qing ting lan shu	1
+青桐	qing tong	1
+青葙属	qing xiang shu	1
+青杨	qing yang	1
+琼豆属	qiong dou shu	1
+琼花	qiong hua	1
+琼榄属	qiong lan shu	1
+琼梅属	qiong mei shu	1
+琼楠属	qiong nan shu	1
+筇竹属	qiong zhu shu	1
+琼棕属	qiong zong shu	1
+球柄兰属	qiu bing lan shu	1
+秋分草属	qiu fen cao shu	1
+球根阿魏属	qiu gen a wei shu	1
+球果荠属	qiu guo ji shu	1
+球果藤属	qiu guo teng shu	1
+球果紫堇属	qiu guo zi jin shu	1
+秋海棠科	qiu hai tang ke	1
+秋海棠属	qiu hai tang shu	1
+秋胡颓子	qiu hu tui zi	1
+球花豆属	qiu hua dou shu	1
+毬菊属	qiu ju shu	1
+球兰属	qiu lan shu	1
+球米草属	qiu mi cao shu	1
+秋茄树属	qiu qie shu shu	1
+楸树	qiu shu	1
+球穗草属	qiu sui cao shu	1
+秋英属	qiu ying shu	1
+球柱草属	qiu zhu cao shu	1
+球子草属	qiu zi cao shu	1
+曲苞芋属	qu bao yu shu	1
+曲唇兰属	qu chun lan shu	1
+屈曲花属	qu qu hua shu	1
+曲蕊花属	qu rui hua shu	1
+曲蕊马蓝属	qu rui ma lan shu	1
+曲籽芋属	qu zi yu shu	1
+全唇花属	quan chun hua shu	1
+全唇兰属	quan chun lan shu	1
+全光菊属	quan guang ju shu	1
+全能花属	quan neng hua shu	1
+泉七属	quan qi shu	1
+雀稗属	que bai shu	1
+雀儿豆属	que er dou shu	1
+雀苣属	que ju shu	1
+雀苣苔属	que ju tai shu	1
+雀脷珠属	que li zhu shu	1
+雀麦属	que mai shu	1
+雀梅藤属	que mei teng shu	1
+雀舌黄杨球	que she huang yang qiu	1
+鹊肾树属	que shen shu shu	1
+群心菜属	qun xin cai shu	1
+髯管花属	ran guan hua shu	1
+染木树属	ran mu shu shu	1
+荛花属	rao hua shu	1
+忍冬	ren dong	1
+忍冬科	ren dong ke	1
+忍冬属	ren dong shu	1
+人面子属	ren mian zi shu	1
+人参属	ren shen shu	1
+人字果属	ren zi guo shu	1
+日本地毯草	ri ben di tan cao	1
+日本黑松	ri ben hei song	1
+日本厚朴	ri ben hou pu	1
+日本冷杉	ri ben leng shan	1
+日本柳杉	ri ben liu shan	1
+日本落叶松	ri ben luo ye song	1
+日本晚樱	ri ben wan ying	1
+日本卫矛	ri ben wei mao	1
+日本绣线菊	ri ben xiu xian ju	1
+日本樱花	ri ben ying hua	1
+绒果芹属	rong guo qin shu	1
+绒藜属	rong li shu	1
+绒毛草属	rong mao cao shu	1
+榕属	rong shu	1
+肉苁蓉属	rou cong rong shu	1
+肉豆蔻科	rou dou kou ke	1
+肉荚草属	rou jia cao shu	1
+肉珊瑚属	rou shan hu shu	1
+肉实属	rou shi shu	1
+肉穗草属	rou sui cao shu	1
+肉托果属	rou tuo guo shu	1
+肉药兰属	rou yao lan shu	1
+柔籽草属	rou zi cao shu	1
+乳豆属	ru dou shu	1
+乳突果属	ru tu guo shu	1
+乳菀属	ru wan shu	1
+软骨草属	ruan gu cao shu	1
+软枣子	ruan zao zi	1
+锐齿鼠李	rui chi shu li	1
+蕊木属	rui mu shu	1
+瑞香科	rui xiang ke	1
+瑞香属	rui xiang shu	1
+润肺草属	run fei cao shu	1
+润楠属	run nan shu	1
+箬竹	ruo zhu	1
+箬竹属	ruo zhu shu	1
+洒金柏	sa jin bai	1
+洒金柏球	sa jin bai qiu	1
+赛黑桦	sai hei hua	1
+赛金莲木属	sai jin lian mu shu	1
+赛菊芋属	sai ju yu shu	1
+赛葵属	sai kui shu	1
+赛楠属	sai nan shu	1
+赛山蓝属	sai shan lan shu	1
+三白草	san bai cao	1
+三瓣果属	san ban guo shu	1
+三宝木属	san bao mu shu	1
+三叉刺属	san cha ci shu	1
+伞花木属	san hua mu shu	1
+伞花蔷薇	san hua qiang wei	1
+三尖杉科	san jian shan ke	1
+三尖杉属	san jian shan shu	1
+三角瓣花属	san jiao ban hua shu	1
+三角车属	san jiao che shu	1
+三角枫	san jiao feng	1
+三肋果属	san lei guo shu	1
+三棱栎属	san leng li shu	1
+三裂瓜属	san lie gua shu	1
+三裂叶绣线菊	san lie ye xiu xian ju	1
+三芒草属	san mang cao shu	1
+三毛草属	san mao cao shu	1
+三七草属	san qi cao shu	1
+三七景天	san qi jing tian	1
+三蕊草属	san rui cao shu	1
+三蕊兰属	san rui lan shu	1
+三蕊柳	san rui liu	1
+椮属	san shu	1
+三穗草属	san sui cao shu	1
+三台枸骨球	san tai gou gu qiu	1
+散尾葵属	san wei kui shu	1
+三腺金丝桃属	san xian jin si tao shu	1
+三星果属	san xing guo shu	1
+伞形科	san xing ke	1
+三桠钓樟	san ya diao zhang	1
+三叶地锦	san ye di jin	1
+三叶漆属	san ye qi shu	1
+三叶藤桔属	san ye teng ju shu	1
+桑草属	sang cao shu	1
+桑橙属	sang cheng shu	1
+桑寄生科	sang ji sheng ke	1
+桑寄生属	sang ji sheng shu	1
+桑科	sang ke	1
+桑属	sang shu	1
+色赤杨	se chi yang	1
+色萼花属	se e hua shu	1
+涩荠属	se ji shu	1
+色木槭	se mu qi	1
+沙鞭属	sha bian shu	1
+沙地柏	sha di bai	1
+沙拐枣属	sha guai zao shu	1
+莎禾属	sha he shu	1
+沙棘	sha ji	1
+沙芥属	sha jie shu	1
+沙兰杨	sha lan yang	1
+杉木属	sha mu shu	1
+沙蓬属	sha peng shu	1
+沙朴	sha pu	1
+沙丘草属	sha qiu cao shu	1
+沙参属	sha shen shu	1
+沙松	sha song	1
+沙穗属	sha sui shu	1
+莎菀属	sha wan shu	1
+砂苋属	sha xian shu	1
+砂引草属	sha yin cao shu	1
+沙枣	sha zao	1
+沙针属	sha zhen shu	1
+山白树属	shan bai shu shu	1
+山槟榔属	shan bing lang shu	1
+山橙属	shan cheng shu	1
+山慈姑属	shan ci gu shu	1
+山地榄属	shan di lan shu	1
+山靛属	shan dian shu	1
+山定子	shan ding zi	1
+山豆根属	shan dou gen shu	1
+山矾科	shan fan ke	1
+山柑科	shan gan ke	1
+山拐枣属	shan guai zao shu	1
+山桂花属	shan gui hua shu	1
+山核桃属	shan he tao shu	1
+山荷叶属	shan he ye shu	1
+山黑豆属	shan hei dou shu	1
+山红树属	shan hong shu shu	1
+珊瑚	shan hu	1
+珊瑚菜属	shan hu cai shu	1
+珊瑚花属	shan hu hua shu	1
+山胡椒属	shan hu jiao shu	1
+珊瑚苣苔属	shan hu ju tai shu	1
+珊瑚菌	shan hu jun	1
+珊瑚兰属	shan hu lan shu	1
+珊瑚朴	shan hu pu	1
+珊瑚球	shan hu qiu	1
+珊瑚藤属	shan hu teng shu	1
+山花椒	shan hua jiao	1
+山黄菊属	shan huang ju shu	1
+山黄麻属	shan huang ma shu	1
+山黄皮属	shan huang pi shu	1
+山茴香属	shan hui xiang shu	1
+山鸡谷草属	shan ji gu cao shu	1
+山涧草属	shan jian cao shu	1
+山菅兰属	shan jian lan shu	1
+山姜属	shan jiang shu	1
+山芥属	shan jie shu	1
+杉科	shan ke	1
+山葵属	shan kui shu	1
+山榄科	shan lan ke	1
+山兰属	shan lan shu	1
+山榄属	shan lan shu	1
+山里红	shan li hong	1
+山楝属	shan lian shu	1
+山寥属	shan liao shu	1
+山柳菊属	shan liu ju shu	1
+山柳科	shan liu ke	1
+山琉璃草属	shan liu li cao shu	1
+山柳属	shan liu shu	1
+山龙眼科	shan long yan ke	1
+山龙眼属	shan long yan shu	1
+山萝卜属	shan luo bo shu	1
+山麻杆	shan ma gan	1
+山麻杆属	shan ma gan shu	1
+山蚂蝗属	shan ma huang shu	1
+山麦冬属	shan mai dong shu	1
+山毛桃	shan mao tao	1
+山莓草属	shan mei cao shu	1
+山梅花属	shan mei hua shu	1
+山茉莉芹属	shan mo li qin shu	1
+山柰属	shan nai shu	1
+山牛蒡属	shan niu bang shu	1
+山葡萄	shan pu tao	1
+山芹属	shan qin shu	1
+山桑	shan sang	1
+山珊瑚属	shan shan hu shu	1
+山檨子属	shan she zi shu	1
+扇穗茅属	shan sui mao shu	1
+山桃草属	shan tao cao shu	1
+山桃稠李	shan tao chou li	1
+鳝藤属	shan teng shu	1
+山铜材属	shan tong cai shu	1
+山桐子属	shan tong zi shu	1
+山香属	shan xiang shu	1
+山小桔属	shan xiao ju shu	1
+山杏	shan xing	1
+山芎属	shan xiong shu	1
+山芫荽属	shan yan sui shu	1
+山杨	shan yang	1
+山羊草属	shan yang cao shu	1
+山羊豆属	shan yang dou shu	1
+山羊角树属	shan yang jiao shu shu	1
+杉叶杜鹃属	shan ye du juan shu	1
+杉叶藻科	shan ye zao ke	1
+杉叶藻属	shan ye zao shu	1
+山一笼鸡属	shan yi long ji shu	1
+山樱桃	shan ying tao	1
+山油柑属	shan you gan shu	1
+山萮菜属	shan yu cai shu	1
+山玉兰	shan yu lan	1
+山皂角	shan zao jiao	1
+山楂	shan zha	1
+山楂属	shan zha shu	1
+山茱萸科	shan zhu yu ke	1
+山茱萸属	shan zhu yu shu	1
+山竹子	shan zhu zi	1
+山竹子科	shan zhu zi ke	1
+山竹子科藤黄科	shan zhu zi ke teng huang ke	1
+山竹子属	shan zhu zi shu	1
+商陆科	shang lu ke	1
+商陆属	shang lu shu	1
+上树南星属	shang shu nan xing shu	1
+上天柳	shang tian liu	1
+芍药属	shao yao shu	1
+韶子属	shao zi shu	1
+蛇白蔹	she bai lian	1
+蛇鞭菊	she bian ju	1
+蛇床属	she chuang shu	1
+舌唇苣苔属	she chun ju tai shu	1
+舌唇兰属	she chun lan shu	1
+射干属	she gan shu	1
+蛇根草属	she gen cao shu	1
+蛇根叶属	she gen ye shu	1
+蛇菰科	she gu ke	1
+蛇菰属	she gu shu	1
+舌喙兰属	she hui lan shu	1
+蛇莓属	she mei shu	1
+蛇目菊属	she mu ju shu	1
+蛇葡萄属	she pu tao shu	1
+蛇舌兰属	she she lan shu	1
+蛇藤属	she teng shu	1
+蛇头荠属	she tou ji shu	1
+蛇尾草属	she wei cao shu	1
+射香兰属	she xiang lan shu	1
+舌柱麻属	she zhu ma shu	1
+肾苞草属	shen bao cao shu	1
+肾茶属	shen cha shu	1
+肾果荠属	shen guo ji shu	1
+深山含笑	shen shan han xiao	1
+深山樱	shen shan ying	1
+神香草属	shen xiang cao shu	1
+肾子藤属	shen zi teng shu	1
+省姑油	sheng gu you	1
+省姑油科	sheng gu you ke	1
+胜红蓟属	sheng hong ji shu	1
+升麻属	sheng ma shu	1
+省藤属	sheng teng shu	1
+石斑木属	shi ban mu shu	1
+石笔木属	shi bi mu shu	1
+石菖蒲	shi chang pu	1
+矢车菊属	shi che ju shu	1
+十大功劳属	shi da gong lao shu	1
+湿地松	shi di song	1
+石丁香属	shi ding xiang shu	1
+石豆兰属	shi dou lan shu	1
+十萼花属	shi e hua shu	1
+石柑属	shi gan shu	1
+石海椒属	shi hai jiao shu	1
+石核木属	shi he mu shu	1
+石蝴蝶属	shi hu die shu	1
+石斛属	shi hu shu	1
+石胡荽属	shi hu sui shu	1
+石荠苧属	shi ji ning shu	1
+石椒草属	shi jiao cao shu	1
+什锦丁香	shi jin ding xiang	1
+使君子科	shi jun zi ke	1
+使君子属	shi jun zi shu	1
+柿科	shi ke	1
+石栎	shi li	1
+石栗属	shi li shu	1
+石莲属	shi lian shu	1
+十裂葵属	shi lie kui shu	1
+莳萝属	shi luo shu	1
+石楠	shi nan	1
+石楠球	shi nan qiu	1
+石楠属	shi nan shu	1
+蓍属	shi shu	1
+柿属	shi shu	1
+柿树	shi shu	1
+柿树科	shi shu ke	1
+石蒜	shi suan	1
+石蒜科	shi suan ke	1
+十万错属	shi wan cuo shu	1
+石仙桃属	shi xian tao shu	1
+时钟花科	shi zhong hua ke	1
+时钟花属	shi zhong hua shu	1
+石钟花属	shi zhong hua shu	1
+石竹科	shi zhu ke	1
+石竹属	shi zhu shu	1
+虱子草属	shi zi cao shu	1
+十字花科	shi zi hua ke	1
+十字苣苔属	shi zi ju tai shu	1
+十字爵床属	shi zi jue chuang shu	1
+十姊妹	shi zi mei	1
+柿子树	shi zi shu	1
+石梓属	shi zi shu	1
+手参属	shou can shu	1
+绶草属	shou cao shu	1
+瘦房兰属	shou fang lan shu	1
+守宫木属	shou gong mu shu	1
+寿星桃	shou xing tao	1
+鼠鞭草属	shu bian cao shu	1
+树参属	shu can shu	1
+鼠刺科	shu ci ke	1
+鼠刺属	shu ci shu	1
+蜀桧	shu gui	1
+蜀桧球	shu gui qiu	1
+疏花马蓝属	shu hua ma lan shu	1
+树锦鸡儿	shu jin ji er	1
+蜀葵	shu kui	1
+蜀葵属	shu kui shu	1
+鼠李科	shu li ke	1
+鼠李属	shu li shu	1
+树罗卜属	shu luo bu shu	1
+鼠毛菊属	shu mao ju shu	1
+属名刺参属	shu ming ci shen shu	1
+属名梵天花属	shu ming fan tian hua shu	1
+属名南洋杉属	shu ming nan yang sha shu	1
+曙南芥属	shu nan jie shu	1
+鼠皮树属	shu pi shu shu	1
+鼠曲草属	shu qu cao shu	1
+黍属	shu shu	1
+鼠尾草属	shu wei cao shu	1
+束尾草属	shu wei cao shu	1
+鼠尾粟属	shu wei su shu	1
+薯蓣科	shu yu ke	1
+薯蓣属	shu yu shu	1
+数珠珊瑚属	shu zhu shan hu shu	1
+栓翅芹属	shuan chi qin shu	1
+栓果菊属	shuan guo ju shu	1
+栓果芹属	shuan guo qin shu	1
+栓槲栎	shuan hu li	1
+栓皮栎	shuan pi li	1
+栓皮槭	shuan pi qi	1
+双孢蘑菇	shuang bao mo gu	1
+双臂兰属	shuang bi lan shu	1
+双翅爵床属	shuang chi jue chuang shu	1
+双唇兰属	shuang chun lan shu	1
+双袋兰属	shuang dai lan shu	1
+双盾木属	shuang dun mu shu	1
+双果荠属	shuang guo ji shu	1
+双花草属	shuang hua cao shu	1
+双花木属	shuang hua mu shu	1
+双脊荠属	shuang ji ji shu	1
+双荚决明	shuang jia jue ming	1
+双球芹属	shuang qiu qin shu	1
+双蕊兰属	shuang rui lan shu	1
+双丸兰属	shuang wan lan shu	1
+双柱蛇菰属	shuang zhu she gu shu	1
+双籽藤属	shuang zi teng shu	1
+水柏枝属	shui bai zhi shu	1
+水鳖	shui bie	1
+水鳖科	shui bie ke	1
+水鳖属	shui bie shu	1
+睡菜属	shui cai shu	1
+水车前	shui che qian	1
+水车前属	shui che qian shu	1
+水葱	shui cong	1
+水东哥科	shui dong ge ke	1
+水东哥属	shui dong ge shu	1
+水飞蓟属	shui fei ji shu	1
+水甘草属	shui gan cao shu	1
+水鬼蕉属	shui gui jiao shu	1
+水禾	shui he	1
+水禾属	shui he shu	1
+水葫芦苗属	shui hu lu miao shu	1
+水黄皮属	shui huang pi shu	1
+水茴草属	shui hui cao shu	1
+水棘针属	shui ji zhen shu	1
+水角属	shui jiao shu	1
+水锦树属	shui jin shu shu	1
+水晶兰科	shui jing lan ke	1
+水晶兰属	shui jing lan shu	1
+水蜡	shui la	1
+水腊树	shui la shu	1
+水蜡烛属	shui la zhu shu	1
+睡莲	shui lian	1
+睡莲科	shui lian ke	1
+睡莲属	shui lian shu	1
+水柳属	shui liu shu	1
+水龙属	shui long shu	1
+水马齿科	shui ma chi ke	1
+水马齿属	shui ma chi shu	1
+水麻属	shui ma shu	1
+水麦冬科	shui mai dong ke	1
+水麦冬属	shui mai dong shu	1
+水毛茛属	shui mao gen shu	1
+水茅属	shui mao shu	1
+水芹属	shui qin shu	1
+水青冈属	shui qing gang shu	1
+水青树科	shui qing shu ke	1
+水青树属	shui qing shu shu	1
+水曲柳	shui qu liu	1
+水榕属	shui rong shu	1
+水筛属	shui shai shu	1
+水杉	shui shan	1
+水杉属	shui shan shu	1
+水石衣属	shui shi yi shu	1
+水丝梨属	shui si li shu	1
+水丝麻属	shui si ma shu	1
+水松	shui song	1
+水松属	shui song shu	1
+水苏属	shui su shu	1
+水莎草属	shui suo cao shu	1
+水蓑衣属	shui suo yi shu	1
+水塔花属	shui ta hua shu	1
+水团花属	shui tuan hua shu	1
+水蕹科	shui weng ke	1
+水蕹属	shui weng shu	1
+水苋菜属	shui xian cai shu	1
+水仙属	shui xian shu	1
+水栒子	shui xun zi	1
+水椰属	shui ye shu	1
+水罂粟	shui ying su	1
+水芋	shui yu	1
+水榆	shui yu	1
+水娱蚣属	shui yu gong shu	1
+水芋属	shui yu shu	1
+水玉簪科	shui yu zan ke	1
+水玉簪属	shui yu zan shu	1
+水芫花属	shui yuan hua shu	1
+水蔗草属	shui zhe cao shu	1
+水竹草属	shui zhu cao shu	1
+水竹叶属	shui zhu ye shu	1
+蒴莲属	shuo lian shu	1
+丝瓣芹属	si ban qin shu	1
+四苞蓝属	si bao lan shu	1
+四齿芥属	si chi jie shu	1
+丝粉藻属	si fen zao shu	1
+丝瓜属	si gua shu	1
+四合木属	si he mu shu	1
+四季丁香	si ji ding xiang	1
+四季桂	si ji gui	1
+四季锦带	si ji jin dai	1
+四季竹	si ji zhu	1
+四角果科	si jiao guo ke	1
+丝兰	si lan	1
+丝兰属	si lan shu	1
+思劳竹属	si lao zhu shu	1
+四棱草属	si leng cao shu	1
+四棱豆属	si leng dou shu	1
+四棱荠属	si leng ji shu	1
+四轮香属	si lun xiang shu	1
+四脉麻属	si mai ma shu	1
+思茅藤属	si mao teng shu	1
+丝绵木	si mian mu	1
+丝石竹属	si shi zhu shu	1
+四数金丝桃属	si shu jin si tao shu	1
+四数苣苔属	si shu ju tai shu	1
+四数木科	si shu mu ke	1
+四数木属	si shu mu shu	1
+四台枸骨球	si tai gou gu qiu	1
+四药门花属	si yao men hua shu	1
+丝叶芥属	si ye jie shu	1
+丝叶芹属	si ye qin shu	1
+四照花科	si zhao hua ke	1
+四照花属	si zhao hua shu	1
+嵩草属	song cao shu	1
+松科	song ke	1
+菘蓝属	song lan shu	1
+松萝科	song luo ke	1
+松茸	song rong	1
+松属	song shu	1
+松下兰属	song xia lan shu	1
+溲疏	sou shu	1
+溲疏属	sou shu shu	1
+宿苞豆属	su bao dou shu	1
+宿苞兰属	su bao lan shu	1
+粟草属	su cao shu	1
+宿萼木属	su e mu shu	1
+宿根地被花卉	su gen di bei hua hui	1
+宿根福禄考	su gen fu lu kao	1
+粟麻属	su ma shu	1
+粟米草科	su mi cao ke	1
+粟米草属	su mi cao shu	1
+苏木科	su mu ke	1
+速生柳	su sheng liu	1
+苏铁	su tie	1
+苏铁科	su tie ke	1
+苏铁属	su tie shu	1
+素心腊梅	su xin la mei	1
+素馨属	su xin shu	1
+酸豆属	suan dou shu	1
+酸果蔓属	suan guo man shu	1
+酸脚杆属	suan jiao gan shu	1
+酸模芒属	suan mo mang shu	1
+酸模属	suan mo shu	1
+算盘子属	suan pan zi shu	1
+酸藤子属	suan teng zi shu	1
+酸枣	suan zao	1
+算珠豆属	suan zhu dou shu	1
+酸竹属	suan zhu shu	1
+酸子	suan zi	1
+穗花韭属	sui hua jiu shu	1
+穗花杉属	sui hua shan shu	1
+碎米荠属	sui mi ji shu	1
+笋兰属	sun lan shu	1
+莎草科	suo cao ke	1
+莎草兰属	suo cao lan shu	1
+莎草属	suo cao shu	1
+梭果爵床属	suo guo jue chuang shu	1
+梭梭属	suo suo shu	1
+锁阳属	suo yang shu	1
+梭鱼草	suo yu cao	1
+梭子果属	suo zi guo shu	1
+塔形罗汉松	ta xing luo han song	1
+台地黄属	tai di huang shu	1
+太行花属	tai hang hua shu	1
+太行菊属	tai hang ju shu	1
+泰来藻属	tai lai zao shu	1
+太平花	tai ping hua	1
+台钱草属	tai qian cao shu	1
+苔属	tai shu	1
+台湾杉属	tai wan shan shu	1
+台湾五加属	tai wan wu jia shu	1
+泰竹属	tai zhu shu	1
+坛花兰属	tan hua lan shu	1
+昙花属	tan hua shu	1
+檀栗属	tan li shu	1
+檀梨属	tan li shu	1
+檀属	tan shu	1
+檀香科	tan xiang ke	1
+唐菖蒲属	tang chang pu shu	1
+唐棣属	tang di shu	1
+糖芥属	tang jie shu	1
+棠梨	tang li	1
+糖蜜草属	tang mi cao shu	1
+糖槭	tang qi	1
+唐松草属	tang song cao shu	1
+唐竹属	tang zhu shu	1
+桃儿七属	tao er qi shu	1
+桃花心木属	tao hua xin mu shu	1
+桃金娘科	tao jin niang ke	1
+桃金娘属	tao jin niang shu	1
+桃榄属	tao lan shu	1
+桃色忍冬	tao se ren dong	1
+桃树	tao shu	1
+套叶兰属	tao ye lan shu	1
+桃叶珊瑚	tao ye shan hu	1
+桃叶珊瑚属	tao ye shan hu shu	1
+桃叶卫矛	tao ye wei mao	1
+藤本类	teng ben lei	1
+藤春属	teng chun shu	1
+藤槐属	teng huai shu	1
+藤黄科	teng huang ke	1
+藤梨竹属	teng li zhu shu	1
+藤露兜属	teng lu dou shu	1
+藤麻属	teng ma shu	1
+藤牡丹属	teng mu dan shu	1
+藤漆属	teng qi shu	1
+藤山柳属	teng shan liu shu	1
+腾小檗	teng xiao bo	1
+藤芋属	teng yu shu	1
+藤枣属	teng zao shu	1
+梯牧草属	ti mu cao shu	1
+梯木属	ti mu shu	1
+甜菜属	tian cai shu	1
+田葱科	tian cong ke	1
+田葱属	tian cong shu	1
+天鹅绒黄波罗	tian e rong huang bo luo	1
+田繁缕属	tian fan lv shu	1
+甜瓜属	tian gua shu	1
+甜果藤属	tian guo teng shu	1
+天胡荽属	tian hu sui shu	1
+田基黄属	tian ji huang shu	1
+田基麻科	tian ji ma ke	1
+田基麻属	tian ji ma shu	1
+天芥菜属	tian jie cai shu	1
+田菁属	tian jing shu	1
+甜菊属	tian ju shu	1
+天葵属	tian kui shu	1
+天蓝绣球属	tian lan xiu qiu shu	1
+天料木科	tian liao mu ke	1
+天栌属	tian lu shu	1
+天麻	tian ma	1
+天麻属	tian ma shu	1
+田麻属	tian ma shu	1
+甜茅属	tian mao shu	1
+天门冬属	tian men dong shu	1
+天名精属	tian ming jing shu	1
+天目琼花	tian mu qiong hua	1
+天南星科	tian nan xing ke	1
+天南星属	tian nan xing shu	1
+天女木兰	tian nv mu lan	1
+天人菊属	tian ren ju shu	1
+天山芹属	tian shan qin shu	1
+天山蓍属	tian shan shi shu	1
+天山邪蒿属	tian shan xie hao shu	1
+天山泽芹属	tian shan ze qin shu	1
+天仙藤属	tian xian teng shu	1
+天星藤属	tian xing teng shu	1
+天竺葵属	tian zhu kui shu	1
+条果芥属	tiao guo jie shu	1
+贴梗海棠	tie geng hai tang	1
+铁筷子属	tie kuai zi shu	1
+铁榄属	tie lan shu	1
+铁力木属	tie li mu shu	1
+铁木属	tie mu shu	1
+铁破锣属	tie po luo shu	1
+铁青树科	tie qing shu ke	1
+铁青树属	tie qing shu shu	1
+铁杉属	tie shan shu	1
+铁苋菜属	tie xian cai shu	1
+铁线莲	tie xian lian	1
+铁线莲属	tie xian lian shu	1
+铁线子属	tie xian zi shu	1
+铁仔属	tie zai shu	1
+庭菖蒲属	ting chang pu shu	1
+庭荠属	ting ji shu	1
+葶菊属	ting ju shu	1
+葶苈属	ting li shu	1
+莛子藨属	ting zi biao shu	1
+同瓣草属	tong ban cao shu	1
+筒瓣兰属	tong ban lan shu	1
+铜锤玉带草属	tong chui yu dai cao shu	1
+筒冠花属	tong guan hua shu	1
+桐花树属	tong hua shu shu	1
+筒距兰属	tong ju lan shu	1
+铜色牛肝菌	tong se niu gan jun	1
+筒穗草属	tong sui cao shu	1
+通脱木属	tong tuo mu shu	1
+同心结属	tong xin jie shu	1
+筒轴茅属	tong zhou mao shu	1
+透骨草科	tou gu cao ke	1
+透骨草属	tou gu cao shu	1
+头九节属	tou jiu jie shu	1
+头蕊兰属	tou rui lan shu	1
+头嘴苣属	tou zui ju shu	1
+秃疮花属	tu chuang hua shu	1
+兔唇花属	tu chun hua shu	1
+土丁桂属	tu ding gui shu	1
+兔儿风属	tu er feng shu	1
+兔儿伞属	tu er san shu	1
+土伏苓	tu fu ling	1
+兔苣属	tu ju shu	1
+菟葵属	tu kui shu	1
+土连翘属	tu lian qiao shu	1
+土圞儿属	tu luan er shu	1
+土密树属	tu mi shu shu	1
+土楠属	tu nan shu	1
+土人参属	tu ren can shu	1
+菟丝子属	tu si zi shu	1
+土田七属	tu tian qi shu	1
+兔尾草属	tu wei cao shu	1
+团花属	tuan hua shu	1
+团扇荠属	tuan shan ji shu	1
+豚草属	tun cao shu	1
+臀果木属	tun guo mu shu	1
+驼峰藤属	tuo feng teng shu	1
+脱喙荠属	tuo hui ji shu	1
+托盘幌	tuo pan huang	1
+驼绒藜属	tuo rong li shu	1
+驼舌草属	tuo she cao shu	1
+橐吾属	tuo wu shu	1
+洼瓣花属	wa ban hua shu	1
+娃儿藤属	wa er teng shu	1
+瓦莲属	wa lian shu	1
+瓦松属	wa song shu	1
+万带兰属	wan dai lan shu	1
+豌豆属	wan dou shu	1
+万锋桧	wan feng gui	1
+弯梗芥属	wan geng jie shu	1
+弯管花属	wan guan hua shu	1
+弯果鹤虱属	wan guo he shi shu	1
+晚花杨	wan hua yang	1
+万年蒿	wan nian hao	1
+万年青属	wan nian qing shu	1
+弯蕊芥属	wan rui jie shu	1
+万寿菊属	wan shou ju shu	1
+万寿竹属	wan shou zhu shu	1
+晚香玉属	wan xiang yu shu	1
+弯柱杜鹃属	wan zhu du juan shu	1
+王不留行属	wang bu liu xing shu	1
+菵草属	wang cao shu	1
+望都塔桧	wang du ta gui	1
+网萼木属	wang e mu shu	1
+王莲	wang lian	1
+王莲属	wang lian shu	1
+网球花属	wang qiu hua shu	1
+网籽草属	wang zi cao shu	1
+王棕属	wang zong shu	1
+王族海棠	wang zu hai tang	1
+猬草属	wei cao shu	1
+尾稃草属	wei fu cao shu	1
+苇谷草属	wei gu cao shu	1
+微核草属	wei he cao shu	1
+微花兰属	wei hua lan shu	1
+微花藤属	wei hua teng shu	1
+蝟菊属	wei ju shu	1
+微兰属	wei lan shu	1
+委陵菜属	wei ling cai shu	1
+卫茅	wei mao	1
+卫矛	wei mao	1
+卫矛科	wei mao ke	1
+卫矛属	wei mao shu	1
+尾囊草属	wei nang cao shu	1
+微萍属	wei ping shu	1
+猥实	wei shi	1
+猬实属	wei shi shu	1
+伪针茅属	wei zhen mao shu	1
+葨芝属	wei zhi shu	1
+微柱麻属	wei zhu ma shu	1
+微紫草属	wei zi cao shu	1
+纹苞菊属	wen bao ju shu	1
+文定果属	wen ding guo shu	1
+文冠果	wen guan guo	1
+文冠果属	wen guan guo shu	1
+紊蒿属	wen hao shu	1
+吻兰属	wen lan shu	1
+蚊母	wen mu	1
+蚊母树属	wen mu shu shu	1
+榅桲属	wen po shu	1
+文珠兰属	wen zhu lan shu	1
+莴苣属	wo ju shu	1
+倭竹属	wo zhu shu	1
+雾冰藜属	wu bing li shu	1
+五彩石竹	wu cai shi zhu	1
+五层龙属	wu ceng long shu	1
+五翅莓属	wu chi mei shu	1
+五唇兰属	wu chun lan shu	1
+无刺枸骨	wu ci gou gu	1
+无刺枸骨球	wu ci gou gu qiu	1
+无耳兰属	wu er lan shu	1
+乌饭树科	wu fan shu ke	1
+乌饭树属	wu fan shu shu	1
+五福花科	wu fu hua ke	1
+五福花属	wu fu hua shu	1
+无隔芥属	wu ge jie shu	1
+无根藤属	wu gen teng shu	1
+舞鹤草属	wu he cao shu	1
+无花果	wu hua guo	1
+舞花姜属	wu hua jiang shu	1
+无患子	wu huan zi	1
+无患子科	wu huan zi ke	1
+无患子属	wu huan zi shu	1
+无喙兰属	wu hui lan shu	1
+五加	wu jia	1
+五加科	wu jia ke	1
+五加属	wu jia shu	1
+五角枫	wu jiao feng	1
+无茎荠属	wu jing ji shu	1
+乌桕	wu jiu	1
+乌桕属	wu jiu shu	1
+无距花属	wu ju hua shu	1
+无距兰属	wu ju lan shu	1
+乌口树属	wu kou shu shu	1
+乌蔹莓属	wu lian mei shu	1
+五列木科	wu lie mu ke	1
+五列木属	wu lie mu shu	1
+五膜草属	wu mo cao shu	1
+五蕊寄生属	wu rui ji sheng shu	1
+雾水葛属	wu shui ge shu	1
+乌苏里鼠李	wu su li shu li	1
+乌苏里绣线菊	wu su li xiu xian ju	1
+五台枸骨球	wu tai gou gu qiu	1
+乌檀属	wu tan shu	1
+梧桐	wu tong	1
+梧桐科	wu tong ke	1
+乌头属	wu tou shu	1
+勿忘草属	wu wang cao shu	1
+无尾果属	wu wei guo shu	1
+五味子	wu wei zi	1
+五星花属	wu xing hua shu	1
+无须藤属	wu xu teng shu	1
+五丫果科	wu ya guo ke	1
+五叶地锦	wu ye di jin	1
+无叶兰属	wu ye lan shu	1
+无叶莲科	wu ye lian ke	1
+无忧花属	wu you hua shu	1
+五月茶属	wu yue cha shu	1
+五针松	wu zhen song	1
+无柱兰属	wu zhu lan shu	1
+吴茱萸	wu zhu yu	1
+吴茱萸属	wu zhu yu shu	1
+西安桧	xi an gui	1
+细柄草属	xi bing cao shu	1
+细柄茅属	xi bing mao shu	1
+膝柄木属	xi bing mu shu	1
+细柄芋属	xi bing yu shu	1
+西伯利亚小檗	xi bo li ya xiao bo	1
+喜冬草属	xi dong cao shu	1
+西番莲科	xi fan lian ke	1
+西番莲属	xi fan lian shu	1
+西府海棠	xi fu hai tang	1
+西瓜属	xi gua shu	1
+喜光花属	xi guang hua shu	1
+细画眉草属	xi hua mei cao shu	1
+锡兰莲属	xi lan lian shu	1
+细裂芹属	xi lie qin shu	1
+喜林芋属	xi lin yu shu	1
+锡生藤属	xi sheng teng shu	1
+喜树	xi shu	1
+喜树属	xi shu shu	1
+溪桫属	xi suo shu	1
+希藤科	xi teng ke	1
+希藤科翅子藤科	xi teng ke chi zi teng ke	1
+豨莶属	xi xian shu	1
+细辛属	xi xin shu	1
+喜盐草属	xi yan cao shu	1
+细叶胡枝子	xi ye hu zhi zi	1
+细叶锦鸡儿	xi ye jin ji er	1
+细叶芹属	xi ye qin shu	1
+细叶莎草	xi ye suo cao	1
+锡叶藤属	xi ye teng shu	1
+细叶小檗	xi ye xiao bo	1
+喜雨草属	xi yu cao shu	1
+细圆藤属	xi yuan teng shu	1
+细柱柳	xi zhu liu	1
+细子龙属	xi zi long shu	1
+狭瓣木属	xia ban mu shu	1
+狭管紫草属	xia guan zi cao shu	1
+虾海藻属	xia hai zao shu	1
+虾脊兰属	xia ji lan shu	1
+夏鹃	xia juan	1
+夏枯草属	xia ku cao shu	1
+夏蜡梅属	xia la mei shu	1
+虾钳菜属	xia qian cai shu	1
+狭腔芹属	xia qiang qin shu	1
+下田菊属	xia tian ju shu	1
+虾须草属	xia xu cao shu	1
+夏须草属	xia xu cao shu	1
+狭叶朴	xia ye pu	1
+狭叶十大功劳	xia ye shi da gong lao	1
+虾衣花属	xia yi hua shu	1
+夏至草属	xia zhi cao shu	1
+虾子花属	xia zi hua shu	1
+鲜卑花属	xian bei hua shu	1
+腺萼木属	xian e mu shu	1
+腺梗菜属	xian geng cai shu	1
+纤冠藤属	xian guan teng shu	1
+线果芥属	xian guo jie shu	1
+腺果藤属	xian guo teng shu	1
+鲜黄连属	xian huang lian shu	1
+苋科	xian ke	1
+仙茅科	xian mao ke	1
+仙茅属	xian mao shu	1
+蚬木属	xian mu shu	1
+仙女木属	xian nv mu shu	1
+仙人掌科	xian ren zhang ke	1
+仙人掌属	xian ren zhang shu	1
+仙人柱属	xian ren zhu shu	1
+苋属	xian shu	1
+线叶菊属	xian ye ju shu	1
+腺叶藤属	xian ye teng shu	1
+线柱苣苔属	xian zhu ju tai shu	1
+线柱兰属	xian zhu lan shu	1
+显子草属	xian zi cao shu	1
+线嘴苣属	xian zui ju shu	1
+香柏	xiang bai	1
+香茶藨子	xiang cha biao zi	1
+香茶菜属	xiang cha cai shu	1
+香茶属	xiang cha shu	1
+香椿	xiang chun	1
+香椿属	xiang chun shu	1
+象耳豆属	xiang er dou shu	1
+香芙木属	xiang fu mu shu	1
+香根草属	xiang gen cao shu	1
+香根芹属	xiang gen qin shu	1
+香菇	xiang gu	1
+香果兰属	xiang guo lan shu	1
+香果树属	xiang guo shu shu	1
+香花槐	xiang hua huai	1
+香花芥属	xiang hua jie shu	1
+香花藤属	xiang hua teng shu	1
+香槐属	xiang huai shu	1
+香简草属	xiang jian cao shu	1
+橡胶树属	xiang jiao shu shu	1
+香芥属	xiang jie shu	1
+香科科属	xiang ke ke shu	1
+香兰属	xiang lan shu	1
+香茅属	xiang mao shu	1
+香泡	xiang pao	1
+香蒲	xiang pu	1
+香蒲科	xiang pu ke	1
+香蒲属	xiang pu shu	1
+香茜科	xiang qian ke	1
+香茜科四角果科	xiang qian ke si jiao guo ke	1
+香茜属	xiang qian shu	1
+香青属	xiang qing shu	1
+向日葵属	xiang ri kui shu	1
+香肉果属	xiang rou guo shu	1
+香茹属	xiang ru shu	1
+香薷属	xiang ru shu	1
+相思子属	xiang si zi shu	1
+香桃木属	xiang tao mu shu	1
+象腿蕉属	xiang tui jiao shu	1
+香豌豆属	xiang wan dou shu	1
+香雪兰属	xiang xue lan shu	1
+香雪球属	xiang xue qiu shu	1
+象牙参属	xiang ya can shu	1
+香杨	xiang yang	1
+香叶木属	xiang ye mu shu	1
+香樟	xiang zhang	1
+香竹属	xiang zhu shu	1
+小白菊属	xiao bai ju shu	1
+小苞爵床属	xiao bao jue chuang shu	1
+小檗科	xiao bo ke	1
+小檗属	xiao bo shu	1
+小草属	xiao cao shu	1
+小疮菊属	xiao chuang ju shu	1
+小二仙草科	xiao er xian cao ke	1
+小二仙草属	xiao er xian cao shu	1
+小甘菊属	xiao gan ju shu	1
+小勾儿茶属	xiao gou er cha shu	1
+小冠花属	xiao guan hua shu	1
+小冠熏属	xiao guan xun shu	1
+小果滨藜属	xiao guo bin li shu	1
+小红柳	xiao hong liu	1
+小花苣苔属	xiao hua ju tai shu	1
+小花溲疏	xiao hua sou shu	1
+小花藤属	xiao hua teng shu	1
+小黄管属	xiao huang guan shu	1
+小黄菊属	xiao huang ju shu	1
+小黄柳	xiao huang liu	1
+小金梅草属	xiao jin mei cao shu	1
+肖槿属	xiao jin shu	1
+小堇棕属	xiao jin zong shu	1
+小楷槭	xiao kai qi	1
+小葵子属	xiao kui zi shu	1
+肖榄属	xiao lan shu	1
+小蓝雪花属	xiao lan xue hua shu	1
+小丽草属	xiao li cao shu	1
+肖柃属	xiao ling shu	1
+肖笼鸡属	xiao long ji shu	1
+小麦属	xiao mai shu	1
+肖牧根草属	xiao mu gen cao shu	1
+小盘木属	xiao pan mu shu	1
+小蓬属	xiao peng shu	1
+肖蒲桃属	xiao pu tao shu	1
+小牵牛属	xiao qian niu shu	1
+小芹属	xiao qin shu	1
+小青杨	xiao qing yang	1
+肖乳香属	xiao ru xiang shu	1
+小舌菊属	xiao she ju shu	1
+小石积属	xiao shi ji shu	1
+小狮子草属	xiao shi zi cao shu	1
+小蒜芥属	xiao suan jie shu	1
+小牙草属	xiao ya cao shu	1
+小叶扶芳藤	xiao ye fu fang teng	1
+小叶黄杨	xiao ye huang yang	1
+小叶黄杨球	xiao ye huang yang qiu	1
+小叶锦鸡儿	xiao ye jin ji er	1
+小叶女贞球	xiao ye nv zhen qiu	1
+小叶朴	xiao ye pu	1
+小叶鼠李	xiao ye shu li	1
+小叶杨	xiao ye yang	1
+小野芝麻属	xiao ye zhi ma shu	1
+小叶栀子花	xiao ye zhi zi hua	1
+肖鸢尾属	xiao yuan wei shu	1
+小芸木属	xiao yun mu shu	1
+小珍珠兰	xiao zhen zhu lan	1
+小柱芥属	xiao zhu jie shu	1
+筱竹属	xiao zhu shu	1
+肖竹芋属	xiao zhu yu shu	1
+小紫珠	xiao zi zhu	1
+缬草属	xie cao shu	1
+斜萼草属	xie e cao shu	1
+斜果菊属	xie guo ju shu	1
+邪蒿属	xie hao shu	1
+蟹甲草属	xie jia cao shu	1
+蝎尾菊属	xie wei ju shu	1
+斜翼科	xie yi ke	1
+斜翼属	xie yi shu	1
+楔颖草属	xie ying cao shu	1
+蟹爪兰属	xie zhao lan shu	1
+斜柱苣苔属	xie zhu ju tai shu	1
+蝎子草属	xie zi cao shu	1
+新蝶豆属	xin die dou shu	1
+心萼薯属	xin e shu shu	1
+新耳草属	xin er cao shu	1
+新风轮属	xin feng lun shu	1
+辛果漆属	xin guo qi shu	1
+新疆藜属	xin jiang li shu	1
+新疆杨	xin jiang yang	1
+新麦草属	xin mai cao shu	1
+新木姜子属	xin mu jiang zi shu	1
+辛木属	xin mu shu	1
+新塔花属	xin ta hua shu	1
+新乌檀属	xin wu tan shu	1
+新型兰属	xin xing lan shu	1
+心叶石蚕属	xin ye shi can shu	1
+心翼果属	xin yi guo shu	1
+新樟属	xin zhang shu	1
+兴安茶藨子	xing an cha biao zi	1
+兴安胡枝子	xing an hu zhi zi	1
+兴安落叶松	xing an luo ye song	1
+杏鲍菇	xing bao gu	1
+荇菜	xing cai	1
+莕菜科	xing cai ke	1
+莕菜属	xing cai shu	1
+星果草属	xing guo cao shu	1
+星果紫草属	xing guo zi cao shu	1
+星花草属	xing hua cao shu	1
+星毛珍珠梅	xing mao zhen zhu mei	1
+杏梅	xing mei	1
+杏树	xing shu	1
+星叶科	xing ye ke	1
+星叶属	xing ye shu	1
+星玉兰	xing yu lan	1
+绣球防风属	xiu qiu fang feng shu	1
+绣球科	xiu qiu ke	1
+绣球茜属	xiu qiu qian shu	1
+绣球属	xiu qiu shu	1
+绣球绣线菊	xiu qiu xiu xian ju	1
+绣线菊	xiu xian ju	1
+绣线菊属	xiu xian ju shu	1
+绣线梅	xiu xian mei	1
+绣线梅属	xiu xian mei shu	1
+秀柱花属	xiu zhu hua shu	1
+须花藤属	xu hua teng shu	1
+絮菊属	xu ju shu	1
+须芒草属	xu mang cao shu	1
+须药藤属	xu yao teng shu	1
+萱草	xuan cao	1
+萱草属	xuan cao shu	1
+旋覆花属	xuan fu hua shu	1
+悬钩子	xuan gou zi	1
+悬钩子属	xuan gou zi shu	1
+旋花豆属	xuan hua dou shu	1
+旋花科	xuan hua ke	1
+旋花属	xuan hua shu	1
+绚丽海棠	xuan li hai tang	1
+悬铃花属	xuan ling hua shu	1
+悬铃木	xuan ling mu	1
+悬铃木科	xuan ling mu ke	1
+悬铃木属	xuan ling mu shu	1
+玄参科	xuan shen ke	1
+旋蒴苣苔属	xuan shuo ju tai shu	1
+悬竹属	xuan zhu shu	1
+雪胆属	xue dan shu	1
+穴果木属	xue guo mu shu	1
+雪花属	xue hua shu	1
+雪柳	xue liu	1
+雪柳属	xue liu shu	1
+穴盘木属	xue pan mu shu	1
+雪片莲属	xue pian lian shu	1
+血水草属	xue shui cao shu	1
+穴丝荠属	xue si ji shu	1
+雪松	xue song	1
+雪松属	xue song shu	1
+血桐属	xue tong shu	1
+血苋属	xue xian shu	1
+雪香兰属	xue xiang lan shu	1
+血叶兰属	xue ye lan shu	1
+熏倒牛属	xun dao niu shu	1
+蕈树属	xun shu shu	1
+薰衣草属	xun yi cao shu	1
+栒子木	xun zi mu	1
+栒子属	xun zi shu	1
+崖柏属	ya bai shu	1
+鸦葱属	ya cong shu	1
+亚当海棠	ya dang hai tang	1
+崖豆藤属	ya dou teng shu	1
+鸭儿芹属	ya er qin shu	1
+亚飞廉属	ya fei lian shu	1
+崖角藤属	ya jiao teng shu	1
+鸭咀花属	ya ju hua shu	1
+亚麻荠属	ya ma ji shu	1
+亚麻科	ya ma ke	1
+亚麻属	ya ma shu	1
+鸭茅属	ya mao shu	1
+崖摩属	ya mo shu	1
+崖爬藤属	ya pa teng shu	1
+丫蕊花属	ya rui hua shu	1
+鸭舌黄属	ya she huang shu	1
+崖藤属	ya teng shu	1
+鸭跖草科	ya zhi cao ke	1
+鸭跖草属	ya zhi cao shu	1
+鸦跖花属	ya zhi hua shu	1
+鸭嘴草属	ya zui cao shu	1
+岩参属	yan can shu	1
+岩菖蒲属	yan chang pu shu	1
+岩匙属	yan chi shu	1
+盐豆木属	yan dou mu shu	1
+岩风属	yan feng shu	1
+盐肤木	yan fu mu	1
+岩高兰科	yan gao lan ke	1
+岩高兰属	yan gao lan shu	1
+沿沟草属	yan gou cao shu	1
+岩黄蓍属	yan huang shi shu	1
+岩黄树属	yan huang shu shu	1
+盐角草属	yan jiao cao shu	1
+沿阶草属	yan jie cao shu	1
+盐节木属	yan jie mu shu	1
+盐芥属	yan jie shu	1
+岩菊属	yan ju shu	1
+延龄草科	yan ling cao ke	1
+延龄草属	yan ling cao shu	1
+偃麦草属	yan mai cao shu	1
+燕麦草属	yan mai cao shu	1
+燕麦属	yan mai shu	1
+岩梅科	yan mei ke	1
+岩梅属	yan mei shu	1
+盐蓬属	yan peng shu	1
+盐千屈菜属	yan qian qu cai shu	1
+燕茜属	yan qian shu	1
+岩扇属	yan shan shu	1
+岩上珠属	yan shang zhu shu	1
+盐生草属	yan sheng cao shu	1
+眼树莲属	yan shu lian shu	1
+盐穗木属	yan sui mu shu	1
+芫荽属	yan sui shu	1
+烟筒花属	yan tong hua shu	1
+岩芋属	yan yu shu	1
+盐爪爪属	yan zhao zhao shu	1
+眼子菜	yan zi cai	1
+眼子菜科	yan zi cai ke	1
+眼子菜属	yan zi cai shu	1
+洋椿属	yang chun shu	1
+羊肚菌	yang du jun	1
+羊耳蒜属	yang er suan shu	1
+洋狗尾草属	yang gou wei cao shu	1
+羊胡子草属	yang hu zi cao shu	1
+羊角拗属	yang jiao niu shu	1
+羊角芹属	yang jiao qin shu	1
+杨柳科	yang liu ke	1
+羊茅属	yang mao shu	1
+杨梅	yang mei	1
+杨梅科	yang mei ke	1
+杨梅球	yang mei qiu	1
+杨梅属	yang mei shu	1
+杨属	yang shu	1
+阳桃属	yang tao shu	1
+羊蹄甲属	yang ti jia shu	1
+杨桐属	yang tong shu	1
+腰骨藤属	yao gu teng shu	1
+腰果属	yao guo shu	1
+耀花豆属	yao hua dou shu	1
+药囊花属	yao nang hua shu	1
+药水苏属	yao shui su shu	1
+野百合属	ye bai he shu	1
+野扁豆属	ye bian dou shu	1
+野长蒲属	ye chang pu shu	1
+叶底珠	ye di zhu	1
+叶底珠属	ye di zhu shu	1
+野靛棵属	ye dian ke shu	1
+野丁香属	ye ding xiang shu	1
+野独活属	ye du huo shu	1
+野古草属	ye gu cao shu	1
+野菰属	ye gu shu	1
+野海棠属	ye hai tang shu	1
+腋花芥属	ye hua jie shu	1
+叶花苣苔属	ye hua ju tai shu	1
+夜花属	ye hua shu	1
+夜花藤属	ye hua teng shu	1
+野茭白	ye jiao bai	1
+叶苣苔属	ye ju tai shu	1
+野决明属	ye jue ming shu	1
+夜来香属	ye lai xiang shu	1
+野梨	ye li	1
+叶轮木属	ye lun mu shu	1
+野玫瑰	ye mei gui	1
+野茉莉科	ye mo li ke	1
+野牡丹科	ye mu dan ke	1
+野牡丹属	ye mu dan shu	1
+野木瓜属	ye mu gua shu	1
+野牛草属	ye niu cao shu	1
+业平竹属	ye ping zhu shu	1
+野青茅属	ye qing mao shu	1
+野扇花属	ye shan hua shu	1
+野生金针菇	ye sheng jin zhen gu	1
+野黍属	ye shu shu	1
+野桐属	ye tong shu	1
+叶下珠属	ye xia zhu shu	1
+野芝麻属	ye zhi ma shu	1
+野珠兰属	ye zhu lan shu	1
+叶子花属	ye zi hua shu	1
+椰子属	ye zi shu	1
+一本芒属	yi ben mang shu	1
+虉草属	yi cao shu	1
+异唇兰属	yi chun lan shu	1
+一担柴属	yi dan chai shu	1
+一点红属	yi dian hong shu	1
+异萼木属	yi e mu shu	1
+异果刺草属	yi guo ci cao shu	1
+异果芥属	yi guo jie shu	1
+翼核木属	yi he mu shu	1
+异花草属	yi hua cao shu	1
+蚁花属	yi hua shu	1
+仪花属	yi hua shu	1
+异喙菊属	yi hui ju shu	1
+翼茎草属	yi jing cao shu	1
+依兰属	yi lan shu	1
+伊乐藻	yi le zao	1
+伊犁花属	yi li hua shu	1
+伊犁芹属	yi li qin shu	1
+翼蓼属	yi liao shu	1
+异裂菊属	yi lie ju shu	1
+异芒菊属	yi mang ju shu	1
+益母草属	yi mu cao shu	1
+异木患属	yi mu huan shu	1
+翼朴属	yi pu shu	1
+异蕊草属	yi rui cao shu	1
+异蕊芥属	yi rui jie shu	1
+翼首花属	yi shou hua shu	1
+异腺草属	yi xian cao shu	1
+异型菊属	yi xing ju shu	1
+异形木属	yi xing mu shu	1
+异燕麦属	yi yan mai shu	1
+意杨	yi yang	1
+异药花属	yi yao hua shu	1
+翼药花属	yi yao hua shu	1
+异药芥属	yi yao jie shu	1
+异叶苣苔属	yi ye ju tai shu	1
+异野芝麻属	yi ye zhi ma shu	1
+薏苡属	yi yi shu	1
+栘衣属	yi yi shu	1
+异颖草属	yi ying cao shu	1
+一枝黄花属	yi zhi huang hua shu	1
+异钟花属	yi zhong hua shu	1
+异子蓬属	yi zi peng shu	1
+银白杨	yin bai yang	1
+隐棒花属	yin bang hua shu	1
+银边黄杨球	yin bian huang yang qiu	1
+银柴属	yin chai shu	1
+银耳	yin er	1
+银钩花属	yin gou hua shu	1
+银桂	yin gui	1
+银合欢属	yin he huan shu	1
+隐花草属	yin hua cao shu	1
+银桦属	yin hua shu	1
+银胶菊属	yin jiao ju shu	1
+隐棱芹属	yin leng qin shu	1
+银莲花属	yin lian hua shu	1
+银脉爵床属	yin mai jue chuang shu	1
+隐盘芹属	yin pan qin shu	1
+银槭	yin qi	1
+阴山荠属	yin shan ji shu	1
+银杉属	yin shan shu	1
+银穗草属	yin sui cao shu	1
+银杏	yin xing	1
+银杏科	yin xing ke	1
+银杏属	yin xing shu	1
+银须草属	yin xu cao shu	1
+淫羊藿属	yin yang huo shu	1
+隐翼科	yin yi ke	1
+隐翼属	yin yi shu	1
+茵芋属	yin yu shu	1
+银中杨	yin zhong yang	1
+隐柱兰属	yin zhu lan shu	1
+隐子草属	yin zi cao shu	1
+隐子芥属	yin zi jie shu	1
+硬草属	ying cao shu	1
+迎春	ying chun	1
+硬骨草属	ying gu cao shu	1
+硬骨凌霄属	ying gu ling xiao shu	1
+英国梧桐	ying guo wu tong	1
+硬核属	ying he shu	1
+樱花	ying hua	1
+樱井草科	ying jing cao ke	1
+樱井草科无叶莲科	ying jing cao ke wu ye lian ke	1
+樱井草属	ying jing cao shu	1
+鹰咀豆属	ying ju dou shu	1
+硬皮豆属	ying pi dou shu	1
+迎山红	ying shan hong	1
+罂粟科	ying su ke	1
+罂粟莲花属	ying su lian hua shu	1
+罂粟属	ying su shu	1
+樱桃	ying tao	1
+樱桃属	ying tao shu	1
+英桐	ying tong	1
+鹰爪豆属	ying zhao dou shu	1
+鹰爪花属	ying zhao hua shu	1
+蝇子草属	ying zi cao shu	1
+永瓣藤属	yong ban teng shu	1
+蛹虫草	yong chong cao	1
+鼬瓣花属	you ban hua shu	1
+油丹属	you dan shu	1
+油点草属	you dian cao shu	1
+疣冠麻属	you guan ma shu	1
+油果樟属	you guo zhang shu	1
+油麻藤	you ma teng	1
+油芒属	you mang shu	1
+柚木属	you mu shu	1
+油楠属	you nan shu	1
+油杉寄生属	you shan ji sheng shu	1
+油杉属	you shan shu	1
+莸属	you shu	1
+油松	you song	1
+油桐属	you tong shu	1
+油渣果属	you zha guo shu	1
+莠竹属	you zhu shu	1
+油棕属	you zong shu	1
+鱼鳔槐	yu biao huai	1
+鱼鳔槐属	yu biao huai shu	1
+羽唇兰属	yu chun lan shu	1
+玉带草	yu dai cao	1
+羽萼木属	yu e mu shu	1
+玉凤花属	yu feng hua shu	1
+娱蚣草属	yu gong cao shu	1
+鱼骨木属	yu gu mu shu	1
+鱼黄草属	yu huang cao shu	1
+榆黄蘑	yu huang mo	1
+郁金香属	yu jin xiang shu	1
+雨久花科	yu jiu hua ke	1
+雨久花属	yu jiu hua shu	1
+榆桔属	yu ju shu	1
+榆科	yu ke	1
+芋兰属	yu lan shu	1
+盂兰属	yu lan shu	1
+郁李	yu li	1
+玉帘属	yu lian shu	1
+羽裂荠属	yu lie ji shu	1
+鱼鳞云松	yu lin yun song	1
+玉铃花	yu ling hua	1
+榆绿木属	yu lv mu shu	1
+羽芒菊属	yu mang ju shu	1
+羽毛枫	yu mao feng	1
+玉蕊科	yu rui ke	1
+玉蕊属	yu rui shu	1
+羽扇豆属	yu shan dou shu	1
+玉山竹属	yu shan zhu shu	1
+芋属	yu shu	1
+榆属	yu shu	1
+雨树属	yu shu shu	1
+玉蜀黍属	yu shu shu shu	1
+羽穗草属	yu sui cao shu	1
+鱼藤属	yu teng shu	1
+鱼尾葵属	yu wei kui shu	1
+鱼眼草属	yu yan cao shu	1
+榆叶白鹃梅	yu ye bai juan mei	1
+羽叶点地梅属	yu ye dian di mei shu	1
+玉叶金花属	yu ye jin hua shu	1
+榆叶梅	yu ye mei	1
+榆叶朴	yu ye pu	1
+羽叶楸属	yu ye qiu shu	1
+羽叶五加属	yu ye wu jia shu	1
+羽衣草属	yu yi cao shu	1
+玉簪	yu zan	1
+玉簪属	yu zan shu	1
+圆柏	yuan bai	1
+圆柏属	yuan bai shu	1
+元宝槭	yuan bao qi	1
+圆唇苣苔属	yuan chun ju tai shu	1
+鸢尾	yuan wei	1
+鸢尾科	yuan wei ke	1
+鸢尾兰属	yuan wei lan shu	1
+鸢尾属	yuan wei shu	1
+园叶泽苔	yuan ye ze tai	1
+远志科	yuan zhi ke	1
+远志属	yuan zhi shu	1
+圆籽荷属	yuan zi he shu	1
+月光花属	yue guang hua shu	1
+月桂属	yue gui shu	1
+岳桦	yue hua	1
+月季	yue ji	1
+月见草属	yue jian cao shu	1
+越桔科	yue ju ke	1
+云木香属	yun mu xiang shu	1
+云南黄馨	yun nan huang xin	1
+云杉	yun shan	1
+云杉属	yun shan shu	1
+云实科	yun shi ke	1
+云实属	yun shi shu	1
+芸苔属	yun tai shu	1
+芸香草属	yun xiang cao shu	1
+芸香科	yun xiang ke	1
+芸香属	yun xiang shu	1
+云叶兰属	yun ye lan shu	1
+云芝蘑	yun zhi mo	1
+杂交鹃	za jiao juan	1
+雜属	za shu	1
+杂种杨	za zhong yang	1
+仔榄树属	zai lan shu shu	1
+再力花	zai li hua	1
+藏香叶芹属	zang xiang ye qin shu	1
+藏药木属	zang yao mu shu	1
+藻百年属	zao bai nian shu	1
+蚤草属	zao cao shu	1
+早花忍冬	zao hua ren dong	1
+皂荚属	zao jia shu	1
+早锦带花	zao jin dai hua	1
+皂帽花属	zao mao hua shu	1
+枣属	zao shu	1
+枣树	zao shu	1
+早熟禾草	zao shu he cao	1
+早熟禾属	zao shu he shu	1
+早熟禾系列草坪	zao shu he xi lie cao ping	1
+燥原荠属	zao yuan ji shu	1
+早园竹	zao yuan zhu	1
+蚤缀属	zao zhui shu	1
+泽兰属	ze lan shu	1
+泽芹属	ze qin shu	1
+泽苔草属	ze tai cao shu	1
+泽泻	ze xie	1
+泽泻科	ze xie ke	1
+泽泻属	ze xie shu	1
+窄叶绣线菊	zhai ye xiu xian ju	1
+粘木科	zhan mu ke	1
+粘木属	zhan mu shu	1
+旃檀属	zhan tan shu	1
+獐耳细辛属	zhang er xi xin shu	1
+胀果芹属	zhang guo qin shu	1
+长角豆属	zhang jiao dou shu	1
+樟科	zhang ke	1
+獐毛属	zhang mao shu	1
+樟属	zhang shu	1
+樟味藜属	zhang wei li shu	1
+獐牙菜属	zhang ya cai shu	1
+掌叶木属	zhang ye mu shu	1
+掌叶石蚕属	zhang ye shi can shu	1
+掌叶树属	zhang ye shu shu	1
+樟子松	zhang zi song	1
+爪耳木属	zhao er mu shu	1
+沼菊属	zhao ju shu	1
+沼兰属	zhao lan shu	1
+照山白	zhao shan bai	1
+沼生栎	zhao sheng li	1
+爪哇木棉属	zhao wa mu mian shu	1
+照夜白属	zhao ye bai shu	1
+沼原草属	zhao yuan cao shu	1
+折柄茶属	zhe bing cha shu	1
+鹧鸪草属	zhe gu cao shu	1
+鹧鸪花属	zhe gu hua shu	1
+蔗茅属	zhe mao shu	1
+柘树	zhe shu	1
+针苞菊属	zhen bao ju shu	1
+针果芹属	zhen guo qin shu	1
+真姬菇	zhen ji gu	1
+针茅属	zhen mao shu	1
+榛木科	zhen mu ke	1
+榛木属	zhen mu shu	1
+真穗草属	zhen sui cao shu	1
+针叶苋属	zhen ye xian shu	1
+针枝属	zhen zhi shu	1
+珍珠菜属	zhen zhu cai shu	1
+珍珠茅属	zhen zhu mao shu	1
+珍珠梅	zhen zhu mei	1
+珍珠梅属	zhen zhu mei shu	1
+珍珠绣线菊	zhen zhu xiu xian ju	1
+榛子	zhen zi	1
+针子草属	zhen zi cao shu	1
+直瓣苣苔属	zhi ban ju tai shu	1
+直唇姜属	zhi chun jiang shu	1
+指甲花属	zhi jia hua shu	1
+指甲兰属	zhi jia lan shu	1
+枳椇属	zhi ju shu	1
+芝麻菜属	zhi ma cai shu	1
+直芒草属	zhi mang cao shu	1
+知母属	zhi mu shu	1
+治疝草属	zhi shan cao shu	1
+枝实属	zhi shi shu	1
+枳属	zhi shu	1
+止泻木属	zhi xie mu shu	1
+栉叶蒿属	zhi ye hao shu	1
+蜘蛛抱蛋属	zhi zhu bao dan shu	1
+蜘蛛花属	zhi zhu hua shu	1
+蜘蛛兰属	zhi zhu lan shu	1
+栀子花	zhi zi hua	1
+栀子皮属	zhi zi pi shu	1
+栀子属	zhi zi shu	1
+重瓣茶花	zhong ban cha hua	1
+重瓣榆叶梅	zhong ban yu ye mei	1
+肿柄菊属	zhong bing ju shu	1
+中东杨	zhong dong yang	1
+种阜草属	zhong fu cao shu	1
+中国块菌	zhong guo kuai jun	1
+中国种子植物科属词典	zhong guo zhong zi zhi wu ke shu ci dian	1
+钟花草属	zhong hua cao shu	1
+钟花属	zhong hua shu	1
+肿荚豆属	zhong jia dou shu	1
+中美木棉属	zhong mei mu mian shu	1
+钟木属	zhong mu shu	1
+重羽菊属	zhong yu ju shu	1
+舟瓣芹属	zhou ban qin shu	1
+帚灯草科	zhou deng cao ke	1
+舟果荠属	zhou guo ji shu	1
+轴花属	zhou hua shu	1
+帚菊属	zhou ju shu	1
+轴藜属	zhou li shu	1
+轴榈属	zhou lv shu	1
+竹柏	zhu bai	1
+竹柏科罗	zhu bai ke luo	1
+猪菜藤属	zhu cai teng shu	1
+诸葛菜属	zhu ge cai shu	1
+竹根七属	zhu gen qi shu	1
+朱蕉属	zhu jiao shu	1
+竹节蓼属	zhu jie liao shu	1
+竹节树属	zhu jie shu shu	1
+竹茎兰属	zhu jing lan shu	1
+朱兰属	zhu lan shu	1
+猪苓	zhu ling	1
+猪笼草科	zhu long cao ke	1
+猪笼草属	zhu long cao shu	1
+苎麻属	zhu ma shu	1
+猪毛菜属	zhu mao cai shu	1
+蛛网萼属	zhu wang e shu	1
+猪牙花属	zhu ya hua shu	1
+猪腰豆属	zhu yao dou shu	1
+竹叶吉祥草属	zhu ye ji xiang cao shu	1
+竹叶蕉属	zhu ye jiao shu	1
+竹叶兰属	zhu ye lan shu	1
+竹叶子属	zhu ye zi shu	1
+朱缨花属	zhu ying hua shu	1
+竹芋属	zhu yu shu	1
+珠子木属	zhu zi mu shu	1
+砖子苗属	zhuan zi miao shu	1
+锥果芥属	zhui guo jie shu	1
+锥花属	zhui hua shu	1
+锥栗属	zhui li shu	1
+锥茅属	zhui mao shu	1
+锥头麻属	zhui tou ma shu	1
+紫草科	zi cao ke	1
+紫草属	zi cao shu	1
+紫丹属	zi dan shu	1
+紫丁香	zi ding xiang	1
+紫椴	zi duan	1
+紫花锦鸡儿	zi hua jin ji er	1
+紫堇科	zi jin ke	1
+紫金龙属	zi jin long shu	1
+紫金牛科	zi jin niu ke	1
+紫金牛属	zi jin niu shu	1
+紫堇属	zi jin shu	1
+紫荆	zi jing	1
+紫茎兰属	zi jing lan shu	1
+紫荆木属	zi jing mu shu	1
+紫荆属	zi jing shu	1
+子楝树属	zi lian shu shu	1
+紫罗兰属	zi luo lan shu	1
+紫麻属	zi ma shu	1
+紫铆属	zi mao shu	1
+紫茉莉科	zi mo li ke	1
+紫茉莉属	zi mo li shu	1
+紫萍属	zi ping shu	1
+孜然芹属	zi ran qin shu	1
+紫伞芹属	zi san qin shu	1
+紫杉	zi shan	1
+紫杉科	zi shan ke	1
+梓属	zi shu	1
+梓树	zi shu	1
+紫树属	zi shu shu	1
+紫苏属	zi su shu	1
+紫穗槐	zi sui huai	1
+紫穗槐属	zi sui huai shu	1
+紫檀属	zi tan shu	1
+紫藤	zi teng	1
+紫藤属	zi teng shu	1
+紫菀木属	zi wan mu shu	1
+紫万年青属	zi wan nian qing shu	1
+紫菀属	zi wan shu	1
+紫薇	zi wei	1
+紫葳科	zi wei ke	1
+紫葳属	zi wei shu	1
+紫薇属	zi wei shu	1
+紫霞藤属	zi xia teng shu	1
+紫叶矮樱	zi ye ai ying	1
+紫叶稠李	zi ye chou li	1
+紫叶风箱果	zi ye feng xiang guo	1
+紫叶李	zi ye li	1
+紫叶属	zi ye shu	1
+紫叶小檗	zi ye xiao bo	1
+紫叶酢桨草	zi ye zuo jiang cao	1
+紫叶酢浆草	zi ye zuo jiang cao	1
+紫玉兰	zi yu lan	1
+紫玉盘属	zi yu pan shu	1
+紫玉簪	zi yu zan	1
+紫云英属	zi yun ying shu	1
+紫竹	zi zhu	1
+紫珠属	zi zhu shu	1
+总苞草属	zong bao cao shu	1
+棕榈	zong lv	1
+棕榈科	zong lv ke	1
+棕榈属	zong lv shu	1
+鬃尾草属	zong wei cao shu	1
+粽叶芦属	zong ye lu shu	1
+棕竹属	zong zhu shu	1
+菹草	zu cao	1
+足杜兰属	zu du lan shu	1
+钻地风属	zuan di feng shu	1
+钻喙兰属	zuan hui lan shu	1
+钻石海棠	zuan shi hai tang	1
+钻天柳属	zuan tian liu shu	1
+钻天杨	zuan tian yang	1
+钻柱兰属	zuan zhu lan shu	1
+醉魂藤属	zui hun teng shu	1
+醉鱼草属	zui yu cao shu	1
+酢浆草科	zuo jiang cao ke	1
+酢浆草属	zuo jiang cao shu	1
+柞木属	zuo mu shu	1

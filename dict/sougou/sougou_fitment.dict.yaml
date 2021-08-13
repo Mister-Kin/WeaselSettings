@@ -1,0 +1,1409 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - fitment
+# Source: 搜狗细胞词库「家居装修词汇大全【官方推荐】」
+#
+
+---
+name: sougou_fitment
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿里斯顿	a li si dun	1
+爱蒂思	ai di si	1
+艾芙迪	ai fu di	1
+爱格	ai ge	1
+艾华仕	ai hua shi	1
+爱家丽	ai jia li	1
+矮老	ai lao	1
+爱立鑫	ai li xin	1
+艾洛克	ai luo ke	1
+爱蒙	ai meng	1
+爱尼尔	ai ni er	1
+爱普尔	ai pu er	1
+爱舒	ai shu	1
+埃斯特鲁斯	ai si te lu si	1
+矮榻	ai ta	1
+艾特利	ai te li	1
+艾文卡莱	ai wen ka lai	1
+爱易纸布	ai yi zhi bu	1
+安德蒙特	an de meng te	1
+安华	an hua	1
+安尚宜佳	an shang yi jia	1
+暗榫	an sun	1
+案型结构	an xing jie gou	1
+安洋木门	an yang mu men	1
+奥博莱	ao bo lai	1
+奥达森华	ao da sen hua	1
+奥地雅	ao di ya	1
+奥古斯都	ao gu si du	1
+奥古斯汀	ao gu si ting	1
+澳柯玛	ao ke ma	1
+奥丽特	ao li te	1
+澳珀	ao po	1
+奥普	ao pu	1
+澳斯曼	ao si man	1
+奥威阁	ao wei ge	1
+澳伊玛	ao yi ma	1
+澳洲森林	ao zhou sen lin	1
+拔步床	ba bu chuang	1
+巴里巴特	ba li ba te	1
+巴黎闲云	ba li xian yun	1
+吧台支撑	ba tai zhi cheng	1
+百得诗特	bai de shi te	1
+百丰	bai feng	1
+柏高	bai gao	1
+柏家居	bai jia ju	1
+白夹竹	bai jia zhu	1
+百兰	bai lan	1
+柏丽	bai li	1
+佰利特	bai li te	1
+柏丽雅	bai li ya	1
+百年名作坊	bai nian ming zuo fang	1
+百日青	bai ri qing	1
+柏瑞	bai rui	1
+柏斯基	bai si ji	1
+百野	bai ye	1
+柏意居	bai yi ju	1
+百滋	bai zi	1
+半出腿	ban chu tui	1
+板方材	ban fang cai	1
+半高柜	ban gao gui	1
+板式家具	ban shi jia ju	1
+半榫	ban sun	1
+保背健	bao bei jian	1
+宝德风	bao de feng	1
+包豪斯	bao hao si	1
+刨花板家具	bao hua ban jia ju	1
+刨花模压制品	bao hua mo ya zhi pin	1
+宝辉	bao hui	1
+抱肩榫	bao jian sun	1
+包角踏脚	bao jiao ta jiao	1
+宝盛华庭	bao sheng hua ting	1
+宝狮龙	bao shi long	1
+薄型刨花板	bao xing bao hua ban	1
+北方明嘉	bei fang ming jia	1
+北京豪运	bei jing hao yun	1
+北京黑马	bei jing hei ma	1
+北美枫情	bei mei feng qing	1
+北美墙纸	bei mei qiang zhi	1
+北欧艺家	bei ou yi jia	1
+北魏双人榻	bei wei shuang ren ta	1
+倍雅云石	bei ya yun shi	1
+北之光	bei zhi guang	1
+比德斯	bi de si	1
+笔梗椅	bi geng yi	1
+笔管栏杆床	bi guan lan gan chuang	1
+壁架	bi jia	1
+比嘉	bi jia	1
+毕加索雕刻玻璃大师	bi jia suo diao ke bo li da shi	1
+比莱特	bi lai te	1
+必美	bi mei	1
+碧莎	bi sha	1
+比韵	bi yun	1
+壁桌	bi zhuo	1
+变种大头典竹	bian zhong da tou dian zhu	1
+标卓	biao zhuo	1
+别丽美特	bie li mei te	1
+宾迪亚	bin di ya	1
+缤纷地毯	bin fen di tan	1
+冰盘沿	bing pan yan	1
+博瓷轩	bo ci xuan	1
+博尔卡特	bo er ka te	1
+博夫曼	bo fu man	1
+博克来	bo ke lai	1
+博兰瑞克	bo lan rui ke	1
+玻璃空间	bo li kong jian	1
+博亮	bo liang	1
+柏林源	bo lin yuan	1
+博洛尼	bo luo ni	1
+薄木镶嵌家具	bo mu xiang qian jia ju	1
+博齐生活	bo qi sheng huo	1
+波斯经典	bo si jing dian	1
+伯艺创展	bo yi chuang zhan	1
+布兰卡	bu lan ka	1
+步障	bu zhang	1
+菜嫩果爽保鲜盒	cai nen guo shuang bao xian he	1
+彩陶坊	cai tao fang	1
+彩云秀	cai yun xiu	1
+餐室厨房	can shi chu fang	1
+槽片	cao pian	1
+操作厨房	cao zuo chu fang	1
+厕所刷	ce suo shua	1
+层板家具	ceng ban jia ju	1
+层式托牙	ceng shi tuo ya	1
+茶担箱	cha dan xiang	1
+插肩榫	cha jian sun	1
+插角	cha jiao	1
+拆装家具	chai zhuang jia ju	1
+禅床	chan chuang	1
+禅凳	chan deng	1
+禅灯	chan deng	1
+长边短抹	chang bian duan mo	1
+长短榫	chang duan sun	1
+长谷	chang gu	1
+昌丽	chang li	1
+常青艺藤	chang qing yi teng	1
+超辰	chao chen	1
+车脚	che jiao	1
+车围子	che wei zi	1
+成都宣统圆桌	cheng du xuan tong yuan zhuo	1
+承脚	cheng jiao	1
+诚迈	cheng mai	1
+城市人家	cheng shi ren jia	1
+城市之窗	cheng shi zhi chuang	1
+承挽	cheng wan	1
+成型胶合板	cheng xing jiao he ban	1
+痴床	chi chuang	1
+赤水木	chi shui mu	1
+抽替	chou ti	1
+储藏保鲜盒	chu cang bao xian he	1
+厨房家具	chu fang jia ju	1
+厨用冰箱	chu yong bing xiang	1
+川柏	chuan bai	1
+穿带	chuan dai	1
+穿梢	chuan shao	1
+传统家具	chuan tong jia ju	1
+创明	chuang ming	1
+床寝	chuang qin	1
+床头柜	chuang tou gui	1
+锤击丝	chui ji si	1
+炊事操作工序	chui shi cao zuo gong xu	1
+春红	chun hong	1
+春秋木案	chun qiu mu an	1
+春秋木几	chun qiu mu ji	1
+春洲奥德	chun zhou ao de	1
+瓷质家具	ci zhi jia ju	1
+攒边作法	cuan bian zuo fa	1
+攒斗	cuan dou	1
+大班椅	da ban yi	1
+大班桌	da ban zhuo	1
+大边和抹头	da bian he mo tou	1
+大公馆	da gong guan	1
+达海琪鱼缸	da hai qi yu gang	1
+大豪兴利	da hao xing li	1
+大建	da jian	1
+搭脚仔凳	da jiao zai deng	1
+大井陶艺	da jing tao yi	1
+达利世家	da li shi jia	1
+搭脑	da nao	1
+大普	da pu	1
+大唐合盛	da tang he sheng	1
+打洼儿	da wa er	1
+大椅	da yi	1
+大庄	da zhuang	1
+大自然床垫	da zi ran chuang dian	1
+大自然地板	da zi ran di ban	1
+大自然楼梯	da zi ran lou ti	1
+戴达罗斯	dai da luo si	1
+单板层压家具	dan ban ceng ya jia ju	1
+丹得	dan de	1
+丹麦风情	dan mai feng qing	1
+丹麦莎	dan mai sha	1
+丹尼诗	dan ni shi	1
+掸椅	dan yi	1
+单元柜	dan yuan gui	1
+档板	dang ban	1
+刀墩架	dao dun jia	1
+得宝迪赞尼	de bao di zan ni	1
+德尔沙发	de er sha fa	1
+德福诺	de fu nuo	1
+得高	de gao	1
+德国威创	de guo wei chuang	1
+德合家	de he jia	1
+德家	de jia	1
+德嘉博尔诺	de jia bo er nuo	1
+德科龙	de ke long	1
+德立	de li	1
+德美	de mei	1
+德诺克	de nuo ke	1
+德品	de pin	1
+德赛威盾	de sai wei dun	1
+德仕世家	de shi shi jia	1
+德维尔	de wei er	1
+德意	de yi	1
+登堡	deng bao	1
+灯峰造极	deng feng zao ji	1
+灯挂椅	deng gua yi	1
+灯煌	deng huang	1
+灯桌	deng zhuo	1
+帝奥	di ao	1
+底柜	di gui	1
+帝国艺匠	di guo yi jiang	1
+帝皇沙发	di huang sha fa	1
+帝朗	di lang	1
+帝罗	di luo	1
+帝石世家	di shi shi jia	1
+滴水床	di shui chuang	1
+地毯五厂	di tan wu chang	1
+地腿	di tui	1
+迪信	di xin	1
+雕花作	diao hua zuo	1
+吊头	diao tou	1
+蝶几	die ji	1
+叠落香几	die luo xiang ji	1
+迭刹	die sha	1
+定向刨花板	ding xiang bao hua ban	1
+顶箱立柜	ding xiang li gui	1
+鼎信恒通	ding xin heng tong	1
+鼎作	ding zuo	1
+动动佳	dong dong jia	1
+东方百盛	dong fang bai sheng	1
+东方家私	dong fang jia si	1
+东鹏	dong peng	1
+东升	dong sheng	1
+东威利	dong wei li	1
+东易神雕	dong yi shen diao	1
+豆瓣楠	dou ban nan	1
+兜料	dou liao	1
+都研	dou yan	1
+斗帐	dou zhang	1
+杜拉维特	du la wei te	1
+读书桌	du shu zhuo	1
+独座	du zuo	1
+墩木	dun mu	1
+多宝架	duo bao jia	1
+垛边	duo bian	1
+法柏利	fa bai li	1
+法标	fa biao	1
+法典菲尔	fa dian fei er	1
+法恩莎	fa en sha	1
+法国之家	fa guo zhi jia	1
+法洛可	fa luo ke	1
+法尼尼	fa ni ni	1
+法诺亚	fa nuo ya	1
+法狮龙	fa shi long	1
+泛美	fan mei	1
+翻门	fan men	1
+梵思豪宅	fan si hao zhai	1
+凡特思	fan te si	1
+枋材	fang cai	1
+方角柜	fang jiao gui	1
+方太	fang tai	1
+方线珠	fang xian zhu	1
+非常家	fei chang jia	1
+翡翠屏	fei cui ping	1
+菲丽克斯	fei li ke si	1
+菲林格尔	fei lin ge er	1
+菲曼尼	fei man ni	1
+飞乐瀑	fei yue pu	1
+芬兰木业	fen lan mu ye	1
+粉绿竹	fen lv zhu	1
+芬沓纳	fen ta na	1
+凤巢玉石	feng chao yu shi	1
+风阁家居	feng ge jia ju	1
+凤扆	feng yi	1
+富奥克	fu ao ke	1
+富百年	fu bai nian	1
+富宝	fu bao	1
+富得利	fu de li	1
+福尔伊得	fu er yi de	1
+复合胶合板	fu he jiao he ban	1
+富克拉	fu ke la	1
+弗莱蒂斯	fu lai di si	1
+芙莱莎	fu lai sha	1
+富莱斯	fu lai si	1
+富兰迪欧	fu lan di ou	1
+富林	fu lin	1
+富禄	fu lu	1
+福满门	fu man men	1
+覆面家具	fu mian jia ju	1
+福人	fu ren	1
+福润东方	fu run dong fang	1
+负扆	fu yi	1
+黼扆	fu yi	1
+富之岛	fu zhi dao	1
+盖条	gai tiao	1
+改竹圆	gai zhu yuan	1
+赶枨	gan cheng	1
+竿屏	gan ping	1
+钢管家具	gang guan jia ju	1
+港龙洪利	gang long hong li	1
+钢木家具	gang mu jia ju	1
+钢铁家具	gang tie jia ju	1
+高登贵格	gao deng gui ge	1
+高第	gao di	1
+高思特	gao si te	1
+高仪	gao yi	1
+格丰	ge feng	1
+搁几	ge ji	1
+格肩	ge jian	1
+格拉仕伦	ge la shi lun	1
+格蕾格	ge lei ge	1
+格力	ge li	1
+格林美居	ge lin mei ju	1
+搁炉小香几	ge lu xiao xiang ji	1
+哥伦比尼	ge lun bi ni	1
+格美特	ge mei te	1
+格木风	ge mu feng	1
+槅子	ge zi	1
+弓背牙子	gong bei ya zi	1
+宫廷家具	gong ting jia ju	1
+工艺钟	gong yi zhong	1
+拱桌	gong zhuo	1
+勾挂榫	gou gua sun	1
+古地亚	gu di ya	1
+古典园林家具	gu dian yuan lin jia ju	1
+固定式灯台	gu ding shi deng tai	1
+鼓墩	gu dun	1
+顾家工艺	gu jia gong yi	1
+古木源	gu mu yuan	1
+骨牌凳	gu pai deng	1
+姑苏园林家具	gu su yuan lin jia ju	1
+鼓腿彭牙	gu tui peng ya	1
+固友	gu you	1
+古韵	gu yun	1
+刮底	gua di	1
+瓜墩	gua dun	1
+挂杆	gua gan	1
+挂巾面盆架	gua jin mian pen jia	1
+挂巾圆盆架	gua jin yuan pen jia	1
+刮线	gua xian	1
+关刀脚	guan dao jiao	1
+管脚档	guan jiao dang	1
+管线区	guan xian qu	1
+管线组合	guan xian zu he	1
+官箱	guan xiang	1
+广日	guang ri	1
+广森隆	guang sen long	1
+广式家具	guang shi jia ju	1
+广做	guang zuo	1
+柜仓	gui cang	1
+龟床	gui chuang	1
+贵妃榻	gui fei ta	1
+贵人缘	gui ren yuan	1
+鬼子式椅子	gui zi shi yi zi	1
+滚枨脚踏	gun cheng jiao ta	1
+国安佳美	guo an jia mei	1
+国栋	guo dong	1
+国森	guo sen	1
+裹腿枨	guo tui cheng	1
+裹腿做	guo tui zuo	1
+海川水族	hai chuan shui zu	1
+海尔中央空调	hai er zhong yang kong tiao	1
+海菱	hai ling	1
+海天饰品	hai tian shi pin	1
+海韵水族	hai yun shui zu	1
+海之境	hai zhi jing	1
+海做	hai zuo	1
+韩城布艺	han cheng bu yi	1
+汉代陶柜	han dai tao gui	1
+韩国大信	han guo da xin	1
+汉勒	han le	1
+韩丽宅配	han li zhai pei	1
+汉门洞	han men dong	1
+翰明轩	han ming xuan	1
+汉阙工艺	han que gong yi	1
+汉狮	han shi	1
+汉斯格雅	han si ge ya	1
+瀚威阳光	han wei yang guang	1
+韩艺窗帘	han yi chuang lian	1
+好佳益	hao jia yi	1
+好莱客	hao lai ke	1
+好饰帘帘	hao shi lian lian	1
+好运达	hao yun da	1
+豪中豪	hao zhong hao	1
+荷比先生	he bi xian sheng	1
+赫尔班纳	he er ban na	1
+和木居	he mu ju	1
+和室创意	he shi chuang yi	1
+核桃揪	he tao jiu	1
+和玺	he xi	1
+和玺木门	he xi mu men	1
+黑格玛	hei ge ma	1
+黑炭乌钻	hei tan wu zuan	1
+恒春印象	heng chun yin xiang	1
+恒福	heng fu	1
+恒福利	heng fu li	1
+恒洁	heng jie	1
+亨利美家	heng li mei jia	1
+亨特道格拉斯	heng te dao ge la si	1
+恒友	heng you	1
+恒宇宝龙九龙	heng yu bao long jiu long	1
+红古轩	hong gu xuan	1
+弘景	hong jing	1
+鸿利博雅	hong li bo ya	1
+红木家具	hong mu jia ju	1
+红木小件	hong mu xiao jian	1
+宏森	hong sen	1
+弘盛全景曲线地板	hong sheng quan jing qu xian di ban	1
+鸿信御木堂	hong xin yu mu tang	1
+宏宇	hong yu	1
+壶门券口	hu men quan kou	1
+壶瓶牙子	hu ping ya zi	1
+华彩力家	hua cai li jia	1
+华超石材	hua chao shi cai	1
+华帝	hua di	1
+华丰	hua feng	1
+华鹤	hua he	1
+花篮灯	hua lan deng	1
+花篮椅	hua lan yi	1
+华林凯迪	hua lin kai di	1
+华美法罗	hua mei fa luo	1
+华美嘉	hua mei jia	1
+华美居	hua mei ju	1
+华日	hua ri	1
+华润镜	hua run jing	1
+华师傅	hua shi fu	1
+华艺美	hua yi mei	1
+华源轩	hua yuan xuan	1
+环美	huan mei	1
+欢宴四合一	huan yan si he yi	1
+黄波罗	huang bo luo	1
+皇邸	huang di	1
+黄花梨花鸟半桌	huang hua li hua niao ban zhuo	1
+黄花梨靠背椅	huang hua li kao bei yi	1
+黄花梨玫瑰椅	huang hua li mei gui yi	1
+黄花梨弯腿方凳	huang hua li wan tui fang deng	1
+皇家家具	huang jia jia ju	1
+皇家卫浴	huang jia wei yu	1
+皇林苑	huang lin yuan	1
+皇明太阳能	huang ming tai yang neng	1
+汇博顺达	hui bo shun da	1
+惠达	hui da	1
+汇德邦	hui de bang	1
+汇琴	hui qin	1
+楎椸	hui yi	1
+霍尔茨	huo er ci	1
+霍曼	huo man	1
+火弯	huo wan	1
+攲案	ji an	1
+吉福达	ji fu da	1
+集美	ji mei	1
+吉美	ji mei	1
+吉事多	ji shi duo	1
+吉王威	ji wang wei	1
+寄洲九龙	ji zhou jiu long	1
+夹板家具	jia ban jia ju	1
+嘉宝莉	jia bao li	1
+加德尼亚	jia de ni ya	1
+加枫	jia feng	1
+架格	jia ge	1
+嘉豪何室	jia hao he shi	1
+嘉禾韦仑	jia he wei lun	1
+嘉禾装饰	jia he zhuang shi	1
+家佳诚	jia jia cheng	1
+家佳物	jia jia wu	1
+家居故事	jia ju gu shi	1
+佳居乐	jia ju le	1
+家具配套设计	jia ju pei tao she ji	1
+家具生产化学化	jia ju sheng chan hua xue hua	1
+家居用品	jia ju yong pin	1
+家居装饰	jia ju zhuang shi	1
+嘉俊	jia jun	1
+嘉丽宫廷	jia li gong ting	1
+嘉利家	jia li jia	1
+佳美迪	jia mei di	1
+假门	jia men	1
+嘉木堂	jia mu tang	1
+家品	jia pin	1
+佳世博	jia shi bo	1
+夹头榫	jia tou sun	1
+嘉熙	jia xi	1
+家用厨房设备	jia yong chu fang she bei	1
+家用整体厨房	jia yong zheng ti chu fang	1
+佳源恋尔	jia yuan lian er	1
+加州缘	jia zhou yuan	1
+剑脊棱	jian ji leng	1
+健康米仓	jian kang mi cang	1
+建玲	jian ling	1
+箭牌	jian pai	1
+鉴台	jian tai	1
+健威	jian wei	1
+简一	jian yi	1
+桨腿	jiang tui	1
+匠心坊	jiang xin fang	1
+交床	jiao chuang	1
+脚床子	jiao chuang zi	1
+交杌	jiao wu	1
+脚牙	jiao ya	1
+角牙	jiao ya	1
+轿椅	jiao yi	1
+交倚	jiao yi	1
+结构部件	jie gou bu jian	1
+洁兰	jie lan	1
+洁兰特	jie lan te	1
+接桌	jie zhuo	1
+金百利	jin bai li	1
+金宝华	jin bao hua	1
+金伯莉	jin bo li	1
+金诚永信	jin cheng yong xin	1
+金达维沙华	jin da wei sha hua	1
+金鼎慧龙	jin ding hui long	1
+金舵	jin duo	1
+金富丽	jin fu li	1
+金富雅	jin fu ya	1
+金钢欧德	jin gang ou de	1
+金狗王	jin gou wang	1
+金豪斯	jin hao si	1
+晋极	jin ji	1
+金凯莎	jin kai sha	1
+金可儿	jin ke er	1
+锦澜	jin lan	1
+金良美玉	jin liang mei yu	1
+锦纶绷	jin lun beng	1
+金玛利	jin ma li	1
+金暖王	jin nuan wang	1
+金欧雅	jin ou ya	1
+金牌橱柜	jin pai chu gui	1
+金牌洁具	jin pai jie ju	1
+金漆镶色家具	jin qi xiang se jia ju	1
+锦尚行	jin shang xing	1
+金圣缘	jin sheng yuan	1
+金帅亚威	jin shuai ya wei	1
+金丝路	jin si lu	1
+金四维	jin si wei	1
+锦言斋	jin yan zhai	1
+金亿	jin yi	1
+金艺尊	jin yi zun	1
+金鹰艾格	jin ying ai ge	1
+经案	jing an	1
+精创坊	jing chuang fang	1
+京典博艺	jing dian bo yi	1
+精豪普利亚	jing hao pu li ya	1
+精厚	jing hou	1
+晶华时尚	jing hua shi shang	1
+京兰	jing lan	1
+镜奁	jing lian	1
+镜籢	jing lian	1
+静林软木	jing lin ruan mu	1
+京明九通	jing ming jiu tong	1
+精巧冷冻盒	jing qiao leng dong he	1
+京式家具	jing shi jia ju	1
+京式小件	jing shi xiao jian	1
+经笥	jing si	1
+京泰	jing tai	1
+京洋逸峰	jing yang yi feng	1
+精艺瓷	jing yi ci	1
+燝源	jing yuan	1
+京做	jing zuo	1
+久福	jiu fu	1
+九牧	jiu mu	1
+久盛	jiu sheng	1
+居佳伴	ju jia ban	1
+巨铠	ju kai	1
+居美时尚	ju mei shi shang	1
+卷珠	juan zhu	1
+君客	jun ke	1
+卡登堡	ka deng bao	1
+卡帝亚	ka di ya	1
+卡尔凯旋	ka er kai xuan	1
+卡尔斯丹	ka er si dan	1
+卡洛林	ka luo lin	1
+卡罗莎	ka luo sha	1
+卡尼斯	ka ni si	1
+卡思卡特	ka si ka te	1
+卡西奥	ka xi ao	1
+凯诚	kai cheng	1
+凯诚橱柜	kai cheng chu gui	1
+凯蒂壁纸	kai di bi zhi	1
+凯乐玛	kai le ma	1
+凯墅	kai shu	1
+康宝	kang bao	1
+康洁	kang jie	1
+康纳	kang na	1
+康树	kang shu	1
+扛箱	kang xiang	1
+炕椅靠背	kang yi kao bei	1
+靠背片	kao bei pian	1
+栲栳样	kao lao yang	1
+克蒂芬	ke di fen	1
+柯捷美	ke jie mei	1
+克拉斯	ke la si	1
+科莱诺	ke lai nuo	1
+克劳斯蒂	ke lao si di	1
+科勒	ke le	1
+科隆世家	ke long shi jia	1
+科曼多	ke man duo	1
+柯梅令	ke mei ling	1
+克诺森华	ke nuo sen hua	1
+柯尚	ke shang	1
+肯迪	ken di	1
+肯帝亚	ken di ya	1
+肯诺	ken nuo	1
+筐床	kuang chuang	1
+框档	kuang dang	1
+拉挡	la dang	1
+腊杆家具	la gan jia ju	1
+腊木家具	la mu jia ju	1
+莱博顿	lai bo dun	1
+莱布尼	lai bu ni	1
+莱恩博特	lai en bo te	1
+来今屋	lai jin wu	1
+莱诺	lai nuo	1
+兰鼎犀	lan ding xi	1
+蓝谷	lan gu	1
+兰卡威	lan ka wei	1
+蓝色早晨	lan se zao chen	1
+拦水线	lan shui xian	1
+蓝天鹅	lan tian e	1
+篮舆	lan yu	1
+浪鲸	lang jing	1
+朗俪	lang li	1
+朗玛水族	lang ma shui zu	1
+朗能	lang neng	1
+朗萨	lang sa	1
+老板电器	lao ban dian qi	1
+劳芬	lao fen	1
+劳特斯	lao te si	1
+乐彩水族	le cai shui zu	1
+乐家	le jia	1
+勒水花牙	le shui hua ya	1
+乐雅轩	le ya xuan	1
+蕾曼	lei man	1
+雷诺士	lei nuo shi	1
+雷士	lei shi	1
+冷冻之家保鲜盒	leng dong zhi jia bao xian he	1
+冷胶活化法	leng jiao huo hua fa	1
+利澳	li ao	1
+藜床	li chuang	1
+丽格万通	li ge wan tong	1
+丽煌	li huang	1
+立检	li jian	1
+利凯城	li kai cheng	1
+立升	li sheng	1
+利事达	li shi da	1
+李氏饰品空间	li shi shi pin kong jian	1
+立体木纹印刷	li ti mu wen yin shua	1
+理想百程	li xiang bai cheng	1
+理想卫浴	li xiang wei yu	1
+溧阳开利	li yang kai li	1
+力尊	li zun	1
+联邦宝达	lian bang bao da	1
+联邦高登	lian bang gao deng	1
+联帮棍	lian bang gun	1
+镰刀把	lian dao ba	1
+连二橱	lian er chu	1
+联丰	lian feng	1
+联合欧陆	lian he ou lu	1
+联乐	lian le	1
+连三橱	lian san chu	1
+良缘福兴	liang yuan fu xing	1
+良缘石材	liang yuan shi cai	1
+料慈竹	liao ci zhu	1
+林克威斯	lin ke wei si	1
+林内	lin nei	1
+林牌	lin pai	1
+林庆饰家	lin qing shi jia	1
+六方椅	liu fang yi	1
+六角椅	liu jiao yi	1
+琉璃物语	liu li wu yu	1
+隆迪	long di	1
+龙发	long fa	1
+龙凤榫	long feng sun	1
+龙甲	long jia	1
+隆森	long sen	1
+鲁伏马	lu fu ma	1
+卢森	lu sen	1
+路易摩登	lu yi mo deng	1
+露依莎	lu yi sha	1
+罗迪森	luo di sen	1
+罗浮宫匠	luo fu gong jiang	1
+罗锅枨	luo guo cheng	1
+罗汉床	luo han chuang	1
+罗兰索	luo lan suo	1
+罗马利奥	luo ma li ao	1
+罗曼迪卡	luo man di ka	1
+罗曼藤艺	luo man teng yi	1
+落塘面	luo tang mian	1
+绿色视觉	lv se shi jue	1
+绿之岛	lv zhi dao	1
+绿之嘉	lv zhi jia	1
+马鞍坐身	ma an zuo shen	1
+马德里喜宴系列	ma de li xi yan xi lie	1
+玛荷尼	ma he ni	1
+马卡卡罗纳	ma ka ka luo na	1
+玛拉兹	ma la zi	1
+玛仕佳	ma shi jia	1
+马蹄足	ma ti zu	1
+马田卢根	ma tian lu gen	1
+马杌	ma wu	1
+马闸	ma zha	1
+马闸子	ma zha zi	1
+麦恩艾亭	mai en ai ting	1
+麦尔迈斯	mai er mai si	1
+麦瑞森	mai rui sen	1
+迈仕特尔	mai shi te er	1
+麦斯得尔	mai si de er	1
+曼丽菲斯	man li fei si	1
+毛边材	mao bian cai	1
+毛竹反黄面	mao zhu fan huang mian	1
+毛竹销面	mao zhu xiao mian	1
+美宝莱	mei bao lai	1
+美标	mei biao	1
+美步	mei bu	1
+美驰	mei chi	1
+美迪	mei di	1
+美迪亚	mei di ya	1
+美尔凯特	mei er kai te	1
+美格登	mei ge deng	1
+玫瑰椅	mei gui yi	1
+美国杰士	mei guo jie shi	1
+美好愿兴装饰	mei hao yuan xing zhuang shi	1
+梅花凳	mei hua deng	1
+美加华	mei jia hua	1
+每家宜	mei jia yi	1
+美居坊	mei ju fang	1
+美凯美意	mei kai mei yi	1
+美洛克	mei luo ke	1
+美梦思	mei meng si	1
+美人榻	mei ren ta	1
+美森耐	mei sen nai	1
+美特笃	mei te du	1
+美藤世家	mei teng shi jia	1
+美心	mei xin	1
+美伊佳	mei yi jia	1
+美之伦	mei zhi lun	1
+门板	men ban	1
+闷户橱	men hu chu	1
+闷榫	men sun	1
+门弯	men wan	1
+门围子	men wei zi	1
+梦宝	meng bao	1
+蒙地卡罗	meng di ka luo	1
+蒙娜丽莎家具	meng na li sha jia ju	1
+蒙娜丽莎洁具	meng na li sha jie ju	1
+梦帅奇	meng shuai qi	1
+梦天	meng tian	1
+梦玄庭	meng xuan ting	1
+梦雅迪	meng ya di	1
+米卡多	mi ka duo	1
+米兰印象	mi lan yin xiang	1
+弥勒榻	mi le ta	1
+米尼斯	mi ni si	1
+米奇天地	mi qi tian di	1
+眠床	mian chuang	1
+面盆架	mian pen jia	1
+面挺	mian ting	1
+面叶	mian ye	1
+眠之堡	mian zhi bao	1
+民间家具	min jian jia ju	1
+名典新贵族	ming dian xin gui zu	1
+名鼎檀	ming ding tan	1
+明格	ming ge	1
+明洪武时木床	ming hong wu shi mu chuang	1
+名华	ming hua	1
+名家窗	ming jia chuang	1
+名家木门	ming jia mu men	1
+明轿	ming jiao	1
+铭居遮阳	ming ju zhe yang	1
+明美轩	ming mei xuan	1
+名仕汉马	ming shi han ma	1
+名世家	ming shi jia	1
+明式家具	ming shi jia ju	1
+明榫	ming sun	1
+明意居	ming yi ju	1
+摩恩	mo en	1
+魔幻之墙	mo huan zhi qiang	1
+摩兰	mo lan	1
+摩力克	mo li ke	1
+摩曼	mo man	1
+莫奈窗帘	mo nai chuang lian	1
+莫耶	mo ye	1
+木材人工干燥法	mu cai ren gong gan zao fa	1
+木材自然干燥法	mu cai zi ran gan zao fa	1
+木林森	mu lin sen	1
+沐年	mu nian	1
+木森林	mu sen lin	1
+慕思凯奇	mu si kai qi	1
+木鱼石	mu yu shi	1
+木缘斋	mu yuan zhai	1
+纳斯卡	na si ka	1
+耐特利尔	nai te li er	1
+南床	nan chuang	1
+南官帽椅	nan guan mao yi	1
+南山环艺	nan shan huan yi	1
+南洋胡氏	nan yang hu shi	1
+脑枕	nao zhen	1
+泥炭木质纤维板	ni tan mu zhi xian wei ban	1
+坭竹	ni zhu	1
+年年红	nian nian hong	1
+捏角线	nie jiao xian	1
+宁式家具	ning shi jia ju	1
+牛鼻环	niu bi huan	1
+牛腿脚	niu tui jiao	1
+弄洞线	nong dong xian	1
+努奥罗	nu ao luo	1
+暖椅	nuan yi	1
+诺雅迦	nuo ya jia	1
+挪亚家	nuo ya jia	1
+欧博特	ou bo te	1
+欧典	ou dian	1
+欧典纳	ou dian na	1
+欧尔雅	ou er ya	1
+欧风玻砖	ou feng bo zhuan	1
+欧宫丽殿	ou gong li dian	1
+欧家	ou jia	1
+欧琳	ou lin	1
+欧陆科诺	ou lu ke nuo	1
+欧路莎	ou lu sha	1
+欧马	ou ma	1
+欧尼士	ou ni shi	1
+欧珀特	ou po te	1
+欧人	ou ren	1
+欧斯特	ou si te	1
+欧斯雅尼	ou si ya ni	1
+欧威	ou wei	1
+欧亚达	ou ya da	1
+欧亚丽特	ou ya li te	1
+欧运	ou yun	1
+帕莱德	pa lai de	1
+派特兰	pai te lan	1
+盘几	pan ji	1
+盼盼	pan pan	1
+旁板	pang ban	1
+跑马挓	pao ma zha	1
+皮阿诺	pi a nuo	1
+皮带线	pi dai xian	1
+皮匠大师	pi jiang da shi	1
+劈角做	pi jiao zuo	1
+劈料做	pi liao zuo	1
+披水牙子	pi shui ya zi	1
+皮条门	pi tiao men	1
+皮条线	pi tiao xian	1
+飘檐	piao yan	1
+撇脚	pie jiao	1
+拼花家具	pin hua jia ju	1
+品上品	pin shang pin	1
+平安实木家具	ping an shi mu jia ju	1
+屏背椅	ping bei yi	1
+屏风	ping feng	1
+凭几	ping ji	1
+平榻	ping ta	1
+平头案	ping tou an	1
+屏扆	ping yi	1
+平竹	ping zhu	1
+破头楔	po tou xie	1
+普尔玛	pu er ma	1
+朴号	pu hao	1
+普田	pu tian	1
+普亚特	pu ya te	1
+其昌	qi chang	1
+起兜肚	qi dou du	1
+起居餐室厨房	qi ju can shi chu fang	1
+骑马挓	qi ma zha	1
+漆木家具	qi mu jia ju	1
+气瓶托	qi ping tuo	1
+漆器家具	qi qi jia ju	1
+七巧几	qi qiao ji	1
+祁县玻璃制品	qi xian bo li zhi pin	1
+祁阳石	qi yang shi	1
+杞梓木	qi zi mu	1
+卡子花	qia zi hua	1
+芊丹	qian dan	1
+乾隆鹿角椅	qian long lu jiao yi	1
+千拼桌	qian pin zhuo	1
+桥梁档	qiao liang dang	1
+巧木作	qiao mu zuo	1
+翘头案	qiao tou an	1
+切角柜	qie jiao gui	1
+箧笥	qie si	1
+琴脚	qin jiao	1
+琴桌	qin zhuo	1
+青木堂	qing mu tang	1
+清式家具	qing shi jia ju	1
+清水货	qing shui huo	1
+蜻艇腿	qing ting tui	1
+轻质合金家具	qing zhi he jin jia ju	1
+楸木	qiu mu	1
+曲几	qu ji	1
+曲木家具	qu mu jia ju	1
+屈戍屏风	qu shu ping feng	1
+圈口	quan kou	1
+券口牙子	quan kou ya zi	1
+筌蹄	quan ti	1
+全友	quan you	1
+仁豪家具	ren hao jia ju	1
+仁和子	ren he zi	1
+人造板家具	ren zao ban jia ju	1
+人造柚木	ren zao you mu	1
+日和千黛	ri he qian dai	1
+日上	ri shang	1
+柔软家具	rou ruan jia ju	1
+入墙衣柜	ru qiang yi gui	1
+软屉	ruan ti	1
+锐驰	rui chi	1
+瑞峰	rui feng	1
+瑞嘉	rui jia	1
+瑞时	rui shi	1
+瑞时金典	rui shi jin dian	1
+瑞斯乐	rui si le	1
+润成创展	run cheng chuang zhan	1
+润恒家装	run heng jia zhuang	1
+赛恩世家	sai en shi jia	1
+赛福乐	sai fu le	1
+赛罗克	sai luo ke	1
+赛雅人造板	sai ya ren zao ban	1
+三桂门业	san gui men ye	1
+三角齐尖	san jiao qi jian	1
+三连接件	san lian jie jian	1
+三林金桥	san lin jin qiao	1
+三千韵	san qian yun	1
+三式木	san shi mu	1
+三弯脚	san wan jiao	1
+桑巴蒂	sang ba di	1
+桑普太阳能	sang pu tai yang neng	1
+森宝	sen bao	1
+森莱仕	sen lai shi	1
+森林之旅	sen lin zhi lv	1
+森林之源	sen lin zhi yuan	1
+森盛	sen sheng	1
+森王	sen wang	1
+森怡嘉华	sen yi jia hua	1
+森鹰	sen ying	1
+莎罗尼	sha luo ni	1
+沙园竹	sha yuan zhu	1
+纱照屏	sha zhao ping	1
+珊嘉	shan jia	1
+山铁罗竹	shan tie luo zhu	1
+鳝鱼头	shan yu tou	1
+膳桌	shan zhuo	1
+商代木抬盘	shang dai mu tai pan	1
+尚高	shang gao	1
+上海美画	shang hai mei hua	1
+尚美空间	shang mei kong jian	1
+尚艺居	shang yi ju	1
+深渡楼梯	shen du lou ti	1
+深发轩	shen fa xuan	1
+什景灯	shen jing deng	1
+圣柏莱	sheng bai lai	1
+圣比克	sheng bi ke	1
+圣博恒	sheng bo heng	1
+绳床	sheng chuang	1
+升达	sheng da	1
+圣帝保罗	sheng di bao luo	1
+圣帝亚娜	sheng di ya na	1
+圣恩纳	sheng en na	1
+圣凡蒂	sheng fan di	1
+圣工场	sheng gong chang	1
+升降式灯台	sheng jiang shi deng tai	1
+圣景蓉	sheng jing rong	1
+圣罗莎	sheng luo sha	1
+圣美豪斯	sheng mei hao si	1
+圣美林	sheng mei lin	1
+生美石	sheng mei shi	1
+盛世和风	sheng shi he feng	1
+圣世年轮	sheng shi nian lun	1
+圣陶坊	sheng tao fang	1
+圣托玛斯	sheng tuo ma si	1
+圣象	sheng xiang	1
+圣象康树	sheng xiang kang shu	1
+圣艺龙	sheng yi long	1
+食案	shi an	1
+实创	shi chuang	1
+世创雅居	shi chuang ya ju	1
+石灯	shi deng	1
+石度空间	shi du kong jian	1
+诗芬达	shi fen da	1
+世纪鸿基	shi ji hong ji	1
+世纪铭居	shi ji ming ju	1
+时美石材	shi mei shi cai	1
+时木在线	shi mu zai xian	1
+使耐可	shi nai ke	1
+时尚我家	shi shang wo jia	1
+施维尔	shi wei er	1
+世友	shi you	1
+十字枨	shi zi cheng	1
+收纳得	shou na de	1
+梳背椅	shu bei yi	1
+舒达	shu da	1
+树根藤瘿家具	shu gen teng ying jia ju	1
+书卷头	shu juan tou	1
+舒丽雅	shu li ya	1
+舒耐特水槽	shu nai te shui cao	1
+书香门地	shu xiang men di	1
+书香情缘	shu xiang qing yuan	1
+梳妆箱	shu zhuang xiang	1
+帅康	shuai kang	1
+闩竿	shuan gan	1
+双虎	shuang hu	1
+双叶	shuang ye	1
+水槽柜	shui cao gui	1
+水沟槽	shui gou cao	1
+水芦竹	shui lu zhu	1
+睡翁椅	shui weng yi	1
+四出头官帽椅	si chu tou guan mao yi	1
+斯狄渢	si di fan	1
+斯帝罗兰	si di luo lan	1
+斯芬达	si fen da	1
+四合科隆	si he ke long	1
+丝吉利娅奥彼	si ji li ya ao bi	1
+四件柜	si jian gui	1
+思利明兰	si li ming lan	1
+斯林百兰	si lin bai lan	1
+斯洛美	si luo mei	1
+斯曼克	si man ke	1
+斯米克	si mi ke	1
+斯奈格瑞	si nai ge rui	1
+斯普丽	si pu li	1
+松堡王国	song bao wang guo	1
+宋代螺甸桌椅	song dai luo dian zhuo yi	1
+宋代石屏风	song dai shi ping feng	1
+松青园艺	song qing yuan yi	1
+苏尔达	su er da	1
+塑合木	su he mu	1
+塑料画膜拓印	su liao hua mo tuo yin	1
+塑料家具	su liao jia ju	1
+塑料嵌条	su liao qian tiao	1
+塑料贴面家具	su liao tie mian jia ju	1
+苏式家具	su shi jia ju	1
+苏式小件	su shi xiao jian	1
+苏绣湘绣	su xiu xiang xiu	1
+苏做	su zuo	1
+穗宝	sui bao	1
+碎料胶合家具	sui liao jiao he jia ju	1
+随身杯子母盖	sui shen bei zi mu gai	1
+榫合	sun he	1
+榫肩	sun jian	1
+笋虡	sun ju	1
+簨虡	sun ju	1
+笋头卯眼	sun tou mao yan	1
+索博	suo bo	1
+踏床	ta chuang	1
+踏脚档	ta jiao dang	1
+泰尔玛	tai er ma	1
+台屏	tai ping	1
+台上柜	tai shang gui	1
+泰禧	tai xi	1
+唐代长案	tang dai chang an	1
+唐代月牙杌子	tang dai yue ya wu zi	1
+套几	tao ji	1
+套脚	tao jiao	1
+套榫	tao sun	1
+绦条板	tao tiao ban	1
+陶仙坊	tao xian fang	1
+陶艺轩	tao yi xuan	1
+陶质家具	tao zhi jia ju	1
+特白净	te bai jing	1
+特大方	te da fang	1
+特高特	te gao te	1
+特佳	te jia	1
+藤编竹家具	teng bian zhu jia ju	1
+藤床	teng chuang	1
+藤王府	teng wang fu	1
+藤艺坊	teng yi fang	1
+藤制家具	teng zhi jia ju	1
+绨几	ti ji	1
+梯阶床	ti jie chuang	1
+天地仁和	tian di ren he	1
+天东	tian dong	1
+天格双菱	tian ge shuang ling	1
+甜瓜棱	tian gua leng	1
+天华木门	tian hua mu men	1
+天际和信	tian ji he xin	1
+天津凤凰	tian jin feng huang	1
+天津陶艺王	tian jin tao yi wang	1
+天明森源	tian ming sen yuan	1
+天盘线	tian pan xian	1
+天然几	tian ran ji	1
+天生赢家	tian sheng ying jia	1
+天饰龙	tian shi long	1
+天下典藏	tian xia dian cang	1
+天下木源	tian xia mu yuan	1
+调五门	tiao wu men	1
+调箱	tiao xiang	1
+贴花片	tie hua pian	1
+铁力板足条几	tie li ban zu tiao ji	1
+贴面家具	tie mian jia ju	1
+桯凳	ting deng	1
+通槽	tong cao	1
+通盛达	tong sheng da	1
+通盛石材	tong sheng shi cai	1
+铜饰件	tong shi jian	1
+通顺出租汽车	tong shun chu zu qi che	1
+童椅	tong yi	1
+童桌	tong zhuo	1
+透榫	tou sun	1
+骰子桌	tou zi zhuo	1
+图德尔	tu de er	1
+图腾宝佳	tu teng bao jia	1
+托档	tuo dang	1
+拖脚	tuo jiao	1
+托角榫	tuo jiao sun	1
+托角牙子	tuo jiao ya zi	1
+托闩钉	tuo shuan ding	1
+托斯卡娜	tuo si ka na	1
+挖弯	wa wan	1
+挖烟袋锅做法	wa yan dai guo zuo fa	1
+瓦质家具	wa zhi jia ju	1
+外翻马蹄	wai fan ma ti	1
+外丝活接	wai si huo jie	1
+外丝弯头	wai si wan tou	1
+万邦家具	wan bang jia ju	1
+万斯敦	wan si dun	1
+伟安家具	wei an jia ju	1
+韦邦诺曼妮	wei bang nuo man ni	1
+唯宝	wei bao	1
+微波厨神大圆碗	wei bo chu shen da yuan wan	1
+微波厨神椭圆碗	wei bo chu shen tuo yuan wan	1
+维德富凯隆	wei de fu kai long	1
+维蒂斯	wei di si	1
+唯度	wei du	1
+威尔凯萨	wei er kai sa	1
+伟光	wei guang	1
+委角	wei jiao	1
+唯康	wei kang	1
+维可陶	wei ke tao	1
+维拉帕克	wei la pa ke	1
+韦仑嘉禾	wei lun jia he	1
+威乃达	wei nai da	1
+卫欧	wei ou	1
+玮思丹顿	wei si dan dun	1
+帷特思	wei te si	1
+围椅	wei yi	1
+威兹帕克	wei zi pa ke	1
+文华轩	wen hua xuan	1
+文木	wen mu	1
+文武线	wen wu xian	1
+文椅	wen yi	1
+沃尔福	wo er fu	1
+沃尔曼	wo er man	1
+沃克	wo ke	1
+卧王	wo wang	1
+五代三折大屏风	wu dai san zhe da ping feng	1
+吴江竹椅	wu jiang zhu yi	1
+舞天虹	wu tian hong	1
+乌药竹	wu yao zhu	1
+五夷千禧	wu yi qian xi	1
+西班牙进口瓷砖	xi ban ya jin kou ci zhuan	1
+喜彪	xi biao	1
+西部骑士	xi bu qi shi	1
+西部智能	xi bu zhi neng	1
+席丹	xi dan	1
+洗涤台	xi di tai	1
+希恩	xi en	1
+西汉五彩画屏风	xi han wu cai hua ping feng	1
+羲和	xi he	1
+禧路	xi lu	1
+席梦思	xi meng si	1
+喜事连	xi shi lian	1
+西魏扶手椅	xi wei fu shou yi	1
+洗衣刷	xi yi shua	1
+夏池	xia chi	1
+夏图	xia tu	1
+现代家具	xian dai jia ju	1
+贤客	xian ke	1
+纤维板家具	xian wei ban jia ju	1
+纤维刨花板	xian wei bao hua ban	1
+线香线	xian xiang xian	1
+线样	xian yang	1
+仙椅	xian yi	1
+闲余书架	xian yu shu jia	1
+香槟佳园	xiang bin jia yuan	1
+香港港龙	xiang gang gang long	1
+祥华坊	xiang hua fang	1
+香几	xiang ji	1
+香居	xiang ju	1
+项墨林棐几	xiang mo lin fei ji	1
+镶平面	xiang ping mian	1
+祥苑装饰	xiang yuan zhuang shi	1
+湘竹榻	xiang zhu ta	1
+消毒柜	xiao du gui	1
+小狗第一	xiao gou di yi	1
+小虎第一	xiao hu di yi	1
+小郡主	xiao jun zhu	1
+小木椅	xiao mu yi	1
+小榻	xiao ta	1
+楔钉榫	xie ding sun	1
+新发盛家具	xin fa sheng jia ju	1
+鑫海亿	xin hai yi	1
+新科和室	xin ke he shi	1
+欣莱现代	xin lai xian dai	1
+新绿洲	xin lv zhou	1
+新明装饰	xin ming zhuang shi	1
+欣耐	xin nai	1
+新南悦	xin nan yue	1
+新世域	xin shi yu	1
+鑫泰王朝	xin tai wang chao	1
+新象	xin xiang	1
+新中源	xin zhong yuan	1
+星海水族	xing hai shui zu	1
+兴瑞龙	xing rui long	1
+兴时达	xing shi da	1
+星星索	xing xing suo	1
+星兴艺术	xing xing yi shu	1
+行障	xing zhang	1
+行之行	xing zhi xing	1
+绣墩	xiu dun	1
+绣色	xiu se	1
+旭格	xu ge	1
+虚镶	xu xiang	1
+宣明典居	xuan ming dian ju	1
+学生床	xue sheng chuang	1
+栒虡	xun ju	1
+雅迪尔	ya di er	1
+雅鼎	ya ding	1
+亚都	ya du	1
+雅尔普	ya er pu	1
+雅风	ya feng	1
+雅克达利	ya ke da li	1
+雅丽盛达	ya li sheng da	1
+雅露斯	ya lu si	1
+亚美特	ya mei te	1
+压片钉	ya pian ding	1
+雅素丽	ya su li	1
+牙条	ya tiao	1
+雅庭装饰	ya ting zhuang shi	1
+鸭尾子式	ya wei zi shi	1
+压纹刨花板	ya wen bao hua ban	1
+亚振	ya zhen	1
+炎邦炭雕	yan bang tan diao	1
+燕几	yan ji	1
+砚屏	yan ping	1
+燕尾榫	yan wei sun	1
+烟竹	yan zhu	1
+秧凳	yang deng	1
+阳光夏威夷	yang guang xia wei yi	1
+阳瓶三通	yang ping san tong	1
+扬子	yang zi	1
+耀邦	yao bang	1
+药橱	yao chu	1
+摇竿	yao gan	1
+业盛源	ye sheng yuan	1
+伊百丽	yi bai li	1
+意多	yi duo	1
+艺丰	yi feng	1
+意风	yi feng	1
+益高	yi gao	1
+伊格尔恺依	yi ge er kai yi	1
+伊和源	yi he yuan	1
+宜华	yi hua	1
+艺极	yi ji	1
+亿家能	yi jia neng	1
+意匠之美	yi jiang zhi mei	1
+逸居	yi ju	1
+伊卡兰	yi ka lan	1
+意莱德	yi lai de	1
+伊莱克斯	yi lai ke si	1
+依阑格斯	yi lan ge si	1
+依兰格斯	yi lan ge si	1
+意利宝橱柜	yi li bao chu gui	1
+衣笼	yi long	1
+衣帽刷	yi mao shua	1
+怡美家	yi mei jia	1
+宜美利嘉	yi mei li jia	1
+伊奈	yi nai	1
+依诺维绅	yi nuo wei shen	1
+椅盘	yi pan	1
+艺品居	yi pin ju	1
+伊普瑞森	yi pu rui sen	1
+椅圈	yi quan	1
+伊仕利	yi shi li	1
+衣笥	yi si	1
+依思蒙沙	yi si meng sha	1
+意特尔	yi te er	1
+艺藤居	yi teng ju	1
+一统碑	yi tong bei	1
+一腿三牙	yi tui san ya	1
+艺王	yi wang	1
+一新	yi xin	1
+益圆	yi yuan	1
+椅自在	yi zi zai	1
+银海鼎盛	yin hai ding sheng	1
+隐几	yin ji	1
+银晶	yin jing	1
+隐囊	yin nang	1
+铟琦诚	yin qi cheng	1
+盈康创建	ying kang chuang jian	1
+英伦华庄	ying lun hua zhuang	1
+滢美	ying mei	1
+硬木家具	ying mu jia ju	1
+鹰牌	ying pai	1
+英士利	ying shi li	1
+英陶	ying tao	1
+英特贝斯	ying te bei si	1
+影条	ying tiao	1
+鹰卫浴	ying wei yu	1
+英之朗	ying zhi lang	1
+硬质木纤维板	ying zhi mu xian wei ban	1
+永吉	yong ji	1
+永佳家具	yong jia jia ju	1
+勇士部落	yong shi bu luo	1
+优丽雅特	you li ya te	1
+尤仑斯	you lun si	1
+优美家	you mei jia	1
+悠然世家	you ran shi jia	1
+油桌	you zhuo	1
+裕丰	yu feng	1
+浴缸刷	yu gang shua	1
+玉海隆博	yu hai long bo	1
+郁架	yu jia	1
+昱丽	yu li	1
+御品春秋	yu pin chun qiu	1
+玉庭	yu ting	1
+元代壁画的花几	yuan dai bi hua de hua ji	1
+圆方园	yuan fang yuan	1
+圆角柜	yuan jiao gui	1
+远铃	yuan ling	1
+源木	yuan mu	1
+圆盆架	yuan pen jia	1
+圆椅	yuan yi	1
+月兔	yue tu	1
+月牙扶手	yue ya fu shou	1
+月牙桌	yue ya zhuo	1
+云木	yun mu	1
+栽榫	zai sun	1
+栽销	zai xiao	1
+灶台柜	zao tai gui	1
+札榫	zha sun	1
+战国彩绘漆木床	zhan guo cai hui qi mu chuang	1
+战国雕花木几	zhan guo diao hua mu ji	1
+战国漆木箱	zhan guo qi mu xiang	1
+战国铜方案	zhan guo tong fang an	1
+帐构	zhang gou	1
+账桌	zhang zhuo	1
+兆开	zhao kai	1
+折叠单靠	zhe die dan kao	1
+折叠式家具	zhe die shi jia ju	1
+折屏	zhe ping	1
+枕首	zhen shou	1
+整边材	zheng bian cai	1
+整体衣柜	zheng ti yi gui	1
+志邦	zhi bang	1
+直背交椅	zhi bei jiao yi	1
+志达	zhi da	1
+志豪家具	zhi hao jia ju	1
+芝华仕	zhi hua shi	1
+直角方榫	zhi jiao fang sun	1
+芝麻梗	zhi ma geng	1
+智牌	zhi pai	1
+致尚	zhi shang	1
+至尊精钢多用锅	zhi zun jing gang duo yong guo	1
+中牌子	zhong pai zi	1
+中陶	zhong tao	1
+中涛	zhong tao	1
+中原信科	zhong yuan xin ke	1
+竹材烙花	zhu cai lao hua	1
+竹材着色	zhu cai zhuo se	1
+竹钉	zhu ding	1
+竹靠椅	zhu kao yi	1
+竹面	zhu mian	1
+竹爿浑	zhu pan hun	1
+朱漆家具	zhu qi jia ju	1
+竹青胶面	zhu qing jiao mian	1
+竹圈椅	zhu quan yi	1
+竹踏凳	zhu ta deng	1
+竹质刨花板	zhu zhi bao hua ban	1
+竹制家具	zhu zhi jia ju	1
+转屏	zhuan ping	1
+专诸禅椅	zhuan zhu chan yi	1
+装饰部件	zhuang shi bu jian	1
+卓匠	zhuo jiang	1
+桌型结构	zhuo xing jie gou	1
+卓友	zhuo you	1
+梓匠	zi jiang	1
+梓人	zi ren	1
+紫檀灵芝纹画桌	zi tan ling zhi wen hua zhuo	1
+紫檀木方凳	zi tan mu fang deng	1
+紫腾画廊	zi teng hua lang	1
+粽角榫	zong jiao sun	1
+走马销	zou ma xiao	1
+足凳	zu deng	1
+钻石杰	zuan shi jie	1
+尊豪	zun hao	1
+尊美	zun mei	1
+佐丹诗	zuo dan shi	1
+座柜	zuo gui	1
+座屏	zuo ping	1

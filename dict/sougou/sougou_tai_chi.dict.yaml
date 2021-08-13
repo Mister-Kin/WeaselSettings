@@ -1,0 +1,271 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - tai_chi
+# Source: 搜狗细胞词库「太极拳【官方推荐】」
+#
+
+---
+name: sougou_tai_chi
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+按劲	an jin	1
+八门劲别	ba men jin bie	1
+八门五步	ba men wu bu	1
+白鹤亮翅	bai he liang chi	1
+摆脚跌叉	bai jiao die cha	1
+摆脚跌岔	bai jiao die cha	1
+白蛇吐信	bai she tu xin	1
+白猿献果	bai yuan xian guo	1
+搬拦捶	ban lan chui	1
+搬拦肘	ban lan zhou	1
+抱虎归山	bao hu gui shan	1
+抱头推山	bao tou tui shan	1
+背折靠	bei zhe kao	1
+绷法	beng fa	1
+庇身捶	bi shen chui	1
+掤劲	bing jin	1
+掤捋挤按采挒肘靠	bing luo ji an cai lie zhou kao	1
+采劲	cai jin	1
+侧仰左腕	ce yang zuo wan	1
+缠丝	chan si	1
+缠丝劲	chan si jin	1
+沉肩垂肘	chen jian chui zhou	1
+沉肩坠肘	chen jian zhui zhou	1
+陈氏太极刀	chen shi tai ji dao	1
+陈氏太极剑	chen shi tai ji jian	1
+陈氏太极拳	chen shi tai ji quan	1
+陈氏太极拳老架二路	chen shi tai ji quan lao jia er lu	1
+陈氏太极拳老架一路	chen shi tai ji quan lao jia yi lu	1
+初收	chu shou	1
+穿心肘	chuan xin zhou	1
+川字步	chuan zi bu	1
+摧刚炼柔	cui gang lian rou	1
+单鞭	dan bian	1
+弹抖	dan dou	1
+当头炮	dang tou pao	1
+倒插	dao cha	1
+倒卷肱	dao juan gong	1
+倒撵猴	dao nian hou	1
+倒骑麟	dao qi lin	1
+倒骑龙	dao qi long	1
+蹬一根	deng yi gen	1
+顶匾丢抗	ding bian diu kang	1
+顶劲	ding jin	1
+懂劲	dong jin	1
+夺二肱	duo er gong	1
+翻花舞袖	fan hua wu xiu	1
+翻身单摆莲	fan shen dan bai lian	1
+翻身二起	fan shen er qi	1
+翻身二起脚	fan shen er qi jiao	1
+翻身三甬背	fan shen san yong bei	1
+飞步拗鸾肘	fei bu niu luan zhou	1
+风摆荷叶	feng bai he ye	1
+风扫梅花	feng sao mei hua	1
+伏虎	fu hu	1
+盖步云手	gai bu yun shou	1
+高探马	gao tan ma	1
+高探马带穿掌	gao tan ma dai chuan zhang	1
+裹鞭	guo bian	1
+海底翻花	hai di fan hua	1
+海底针	hai di zhen	1
+含胸	han xiong	1
+含胸拔背	han xiong ba bei	1
+含胸塌腰	han xiong ta yao	1
+合手	he shou	1
+合太极	he tai ji	1
+横斜飞式	heng xie fei shi	1
+后脚伸直	hou jiao shen zhi	1
+后招	hou zhao	1
+黄河三搅水	huang he san jiao shui	1
+回身右蹬脚	hui shen you deng jiao	1
+回头当门炮	hui tou dang men pao	1
+击地锤	ji di chui	1
+击地捶	ji di chui	1
+挤劲	ji jin	1
+践步打捶	jian bu da chui	1
+肩与胯合	jian yu kua he	1
+节节贯串	jie jie guan chuan	1
+进步搬拦捶	jin bu ban lan chui	1
+进步云手	jin bu yun shou	1
+进步栽捶	jin bu zai chui	1
+进步指裆捶	jin bu zhi dang chui	1
+金刚捣碓	jin gang dao dui	1
+金鸡独立	jin ji du li	1
+井阑直入	jing lan zhi ru	1
+井揽直入	jing lan zhi ru	1
+井栏直入	jing lan zhi ru	1
+开合手	kai he shou	1
+开手	kai shou	1
+靠劲	kao jin	1
+濑扎衣	lai zha yi	1
+揽雀尾	lan que wei	1
+揽雀尾绷法	lan que wei beng fa	1
+揽雀尾捋法	lan que wei luo fa	1
+懒扎衣	lan zha yi	1
+立定时	li ding shi	1
+连珠炮	lian zhu pao	1
+两足直踏	liang zu zhi ta	1
+挒劲	lie jin	1
+六封四闭	liu feng si bi	1
+捋劲	luo jin	1
+螺旋缠丝	luo xuan chan si	1
+抹眉红	mo mei hong	1
+内外相合	nei wai xiang he	1
+逆缠	ni chan	1
+逆缠丝	ni chan si	1
+拗鸾肘	niu luan zhou	1
+劈架子	pi jia zi	1
+披身捶	pi shen chui	1
+撇身锤	pie shen chui	1
+撇身捶	pie shen chui	1
+平行分开	ping xing fen kai	1
+扑面掌	pu mian zhang	1
+气沉丹田	qi chen dan tian	1
+起势	qi shi	1
+气与力合	qi yu li he	1
+前蹚拗步	qian tang niu bu	1
+前招	qian zhao	1
+前招后招	qian zhao hou zhao	1
+青龙摆尾	qing long bai wei	1
+青龙出水	qing long chu shui	1
+屈膝踏实	qu xi ta shi	1
+屈膝坐实	qu xi zuo shi	1
+雀地龙	que di long	1
+如封似闭	ru feng si bi	1
+三换掌	san huan zhang	1
+三通背	san tong bei	1
+扫堂腿	sao tang tui	1
+煞腰压肘	sha yao ya zhou	1
+闪通背	shan tong bei	1
+扇通背	shan tong bei	1
+上步揽雀尾	shang bu lan que wei	1
+上步七星	shang bu qi xing	1
+上下相随	shang xia xiang sui	1
+舍己从人	she ji cong ren	1
+十字摆莲	shi zi bai lian	1
+十字脚	shi zi jiao	1
+十字手	shi zi shou	1
+十字腿	shi zi tui	1
+手挥琵琶	shou hui pi pa	1
+收势	shou shi	1
+兽头式	shou tou shi	1
+守我之静	shou wo zhi jing	1
+手心向内	shou xin xiang nei	1
+双重	shuang chong	1
+双峰贯耳	shuang feng guan er	1
+双推手	shuang tui shou	1
+双推掌	shuang tui zhang	1
+双震脚	shuang zhen jiao	1
+双撞捶	shuang zhuang chui	1
+顺缠	shun chan	1
+顺缠丝	shun chan si	1
+顺鸾肘	shun luan zhou	1
+四稍	si shao	1
+松活弹抖	song huo dan dou	1
+松腰胯	song yao kua	1
+太极起式	tai ji qi shi	1
+太极拳起势	tai ji quan qi shi	1
+太极桩	tai ji zhuang	1
+提手上势	ti shou shang shi	1
+体用兼全	ti yong jian quan	1
+退步打虎式	tui bu da hu shi	1
+退步跨虎	tui bu kua hu	1
+退步压肘	tui bu ya zhou	1
+退步云手	tui bu yun shou	1
+瓦楞掌	wa leng zhang	1
+外缠	wai chan	1
+弯弓射虎	wan gong she hu	1
+窝里炮	wo li pao	1
+无极势	wu ji shi	1
+无极桩	wu ji zhuang	1
+吴氏太极拳	wu shi tai ji quan	1
+武氏太极拳	wu shi tai ji quan	1
+下步跨虎	xia bu kua hu	1
+下缠	xia chan	1
+下势	xia shi	1
+向左外侧	xiang zuo wai ce	1
+小擒打	xiao qin da	1
+斜单鞭	xie dan bian	1
+斜飞式	xie fei shi	1
+斜行	xie xing	1
+斜行拗步	xie xing niu bu	1
+心与意合	xin yu yi he	1
+虚领顶劲	xu ling ding jin	1
+虚灵顶劲	xu ling ding jin	1
+旋风脚	xuan feng jiao	1
+掩手肱捶	yan shou gong chui	1
+掩手肱拳	yan shou gong quan	1
+杨式太极拳	yang shi tai ji quan	1
+杨氏太极拳	yang shi tai ji quan	1
+腰裆	yao dang	1
+野马分鬃	ye ma fen zong	1
+意含顶劲	yi han ding jin	1
+以气运身	yi qi yun shen	1
+一任自然	yi ren zi ran	1
+以心行气	yi xin xing qi	1
+阴阳混一	yin yang hun yi	1
+涌泉穴虚	yong quan xue xu	1
+用意不用力	yong yi bu yong li	1
+右白鹤亮翅	you bai he liang chi	1
+右擦脚	you ca jiao	1
+右冲	you chong	1
+右打虎式	you da hu shi	1
+右蹬脚	you deng jiao	1
+右裹鞭炮	you guo bian pao	1
+右黄龙三揽水	you huang long san lan shui	1
+右脚虚	you jiao xu	1
+右揽雀尾	you lan que wei	1
+由前势	you qian shi	1
+右手在前	you shou zai qian	1
+右下势独立	you xia shi du li	1
+预备式	yu bei shi	1
+玉女穿梭	yu nv chuan suo	1
+圆裆	yuan dang	1
+跃步护心捶	yue bu hu xin chui	1
+跃步斜行	yue bu xie xing	1
+运化转关	yun hua zhuan guan	1
+运手	yun shou	1
+云手	yun shou	1
+再收	zai shou	1
+斩手	zhan shou	1
+沾粘连随	zhan zhan lian sui	1
+震脚上步	zhen jiao shang bu	1
+指裆锤	zhi dang chui	1
+指裆捶	zhi dang chui	1
+中盘	zhong pan	1
+中正安舒	zhong zheng an shu	1
+肘底捶	zhou di chui	1
+肘底看捶	zhou di kan chui	1
+肘底看拳	zhou di kan quan	1
+肘劲	zhou jin	1
+转胫炮	zhuan jing pao	1
+转身白蛇吐信	zhuan shen bai she tu xin	1
+转身搬拦捶	zhuan shen ban lan chui	1
+转身蹬脚	zhuan shen deng jiao	1
+转身六合	zhuan shen lu he	1
+转身双摆莲	zhuan shen shuang bai lian	1
+转身左蹬脚	zhuan shen zuo deng jiao	1
+左白鹤亮翅	zuo bai he liang chi	1
+左擦脚	zuo ca jiao	1
+左冲	zuo chong	1
+左打虎式	zuo da hu shi	1
+左蹬脚	zuo deng jiao	1
+左裹鞭炮	zuo guo bian pao	1
+左黄龙三揽水	zuo huang long san lan shui	1
+左脚变虚	zuo jiao bian xu	1
+左脚实	zuo jiao shi	1
+左揽雀尾	zuo lan que wei	1
+左搂膝拗步	zuo lou xi niu bu	1
+左手在后	zuo shou zai hou	1
+左下势独立	zuo xia shi du li	1
+左右穿梭	zuo you chuan suo	1
+左右倒卷肱	zuo you dao juan gong	1
+左右倒撵猴	zuo you dao nian hou	1
+左右倒转肱	zuo you dao zhuan gong	1
+左右分脚	zuo you fen jiao	1
+左右金鸡独立	zuo you jin ji du li	1
+左右搂膝拗步	zuo you lou xi niu bu	1
+左右野马分鬃	zuo you ye ma fen zong	1

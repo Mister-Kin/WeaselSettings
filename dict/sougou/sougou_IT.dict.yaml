@@ -1,0 +1,108 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - IT
+# Source: 搜狗细胞词库「IT词汇大全」
+#
+
+---
+name: sougou_IT
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+艾尔莎	ai er sha	1
+爱林莎	ai lin sha	1
+昂达	ang da	1
+板型	ban xing	1
+插槽	cha cao	1
+超频开关	chao pin kai guan	1
+处理器	chu li qi	1
+丹丁	dan ding	1
+挡板	dang ban	1
+电脑	dian nao	1
+电源插口	dian yuan cha kou	1
+电源接口	dian yuan jie kou	1
+顶星	ding xing	1
+二级缓存	er ji huan cun	1
+富士康	fu shi kang	1
+供电模式	gong dian mo shi	1
+冠盟	guan meng	1
+宏基	hong ji	1
+华擎	hua qing	1
+华硕	hua shuo	1
+集成芯片	ji cheng xin pian	1
+技嘉	ji jia	1
+技翔	ji xiang	1
+键盘接口	jian pan jie kou	1
+捷波	jie bo	1
+接口	jie kou	1
+接软驱	jie ruan qu	1
+杰微	jie wei	1
+精威	jing wei	1
+精英	jing ying	1
+科迪亚	ke di ya	1
+科脑	ke nao	1
+扩展插槽	kuo zhan cha cao	1
+联强	lian qiang	1
+梅捷	mei jie	1
+描述	miao shu	1
+明基	ming ji	1
+铭瑄	ming xuan	1
+内存	nei cun	1
+内存规格	nei cun gui ge	1
+内存类型	nei cun lei xing	1
+内存描述	nei cun miao shu	1
+磐英	pan ying	1
+磐正	pan zheng	1
+七彩虹	qi cai hong	1
+其他接口	qi ta jie kou	1
+千兆网卡	qian zhao wang ka	1
+驱动光盘	qu dong guang pan	1
+声道	sheng dao	1
+升技	sheng ji	1
+声卡	sheng ka	1
+适用平台	shi yong ping tai	1
+鼠标接口	shu biao jie kou	1
+数据线	shu ju xian	1
+双敏	shuang min	1
+双通道	shuang tong dao	1
+斯巴达克	si ba da ke	1
+四相供电	si xiang gong dian	1
+随机附件	sui ji fu jian	1
+索泰	suo tai	1
+天机	tian ji	1
+同冠	tong guan	1
+图形芯片	tu xing xin pian	1
+外接端口	wai jie duan kou	1
+外形尺寸	wai xing chi cun	1
+网卡	wang ka	1
+网卡芯片	wang ka xin pian	1
+维博特	wei bo te	1
+威盛	wei sheng	1
+微星	wei xing	1
+显卡	xian ka	1
+显卡插槽	xian ka cha cao	1
+显示核心	xian shi he xin	1
+翔升	xiang sheng	1
+信步	xin bu	1
+芯片厂商	xin pian chang shang	1
+芯片组	xin pian zu	1
+芯片组描述	xin pian zu miao shu	1
+亚帝伦	ya di lun	1
+一级缓存	yi ji huan cun	1
+音频芯片	yin pin xin pian	1
+影驰	ying chi	1
+映泰	ying tai	1
+盈通	ying tong	1
+映众	ying zhong	1
+支持数	zhi chi shu	1
+致铭	zhi ming	1
+种类	zhong lei	1
+中央处理器	zhong yang chu li qi	1
+主板板型	zhu ban ban xing	1
+主芯片组	zhu xin pian zu	1
+自动变相节能	zi dong bian xiang jie neng	1
+总线频率	zong xian pin lv	1
+钻石	zuan shi	1
+最大支持	zui da zhi chi	1

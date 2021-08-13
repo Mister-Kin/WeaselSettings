@@ -1,5 +1,5 @@
 #
-# Author: Mr. Kin
+# Author: Mr. Kin <im.misterkin@gmail.com>
 # Description: This file is used for RIME's global customized settings.
 #
 
@@ -8,12 +8,12 @@ patch:
   ascii_composer:
     good_old_caps_lock: true # 大写键切换西文模式，默认输出大写字幕
     switch_key:
-      Shift_L: commit_code # 左shift直接字母上屏，之后切换为英文输入
-      Shift_R: inline_ascii # 右shift不上屏，可进入临时编辑区内输入字母、数字、符号、空格等，回车上屏后自动复位到中文
-      Control_L: clear # 清除编辑区内的字符，之后切换为英文输入
-      Control_R: commit_text # 右shift文字上屏，之后切换为英文输入
-      Caps_Lock: commit_code # 直接大写字母上屏
+      Shift_L: commit_code # 左 shift 直接字母上屏，之后切换为英文输入
+      Shift_R: inline_ascii # 右 shift 不上屏，可进入临时编辑区内输入字母、数字、符号、空格等，回车上屏后自动复位到中文
+      Control_L: clear # 左 control 清除编辑区内的字符，之后切换为英文输入
+      Control_R: commit_text # 右 control 文字上屏，之后切换为英文输入
+      Caps_Lock: noop # 屏蔽该切换键（满足大写字母开头的英文单词输入）
       Eisu_toggle: noop # 屏蔽该切换键
   schema_list:
     - schema: luna_pinyin_simp
-    - schema: luna_pinyin
+    - schema: numbers

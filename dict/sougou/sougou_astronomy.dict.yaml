@@ -1,0 +1,2396 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - astronomy
+# Source: 搜狗细胞词库「天文词汇大全【官方推荐】」
+#
+
+---
+name: sougou_astronomy
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿贝比长仪	a bei bi chang yi	1
+阿贝尔富度	a bei er fu du	1
+阿波罗型	a bo luo xing	1
+阿尔比长仪	a er bi chang yi	1
+阿尔文波	a er wen bo	1
+阿尔文于	a er wen yu	1
+阿格兰德法	a ge lan de fa	1
+阿利斯塔克	a li si ta ke	1
+阿罗天体	a luo tian ti	1
+阿莫尔型	a mo er xing	1
+艾达	ai da	1
+爱丁顿	ai ding dun	1
+爱丁顿极限	ai ding dun ji xian	1
+埃弗谢德效应	ai fu xie de xiao ying	1
+埃勒曼炸弹	ai le man zha dan	1
+埃农	ai nong	1
+艾卫	ai wei	1
+矮新星	ai xin xing	1
+矮星	ai xing	1
+矮星系	ai xing xi	1
+爱因斯坦天文台	ai yin si tan tian wen tai	1
+矮造父变星	ai zao fu bian xing	1
+暗伴星	an ban xing	1
+暗带	an dai	1
+安多耶变量	an duo ye bian liang	1
+暗蓝天体	an lan tian ti	1
+暗能	an neng	1
+暗条	an tiao	1
+暗物质	an wu zhi	1
+暗星云	an xing yun	1
+氨钟	an zhong	1
+奥伯斯佯谬	ao bo si yang miu	1
+奥尔特提出离太阳	ao er te ti chu li tai yang	1
+奥尔特星云	ao er te xing yun	1
+奥尔特云	ao er te yun	1
+巴德窗	ba de chuang	1
+巴尔末减幅	ba er mo jian fu	1
+巴尔末跳跃	ba er mo tiao yue	1
+巴径向脉动	ba jing xiang mai dong	1
+巴纳德圈	ba na de quan	1
+白矮星	bai ai xing	1
+白道	bai dao	1
+白洞	bai dong	1
+拜尔星座	bai er xing zuo	1
+白光耀斑	bai guang yao ban	1
+白羊流星群	bai yang liu xing qun	1
+半长径	ban chang jing	1
+斑点干涉测量	ban dian gan she ce liang	1
+半峰全宽	ban feng quan kuan	1
+半规则变星	ban gui ze bian xing	1
+半接双星	ban jie shuang xing	1
+半宽	ban kuan	1
+伴星	ban xing	1
+伴星系	ban xing xi	1
+半影	ban ying	1
+半影食	ban ying shi	1
+棒旋星系	bang xuan xing xi	1
+薄饼模型	bao bing mo xing	1
+爆发变星	bao fa bian xing	1
+爆发能量集中在	bao fa neng liang ji zhong zai	1
+爆发日珥	bao fa ri er	1
+爆发相	bao fa xiang	1
+爆发新星	bao fa xin xing	1
+爆发星系	bao fa xing xi	1
+爆后新星	bao hou xin xing	1
+宝女型星	bao nv xing xing	1
+宝瓶宫	bao ping gong	1
+宝瓶流星群	bao ping liu xing qun	1
+爆前超新星	bao qian chao xin xing	1
+爆前新星	bao qian xin xing	1
+暴缩	bao suo	1
+暴涨理论	bao zhang li lun	1
+暴涨模型	bao zhang mo xing	1
+暴胀宇宙模型	bao zhang yu zhou mo xing	1
+暴涨宇宙学	bao zhang yu zhou xue	1
+暴涨子	bao zhang zi	1
+北斗二	bei dou er	1
+北斗六	bei dou liu	1
+北斗七	bei dou qi	1
+北斗三	bei dou san	1
+北斗四	bei dou si	1
+北斗五	bei dou wu	1
+贝寒尔恒星常数	bei han er heng xing chang shu	1
+贝寒尔年	bei han er nian	1
+贝寒尔日数	bei han er ri shu	1
+北河三	bei he san	1
+北河一	bei he yi	1
+北黄极	bei huang ji	1
+北极星	bei ji xing	1
+北极星序	bei ji xing xu	1
+背景辐射	bei jing fu she	1
+北京天文馆	bei jing tian wen guan	1
+背景星	bei jing xing	1
+背景星系	bei jing xing xi	1
+贝利珠	bei li zhu	1
+贝琳	bei lin	1
+北煤袋	bei mei dai	1
+北冕	bei mian	1
+北冕星系团	bei mian xing xi tuan	1
+贝塞尔恒星常数	bei sai er heng xing chang shu	1
+贝塞尔年	bei sai er nian	1
+贝塞尔日数	bei sai er ri shu	1
+北天极	bei tian ji	1
+钡星	bei xing	1
+北银极	bei yin ji	1
+北银极支	bei yin ji zhi	1
+本超星系团	ben chao xing xi tuan	1
+本初子午线	ben chu zi wu xian	1
+本地静止标准	ben di jing zhi biao zhun	1
+本动	ben dong	1
+奔赴点	ben fu dian	1
+奔离点	ben li dian	1
+本轮	ben lun	1
+本星系群	ben xing xi qun	1
+本星系团	ben xing xi tuan	1
+本影	ben ying	1
+本影食	ben ying shi	1
+本征方向	ben zheng fang xiang	1
+本征基	ben zheng ji	1
+臂际星	bi ji xing	1
+比较星	bi jiao xing	1
+比较行星学	bi jiao xing xing xue	1
+比拉流星群	bi la liu xing qun	1
+毕宿	bi su	1
+毕宿五	bi su wu	1
+比星	bi xing	1
+毕星群	bi xing qun	1
+毕星团	bi xing tuan	1
+闭宇宙	bi yu zhou	1
+臂族	bi zu	1
+变光星云	bian guang xing yun	1
+扁平次系	bian ping ci xi	1
+扁平子系	bian ping zi xi	1
+变声速	bian sheng su	1
+变象管	bian xiang guan	1
+变星	bian xing	1
+标度不变性	biao du bu bian xing	1
+标度因子	biao du yin zi	1
+标高	biao gao	1
+表观视界	biao guan shi jie	1
+标量模式	biao liang mo shi	1
+标量扰动	biao liang rao dong	1
+标量涨落	biao liang zhang luo	1
+标准星	biao zhun xing	1
+标准宇宙模型	biao zhun yu zhou mo xing	1
+标准坐标	biao zhun zuo biao	1
+并合星系	bing he xing xi	1
+波得定则	bo de ding ze	1
+波恩星表	bo en xing biao	1
+波江	bo jiang	1
+薄盘	bo pan	1
+不变平面	bu bian ping mian	1
+不规则变星	bu gui ze bian xing	1
+不规则星系	bu gui ze xing xi	1
+不接双星	bu jie shuang xing	1
+不可见物质	bu ke jian wu zhi	1
+布拉得雷	bu la de lei	1
+不明飞行体	bu ming fei xing ti	1
+不明飞行物	bu ming fei xing wu	1
+不透明度	bu tou ming du	1
+不稳定星	bu wen ding xing	1
+参考大圆	can kao da yuan	1
+参考星	can kao xing	1
+参宿	can su	1
+参宿七	can su qi	1
+参宿四	can su si	1
+草帽星系	cao mao xing xi	1
+测地岁差	ce di sui cha	1
+测地章动	ce di zhang dong	1
+测光	ce guang	1
+测光解	ce guang jie	1
+测光距离	ce guang ju li	1
+测光双星	ce guang shuang xing	1
+测光系统	ce guang xi tong	1
+测光序	ce guang xu	1
+测时	ce shi	1
+侧向天体	ce xiang tian ti	1
+测向天体	ce xiang tian ti	1
+层的电离度突然增大	ceng de dian li du tu ran zeng da	1
+叉式装置	cha shi zhuang zhi	1
+豺狼圈	chai lang quan	1
+缠卷困难	chan juan kun nan	1
+缠卷疑难	chan juan yi nan	1
+产星区	chan xing qu	1
+长度等于	chang du deng yu	1
+长庚星	chang geng xing	1
+长期光行差	chang qi guang xing cha	1
+长期极移	chang qi ji yi	1
+长期加速度	chang qi jia su du	1
+长期摄动	chang qi she dong	1
+长期视差	chang qi shi cha	1
+场强突异	chang qiang tu yi	1
+长蛇	chang she	1
+长时间日全食	chang shi jian ri quan shi	1
+常数	chang shu	1
+场星	chang xing	1
+场星系	chang xing xi	1
+长周期变星	chang zhou qi bian xing	1
+长周期彗星	chang zhou qi hui xing	1
+长周期摄动	chang zhou qi she dong	1
+超巨椭圆星系	chao ju tuo yuan xing xi	1
+超巨星	chao ju xing	1
+超巨星系	chao ju xing xi	1
+超米粒	chao mi li	1
+超米粒组织	chao mi li zu zhi	1
+超冕	chao mian	1
+超期运作到	chao qi yun zuo dao	1
+潮汐变形	chao xi bian xing	1
+潮汐假说	chao xi jia shuo	1
+潮汐摩擦	chao xi mo ca	1
+潮汐形变	chao xi xing bian	1
+超新星	chao xin xing	1
+超星系团	chao xing xi tuan	1
+尘埃带	chen ai dai	1
+尘埃彗尾	chen ai hui wei	1
+尘埃星云	chen ai xing yun	1
+晨出	chen chu	1
+晨昏蒙影	chen hun meng ying	1
+陈遵妫	chen zun gui	1
+秤动点	cheng dong dian	1
+称动点	cheng dong dian	1
+秤漏	cheng lou	1
+程茂兰	cheng mao lan	1
+成员星系	cheng yuan xing xi	1
+赤道地平视差	chi dao di ping shi cha	1
+赤道地位视差	chi dao di wei shi cha	1
+赤道经纬仪	chi dao jing wei yi	1
+赤道隆起	chi dao long qi	1
+赤道仪	chi dao yi	1
+赤道装置	chi dao zhuang zhi	1
+赤道坐标系	chi dao zuo biao xi	1
+尺度因子	chi du yin zi	1
+赤基黄道仪	chi ji huang dao yi	1
+赤经	chi jing	1
+赤经圈	chi jing quan	1
+赤经岁差	chi jing sui cha	1
+赤经章动	chi jing zhang dong	1
+赤纬	chi wei	1
+赤纬绝对值大于	chi wei jue dui zhi da yu	1
+赤纬圈	chi wei quan	1
+赤纬岁差	chi wei sui cha	1
+虫洞	chong dong	1
+重加热	chong jia re	1
+初轨	chu gui	1
+初亏	chu kui	1
+出凌	chu ling	1
+出视界	chu shi jie	1
+船底星云	chuan di xing yun	1
+船底座星云	chuan di zuo xing yun	1
+船帆	chuan fan	1
+船帆脉冲唾	chuan fan mai chong tuo	1
+垂直圈	chui zhi quan	1
+春分点	chun fen dian	1
+纯特洛伊群	chun te luo yi qun	1
+磁胞	ci bao	1
+磁单极	ci dan ji	1
+磁对消	ci dui xiao	1
+磁盖	ci gai	1
+磁钩	ci gou	1
+磁环	ci huan	1
+磁蓬	ci peng	1
+磁轫致辐射	ci ren zhi fu she	1
+磁图	ci tu	1
+磁拓扑	ci tuo pu	1
+磁象仪	ci xiang yi	1
+次星	ci xing	1
+磁星	ci xing	1
+磁元	ci yuan	1
+磁重联	ci zhong lian	1
+瓷阻尼	ci zu ni	1
+磁阻尼	ci zu ni	1
+窜入星	cuan ru xing	1
+存在时间仅约	cun zai shi jian jin yue	1
+大暗斑	da an ban	1
+大白斑	da bai ban	1
+大爆炸宇宙论	da bao zha yu zhou lun	1
+大场暴涨	da chang bao zhang	1
+大冲	da chong	1
+大红斑	da hong ban	1
+大距	da ju	1
+大陵食变星	da ling shi bian xing	1
+大陵双星	da ling shuang xing	1
+大陵五	da ling wu	1
+大陵型变星	da ling xing bian xing	1
+大陵型双星	da ling xing shuang xing	1
+大麦云	da mai yun	1
+大气食	da qi shi	1
+大气视宁度	da qi shi ning du	1
+大气透明度	da qi tou ming du	1
+大气吸收	da qi xi shou	1
+大气折射	da qi zhe she	1
+大犬型星	da quan xing xing	1
+大圈星云	da quan xing yun	1
+大数假说	da shu jia shuo	1
+大行星	da xing xing	1
+大熊星团	da xiong xing tuan	1
+大质量星	da zhi liang xing	1
+戴林格效应	dai lin ge xiao ying	1
+带内行星	dai nei xing xing	1
+带外行星	dai wai xing xing	1
+单场暴涨	dan chang bao zhang	1
+单场暴涨模型	dan chang bao zhang mo xing	1
+单极黑子	dan ji hei zi	1
+单谱分光双星	dan pu fen guang shuang xing	1
+氮碳循环	dan tan xun huan	1
+单位体积内质量在	dan wei ti ji nei zhi liang zai	1
+氮序	dan xu	1
+氘丰度	dao feng du	1
+导星	dao xing	1
+导星镜	dao xing jing	1
+导星装置	dao xing zhuang zhi	1
+德国康德于	de guo kang de yu	1
+德国式装置	de guo shi zhuang zhi	1
+德西特宇宙模型	de xi te yu zhou mo xing	1
+等边三角形点	deng bian san jiao xing dian	1
+等高仪	deng gao yi	1
+等光度测量	deng guang du ce liang	1
+等级式宇宙论	deng ji shi yu zhou lun	1
+等离子体天体物理学	deng li zi ti tian ti wu li xue	1
+等龄线	deng ling xian	1
+等效温度	deng xiao wen du	1
+等于恒星周年视差为	deng yu heng xing zhou nian shi cha wei	1
+等值焦距	deng zhi jiao ju	1
+等值宽度	deng zhi kuan du	1
+低电离星系核	di dian li xing xi he	1
+第二宇宙速度	di er yu zhou su du	1
+地方时	di fang shi	1
+第谷超新星	di gu chao xin xing	1
+第谷体系	di gu ti xi	1
+地固坐标系	di gu zuo biao xi	1
+地极	di ji	1
+地基观测	di ji guan ce	1
+地面观测	di mian guan ce	1
+地面天文学	di mian tian wen xue	1
+底片比例尺	di pian bi li chi	1
+底片常数	di pian chang shu	1
+底片雾	di pian wu	1
+地平经度	di ping jing du	1
+地平经圈	di ping jing quan	1
+地平经纬仪	di ping jing wei yi	1
+地平经仪	di ping jing yi	1
+地平圈	di ping quan	1
+地平视差	di ping shi cha	1
+地平图	di ping tu	1
+地平纬度	di ping wei du	1
+地平纬圈	di ping wei quan	1
+地平象限仪	di ping xiang xian yi	1
+地平星	di ping xing	1
+地平装置	di ping zhuang zhi	1
+地平坐标系	di ping zuo biao xi	1
+地球定向参数	di qiu ding xiang can shu	1
+地球力学系	di qiu li xue xi	1
+地球偏率	di qiu pian lv	1
+地球时	di qiu shi	1
+地球自转参数	di qiu zi zhuan can shu	1
+地球坐标系	di qiu zuo biao xi	1
+第三宇宙速度	di san yu zhou su du	1
+地外生命搜寻	di wai sheng ming sou xun	1
+地外生物学	di wai sheng wu xue	1
+地外文明	di wai wen ming	1
+地外智慧生物	di wai zhi hui sheng wu	1
+第五宇宙速度	di wu yu zhou su du	1
+地心历表	di xin li biao	1
+地心体系	di xin ti xi	1
+地心引力常数	di xin yin li chang shu	1
+地心坐标	di xin zuo biao	1
+地心坐标时	di xin zuo biao shi	1
+第一宇宙速度	di yi yu zhou su du	1
+地月系统	di yue xi tong	1
+地月质量比	di yue zhi liang bi	1
+地支	di zhi	1
+电磁波谱	dian ci bo pu	1
+电荷耦合器件	dian he ou he qi jian	1
+电荷藕合器件	dian he ou he qi jian	1
+电离层突扰	dian li ceng tu rao	1
+电离氢区	dian li qing qu	1
+电离氢星系	dian li qing xing xi	1
+电离温度	dian li wen du	1
+电流片	dian liu pian	1
+电视导星镜	dian shi dao xing jing	1
+典型光子能量约	dian xing guang zi neng liang yue	1
+点星术	dian xing shu	1
+电子照相机	dian zi zhao xiang ji	1
+雕具	diao ju	1
+定标	ding biao	1
+定标星	ding biao xing	1
+定标源	ding biao yuan	1
+定轨	ding gui	1
+定日镜	ding ri jing	1
+定天镜	ding tian jing	1
+定向光栅	ding xiang guang shan	1
+定星镜	ding xing jing	1
+东大距	dong da ju	1
+东方照	dong fang zhao	1
+动力学参考系	dong li xue can kao xi	1
+动力学年龄	dong li xue nian ling	1
+动力学宇宙学	dong li xue yu zhou xue	1
+动力学质量	dong li xue zhi liang	1
+动能均分	dong neng jun fen	1
+动态报道	dong tai bao dao	1
+冬至点	dong zhi dian	1
+陡谱	dou pu	1
+陡谱源	dou pu yuan	1
+度规理论	du gui li lun	1
+度规扰动	du gui rao dong	1
+独立积分	du li ji fen	1
+独立日数	du li ri shu	1
+独特变星	du te bian xing	1
+独眼神计划	du yan shen ji hua	1
+短波突衰	duan bo tu shuai	1
+短尺	duan chi	1
+短缺质量	duan que zhi liang	1
+端向天体	duan xiang tian ti	1
+短周期变星	duan zhou qi bian xing	1
+短周期彗星	duan zhou qi hui xing	1
+短周期摄动	duan zhou qi she dong	1
+对流层	dui liu ceng	1
+对流过冲	dui liu guo chong	1
+对流元	dui liu yuan	1
+对日照	dui ri zhao	1
+盾牌型星	dun pai xing xing	1
+多波段天文学	duo bo duan tian wen xue	1
+多钵问题	duo bo wen ti	1
+多曾勒频移	duo ceng le pin yi	1
+多场暴涨	duo chang bao zhang	1
+多场暴涨模型	duo chang bao zhang mo xing	1
+多重红移	duo chong hong yi	1
+多重星系	duo chong xing xi	1
+多方球	duo fang qiu	1
+多极矩辐射	duo ji ju fu she	1
+多镜面望远镜	duo jing mian wang yuan jing	1
+多目标摄谱仪	duo mu biao she pu yi	1
+多普勒频移	duo pu le pin yi	1
+多普勒图	duo pu le tu	1
+多色测光	duo se ce guang	1
+多体问题	duo ti wen ti	1
+多天体摄谱仪	duo tian ti she pu yi	1
+多宇宙	duo yu zhou	1
+轭式装置	e shi zhuang zhi	1
+恩克环缝	en ke huan feng	1
+恩克彗星	en ke hui xing	1
+二分差	er fen cha	1
+二分点	er fen dian	1
+二分圈	er fen quan	1
+二阶扰动	er jie rao dong	1
+二均差	er jun cha	1
+二十八宿	er shi ba xiu	1
+二十四节气	er shi si jie qi	1
+二体碰撞	er ti peng zhuang	1
+二体问题	er ti wen ti	1
+二维测光	er wei ce guang	1
+二星流假说	er xing liu jia shuo	1
+二至点	er zhi dian	1
+二至圈	er zhi quan	1
+法定时	fa ding shi	1
+发射线星	fa she xian xing	1
+发射线星系	fa she xian xing xi	1
+发射星云	fa she xing yun	1
+范艾仑辐射带	fan ai lun fu she dai	1
+帆船型星	fan chuan xing xing	1
+范马宁星	fan ma ning xing	1
+反射镜	fan she jing	1
+反射望远镜	fan she wang yuan jing	1
+反射星云	fan she xing yun	1
+反物质宇宙论	fan wu zhi yu zhou lun	1
+反银心方向	fan yin xin fang xiang	1
+反照率	fan zhao lv	1
+纺锤状星系	fang chui zhuang xing xi	1
+仿视星等	fang shi xing deng	1
+方位角	fang wei jiao	1
+方位天文学	fang wei tian wen xue	1
+方照	fang zhao	1
+纺锺状星系	fang zhong zhuang xing xi	1
+非高斯	fei gao si	1
+非高斯性	fei gao si xing	1
+非灰大气	fei hui da qi	1
+非径向	fei jing xiang	1
+非径向脉动	fei jing xiang mai dong	1
+非局部热动平衡	fei ju bu re dong ping heng	1
+非局部热动平稳	fei ju bu re dong ping wen	1
+非热电子	fei re dian zi	1
+非热辐射	fei re fu she	1
+非势	fei shi	1
+非线性扰动	fei xian xing rao dong	1
+分光光度标准星	fen guang guang du biao zhun xing	1
+分光光度温度	fen guang guang du wen du	1
+分光解	fen guang jie	1
+分光距离	fen guang ju li	1
+分光视差	fen guang shi cha	1
+分光双星	fen guang shuang xing	1
+分立孔径	fen li kong jing	1
+分裂碎块	fen lie sui kuai	1
+分流直象管	fen liu zhi xiang guan	1
+分星	fen xing	1
+分至月	fen zhi yue	1
+分钟振荡	fen zhong zhen dang	1
+分子带偏弱的	fen zi dai pian ruo de	1
+分子云	fen zi yun	1
+分子钟	fen zi zhong	1
+富氮星	fu dan xing	1
+浮动天顶仪	fu dong tian ding yi	1
+富度指数	fu du zhi shu	1
+覆盖效应	fu gai xiao ying	1
+富氦核	fu hai he	1
+富氦星	fu hai xing	1
+复合期	fu he qi	1
+富金属星团	fu jin shu xing tuan	1
+副镜	fu jing	1
+弗拉马里翁	fu la ma li weng	1
+弗里德曼宇宙模型	fu li de man yu zhou mo xing	1
+复谱双星	fu pu shuang xing	1
+负氢离子	fu qing li zi	1
+辐射带	fu she dai	1
+辐射点	fu she dian	1
+辐射为主时期	fu she wei zhu shi qi	1
+辐射温度	fu she wen du	1
+辐射占优期	fu she zhan you qi	1
+辐射转移	fu she zhuan yi	1
+辐射转移方程	fu she zhuan yi fang cheng	1
+辐身转移方程	fu shen zhuan yi fang cheng	1
+复圆	fu yuan	1
+伽马射线暴	ga ma she xian bao	1
+盖天说	gai tian shuo	1
+改正镜	gai zheng jing	1
+改正面积	gai zheng mian ji	1
+干涉偏振滤光器	gan she pian zhen lv guang qi	1
+干涉双星	gan she shuang xing	1
+感应跃迁	gan ying yue qian	1
+高光度恒星	gao guang du heng xing	1
+高红移类星体光谱中	gao hong yi lei xing ti guang pu zhong	1
+高阶导数引力	gao jie dao shu yin li	1
+高径向阶	gao jing xiang jie	1
+高鲁	gao lu	1
+高能天体物理学	gao neng tian ti wu li xue	1
+高偏振星	gao pian zhen xing	1
+高斯性	gao si xing	1
+高斯引力常数	gao si yin li chang shu	1
+高速测光	gao su ce guang	1
+高速星	gao su xing	1
+哥白尼卫星	ge bai ni wei xing	1
+哥伯尼卫星	ge bo ni wei xing	1
+各大天文台	ge da tian wen tai	1
+各类天体	ge lei tian ti	1
+格里历	ge li li	1
+格里年	ge li nian	1
+格林尼治恒星日期	ge lin ni zhi heng xing ri qi	1
+格林尼治平恒星	ge lin ni zhi ping heng xing	1
+格林尼治平恒星时	ge lin ni zhi ping heng xing shi	1
+格林尼治平时	ge lin ni zhi ping shi	1
+格林尼治子午线	ge lin ni zhi zi wu xian	1
+各向异性宇宙论	ge xiang yi xing yu zhou lun	1
+更暗弱	geng an ruo	1
+更精微细节	geng jing wei xi jie	1
+共包层演化	gong bao ceng yan hua	1
+拱点	gong dian	1
+共动	gong dong	1
+共动规范	gong dong gui fan	1
+共动坐标	gong dong zuo biao	1
+拱极星	gong ji xing	1
+功率谱函数	gong lv pu han shu	1
+共生双星	gong sheng shuang xing	1
+共生新星	gong sheng xin xing	1
+共生星	gong sheng xing	1
+拱线	gong xian	1
+共线点	gong xian dian	1
+共重星	gong zhong xing	1
+公转	gong zhuan	1
+共转半径	gong zhuan ban jing	1
+公转周期最短	gong zhuan zhou qi zui duan	1
+拱状暗条系统	gong zhuang an tiao xi tong	1
+古德臂	gu de bi	1
+古德带	gu de dai	1
+估距关系	gu ju guan xi	1
+孤立积分	gu li ji fen	1
+古姆星云	gu mu xing yun	1
+观测到	guan ce dao	1
+观测工作	guan ce gong zuo	1
+观测手段	guan ce shou duan	1
+观测天文学	guan ce tian wen xue	1
+观测眼镜	guan ce yan jing	1
+观测宇宙学	guan ce yu zhou xue	1
+观测站	guan ce zhan	1
+观象台	guan xiang tai	1
+光变曲线	guang bian qu xian	1
+光变周期	guang bian zhou qi	1
+光薄介质	guang bo jie zhi	1
+光电测光	guang dian ce guang	1
+光电成象	guang dian cheng xiang	1
+光电等高仪	guang dian deng gao yi	1
+光电中星仪	guang dian zhong xing yi	1
+光度	guang du	1
+光度标准星	guang du biao zhun xing	1
+光度函数	guang du han shu	1
+光度级	guang du ji	1
+光度视差	guang du shi cha	1
+光度演化	guang du yan hua	1
+光度质量	guang du zhi liang	1
+光干涉测量	guang gan she ce liang	1
+光厚介质	guang hou jie zhi	1
+光剧变类星体	guang ju bian lei xing ti	1
+光阑光径	guang lan guang jing	1
+光阑孔径	guang lan kong jing	1
+光年	guang nian	1
+光谱变星	guang pu bian xing	1
+光谱分类	guang pu fen lei	1
+光谱分析	guang pu fen xi	1
+光谱光度图	guang pu guang du tu	1
+光谱型	guang pu xing	1
+光谱型为	guang pu xing wei	1
+光谱中	guang pu zhong	1
+光谱中出现	guang pu zhong chu xian	1
+光球活动	guang qiu huo dong	1
+光深	guang shen	1
+光申中星仪	guang shen zhong xing yi	1
+光瞳光度计	guang tong guang du ji	1
+光污染	guang wu ran	1
+光纤摄谱仪	guang xian she pu yi	1
+光行差	guang xing cha	1
+光行差常数	guang xing cha chang shu	1
+光行时	guang xing shi	1
+光行时差	guang xing shi cha	1
+光学臂	guang xue bi	1
+光学窗口	guang xue chuang kou	1
+光学对应体	guang xue dui ying ti	1
+光学观测	guang xue guan ce	1
+光学脉冲星	guang xue mai chong xing	1
+光学认证	guang xue ren zheng	1
+光学太阳	guang xue tai yang	1
+光学天平动	guang xue tian ping dong	1
+光学天体	guang xue tian ti	1
+光学天文学	guang xue tian wen xue	1
+光学望远镜	guang xue wang yuan jing	1
+光学信息	guang xue xin xi	1
+光学证认	guang xue zheng ren	1
+广义相对论	guang yi xiang dui lun	1
+广义主序	guang yi zhu xu	1
+光质介质	guang zhi jie zhi	1
+光子计数	guang zi ji shu	1
+圭表	gui biao	1
+轨道半长径约在	gui dao ban chang jing yue zai	1
+轨道改进	gui dao gai jin	1
+轨道根数	gui dao gen shu	1
+轨道共振	gui dao gong zhen	1
+轨道偏心率	gui dao pian xin lv	1
+轨道倾角	gui dao qing jiao	1
+轨道上的相对位置	gui dao shang de xiang dui wei zhi	1
+轨道太阳观测站	gui dao tai yang guan ce zhan	1
+轨道天文台	gui dao tian wen tai	1
+鬼象	gui xiang	1
+鬼星团	gui xing tuan	1
+国际地球自转服务	guo ji di qiu zi zhuan fu wu	1
+国际极移服务	guo ji ji yi fu wu	1
+国际极移日期	guo ji ji yi ri qi	1
+国际时间局	guo ji shi jian ju	1
+国际天文学联合会	guo ji tian wen xue lian he hui	1
+国际纬度服务	guo ji wei du fu wu	1
+国际协议原点	guo ji xie yi yuan dian	1
+国际原子时	guo ji yuan zi shi	1
+国际紫外探测器	guo ji zi wai tan ce qi	1
+国家天文台	guo jia tian wen tai	1
+哈勃半径	ha bo ban jing	1
+哈勃参数	ha bo can shu	1
+哈勃常数	ha bo chang shu	1
+哈波常数	ha bo chang shu	1
+哈勃关系	ha bo guan xi	1
+哈波关系	ha bo guan xi	1
+哈勃距离	ha bo ju li	1
+哈勃空间望远镜	ha bo kong jian wang yuan jing	1
+哈勃年令	ha bo nian ling	1
+哈勃时间	ha bo shi jian	1
+哈勃图	ha bo tu	1
+哈勃星云	ha bo xing yun	1
+哈勃序列	ha bo xu lie	1
+哈波序列	ha bo xu lie	1
+哈佛分类	ha fo fen lei	1
+哈佛选区	ha fo xuan qu	1
+哈雷彗星	ha lei hui xing	1
+哈特曼检验	ha te man jian yan	1
+海尔望远镜	hai er wang yuan jing	1
+氦丰度	hai feng du	1
+海利斯模型	hai li si mo xing	1
+氦燃料	hai ran liao	1
+氦燃烧	hai ran shao	1
+氦闪	hai shan	1
+海外行星	hai wai xing xing	1
+海王星	hai wang xing	1
+海王星环	hai wang xing huan	1
+航海天文历	hang hai tian wen li	1
+航海天文学	hang hai tian wen xue	1
+航天动力学	hang tian dong li xue	1
+毫米波天文学	hao mi bo tian wen xue	1
+毫秒脉冲星	hao miao mai chong xing	1
+耗散	hao san	1
+赫比格	he bi ge	1
+赫茨普龙	he ci pu long	1
+河鼓	he gu	1
+河鼓二	he gu er	1
+核合成	he he cheng	1
+赫罗图	he luo tu	1
+赫罗图上从左上	he luo tu shang cong zuo shang	1
+核球	he qiu	1
+核球射线源	he qiu she xian yuan	1
+核生成	he sheng cheng	1
+赫氏空隙	he shi kong xi	1
+河外天文学	he wai tian wen xue	1
+赫歇尔望远镜	he xie er wang yuan jing	1
+黑矮星	hei ai xing	1
+黑太阳	hei tai yang	1
+黑子半影	hei zi ban ying	1
+黑子本影	hei zi ben ying	1
+黑子相对数	hei zi xiang dui shu	1
+恒星	heng xing	1
+恒星包层	heng xing bao ceng	1
+恒星参考系	heng xing can kao xi	1
+恒星层次	heng xing ceng ci	1
+恒星动力学	heng xing dong li xue	1
+恒星风	heng xing feng	1
+恒星复合体	heng xing fu he ti	1
+恒星干涉仪	heng xing gan she yi	1
+恒星光行差	heng xing guang xing cha	1
+恒星黑子	heng xing hei zi	1
+恒星活动	heng xing huo dong	1
+恒星结构	heng xing jie gou	1
+恒星年	heng xing nian	1
+恒星日	heng xing ri	1
+恒星视向速度仪	heng xing shi xiang su du yi	1
+恒星天文学	heng xing tian wen xue	1
+恒星物理学	heng xing wu li xue	1
+恒星形成	heng xing xing cheng	1
+恒星演化	heng xing yan hua	1
+恒星月	heng xing yue	1
+恒星云	heng xing yun	1
+恒星钟	heng xing zhong	1
+红矮星	hong ai xing	1
+宏观图象	hong guan tu xiang	1
+红化	hong hua	1
+红巨星	hong ju xing	1
+红巨星支	hong ju xing zhi	1
+红外超	hong wai chao	1
+红外超天体	hong wai chao tian ti	1
+红外窗口	hong wai chuang kou	1
+红外对应体	hong wai dui ying ti	1
+红外分光	hong wai fen guang	1
+红外空间天文台	hong wai kong jian tian wen tai	1
+红外天文卫星	hong wai tian wen wei xing	1
+红外天文学	hong wai tian wen xue	1
+红外望远镜	hong wai wang yuan jing	1
+红外星等	hong wai xing deng	1
+红外星系	hong wai xing xi	1
+红外源	hong wai yuan	1
+红移	hong yi	1
+红移因子	hong yi yin zi	1
+厚大气	hou da qi	1
+后端接收设备	hou duan jie shou she bei	1
+厚盘	hou pan	1
+厚盘族	hou pan zu	1
+后随黑子	hou sui hei zi	1
+蝴蝶图	hu die tu	1
+互扰星系	hu rao xing xi	1
+互作用双星	hu zuo yong shuang xing	1
+互作用星系	hu zuo yong xing xi	1
+化学演化	hua xue yan hua	1
+环绕速度	huan rao su du	1
+环绕沃尔夫	huan rao wo er fu	1
+环食带	huan shi dai	1
+环形山	huan xing shan	1
+环与	huan yu	1
+环状星系	huan zhuang xing xi	1
+黄赤交角	huang chi jiao jiao	1
+黄道	huang dao	1
+黄道带	huang dao dai	1
+黄道光	huang dao guang	1
+黄道经纬仪	huang dao jing wei yi	1
+黄道十二宫	huang dao shi er gong	1
+黄道坐标系	huang dao zuo biao xi	1
+黄极	huang ji	1
+皇家天文学会	huang jia tian wen xue hui	1
+皇家天文学家	huang jia tian wen xue jia	1
+黄经	huang jing	1
+黄经圈	huang jing quan	1
+黄经岁差	huang jing sui cha	1
+黄经章动	huang jing zhang dong	1
+黄经总岁差	huang jing zong sui cha	1
+黄纬	huang wei	1
+黄纬圈	huang wei quan	1
+灰大气	hui da qi	1
+彗顶	hui ding	1
+灰洞	hui dong	1
+彗发	hui fa	1
+回归年	hui gui nian	1
+回归月	hui gui yue	1
+彗核	hui he	1
+绘架	hui jia	1
+彗头	hui tou	1
+彗尾	hui wei	1
+彗星	hui xing	1
+彗形球状体	hui xing qiu zhuang ti	1
+回旋加速辐射	hui xuan jia su fu she	1
+彗晕	hui yun	1
+彗状星云	hui zhuang xing yun	1
+慧状星云	hui zhuang xing yun	1
+混合长理论	hun he chang li lun	1
+浑天说	hun tian shuo	1
+浑象	hun xiang	1
+浑仪	hun yi	1
+活动经度	huo dong jing du	1
+活动日珥	huo dong ri er	1
+活动太阳	huo dong tai yang	1
+活动星系	huo dong xing xi	1
+活动星系核	huo dong xing xi he	1
+活动穴	huo dong xue	1
+或费米分布	huo fei mi fen bu	1
+火流星	huo liu xing	1
+火卫	huo wei	1
+活跃彗星	huo yue hui xing	1
+基本天体测量学	ji ben tian ti ce liang xue	1
+基本星表	ji ben xing biao	1
+激变前双星	ji bian qian shuang xing	1
+激变双星	ji bian shuang xing	1
+激变星系	ji bian xing xi	1
+激发温度	ji fa wen du	1
+激发星	ji fa xing	1
+激光测月	ji guang ce yue	1
+几何变星	ji he bian xing	1
+几何天平动	ji he tian ping dong	1
+玑衡抚辰仪	ji heng fu chen yi	1
+极距	ji ju	1
+激扰星系	ji rao xing xi	1
+积日	ji ri	1
+记时仪	ji shi yi	1
+几体模拟	ji ti mo ni	1
+极限暴光时间	ji xian bao guang shi jian	1
+极限曝光时间	ji xian bao guang shi jian	1
+极限分辨率	ji xian fen bian lv	1
+极限分辩率	ji xian fen bian lv	1
+极限星等	ji xian xing deng	1
+纪限仪	ji xian yi	1
+极向恒星	ji xiang heng xing	1
+极向天体	ji xiang tian ti	1
+极移	ji yi	1
+即依数	ji yi shu	1
+极羽	ji yu	1
+极早期宇宙	ji zao qi yu zhou	1
+寄主星系	ji zhu xing xi	1
+极紫外探测器	ji zi wai tan ce qi	1
+伽利略	jia li lue	1
+伽利略望远镜	jia li lue wang yuan jing	1
+伽利略卫星	jia li lue wei xing	1
+伽玛暴	jia ma bao	1
+加速膨胀	jia su peng zhang	1
+假真空	jia zhen kong	1
+架直径	jia zhi jing	1
+简并气体	jian bing qi ti	1
+简并星	jian bing xing	1
+尖峰爆发	jian feng bao fa	1
+简化儒略日期	jian hua ru lue ri qi	1
+渐近巨星支	jian jin ju xing zhi	1
+简略历书日期	jian lue li shu ri qi	1
+减速膨胀	jian su peng zhang	1
+减速因子	jian su yin zi	1
+简仪	jian yi	1
+箭鱼座	jian yu zuo	1
+降交点	jiang jiao dian	1
+焦比衰退	jiao bi shuai tui	1
+较差测光	jiao cha ce guang	1
+较差观测	jiao cha guan ce	1
+较差弯沉	jiao cha wan chen	1
+较差星表	jiao cha xing biao	1
+较差自转	jiao cha zi zhuan	1
+交点年	jiao dian nian	1
+交点退行	jiao dian tui xing	1
+交点西退	jiao dian xi tui	1
+交点线	jiao dian xian	1
+交点月	jiao dian yue	1
+角动量极	jiao dong liang ji	1
+礁湖星云	jiao hu xing yun	1
+交角章动	jiao jiao zhang dong	1
+角径远小于	jiao jing yuan xiao yu	1
+角秒	jiao miao	1
+交食概况	jiao shi gai kuang	1
+交食要素	jiao shi yao su	1
+角宿一	jiao su yi	1
+截断因子	jie duan yin zi	1
+截面法	jie mian fa	1
+近地点	jin di dian	1
+近地小行星	jin di xiao xing xing	1
+近点	jin dian	1
+近点幅角	jin dian fu jiao	1
+近点角	jin dian jiao	1
+近点年	jin dian nian	1
+近点月	jin dian yue	1
+近拱点	jin gong dian	1
+禁戒跃迁	jin jie yue qian	1
+近邻星系	jin lin xing xi	1
+金牛宫	jin niu gong	1
+金牛星团	jin niu xing tuan	1
+金牛型星	jin niu xing xing	1
+金期波长	jin qi bo chang	1
+金期质量	jin qi zhi liang	1
+近日点	jin ri dian	1
+近日点辐角	jin ri dian fu jiao	1
+近日点进动	jin ri dian jin dong	1
+金属度	jin shu du	1
+金属丰度	jin shu feng du	1
+金属线星	jin shu xian xing	1
+金斯波长	jin si bo chang	1
+金斯质量	jin si zhi liang	1
+禁线	jin xian	1
+近相接双星	jin xiang jie shuang xing	1
+近心点	jin xin dian	1
+近星点	jin xing dian	1
+近银心点	jin yin xin dian	1
+经典积分	jing dian ji fen	1
+经典扰动	jing dian rao dong	1
+经典新星	jing dian xin xing	1
+经典造父变星	jing dian zao fu bian xing	1
+经典涨落	jing dian zhang luo	1
+景符	jing fu	1
+精神场	jing shen chang	1
+镜室	jing shi	1
+经天平动	jing tian ping dong	1
+径向脉动	jing xiang mai dong	1
+鲸鱼流星群	jing yu liu xing qun	1
+鲸鱼型星	jing yu xing xing	1
+就愈强	jiu yu qiang	1
+巨壁	ju bi	1
+局部热动平衡	ju bu re dong ping heng	1
+巨洞	ju dong	1
+巨分子云	ju fen zi yun	1
+聚光能力	ju guang neng li	1
+巨极大	ju ji da	1
+居间星系	ju jian xing xi	1
+距角	ju jiao	1
+距离尺度	ju li chi du	1
+距离度	ju li du	1
+距离模数	ju li mo shu	1
+巨米粒	ju mi li	1
+巨米粒组织	ju mi li zu zhi	1
+巨石阵	ju shi zhen	1
+巨椭圆星系	ju tuo yuan xing xi	1
+巨蟹宫	ju xie gong	1
+聚星	ju xing	1
+距星	ju xing	1
+巨星系	ju xing xi	1
+巨行星	ju xing xing	1
+巨星支	ju xing zhi	1
+巨引力源	ju yin li yuan	1
+具有双子	ju you shuang zi	1
+局域惯性系	ju yu guan xing xi	1
+局域静止标准	ju yu jing zhi biao zhun	1
+巨支星	ju zhi xing	1
+绝对测光	jue dui ce guang	1
+绝对平直	jue dui ping zhi	1
+绝对时空	jue dui shi kong	1
+绝对星表	jue dui xing biao	1
+绝对星等	jue dui xing deng	1
+绝热扰动	jue re rao dong	1
+绝钟	jue zhong	1
+均轮	jun lun	1
+卡焦摄谱仪	ka jiao she pu yi	1
+卡林顿子午圈	ka lin dun zi wu quan	1
+卡林顿坐标	ka lin dun zuo biao	1
+卡普坦	ka pu tan	1
+卡普坦望远镜	ka pu tan wang yuan jing	1
+卡普坦星	ka pu tan xing	1
+卡普坦选区	ka pu tan xuan qu	1
+喀戎星	ka rong xing	1
+卡塞格林望远镜	ka sai ge lin wang yuan jing	1
+卡氏焦点	ka shi jiao dian	1
+卡西尼定律	ka xi ni ding lv	1
+卡西尼环缝	ka xi ni huan feng	1
+凯克望远镜	kai ke wang yuan jing	1
+开普勒超新星	kai pu le chao xin xing	1
+开普勒定律	kai pu le ding lv	1
+开普勒方程	kai pu le fang cheng	1
+开普勒轨道	kai pu le gui dao	1
+开普勒盘	kai pu le pan	1
+开普勒望远镜	kai pu le wang yuan jing	1
+开宇宙	kai yu zhou	1
+康德	kang de	1
+考古天文学	kao gu tian wen xue	1
+克尔黑洞	ke er hei dong	1
+柯克伍德空隙	ke ke wu de kong xi	1
+克莱芒蒂娜	ke lai mang di na	1
+克里斯琴森十字	ke li si qin sen shi zi	1
+柯瓦尔天体	ke wa er tian ti	1
+科威尔方法	ke wei er fang fa	1
+客星	ke xing	1
+柯伊伯	ke yi bo	1
+柯伊伯带	ke yi bo dai	1
+柯伊伯机载天文台	ke yi bo ji zai tian wen tai	1
+柯伊伯星	ke yi bo xing	1
+空固坐标系	kong gu zuo biao xi	1
+空间红外望远镜	kong jian hong wai wang yuan jing	1
+空间实验室	kong jian shi yan shi	1
+空间探索	kong jian tan suo	1
+空间天体测量学	kong jian tian ti ce liang xue	1
+空间天文学	kong jian tian wen xue	1
+空间望远镜	kong jian wang yuan jing	1
+孔径测光	kong jing ce guang	1
+快暴源	kuai bao yuan	1
+快爆源	kuai bao yuan	1
+快速振荡	kuai su zhen dang	1
+快新星	kuai xin xing	1
+宽带测光	kuan dai ce guang	1
+窥管	kui guan	1
+喇叭宇宙	la ba yu zhou	1
+拉格郎日点	la ge lang ri dian	1
+拉格朗日点	la ge lang ri dian	1
+拉普拉斯矢量	la pu la si shi liang	1
+拉普拉斯星云说	la pu la si xing yun shuo	1
+拉叶星	la ye xing	1
+拉叶星的电离氦	la ye xing de dian li hai	1
+拉叶星系	la ye xing xi	1
+蓝离散星	lan li san xing	1
+老新星	lao xin xing	1
+勒梅特宇宙模型	le mei te yu zhou mo xing	1
+勒威耶	le wei ye	1
+类地行星	lei di xing xing	1
+累积星等	lei ji xing deng	1
+类木行星	lei mu xing xing	1
+类太阳恒星	lei tai yang heng xing	1
+类小行星天体	lei xiao xing xing tian ti	1
+类新星变星	lei xin xing bian xing	1
+类星射电源	lei xing she dian yuan	1
+类星体	lei xing ti	1
+冷流星系	leng liu xing xi	1
+棱栅	leng shan	1
+利奥滤光器	li ao lv guang qi	1
+历表	li biao	1
+锂丰度	li feng du	1
+力函数	li han shu	1
+李珩	li heng	1
+离解	li jie	1
+理论天体物理学	li lun tian ti wu li xue	1
+历书时	li shu shi	1
+历书子午线	li shu zi wu xian	1
+力学分点	li xue fen dian	1
+力学偏率	li xue pian lv	1
+力学时	li xue shi	1
+力学视差	li xue shi cha	1
+历元	li yuan	1
+历元赤道	li yuan chi dao	1
+离子彗尾	li zi hui wei	1
+粒子视界	li zi shi jie	1
+粒子天体物理学	li zi tian ti wu li xue	1
+连续孔径	lian xu kong jing	1
+两点函数	liang dian han shu	1
+亮度从极大下降	liang du cong ji da xia jiang	1
+亮巨星	liang ju xing	1
+两色测光	liang se ce guang	1
+两色图	liang se tu	1
+亮温度	liang wen du	1
+亮星系表	liang xing xi biao	1
+亮星系数	liang xing xi shu	1
+亮星云	liang xing yun	1
+量子扰动	liang zi rao dong	1
+量子宇宙论	liang zi yu zhou lun	1
+猎户臂	lie hu bi	1
+猎户四边形	lie hu si bian xing	1
+猎户星集	lie hu xing ji	1
+临边昏暗	lin bian hun an	1
+临边增亮	lin bian zeng liang	1
+临界等位面	lin jie deng wei mian	1
+临界幅角	lin jie fu jiao	1
+临界密度	lin jie mi du	1
+临界倾角	lin jie qing jiao	1
+林忠四郎线	lin zhong si lang xian	1
+零龄水平支	ling ling shui ping zhi	1
+零龄主序	ling ling zhu xu	1
+凌日	ling ri	1
+零速度面	ling su du mian	1
+六分仪	liu fen yi	1
+流量密度	liu liang mi du	1
+六十干支周	liu shi gan zhi zhou	1
+流星密度	liu xing mi du	1
+流星群	liu xing qun	1
+流星体	liu xing ti	1
+流星余迹	liu xing yu ji	1
+漏代	lou dai	1
+漏壶	lou hu	1
+漏箭	lou jian	1
+漏刻	lou ke	1
+鹿豹	lu bao	1
+鹿豹型星	lu bao xing xing	1
+六合星	lu he xing	1
+露罩	lu zhao	1
+掠日彗星	lue ri hui xing	1
+掠射望远镜	lue she wang yuan jing	1
+罗伯逊	luo bo xun	1
+罗默	luo mo	1
+洛希瓣	luo xi ban	1
+洛希极限	luo xi ji xian	1
+落下闳	luo xia hong	1
+螺旋星云	luo xuan xing yun	1
+氯闪	lv shan	1
+马费伊	ma fei yi	1
+马腹	ma fu	1
+马腹一	ma fu yi	1
+马卡良链	ma ka liang lian	1
+马卡良星系	ma ka liang xing xi	1
+马克苏托夫望远镜	ma ke su tuo fu wang yuan jing	1
+马蹄星云	ma ti xing yun	1
+马头星云	ma tou xing yun	1
+玛雅天文学	ma ya tian wen xue	1
+脉冲双星	mai chong shuang xing	1
+脉冲相	mai chong xiang	1
+脉冲星	mai chong xing	1
+脉动变星	mai dong bian xing	1
+脉动不稳定带	mai dong bu wen ding dai	1
+脉动极	mai dong ji	1
+脉动相位	mai dong xiang wei	1
+脉动新星	mai dong xin xing	1
+麦哲伦	mai zhe lun	1
+麦哲伦云	mai zhe lun yun	1
+慢滚暴涨	man gun bao zhang	1
+慢滚近似	man gun jin si	1
+慢新星	man xin xing	1
+昴宿六	mao su liu	1
+昴宿四	mao su si	1
+昴宿增十二	mao su zeng shi er	1
+昴星团	mao xing tuan	1
+昴星团望远镜	mao xing tuan wang yuan jing	1
+猫眼星云	mao yan xing yun	1
+卯酉圈	mao you quan	1
+煤袋	mei dai	1
+玫瑰花结	mei gui hua jie	1
+玫瑰星云	mei gui xing yun	1
+美国天文学家哈勃于	mei guo tian wen xue jia ha bo yu	1
+眉牌	mei pai	1
+美索不达米亚天文学	mei suo bu da mi ya tian wen xue	1
+梅西耶	mei xi ye	1
+梅西叶星云星团表	mei xi ye xing yun xing tuan biao	1
+蒙德极小期	meng de ji xiao qi	1
+密度波	mi du bo	1
+密度矩阵	mi du ju zhen	1
+密度扰动	mi du rao dong	1
+密度演化	mi du yan hua	1
+米尔斯十字	mi er si shi zi	1
+米级的	mi ji de	1
+密近双星	mi jin shuang xing	1
+米粒组织	mi li zu zhi	1
+弥漫星际带	mi man xing ji dai	1
+弥漫星云	mi man xing yun	1
+面地观测站	mian di guan ce zhan	1
+冕洞	mian dong	1
+冕环	mian huan	1
+面积定律	mian ji ding lv	1
+冕盔	mian kui	1
+冕流	mian liu	1
+冕扇	mian shan	1
+冕雨	mian yu	1
+秒差距	miao cha ju	1
+敏化	min hua	1
+闵可夫斯基	min ke fu si ji	1
+民用晨昏蒙影	min yong chen hun meng ying	1
+民用日	min yong ri	1
+冥外行星	ming wai xing xing	1
+冥王星	ming wang xing	1
+默冬章	mo dong zhang	1
+摩羯宫	mo jie gong	1
+膜世界	mo shi jie	1
+摩蝎	mo xie	1
+膜宇宙	mo yu zhou	1
+膜宇宙学	mo yu zhou xue	1
+目测双星	mu ce shuang xing	1
+木村荣	mu cun rong	1
+木村项	mu cun xiang	1
+牧夫	mu fu	1
+牧夫流星群	mu fu liu xing qun	1
+牧夫座流星雨	mu fu zuo liu xing yu	1
+目视测光	mu shi ce guang	1
+目视双星	mu shi shuang xing	1
+目视星	mu shi xing	1
+目视星等	mu shi xing deng	1
+木卫	mu wei	1
+木星	mu xing	1
+木星大红斑	mu xing da hong ban	1
+木星环	mu xing huan	1
+母星系	mu xing xi	1
+牧羊犬卫星	mu yang quan wei xing	1
+纳耀斑	na yao ban	1
+南半球	nan ban qiu	1
+南河三	nan he san	1
+南黄极	nan huang ji	1
+南煤袋	nan mei dai	1
+南冕	nan mian	1
+南三角	nan san jiao	1
+南十字	nan shi zi	1
+南天极	nan tian ji	1
+南银极	nan yin ji	1
+南鱼	nan yu	1
+内变	nei bian	1
+内禀红移	nei bing hong yi	1
+内禀温度涨落	nei bing wen du zhang luo	1
+内彗发	nei hui fa	1
+内拉格郎日点	nei la ge lang ri dian	1
+内拉格朗日点	nei la ge lang ri dian	1
+内冕	nei mian	1
+内氏焦点	nei shi jiao dian	1
+内史密斯摄谱仪	nei shi mi si she pu yi	1
+内太阳系	nei tai yang xi	1
+内行星	nei xing xing	1
+内因变星	nei yin bian xing	1
+能层	neng ceng	1
+能段	neng duan	1
+逆康普顿效应	ni kang pu dun xiao ying	1
+逆留	ni liu	1
+逆行	ni xing	1
+年和	nian he	1
+年儒略历	nian ru lue li	1
+年已	nian yi	1
+年至	nian zhi	1
+鸟呼鲁	niao hu lu	1
+宁静日珥	ning jing ri er	1
+宁静态	ning jing tai	1
+宁静太阳	ning jing tai yang	1
+牛顿焦点	niu dun jiao dian	1
+牛顿望远镜	niu dun wang yuan jing	1
+牛顿引力理论	niu dun yin li li lun	1
+牛顿宇宙论	niu dun yu zhou lun	1
+扭绞	niu jiao	1
+纽康	niu kang	1
+欧南台	ou nan tai	1
+帕洛马天图	pa luo ma tian tu	1
+帕洛玛天图	pa luo ma tian tu	1
+盘星系	pan xing xi	1
+盘族	pan zu	1
+盘族球状星团	pan zu qiu zhuang xing tuan	1
+抛物面镜	pao wu mian jing	1
+抛物面天线	pao wu mian tian xian	1
+喷流	pen liu	1
+喷流星系	pen liu xing xi	1
+喷射星系	pen she xing xi	1
+彭齐亚斯	peng qi ya si	1
+膨胀臂	peng zhang bi	1
+膨胀宇宙	peng zhang yu zhou	1
+碰撞星系	peng zhuang xing xi	1
+偏带观测	pian dai guan ce	1
+偏近点角	pian jin dian jiao	1
+偏食	pian shi	1
+偏心率	pian xin lv	1
+偏振标准星	pian zhen biao zhun xing	1
+偏置导星	pian zhi dao xing	1
+偏置导星装置	pian zhi dao xing zhuang zhi	1
+拼合镜面望远镜	pin he jing mian wang yuan jing	1
+拼接镜面望远镜	pin jie jing mian wang yuan jing	1
+贫金属星	pin jin shu xing	1
+贫金属星团	pin jin shu xing tuan	1
+贫氢星	pin qing xing	1
+平场	ping chang	1
+平场改正	ping chang gai zheng	1
+平赤道	ping chi dao	1
+平春分点	ping chun fen dian	1
+平分春点	ping fen chun dian	1
+平根数	ping gen shu	1
+平恒星时	ping heng xing shi	1
+平黄赤交角	ping huang chi jiao jiao	1
+平极	ping ji	1
+平近点角	ping jin dian jiao	1
+平均尺度为	ping jun chi du wei	1
+平均动动	ping jun dong dong	1
+平均法	ping jun fa	1
+平均视差	ping jun shi cha	1
+平均运动	ping jun yun dong	1
+平年	ping nian	1
+平谱	ping pu	1
+平谱源	ping pu yuan	1
+平太阳	ping tai yang	1
+平太阳日	ping tai yang ri	1
+平太阳时	ping tai yang shi	1
+平太阳时角加	ping tai yang shi jiao jia	1
+平位置	ping wei zhi	1
+平行圈	ping xing quan	1
+平正午	ping zheng wu	1
+泼恩星表	po en xing biao	1
+谱斑	pu ban	1
+普遍摄动	pu bian she dong	1
+普朗克长度	pu lang ke chang du	1
+普郎克时间	pu lang ke shi jian	1
+普朗克时间	pu lang ke shi jian	1
+普朗斯基特星	pu lang si ji te xing	1
+普通天文学	pu tong tian wen xue	1
+谱线变宽	pu xian bian kuan	1
+谱线分裂	pu xian fen lie	1
+谱线覆盖	pu xian fu gai	1
+谱线轮廓	pu xian lun kuo	1
+谱线认证	pu xian ren zheng	1
+谱线位移	pu xian wei yi	1
+谱线证认	pu xian zheng ren	1
+气尘复合体	qi chen fu he ti	1
+其典型的光变幅约	qi dian xing de guang bian fu yue	1
+气壳星	qi ke xing	1
+气孔	qi kong	1
+麒麟圈	qi lin quan	1
+麒麟座	qi lin zuo	1
+齐明系统	qi ming xi tong	1
+其时太阳在地平下	qi shi tai yang zai di ping xia	1
+气体星云	qi ti xing yun	1
+七曜	qi yao	1
+气钟	qi zhong	1
+前导黑子	qian dao hei zi	1
+钱德拉塞卡极限	qian de la sai ka ji xian	1
+钱德勒周期	qian de le zhou qi	1
+前景星	qian jing xing	1
+前景星系	qian jing xing xi	1
+前身天体	qian shen tian ti	1
+前身星	qian shen xing	1
+前星系	qian xing xi	1
+前星系云	qian xing xi yun	1
+前行星盘	qian xing xing pan	1
+墙代	qiang dai	1
+强氮星	qiang dan xing	1
+强光蓝变星	qiang guang lan bian xing	1
+强氦星	qiang hai xing	1
+墙象限仪	qiang xiang xian yi	1
+墙仪	qiang yi	1
+强子期	qiang zi qi	1
+壳层电子电离时	qiao ceng dian zi dian li shi	1
+钦天监监正	qin tian jian jian zheng	1
+倾角	qing jiao	1
+氢燃料	qing ran liao	1
+氢燃烧	qing ran shao	1
+轻元素丰度	qing yuan su feng du	1
+氢钟	qing zhong	1
+氢主序	qing zhu xu	1
+轻子期	qing zi qi	1
+秋分点	qiu fen dian	1
+球面天文学	qiu mian tian wen xue	1
+球状次系	qiu zhuang ci xi	1
+球状体	qiu zhuang ti	1
+球状星团	qiu zhuang xing tuan	1
+球状星系	qiu zhuang xing xi	1
+球状子系	qiu zhuang zi xi	1
+曲率扰动	qu lv rao dong	1
+曲率涨落	qu lv zhang luo	1
+曲率子	qu lv zi	1
+曲率子机制	qu lv zi ji zhi	1
+区时	qu shi	1
+全环食	quan huan shi	1
+全球定位系统	quan qiu ding wei xi tong	1
+全食	quan shi	1
+全食带	quan shi dai	1
+全时带	quan shi dai	1
+绕太阳公转周期大于	rao tai yang gong zhuan zhou qi da yu	1
+热斑	re ban	1
+热辐射	re fu she	1
+热光变曲线	re guang bian qu xian	1
+热核剧涨	re he ju zhang	1
+热历史	re li shi	1
+热史	re shi	1
+热星	re xing	1
+热星等	re xing deng	1
+热演化	re yan hua	1
+人马臂	ren ma bi	1
+人马宫	ren ma gong	1
+人犬	ren quan	1
+人造地理卫星	ren zao di li wei xing	1
+人造卫星	ren zao wei xing	1
+认证图	ren zheng tu	1
+轫致辐射	ren zhi fu she	1
+韧致辐射	ren zhi fu she	1
+日本研制中的口径	ri ben yan zhi zhong de kou jing	1
+日本于	ri ben yu	1
+日地关系	ri di guan xi	1
+日珥	ri er	1
+日晷	ri gui	1
+日环食	ri huan shi	1
+日环时	ri huan shi	1
+日界线	ri jie xian	1
+日浪	ri lang	1
+日芒	ri mang	1
+日面	ri mian	1
+日冕	ri mian	1
+日冕凝区	ri mian ning qu	1
+日冕射线	ri mian she xian	1
+日面图	ri mian tu	1
+日冕物质抛射	ri mian wu zhi pao she	1
+日冕仪	ri mian yi	1
+日面综合图	ri mian zong he tu	1
+日面坐标	ri mian zuo biao	1
+日面坐标网	ri mian zuo biao wang	1
+日喷	ri pen	1
+日偏时	ri pian shi	1
+日全食	ri quan shi	1
+日全食时间	ri quan shi shi jian	1
+日全食网	ri quan shi wang	1
+日食观测地	ri shi guan ce di	1
+日世界时	ri shi jie shi	1
+日食时间	ri shi shi jian	1
+日食网站	ri shi wang zhan	1
+日食限	ri shi xian	1
+日时限	ri shi xian	1
+日心角	ri xin jiao	1
+日心距离	ri xin ju li	1
+日心体系	ri xin ti xi	1
+日心引力常数	ri xin yin li chang shu	1
+日心坐标	ri xin zuo biao	1
+日月岁差	ri yue sui cha	1
+日月章动	ri yue zhang dong	1
+日运动	ri yun dong	1
+日震学	ri zhen xue	1
+容许跃迁	rong xu yue qian	1
+肉眼观测	rou yan guan ce	1
+入凌	ru ling	1
+儒略城	ru lue cheng	1
+儒略纪元	ru lue ji yuan	1
+儒略历	ru lue li	1
+儒略历书日期	ru lue li shu ri qi	1
+儒略年	ru lue nian	1
+儒略日期	ru lue ri qi	1
+儒略日数	ru lue ri shu	1
+儒略世纪	ru lue shi ji	1
+铷钟	ru zhong	1
+软双星	ruan shuang xing	1
+闰秒	run miao	1
+闰日	run ri	1
+闰余	run yu	1
+闰月	run yue	1
+弱氮星	ruo dan xing	1
+弱氦星	ruo hai xing	1
+萨哈方程	sa ha fang cheng	1
+塞佛特星系	sai fo te xing xi	1
+赛弗特星系	sai fu te xing xi	1
+赛路里桁架	sai lu li heng jia	1
+三重星系	san chong xing xi	1
+三点函数	san dian han shu	1
+三合星	san he xing	1
+三角视差	san jiao shi cha	1
+三角星系	san jiao xing xi	1
+三角仪	san jiao yi	1
+三色测光	san se ce guang	1
+三体碰撞	san ti peng zhuang	1
+三体问题	san ti wen ti	1
+三星会聚	san xing hui ju	1
+扫描大圆	sao miao da yuan	1
+扫帚星	sao zhou xing	1
+色球	se qiu	1
+色球活动	se qiu huo dong	1
+色球日冕过渡区	se qiu ri mian guo du qu	1
+色球网络	se qiu wang luo	1
+色球望远镜	se qiu wang yuan jing	1
+色球压缩区	se qiu ya suo qu	1
+色球蒸发	se qiu zheng fa	1
+色温度	se wen du	1
+色余	se yu	1
+色指数	se zhi shu	1
+铯钟	se zhong	1
+沙哈方程	sha ha fang cheng	1
+沙漏星云	sha lou xing yun	1
+沙罗周期	sha luo zhou qi	1
+沙普利	sha pu li	1
+山案	shan an	1
+闪变	shan bian	1
+闪光谱	shan guang pu	1
+栅棱	shan leng	1
+闪视比较仪	shan shi bi jiao yi	1
+闪相	shan xiang	1
+扇形结构	shan xing jie gou	1
+上海天文台	shang hai tian wen tai	1
+上合	shang he	1
+熵扰动	shang rao dong	1
+上弦	shang xian	1
+上中天	shang zhong tian	1
+射电	she dian	1
+射电暴	she dian bao	1
+射电爆发	she dian bao fa	1
+射电臂	she dian bi	1
+射电变源	she dian bian yuan	1
+射电窗口	she dian chuang kou	1
+射电对应体	she dian dui ying ti	1
+射电辐射强度	she dian fu she qiang du	1
+射电亮度	she dian liang du	1
+射电亮温度	she dian liang wen du	1
+射电脉冲星	she dian mai chong xing	1
+射电日象仪	she dian ri xiang yi	1
+射电双源	she dian shuang yuan	1
+射电太阳	she dian tai yang	1
+射电天体测量学	she dian tian ti ce liang xue	1
+射电天文学	she dian tian wen xue	1
+射电望远镜	she dian wang yuan jing	1
+射电温度	she dian wen du	1
+射电新星	she dian xin xing	1
+射电星	she dian xing	1
+射电星系	she dian xing xi	1
+射电源	she dian yuan	1
+射电源参考系	she dian yuan can kao xi	1
+射电源计数	she dian yuan ji shu	1
+射电展源	she dian zhan yuan	1
+射电致密源	she dian zhi mi yuan	1
+射电指数	she dian zhi shu	1
+射电转移	she dian zhuan yi	1
+摄动	she dong	1
+摄动函数	she dong han shu	1
+摄动理论	she dong li lun	1
+摄动体	she dong ti	1
+蛇夫	she fu	1
+摄谱仪	she pu yi	1
+射线暴	she xian bao	1
+射线爆发源	she xian bao fa yuan	1
+射线暴源	she xian bao yuan	1
+射线背景	she xian bei jing	1
+射线背景辐射	she xian bei jing fu she	1
+射线变源	she xian bian yuan	1
+射线对应体	she xian dui ying ti	1
+射线发射	she xian fa she	1
+射线辐射	she xian fu she	1
+射线脉冲星	she xian mai chong xing	1
+射线食变星	she xian shi bian xing	1
+射线双星	she xian shuang xing	1
+射线太阳	she xian tai yang	1
+射线天体物理观测台	she xian tian ti wu li guan ce tai	1
+射线天文台	she xian tian wen tai	1
+射线天文卫星	she xian tian wen wei xing	1
+射线新星	she xian xin xing	1
+射线星	she xian xing	1
+射线源	she xian yuan	1
+射线展源	she xian zhan yuan	1
+甚长基线干涉仪	shen chang ji xian gan she yi	1
+深空天体	shen kong tian ti	1
+生光	sheng guang	1
+升交点	sheng jiao dian	1
+升交点经度	sheng jiao dian jing du	1
+生物天文学	sheng wu tian wen xue	1
+生长曲线	sheng zhang qu xian	1
+示臂天体	shi bi tian ti	1
+食变星	shi bian xing	1
+实测天体物理学	shi ce tian ti wu li xue	1
+实测天文学	shi ce tian wen xue	1
+视差	shi cha	1
+视差动	shi cha dong	1
+视差天平动	shi cha tian ping dong	1
+视差椭圆	shi cha tuo yuan	1
+视差位移	shi cha wei yi	1
+视场	shi chang	1
+视超光速运动	shi chao guang su yun dong	1
+食典	shi dian	1
+食分	shi fen	1
+时号	shi hao	1
+时号站	shi hao zhan	1
+食既	shi ji	1
+时间服务	shi jian fu wu	1
+时间同步	shi jian tong bu	1
+时角	shi jiao	1
+世界时	shi jie shi	1
+视界问题	shi jie wen ti	1
+示距天体	shi ju tian ti	1
+时空观	shi kong guan	1
+矢量扰动	shi liang rao dong	1
+矢量天体测量学	shi liang tian ti ce liang xue	1
+矢量涨落	shi liang zhang luo	1
+施密特改正板	shi mi te gai zheng ban	1
+施密特改正镜	shi mi te gai zheng jing	1
+施密特望远镜	shi mi te wang yuan jing	1
+施密特照相机	shi mi te zhao xiang ji	1
+视面积	shi mian ji	1
+食年	shi nian	1
+视宁度	shi ning du	1
+视宁象	shi ning xiang	1
+视宁圆面	shi ning yuan mian	1
+室女	shi nv	1
+室女超星系团	shi nv chao xing xi tuan	1
+室女宫	shi nv gong	1
+室女星系团	shi nv xing xi tuan	1
+食甚	shi shen	1
+视双星	shi shuang xing	1
+食双星	shi shuang xing	1
+视太阳时	shi tai yang shi	1
+视天平动	shi tian ping dong	1
+史瓦西黑洞	shi wa xi hei dong	1
+视位差	shi wei cha	1
+视位置	shi wei zhi	1
+食相	shi xiang	1
+视向速度	shi xiang su du	1
+视向速度变星	shi xiang su du bian xing	1
+视向速度标准星	shi xiang su du biao zhun xing	1
+视向速度二维分布图	shi xiang su du er wei fen bu tu	1
+视向速度描迹	shi xiang su du miao ji	1
+视向速度仪	shi xiang su du yi	1
+实心超新星遗迹	shi xin chao xin xing yi ji	1
+视星等	shi xing deng	1
+时延	shi yan	1
+实用天文学	shi yong tian wen xue	1
+食圆	shi yuan	1
+狮子宫	shi zi gong	1
+狮子流星群	shi zi liu xing qun	1
+狮子双重星系	shi zi shuang chong xing xi	1
+受迫跃迁	shou po yue qian	1
+受摄体	shou she ti	1
+收缩宇宙	shou suo yu zhou	1
+束缚束缚跃进	shu fu shu fu yue jin	1
+束缚跃迁	shu fu yue qian	1
+疏散星团	shu san xing tuan	1
+数值宇宙学	shu zhi yu zhou xue	1
+双场暴涨	shuang chang bao zhang	1
+双重星系	shuang chong xing xi	1
+双带耀斑	shuang dai yao ban	1
+双极黑子	shuang ji hei zi	1
+双类星体	shuang lei xing ti	1
+双类星系	shuang lei xing xi	1
+双谱分光双星	shuang pu fen guang shuang xing	1
+双筒天体照相仪	shuang tong tian ti zhao xiang yi	1
+双小行星	shuang xiao xing xing	1
+双星	shuang xing	1
+双子宫	shuang zi gong	1
+双子流星群	shuang zi liu xing qun	1
+双子望远镜	shuang zi wang yuan jing	1
+双子型双星	shuang zi xing shuang xing	1
+双子型星	shuang zi xing xing	1
+水内行星	shui nei xing xing	1
+水平支	shui ping zhi	1
+水平子午环	shui ping zi wu huan	1
+水委	shui wei	1
+水委一	shui wei yi	1
+水星	shui xing	1
+水钟	shui zhong	1
+顺留	shun liu	1
+瞬时赤道	shun shi chi dao	1
+瞬现	shun xian	1
+顺行	shun xing	1
+朔望月	shuo wang yue	1
+斯波勒定律	si bo le ding lv	1
+斯波勒极小	si bo le ji xiao	1
+四点函数	si dian han shu	1
+四方点	si fang dian	1
+四合星	si he xing	1
+四色测光	si se ce guang	1
+斯特鲁维家族	si te lu wei jia zu	1
+司天监	si tian jian	1
+速度椭环	su du tuo huan	1
+速度椭球	su du tuo qiu	1
+苏黎世数	su li shi shu	1
+速逃星	su tao xing	1
+岁差	sui cha	1
+随机暴涨	sui ji bao zhang	1
+岁星纪年	sui xing ji nian	1
+损失锥	sun shi zhui	1
+索菲雅	suo fei ya	1
+索贺	suo he	1
+缩焦器	suo jiao qi	1
+锁眼星云	suo yan xing yun	1
+太史令	tai shi ling	1
+太阳半径	tai yang ban jing	1
+太阳背点	tai yang bei dian	1
+太阳扁率	tai yang bian lv	1
+太阳常数	tai yang chang shu	1
+太阳磁周	tai yang ci zhou	1
+太阳大气	tai yang da qi	1
+太阳单色光照相术	tai yang dan se guang zhao xiang shu	1
+太阳单色光照相仪	tai yang dan se guang zhao xiang yi	1
+太阳单色象	tai yang dan se xiang	1
+太阳风	tai yang feng	1
+太阳风顶	tai yang feng ding	1
+太阳风圈	tai yang feng quan	1
+太阳服务	tai yang fu wu	1
+太阳辐照度	tai yang fu zhao du	1
+太阳高度角	tai yang gao du jiao	1
+太阳观测眼镜	tai yang guan ce yan jing	1
+太阳光度	tai yang guang du	1
+太阳黑子	tai yang hei zi	1
+太阳黑子群	tai yang hei zi qun	1
+太阳恒星	tai yang heng xing	1
+太阳活动	tai yang huo dong	1
+太阳活动区	tai yang huo dong qu	1
+太阳活动周	tai yang huo dong zhou	1
+太阳极大使者	tai yang ji da shi zhe	1
+太阳内部	tai yang nei bu	1
+太阳年	tai yang nian	1
+太阳日	tai yang ri	1
+太阳时	tai yang shi	1
+太阳视差	tai yang shi cha	1
+太阳塔	tai yang ta	1
+太阳望远镜	tai yang wang yuan jing	1
+太阳物理学	tai yang wu li xue	1
+太阳系	tai yang xi	1
+太阳系成员	tai yang xi cheng yuan	1
+太阳系外行星系	tai yang xi wai hang xing xi	1
+太阳系仪	tai yang xi yi	1
+太阳向点	tai yang xiang dian	1
+太阳型星	tai yang xing xing	1
+太阳巡视	tai yang xun shi	1
+太阳振荡	tai yang zhen dang	1
+太阳质量	tai yang zhi liang	1
+太阳中微子单位	tai yang zhong wei zi dan wei	1
+太阳中微子亏缺	tai yang zhong wei zi kui que	1
+太阳中心在地平下	tai yang zhong xin zai di ping xia	1
+探测和研究天体	tan ce he yan jiu tian ti	1
+碳氮循环	tan dan xun huan	1
+碳氮氧循环	tan dan yang xun huan	1
+坍缩云	tan suo yun	1
+探险者	tan xian zhe	1
+碳星	tan xing	1
+碳序	tan xu	1
+逃逸速度	tao yi su du	1
+特超巨星	te chao ju xing	1
+特朗普勒星	te lang pu le xing	1
+特罗央群	te luo yang qun	1
+特洛伊群	te luo yi qun	1
+特殊摄动	te shu she dong	1
+特殊星系	te shu xing xi	1
+特指以铯	te zhi yi se	1
+提丢斯	ti diu si	1
+鹈鹕星云	ti hu xing yun	1
+体模拟	ti mo ni	1
+天测距离	tian ce ju li	1
+天测双星	tian ce shuang xing	1
+天赤道	tian chi dao	1
+天底	tian di	1
+天电突增	tian dian tu zeng	1
+天顶	tian ding	1
+天顶距	tian ding ju	1
+天顶仪	tian ding yi	1
+天鹅圈	tian e quan	1
+天鹅星云	tian e xing yun	1
+天干	tian gan	1
+天鸽	tian ge	1
+天宫图	tian gong tu	1
+天鼓	tian gu	1
+天关客星	tian guan ke xing	1
+天极	tian ji	1
+天箭	tian jian	1
+天空背景	tian kong bei jing	1
+天空亮度	tian kong liang du	1
+天空实验室	tian kong shi yan shi	1
+天龙流星群	tian long liu xing qun	1
+天龙星系	tian long xing xi	1
+天炉	tian lu	1
+天炉星系	tian lu xing xi	1
+天马	tian ma	1
+天猫	tian mao	1
+天平动	tian ping dong	1
+天平宫	tian ping gong	1
+天平极	tian ping ji	1
+天琴	tian qin	1
+天琴型星	tian qin xing xing	1
+天球	tian qiu	1
+天球历书极	tian qiu li shu ji	1
+天球坐标系	tian qiu zuo biao xi	1
+天然卫星	tian ran wei xing	1
+天枢	tian shu	1
+天体	tian ti	1
+天体波谱学	tian ti bo pu xue	1
+天体测光	tian ti ce guang	1
+天体测量位置	tian ti ce liang wei zhi	1
+天体测量学	tian ti ce liang xue	1
+天体测星位置	tian ti ce xing wei zhi	1
+天体地理学	tian ti de li xue	1
+天体地质学	tian ti di zhi xue	1
+天体光谱学	tian ti guang pu xue	1
+天体化学	tian ti hua xue	1
+天体力学	tian ti li xue	1
+天体力学分析方法	tian ti li xue fen xi fang fa	1
+天体力学数值方法	tian ti li xue shu zhi fang fa	1
+天体年代学	tian ti nian dai xue	1
+天体偏振测量	tian ti pian zhen ce liang	1
+天体偏振测置	tian ti pian zhen ce zhi	1
+天体摄谱仪	tian ti she pu yi	1
+天体生物学	tian ti sheng wu xue	1
+天体物理学	tian ti wu li xue	1
+天体形状轴	tian ti xing zhuang zhou	1
+天体演化学	tian ti yan hua xue	1
+天体照相学	tian ti zhao xiang xue	1
+天体照相仪	tian ti zhao xiang yi	1
+天兔	tian tu	1
+天王星	tian wang xing	1
+天王星环	tian wang xing huan	1
+天文常数系数	tian wen chang shu xi shu	1
+天文常数系统	tian wen chang shu xi tong	1
+天文晨昏蒙影	tian wen chen hun meng ying	1
+天文单位	tian wen dan wei	1
+天文导航	tian wen dao hang	1
+天文底片	tian wen di pian	1
+天文地球动力学	tian wen di qiu dong li xue	1
+天文地球物理学	tian wen di qiu wu li xue	1
+天文动力学	tian wen dong li xue	1
+天文馆	tian wen guan	1
+天文观测工具	tian wen guan ce gong ju	1
+天文观测仪器	tian wen guan ce yi qi	1
+天文经度	tian wen jing du	1
+天文年代学	tian wen nian dai xue	1
+天文年历	tian wen nian li	1
+天文气候	tian wen qi hou	1
+天文日	tian wen ri	1
+天文三角形	tian wen san jiao xing	1
+天文台	tian wen tai	1
+天文望远镜	tian wen wang yuan jing	1
+天文纬度	tian wen wei du	1
+天文现象	tian wen xian xiang	1
+天文信息	tian wen xin xi	1
+天文学	tian wen xue	1
+天文研究	tian wen yan jiu	1
+天线沿	tian xian yan	1
+天象	tian xiang	1
+天象仪	tian xiang yi	1
+天蝎宫	tian xie gong	1
+天璇	tian xuan	1
+天燕	tian yan	1
+筒并气体	tong bing qi ti	1
+同步观测	tong bu guan ce	1
+同步加速辐射	tong bu jia su fu she	1
+通常取离太阳	tong chang qu li tai yang	1
+通带	tong dai	1
+通光口径	tong guang kou jing	1
+统计视差	tong ji shi cha	1
+统计天文学	tong ji tian wen xue	1
+筒仪	tong yi	1
+透镜棱栅	tou jing leng shan	1
+透镜状星系	tou jing zhuang xing xi	1
+头尾星系	tou wei xing xi	1
+图案速度	tu an su du	1
+图象处理	tu xiang chu li	1
+图象复原	tu xiang fu yuan	1
+图象数字仪	tu xiang shu zi yi	1
+图象综合	tu xiang zong he	1
+土星	tu xing	1
+土星环	tu xing huan	1
+团星	tuan xing	1
+团星系	tuan xing xi	1
+退耦期	tui ou qi	1
+退行速度	tui xing su du	1
+驼峰造父变星	tuo feng zao fu bian xing	1
+托勒玫体系	tuo le mei ti xi	1
+椭球变星	tuo qiu bian xing	1
+椭球双星	tuo qiu shuang xing	1
+椭圆星系	tuo yuan xing xi	1
+外拉格郎日点	wai la ge lang ri dian	1
+外拉格朗日点	wai la ge lang ri dian	1
+外冕	wai mian	1
+外太阳系	wai tai yang xi	1
+外行星	wai xing xing	1
+万到	wan dao	1
+弯曲空间	wan qu kong jian	1
+完全宇宙学原理	wan quan yu zhou xue yuan li	1
+晚型星	wan xing xing	1
+晚型星系	wan xing xing xi	1
+弯月形透镜	wan yue xing tou jing	1
+网罟座	wang gu zuo	1
+网络内	wang luo nei	1
+王绶琯	wang shou guan	1
+望筒	wang tong	1
+网状结构	wang zhuang jie gou	1
+微波背景	wei bo bei jing	1
+微波背景辐射	wei bo bei jing fu she	1
+微波各向异性	wei bo ge xiang yi xing	1
+微波激射源	wei bo ji she yuan	1
+纬度变化	wei du bian hua	1
+维多利亚坑	wei duo li ya keng	1
+威尔逊凹陷	wei er xun ao xian	1
+未见子星	wei jian zi xing	1
+微晶玻璃	wei jing bo li	1
+位力定理	wei li ding li	1
+维里定理	wei li ding li	1
+微流星体	wei liu xing ti	1
+帷幕星云	wei mu xing yun	1
+卫生激光测距	wei sheng ji guang ce ju	1
+纬天平动	wei tian ping dong	1
+卫星多普勒测量	wei xing duo pu le ce liang	1
+卫星激光测距	wei xing ji guang ce ju	1
+微耀斑	wei yao ban	1
+微引力透镜	wei yin li tou jing	1
+微陨星	wei yun xing	1
+位置角	wei zhi jiao	1
+温度扰动	wen du rao dong	1
+温度效应	wen du xiao ying	1
+温度涨落	wen du zhang luo	1
+稳衡态宇宙论	wen heng tai yu zhou lun	1
+稳恒态宇宙论	wen heng tai yu zhou lun	1
+吻切根数	wen qie gen shu	1
+吻切平面	wen qie ping mian	1
+吻切椭圆	wen qie tuo yuan	1
+沃尔夫	wo er fu	1
+沃克度规	wo ke du gui	1
+涡状星系	wo zhuang xing xi	1
+误差棒	wu cha bang	1
+误差框	wu cha kuang	1
+五车二	wu che er	1
+物端光栅	wu duan guang shan	1
+物端棱镜	wu duan leng jing	1
+无缝摄谱仪	wu feng she pu yi	1
+无缝摄影仪	wu feng she ying yi	1
+乌呼鲁	wu hu lu	1
+物理双星	wu li shuang xing	1
+物理天平动	wu li tian ping dong	1
+武仙	wu xian	1
+武仙大星团	wu xian da xing tuan	1
+无限红移面	wu xian hong yi mian	1
+武仙星系团	wu xian xing xi tuan	1
+物质臂	wu zhi bi	1
+物质占优期	wu zhi zhan you qi	1
+西大距	xi da ju	1
+希尔稳定性	xi er wen ding xing	1
+希尔问题	xi er wen ti	1
+西方照	xi fang zhao	1
+稀化因子	xi hua yin zi	1
+吸积	xi ji	1
+吸积流	xi ji liu	1
+吸积盘	xi ji pan	1
+吸积柱	xi ji zhu	1
+希腊群	xi la qun	1
+西利格佯谬	xi li ge yang miu	1
+细链	xi lian	1
+夕没	xi mei	1
+下合	xia he	1
+夏令时	xia ling shi	1
+下弦	xia xian	1
+夏至点	xia zhi dian	1
+下中天	xia zhong tian	1
+现衡抚辰仪	xian heng fu chen yi	1
+仙后流星群	xian hou liu xing qun	1
+仙皇	xian huang	1
+仙女次星系群	xian nv ci xing xi qun	1
+仙女流星群	xian nv liu xing qun	1
+仙女星系	xian nv xing xi	1
+线特	xian te	1
+线特强	xian te qiang	1
+仙王	xian wang	1
+仙王型星	xian wang xing xing	1
+纤维状星云	xian wei zhuang xing yun	1
+线心	xian xin	1
+线性扰动	xian xing rao dong	1
+纤耀斑	xian yao ban	1
+弦宇宙学	xian yu zhou xue	1
+限制性三体问题	xian zhi xing san ti wen ti	1
+象变器	xiang bian qi	1
+象场改正	xiang chang gai zheng	1
+向磁	xiang ci	1
+相对论天体物理学	xiang dui lun tian ti wu li xue	1
+相对论宇宙论	xiang dui lun yu zhou lun	1
+相对星表	xiang dui xing biao	1
+象管	xiang guan	1
+相接双星	xiang jie shuang xing	1
+镶嵌镜面望远镜	xiang qian jing mian wang yuan jing	1
+向日彗尾	xiang ri hui wei	1
+相似耀斑	xiang si yao ban	1
+相位突异	xiang wei tu yi	1
+象限仪	xiang xian yi	1
+象消转器	xiang xiao zhuan qi	1
+象营	xiang ying	1
+相应耀斑	xiang ying yao ban	1
+小场暴涨	xiao chang bao zhang	1
+消光	xiao guang	1
+小麦云	xiao mai yun	1
+小狮	xiao shi	1
+小行星	xiao xing xing	1
+小熊星系	xiao xiong xing xi	1
+蝎虎天体	xie hu tian ti	1
+蟹去脉冲星	xie qu mai chong xing	1
+偕日升	xie ri sheng	1
+协调世界时	xie tiao shi jie shi	1
+欣德星云	xin de xing yun	1
+新技术望远镜	xin ji shu wang yuan jing	1
+新生星	xin sheng xing	1
+心宿二	xin su er	1
+星斑	xing ban	1
+星暴	xing bao	1
+星暴星系	xing bao xing xi	1
+星爆星系	xing bao xing xi	1
+星表	xing biao	1
+星表分点	xing biao fen dian	1
+星等	xing deng	1
+星等标	xing deng biao	1
+星等图	xing deng tu	1
+星风	xing feng	1
+星晷	xing gui	1
+型和	xing he	1
+型或	xing huo	1
+星际尘埃	xing ji chen ai	1
+星际红化	xing ji hong hua	1
+星际介质	xing ji jie zhi	1
+星际空间	xing ji kong jian	1
+星际气体	xing ji qi ti	1
+星际闪烁	xing ji shan shuo	1
+星际视差	xing ji shi cha	1
+星际吸收线	xing ji xi shou xian	1
+星际消光	xing ji xiao guang	1
+星际消化	xing ji xiao hua	1
+星际云	xing ji yun	1
+星空天文网	xing kong tian wen wang	1
+星冕活动	xing mian huo dong	1
+星冕气体	xing mian qi ti	1
+星盘	xing pan	1
+星去变星	xing qu bian xing	1
+星群视差	xing qun shi cha	1
+型双星	xing shuang xing	1
+星图	xing tu	1
+星图集	xing tu ji	1
+星团	xing tuan	1
+星位角	xing wei jiao	1
+星系	xing xi	1
+星系并合	xing xi bing he	1
+星系层次	xing xi ceng ci	1
+星系动力学	xing xi dong li xue	1
+星系核	xing xi he	1
+星系核风	xing xi he feng	1
+星系核环	xing xi he huan	1
+星系核球	xing xi he qiu	1
+星系和星系团表	xing xi he xing xi tuan biao	1
+星系际尘埃	xing xi ji chen ai	1
+星系际气体	xing xi ji qi ti	1
+星系际桥	xing xi ji qiao	1
+星系计数	xing xi ji shu	1
+星系际物质	xing xi ji wu zhi	1
+星系际吸收	xing xi ji xi shou	1
+星系际云	xing xi ji yun	1
+星系结构	xing xi jie gou	1
+星系冕	xing xi mian	1
+星系盘	xing xi pan	1
+星系群	xing xi qun	1
+星系天文学	xing xi tian wen xue	1
+星系团	xing xi tuan	1
+星系团内气体	xing xi tuan nei qi ti	1
+星系吞食	xing xi tun shi	1
+星系形成	xing xi xing cheng	1
+星系演化	xing xi yan hua	1
+星系晕	xing xi yun	1
+星系中典型直径为	xing xi zhong dian xing zhi jing wei	1
+星系自转	xing xi zi zhuan	1
+星象切分器	xing xiang qie fen qi	1
+星协	xing xie	1
+型星	xing xing	1
+行星表面学	xing xing biao mian xue	1
+行星层次	xing xing ceng ci	1
+行星磁层	xing xing ci ceng	1
+行星地质学	xing xing di zhi xue	1
+行星定位仪	xing xing ding wei yi	1
+行星光行差	xing xing guang xing cha	1
+行星环	xing xing huan	1
+行星际磁场	xing xing ji ci chang	1
+行星际空间	xing xing ji kong jian	1
+行星际物质	xing xing ji wu zhi	1
+行星面坐标	xing xing mian zuo biao	1
+行星气象学	xing xing qi xiang xue	1
+行星岁差	xing xing sui cha	1
+行星心坐标	xing xing xin zuo biao	1
+行星学	xing xing xue	1
+行星状星云	xing xing zhuang xing yun	1
+星云	xing yun	1
+星云变星	xing yun bian xing	1
+星云星团新总表	xing yun xing tuan xin zong biao	1
+星云星团新总表续编	xing yun xing tuan xin zong biao xu bian	1
+星震	xing zhen	1
+星震学	xing zhen xue	1
+型至早	xing zhi zao	1
+星周物质	xing zhou wu zhi	1
+形状极	xing zhuang ji	1
+星子	xing zi	1
+星族	xing zu	1
+星族造父变星	xing zu zao fu bian xing	1
+休伊什	xiu yi shen	1
+旋臂	xuan bi	1
+旋涡结构	xuan wo jie gou	1
+旋涡星系	xuan wo xing xi	1
+宣夜说	xuan ye shuo	1
+选择效应	xuan ze xiao ying	1
+巡天观测	xun tian guan ce	1
+巡天照相机	xun tian zhao xiang ji	1
+亚矮星	ya ai xing	1
+亚毫米波天文学	ya hao mi bo tian wen xue	1
+亚巨星	ya ju xing	1
+雅可比积分	ya ke bi ji fen	1
+哑铃星云	ya ling xing yun	1
+哑铃状星系	ya ling zhuang xing xi	1
+亚稳态真空	ya wen tai zhen kong	1
+演化程	yan hua cheng	1
+演化效应	yan hua xiao ying	1
+研究发展	yan jiu fa zhan	1
+颜色星等图	yan shai xing deng tu	1
+延伸包层	yan shen bao ceng	1
+蝘蜓座	yan ting zuo	1
+蝘蜒	yan yan	1
+仰釜日晷	yang fu ri gui	1
+央斯基	yang si ji	1
+仰仪	yang yi	1
+耀斑	yao ban	1
+耀斑核	yao ban he	1
+耀斑后环	yao ban hou huan	1
+耀变活动性	yao bian huo dong xing	1
+耀变体	yao bian ti	1
+耀发	yao fa	1
+钥匙孔星云	yao shi kong xing yun	1
+耀星	yao xing	1
+夜半球	ye ban qiu	1
+夜光云	ye guang yun	1
+夜间定时仪	ye jian ding shi yi	1
+夜天光	ye tian guang	1
+夜枭星云	ye xiao xing yun	1
+依巴谷卫星	yi ba gu wei xing	1
+移动星团	yi dong xing tuan	1
+一阶扰动	yi jie rao dong	1
+依数法	yi shu fa	1
+以天体系统	yi tian ti xi tong	1
+隐带	yin dai	1
+银道面	yin dao mian	1
+引导星	yin dao xing	1
+银道坐标系	yin dao zuo biao xi	1
+印地安座	yin di an zuo	1
+银核	yin he	1
+银河超新星	yin he chao xin xing	1
+银河大暗隙	yin he da an xi	1
+银河核球	yin he he qiu	1
+银河射电支	yin he she dian zhi	1
+银河系	yin he xi	1
+银河系伴星系	yin he xi ban xing xi	1
+银河系次系	yin he xi ci xi	1
+银河系结构	yin he xi jie gou	1
+银河系内离银心约	yin he xi nei li yin xin yue	1
+银河系天文学	yin he xi tian wen xue	1
+银河系旋臂	yin he xi xuan bi	1
+银河系子系	yin he xi zi xi	1
+银河系自转	yin he xi zi zhuan	1
+银河新星	yin he xin xing	1
+银河星云	yin he xing yun	1
+银河噪声	yin he zao sheng	1
+银极	yin ji	1
+银经	yin jing	1
+引力波	yin li bo	1
+引力不稳定性	yin li bu wen ding xing	1
+引力辐射	yin li fu she	1
+引力红移	yin li hong yi	1
+引力收缩	yin li shou suo	1
+引力坍缩	yin li tan suo	1
+引力天文学	yin li tian wen xue	1
+引力透镜	yin li tou jing	1
+引力微子	yin li wei zi	1
+引力子	yin li zi	1
+银冕	yin mian	1
+银面聚度	yin mian ju du	1
+银纬	yin wei	1
+银心	yin xin	1
+银心距	yin xin ju	1
+银心聚度	yin xin ju du	1
+阴阳历	yin yang li	1
+银晕	yin yun	1
+隐质量	yin zhi liang	1
+英澳望远镜	ying ao wang yuan jing	1
+婴儿宇宙	ying er yu zhou	1
+荧光辐射	ying guang fu she	1
+硬双星	ying shuang xing	1
+英仙	ying xian	1
+英仙臂	ying xian bi	1
+英仙星团	ying xian xing tuan	1
+英仙星座	ying xian xing zuo	1
+永恒暴涨	yong heng bao zhang	1
+有棒星系	you bang xing xi	1
+有效孔径	you xiao kong jing	1
+有效温度	you xiao wen du	1
+游星	you xing	1
+御夫	yu fu	1
+玉夫	yu fu	1
+玉夫星系	yu fu xing xi	1
+宇航局红外望远镜	yu hang ju hong wai wang yuan jing	1
+玉衡	yu heng	1
+余青松	yu qing song	1
+宇宙背景辐射	yu zhou bei jing fu she	1
+宇宙背景探测器	yu zhou bei jing tan ce qi	1
+宇宙尘	yu zhou chen	1
+宇宙斥力	yu zhou chi li	1
+宇宙大爆炸	yu zhou da bao zha	1
+宇宙大尺度结构	yu zhou da chi du jie gou	1
+宇宙岛	yu zhou dao	1
+宇宙丰度	yu zhou feng du	1
+宇宙纪年学	yu zhou ji nian xue	1
+宇宙简史	yu zhou jian shi	1
+宇宙年龄	yu zhou nian ling	1
+宇宙年令	yu zhou nian ling	1
+宇宙平均密度	yu zhou ping jun mi du	1
+宇宙奇点	yu zhou qi dian	1
+宇宙视界	yu zhou shi jie	1
+宇宙微波辐射	yu zhou wei bo fu she	1
+宇宙位力定理	yu zhou wei li ding li	1
+宇宙温度	yu zhou wen du	1
+宇宙弦	yu zhou xian	1
+宇宙学	yu zhou xue	1
+宇宙学常数	yu zhou xue chang shu	1
+宇宙学红移	yu zhou xue hong yi	1
+宇宙学扰动	yu zhou xue rao dong	1
+宇宙学相变	yu zhou xue xiang bian	1
+宇宙学原理	yu zhou xue yuan li	1
+宇宙噪声突然吸收	yu zhou zao sheng tu ran xi shou	1
+宇宙中氦同位素	yu zhou zhong hai tong wei su	1
+宇宙中锂同位素	yu zhou zhong li tong wei su	1
+宇宙中轻元素	yu zhou zhong qing yuan su	1
+原初扰动	yuan chu rao dong	1
+远地点	yuan di dian	1
+圆顶室	yuan ding shi	1
+远拱点	yuan gong dian	1
+原恒星盘	yuan heng xing pan	1
+原恒星喷流	yuan heng xing pen liu	1
+远距双星	yuan ju shuang xing	1
+原气说	yuan qi shuo	1
+远日点	yuan ri dian	1
+远心点	yuan xin dian	1
+远星点	yuan xing dian	1
+原星系	yuan xing xi	1
+原行星状星云	yuan xing xing zhuang xing yun	1
+远银心点	yuan yin xin dian	1
+原子钟	yuan zi zhong	1
+越地小行星	yue di xiao xing xing	1
+月发射的	yue fa she de	1
+月角差	yue jiao cha	1
+月龄	yue ling	1
+月面学	yue mian xue	1
+月面坐标	yue mian zuo biao	1
+月球起源说	yue qiu qi yuan shuo	1
+月球学	yue qiu xue	1
+月球正面	yue qiu zheng mian	1
+月食	yue shi	1
+月相	yue xiang	1
+月心坐标	yue xin zuo biao	1
+月质学	yue zhi xue	1
+月志学	yue zhi xue	1
+运动磁结构	yun dong ci jie gou	1
+运动温度	yun dong wen du	1
+运动学参考系	yun dong xue can kao xi	1
+运动学宇宙学	yun dong xue yu zhou xue	1
+陨击坑	yun ji keng	1
+晕内气体发射	yun nei qi ti fa she	1
+陨石雨	yun shi yu	1
+陨星坑	yun xing keng	1
+陨星学	yun xing xue	1
+陨星雨	yun xing yu	1
+陨星撞迹	yun xing zhuang ji	1
+晕族	yun zu	1
+晕族球状星团	yun zu qiu zhuang xing tuan	1
+再发新星	zai fa xin xing	1
+在红外波段	zai hong wai bo duan	1
+在太阳网络	zai tai yang wang luo	1
+在紫外波段	zai zi wai bo duan	1
+赞斯特拉温度	zan si te la wen du	1
+暂现射线源	zan xian she xian yuan	1
+暂星	zan xing	1
+噪暴	zao bao	1
+造父变星	zao fu bian xing	1
+造父视差	zao fu shi cha	1
+早期宇宙	zao qi yu zhou	1
+早型星	zao xing xing	1
+早型星系	zao xing xing xi	1
+增强网络	zeng qiang wang luo	1
+札马鲁丁	zha ma lu ding	1
+窄带测光	zhai dai ce guang	1
+站心坐标	zhan xin zuo biao	1
+占星术	zhan xing shu	1
+章动	zhang dong	1
+章动常数	zhang dong chang shu	1
+张量模式	zhang liang mo shi	1
+张量扰动	zhang liang rao dong	1
+张量涨落	zhang liang zhang luo	1
+照相测光	zhao xiang ce guang	1
+照相垂直环	zhao xiang chui zhi huan	1
+照相天顶筒	zhao xiang tian ding tong	1
+照相天体测量学	zhao xiang tian ti ce liang xue	1
+照相星表	zhao xiang xing biao	1
+照相星等	zhao xiang xing deng	1
+照准标	zhao zhun biao	1
+折反射望远镜	zhe fan she wang yuan jing	1
+折射望远镜	zhe she wang yuan jing	1
+折轴交点	zhe zhou jiao dian	1
+折轴焦点	zhe zhou jiao dian	1
+折轴摄谱仪	zhe zhou she pu yi	1
+真赤道	zhen chi dao	1
+真春分点	zhen chun fen dian	1
+振荡监测网	zhen dang jian ce wang	1
+振荡宇宙	zhen dang yu zhou	1
+真恒星时	zhen heng xing shi	1
+真极	zhen ji	1
+真近点角	zhen jin dian jiao	1
+真空能	zhen kong neng	1
+真空衰变	zhen kong shuai bian	1
+真太阳时	zhen tai yang shi	1
+真天极	zhen tian ji	1
+真位置	zhen wei zhi	1
+针状物	zhen zhuang wu	1
+振子强度	zhen zi qiang du	1
+正常施涡星系	zheng chang shi wo xing xi	1
+正常星系	zheng chang xing xi	1
+正常旋涡星系	zheng chang xuan wo xing xi	1
+正方案	zheng fang an	1
+正规化变换	zheng gui hua bian huan	1
+证认图	zheng ren tu	1
+正向天体	zheng xiang tian ti	1
+质光比	zhi guang bi	1
+质光关系	zhi guang guan xi	1
+质量超过	zhi liang chao guo	1
+质量函数	zhi liang han shu	1
+质量损失	zhi liang sun shi	1
+质量损失率	zhi liang sun shi lv	1
+致密天体	zhi mi tian ti	1
+致密星	zhi mi xing	1
+致密星系	zhi mi xing xi	1
+致密星系团	zhi mi xing xi tuan	1
+致密耀斑	zhi mi yao ban	1
+织女一	zhi nv yi	1
+质心力学时	zhi xin li xue shi	1
+质心坐标	zhi xin zuo biao	1
+质心坐标时	zhi xin zuo biao shi	1
+蜘蛛星云	zhi zhu xing yun	1
+质子事件	zhi zi shi jian	1
+质子耀斑	zhi zi yao ban	1
+中带测光	zhong dai ce guang	1
+中国科学院北京天文台	zhong guo ke xue yuan bei jing tian wen tai	1
+中国天文学会	zhong guo tian wen xue hui	1
+中间轨道	zhong jian gui dao	1
+中介次系	zhong jie ci xi	1
+中介偏振星	zhong jie pian zhen xing	1
+中介子系	zhong jie zi xi	1
+中米粒	zhong mi li	1
+中米粒组织	zhong mi li zu zhi	1
+中微子天文学	zhong wei zi tian wen xue	1
+中心差	zhong xin cha	1
+中心构形	zhong xin gou xing	1
+中心食	zhong xin shi	1
+中性钙线与	zhong xing gai xian yu	1
+中性氢区	zhong xing qing qu	1
+中性线	zhong xing xian	1
+中星仪	zhong xing yi	1
+中央子午线	zhong yang zi wu xian	1
+中子星	zhong zi xing	1
+周光关系	zhou guang guan xi	1
+周光色关系	zhou guang se guan xi	1
+周年差	zhou nian cha	1
+周年光行差	zhou nian guang xing cha	1
+周年视差	zhou nian shi cha	1
+周年运动	zhou nian yun dong	1
+周谱关系	zhou pu guan xi	1
+周期变星	zhou qi bian xing	1
+周期轨道	zhou qi gui dao	1
+周期摄动	zhou qi she dong	1
+周期约	zhou qi yue	1
+周日动动	zhou ri dong dong	1
+周日光行差	zhou ri guang xing cha	1
+周日视差	zhou ri shi cha	1
+周日天平动	zhou ri tian ping dong	1
+周日运动	zhou ri yun dong	1
+周提视差	zhou ti shi cha	1
+主动光学	zhu dong guang xue	1
+主焦点	zhu jiao dian	1
+主镜	zhu jing	1
+主流学科	zhu liu xue ke	1
+助人凯克	zhu ren kai ke	1
+主星	zhu xing	1
+主序	zhu xu	1
+主序后星	zhu xu hou xing	1
+主序前星	zhu xu qian xing	1
+主序星	zhu xu xing	1
+转移方程	zhuan yi fang cheng	1
+转仪装置	zhuan yi zhuang zhi	1
+装仙	zhuang xian	1
+自动导星装置	zi dong dao xing zhuang zhi	1
+自然方向	zi ran fang xiang	1
+自然基	zi ran ji	1
+自适应光学	zi shi ying guang xue	1
+姿态参数	zi tai can shu	1
+紫外超	zi wai chao	1
+紫外超天体	zi wai chao tian ti	1
+紫外天文学	zi wai tian wen xue	1
+紫外望远镜	zi wai wang yuan jing	1
+兹威基	zi wei ji	1
+子午环	zi wu huan	1
+子午圈	zi wu quan	1
+子午线	zi wu xian	1
+子星	zi xing	1
+自由号卫星	zi you hao wei xing	1
+自由跃迁	zi you yue qian	1
+子源	zi yuan	1
+自转	zi zhuan	1
+自转变星	zi zhuan bian xing	1
+自转极	zi zhuan ji	1
+自转曲线	zi zhuan qu xian	1
+自转突变	zi zhuan tu bian	1
+自转突变活动	zi zhuan tu bian huo dong	1
+自转综合	zi zhuan zong he	1
+棕矮星	zong ai xing	1
+宗动说	zong dong shuo	1
+宗动天	zong dong tian	1
+综合孔径	zong he kong jing	1
+总岁差	zong sui cha	1
+总星系	zong xing xi	1
+组合太阳望远镜	zu he tai yang wang yuan jing	1
+族彗	zu hui	1
+阻尼辐射	zu ni fu she	1
+最佳观测点	zui jia guan ce dian	1
+坐标方向	zuo biao fang xiang	1
+坐标量度仪	zuo biao liang du yi	1

@@ -1,0 +1,123 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - matlab
+# Source: 搜狗细胞词库「MATLAB」
+#
+
+---
+name: sougou_matlab
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+帮助浏览器	bang zhu liu lan qi	1
+帮助系统	bang zhu xi tong	1
+编程环境	bian cheng huan jing	1
+编辑器	bian ji qi	1
+编译器	bian yi qi	1
+表达式	biao da shi	1
+财政金融工具箱	cai zheng jin rong gong ju xiang	1
+程序接口	cheng xu jie kou	1
+程序扩展	cheng xu kuo zhan	1
+当前路径	dang qian lu jing	1
+地图工具	di tu gong ju	1
+电力系统仿真	dian li xi tong fang zhen	1
+定点仿真	ding dian fang zhen	1
+动态仿真工具箱	dong tai fang zhen gong ju xiang	1
+独立可执行程序	du li ke zhi xing cheng xu	1
+二维	er wei	1
+发布平台	fa bu ping tai	1
+非线性控制设计	fei xian xing kong zhi she ji	1
+符号计算	fu hao ji suan	1
+符号数学工具箱	fu hao shu xue gong ju xiang	1
+傅里叶变换	fu li ye bian huan	1
+复数运算	fu shu yun suan	1
+概率统计	gai lv tong ji	1
+高阶谱工具箱	gao jie pu gong ju xiang	1
+根轨迹	gen gui ji	1
+工程计算	gong cheng ji suan	1
+工程优化	gong cheng you hua	1
+工具箱	gong ju xiang	1
+工作空间	gong zuo kong jian	1
+工作平台	gong zuo ping tai	1
+函数	han shu	1
+极点配置	ji dian pei zhi	1
+建模仿真	jian mo fang zhen	1
+阶跃响应	jie yue xiang ying	1
+金融分析	jin rong fen xi	1
+矩阵	ju zhen	1
+矩阵计算	ju zhen ji suan	1
+矩阵实验室	ju zhen shi yan shi	1
+开源代码	kai yuan dai ma	1
+科技人员	ke ji ren yuan	1
+可视化	ke shi hua	1
+可拓展性	ke tuo zhan xing	1
+科学研究	ke xue yan jiu	1
+可移植性	ke yi zhi xing	1
+控制	kong zhi	1
+控制系统	kong zhi xi tong	1
+控制语句	kong zhi yu ju	1
+快速傅里叶变换	kuai su fu li ye bian huan	1
+离散系统设计	li san xi tong she ji	1
+历史命令窗口	li shi ming ling chuang kou	1
+联机查询	lian ji cha xun	1
+连续系统设计	lian xu xi tong she ji	1
+鲁棒控制	lu bang kong zhi	1
+路径搜索	lu jing sou suo	1
+脉冲响应	mai chong xiang ying	1
+面向对象编程	mian xiang dui xiang bian cheng	1
+命令窗口	ming ling chuang kou	1
+模糊逻辑	mo hu luo ji	1
+模型预测	mo xing yu ce	1
+模型预测控制工具箱	mo xing yu ce kong zhi gong ju xiang	1
+内部函数	nei bu han shu	1
+偏微分方程	pian wei fen fang cheng	1
+频域响应	pin yu xiang ying	1
+嵌入式系统开发开发	qian ru shi xi tong kai fa kai fa	1
+曲面	qu mian	1
+曲线	qu xian	1
+人机交互	ren ji jiao hu	1
+三角函数	san jiao han shu	1
+三维	san wei	1
+神经网络	shen jing wang luo	1
+实时控制	shi shi kong zhi	1
+实时快速原型及半物理仿真	shi shi kuai su yuan xing ji ban wu li fang zhen	1
+时域响应	shi yu xiang ying	1
+输出	shu chu	1
+数据采集	shu ju cai ji	1
+数据结构	shu ju jie gou	1
+数据库接口	shu ju ku jie kou	1
+输入	shu ru	1
+数学库	shu xue ku	1
+数学运算函数	shu xue yun suan han shu	1
+数值计算	shu zhi ji suan	1
+数字图像	shu zi tu xiang	1
+数字信号	shu zi xin hao	1
+数组	shu zu	1
+算法	suan fa	1
+特征向量	te zheng xiang liang	1
+调试器	tiao shi qi	1
+统计分析	tong ji fen xi	1
+通信系统	tong xin xi tong	1
+图像处理	tu xiang chu li	1
+图形处理	tu xing chu li	1
+图形处理动画	tu xing chu li dong hua	1
+图形库	tu xing ku	1
+图形用户界面	tu xing yong hu jie mian	1
+文件浏览器	wen jian liu lan qi	1
+文字处理	wen zi chu li	1
+细胞元组	xi bao yuan zu	1
+系数矩阵	xi shu ju zhen	1
+系统识别	xi tong shi bie	1
+系统识别工具箱	xi tong shi bie gong ju xiang	1
+线性矩阵不等式工具箱	xian xing ju zhen bu deng shi gong ju xiang	1
+小波分析	xiao bo fen xi	1
+斜坡响应	xie po xiang ying	1
+信号处理	xin hao chu li	1
+样条工具箱	yang tiao gong ju xiang	1
+样条拟合	yang tiao ni he	1
+优化算法	you hua suan fa	1
+阵列	zhen lie	1
+桌面	zhuo mian	1
+子程序	zi cheng xu	1

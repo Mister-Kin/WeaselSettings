@@ -1,5 +1,5 @@
 #
-# Author: Mr. Kin
+# Author: Mr. Kin <im.misterkin@gmail.com>
 # Description: This file is english schema.
 #
 
@@ -35,7 +35,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " '"
 
 translator:

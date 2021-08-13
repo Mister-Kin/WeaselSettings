@@ -1,0 +1,69 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - hacker
+# Source: 搜狗细胞词库「黑客-2012年词库」
+#
+
+---
+name: sougou_hacker
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+暗组	an zu	1
+白帽子	bai mao zi	1
+本地提权	ben di ti quan	1
+本地溢出	ben di yi chu	1
+冰锋刺客	bing feng ci ke	1
+冰魂	bing hun	1
+查杀	cha sha	1
+冲击波	chong ji bo	1
+臭小子	chou xiao zi	1
+穿山甲	chuan shan jia	1
+刀锋	dao feng	1
+法客	fa ke	1
+饭客	fan ke	1
+服务器	fu wu qi	1
+高配	gao pei	1
+黑客榜中榜	hei ke bang zhong bang	1
+黑雨	hei yu	1
+红客联盟	hong ke lian meng	1
+还原	huan yuan	1
+灰鸽子	hui ge zi	1
+监听	jian ting	1
+解析漏洞	jie xi lou dong	1
+九区	jiu qu	1
+可写目录	ke xie mu lu	1
+漏洞挖掘	lou dong wa jue	1
+密码泄露	mi ma xie lou	1
+免杀	mian sha	1
+明文密码	ming wen mi ma	1
+明小子	ming xiao zi	1
+内网嗅探	nei wang xiu tan	1
+爬行	pa xing	1
+签名	qian ming	1
+权限	quan xian	1
+入侵	ru qin	1
+弱口令	ruo kou ling	1
+扫描	sao miao	1
+杀软	sha ruan	1
+上传突破	shang chuan tu po	1
+上线	shang xian	1
+渗透	shen tou	1
+数据库	shu ju ku	1
+提权	ti quan	1
+乌云团队	wu yun tuan dui	1
+下线	xia xian	1
+小葵	xiao kui	1
+星外提权	xing wai ti quan	1
+御剑	yu jian	1
+远程登陆	yuan cheng deng lu	1
+远程控制	yuan cheng kong zhi	1
+远程溢出	yuan cheng yi chu	1
+远控	yuan kong	1
+云安全	yun an quan	1
+蜘蛛	zhi zhu	1
+中国菜刀	zhong guo cai dao	1
+中转注入	zhong zhuan zhu ru	1
+抓鸡	zhua ji	1

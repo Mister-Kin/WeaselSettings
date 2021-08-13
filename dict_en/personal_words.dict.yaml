@@ -1,13 +1,16 @@
 #
-# Author: Mr. Kin
+# Author: Mr. Kin <im.misterkin@gmail.com>
 # Description: This file is Rime extended dictionary - personal_words （个人常用语）
 #
 
 ---
 name: personal_words
-version: "2019.07.12"
+version: "2021/8/13"
 sort: by_weight
 use_preset_vocabulary: false
+columns:
+  - text
+  - code
 ...
 
 Android	android
@@ -16,14 +19,19 @@ blender	bl
 Blender	bl
 bilibili	bili
 Deepin	deepin
+deepin	deepin
 DNA	dna
 DVD	dvd
 Google	google
 Gimp	gimp
+gimp	gimp
 Kali	kali
+kali	kali
 Krita	krita
+krita	krita
 Linux	linux
 Manjaro	manjaro
+manjaro	manjaro
 OK	ok
 QQ	qq
 PDF	pdf
@@ -37,5 +45,3 @@ iOS	ios
 iPad	ipad
 iPhone	iphone
 iPod	ipod
-TeX	tex
-LaTeX	latex

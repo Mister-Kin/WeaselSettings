@@ -1,5 +1,5 @@
 #
-# Author: Mr. Kin
+# Author: Mr. Kin <im.misterkin@gmail.com>
 # Description: This file is Rime extended dictionary - cn_en （中英混合词典）
 #
 
@@ -13,16 +13,16 @@ use_preset_vocabulary: true
 AA制	a a zhi	100
 ATM机	a t m ji	100
 A片	a pian	100
-A盘	a pan	100
 A股	a gu	100
 B站	b zhan	100
 B站	bi zhan	100
 B淋巴细胞	b lin ba xi bao	100
-B盘	b pan	100
 B细胞	b xi bao	100
 B股	b gu	100
 B超	b chao	100
 C语言	c yu yan	100
+A盘	a pan	100
+B盘	b pan	100
 C盘	c pan	100
 D盘	d pan	100
 E盘	e pan	100

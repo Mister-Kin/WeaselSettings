@@ -1,0 +1,34 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - latex （latex的常用命令）
+#
+
+---
+name: latex
+version: "2021/8/13"
+sort: by_weight
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+...
+
+TeX	tex
+LaTeX	latex
+part	part
+chapter	chapter
+section	section
+subsection	subsection
+subsubsection	subsubsection
+paragraph	paragraph
+subparagraph	subparagraph
+romannum	romannum
+Romannum	Romannum
+mycolor	mycolor
+mytextcolor	mytextcolor
+note	note
+enote	enote
+rednote	rednote
+redenote	redenote
+RequirePackage	requirepackage
+newtoks	newtoks

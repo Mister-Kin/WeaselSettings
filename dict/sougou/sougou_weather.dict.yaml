@@ -1,0 +1,1243 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - weather
+# Source: 搜狗细胞词库「气象词汇大全【官方推荐】」
+#
+
+---
+name: sougou_weather
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+埃克曼层	ai ke man ceng	1
+氨氧化物	an yang hua wu	1
+白虹	bai hong	1
+白露	bai lu	1
+白霜	bai shuang	1
+百叶箱	bai ye xiang	1
+白灾	bai zai	1
+半干旱带	ban gan han dai	1
+半干旱区	ban gan han qu	1
+半隐式格式	ban yin shi ge shi	1
+雹暴	bao bao	1
+暴风	bao feng	1
+暴风警报	bao feng jing bao	1
+暴风论	bao feng lun	1
+暴风雪	bao feng xue	1
+暴风雪警报	bao feng xue jing bao	1
+暴风雨	bao feng yu	1
+暴风雨警报	bao feng yu jing bao	1
+饱和水汽压力	bao he shui qi ya li	1
+雹石	bao shi	1
+包文比数	bao wen bi shu	1
+雹线型	bao xian xing	1
+暴雪	bao xue	1
+暴雨	bao yu	1
+暴雨极大化	bao yu ji da hua	1
+暴雨警报	bao yu jing bao	1
+暴雨历时	bao yu li shi	1
+暴雨移置	bao yu yi zhi	1
+卑尔根学派	bei er gen xue pai	1
+北方气旋	bei fang qi xuan	1
+北风	bei feng	1
+北极气候	bei ji qi hou	1
+北极气团	bei ji qi tuan	1
+比湿	bi shi	1
+变性气团	bian xing qi tuan	1
+表面过滤	biao mian guo lv	1
+飑线	biao xian	1
+标准大气	biao zhun da qi	1
+标准大气状况	biao zhun da qi zhuang kuang	1
+冰雹警报	bing bao jing bao	1
+冰拨	bing bo	1
+冰川时代	bing chuan shi dai	1
+冰点	bing dian	1
+冰冻	bing dong	1
+冰河	bing he	1
+冰晶核	bing jing he	1
+冰块	bing kuai	1
+冰粒	bing li	1
+冰裂	bing lie	1
+冰那	bing na	1
+冰瀑	bing pu	1
+冰山	bing shan	1
+冰丸	bing wan	1
+冰雪圈	bing xue quan	1
+冰针	bing zhen	1
+冰柱	bing zhu	1
+薄冰	bo bing	1
+波长	bo chang	1
+波动	bo dong	1
+波动尺度	bo dong chi du	1
+波陡	bo dou	1
+波高	bo gao	1
+波浪	bo lang	1
+波龄	bo ling	1
+波束宽	bo shu kuan	1
+波向	bo xiang	1
+布拉风	bu la feng	1
+不连续面	bu lian xu mian	1
+彩霞	cai xia	1
+残余废气	can yu fei qi	1
+残余降雨	can yu jiang yu	1
+草原气候	cao yuan qi hou	1
+测风气球	ce feng qi qiu	1
+测高公式	ce gao gong shi	1
+测渗仪	ce shen yi	1
+层积云	ceng ji yun	1
+层云	ceng yun	1
+叉流	cha liu	1
+产业气象	chan ye qi xiang	1
+长波	chang bo	1
+长浪	chang lang	1
+长期预报	chang qi yu bao	1
+场压	chang ya	1
+超长波	chao chang bo	1
+潮风	chao feng	1
+潮流	chao liu	1
+超渗雨	chao shen yu	1
+潮水	chao shui	1
+潮水波	chao shui bo	1
+潮位	chao wei	1
+潮汐	chao xi	1
+沉降	chen jiang	1
+沉降速度	chen jiang su du	1
+沉降物	chen jiang wu	1
+尘卷	chen juan	1
+成层云	cheng ceng yun	1
+城市气候	cheng shi qi hou	1
+城市雾	cheng shi wu	1
+赤潮	chi chao	1
+赤道反气旋	chi dao fan qi xuan	1
+赤道气候	chi dao qi hou	1
+赤道气团	chi dao qi tuan	1
+冲洗	chong xi	1
+抽污液氮	chou wu ye dan	1
+臭氧层	chou yang ceng	1
+除尘过滤	chu chen guo lv	1
+初期降雨	chu qi jiang yu	1
+处暑	chu shu	1
+初霜	chu shuang	1
+穿冠降水量	chuan guan jiang shui liang	1
+穿堂风	chuan tang feng	1
+吹雪	chui xue	1
+纯度低	chun du di	1
+春分	chun fen	1
+春风	chun feng	1
+春寒	chun han	1
+春雷	chun lei	1
+春汛	chun xun	1
+春雨	chun yu	1
+催化剂	cui hua ji	1
+催云化雨	cui yun hua yu	1
+大雹	da bao	1
+大暴雪	da bao xue	1
+大暴雨	da bao yu	1
+大风警报	da feng jing bao	1
+大风沙	da feng sha	1
+大风线	da feng xian	1
+大风雪	da feng xue	1
+大寒	da han	1
+大陆	da lu	1
+大陆性气候	da lu xing qi hou	1
+大气边界层	da qi bian jie ceng	1
+大气层	da qi ceng	1
+大气场	da qi chang	1
+大气电	da qi dian	1
+大气光	da qi guang	1
+大气候	da qi hou	1
+大气环流	da qi huan liu	1
+大气结构	da qi jie gou	1
+大气绝热图	da qi jue re tu	1
+大气科学	da qi ke xue	1
+大气扩散	da qi kuo san	1
+大气粘性力	da qi nian xing li	1
+大气圈	da qi quan	1
+大气湿度	da qi shi du	1
+大气湍流	da qi tuan liu	1
+大气文波	da qi wen bo	1
+大气涡动论	da qi wo dong lun	1
+大气污染	da qi wu ran	1
+大气现象	da qi xian xiang	1
+大暑	da shu	1
+大雾	da wu	1
+大雾警报	da wu jing bao	1
+大雪	da xue	1
+大洋	da yang	1
+大雨	da yu	1
+带纹型	dai wen xing	1
+单分子层	dan fen zi ceng	1
+氮水预冷器	dan shui yu leng qi	1
+氮稀释	dan xi shi	1
+淡云	dan yun	1
+倒春寒	dao chun han	1
+倒换干燥器	dao huan gan zao qi	1
+倒黄梅	dao huang mei	1
+等偏差线	deng pian cha xian	1
+等熵膨胀	deng shang peng zhang	1
+等温节流效应	deng wen jie liu xiao ying	1
+等温效率	deng wen xiao lv	1
+等压线	deng ya xian	1
+等雨量	deng yu liang	1
+等雨量线	deng yu liang xian	1
+低空急流	di kong ji liu	1
+底宽	di kuan	1
+地面观察	di mian guan cha	1
+低气压	di qi ya	1
+低纬度	di wei du	1
+地温	di wen	1
+低温法	di wen fa	1
+低温换热器	di wen huan re qi	1
+低温技术	di wen ji shu	1
+低温液体储存容器	di wen ye ti chu cun rong qi	1
+低雾	di wu	1
+地象	di xiang	1
+地形降水	di xing jiang shui	1
+地形雨	di xing yu	1
+低压	di ya	1
+低压槽	di ya cao	1
+低压储存容器	di ya chu cun rong qi	1
+低压带	di ya dai	1
+低压反应容器	di ya fan ying rong qi	1
+低压容器	di ya rong qi	1
+低压中心	di ya zhong xin	1
+地震	di zhen	1
+地震海啸	di zhen hai xiao	1
+地质时代	di zhi shi dai	1
+地质灾害气象	di zhi zai hai qi xiang	1
+地质灾害气象条件警报	di zhi zai hai qi xiang tiao jian jing bao	1
+地轴	di zhou	1
+地转风	di zhuan feng	1
+地转偏差	di zhuan pian cha	1
+地转偏向力	di zhuan pian xiang li	1
+颠簸	dian bo	1
+电除尘	dian chu chen	1
+电光源混合气体	dian guang yuan hun he qi ti	1
+电光源气	dian guang yuan qi	1
+点降水量	dian jiang shui liang	1
+电接点水银温度计	dian jie dian shui yin wen du ji	1
+电离层	dian li ceng	1
+点雨量	dian yu liang	1
+电子流	dian zi liu	1
+电子微探针	dian zi wei tan zhen	1
+吊云	diao yun	1
+定量化	ding liang hua	1
+顶头风	ding tou feng	1
+冬半年	dong ban nian	1
+东北低压	dong bei di ya	1
+东北冷涡	dong bei leng wo	1
+东北信风	dong bei xin feng	1
+东风	dong feng	1
+东风波	dong feng bo	1
+东风波动	dong feng bo dong	1
+东风带	dong feng dai	1
+冻害	dong hai	1
+东海气旋	dong hai qi xuan	1
+冬寒常湿气候	dong han chang shi qi hou	1
+冬寒夏雨气候	dong han xia yu qi hou	1
+冻结	dong jie	1
+冻结法	dong jie fa	1
+动力气象	dong li qi xiang	1
+东南信风	dong nan xin feng	1
+东亚大槽	dong ya da cao	1
+东亚季风	dong ya ji feng	1
+冻雨	dong yu	1
+冻雨警报	dong yu jing bao	1
+冬至	dong zhi	1
+短波	duan bo	1
+对流	dui liu	1
+对流层	dui liu ceng	1
+对流层顶	dui liu ceng ding	1
+对流性降水	dui liu xing jiang shui	1
+多雨气候	duo yu qi hou	1
+多云	duo yun	1
+厄尔尼诺	e er ni nuo	1
+厄尔尼诺现象	e er ni nuo xian xiang	1
+二次大气	er ci da qi	1
+二次空气	er ci kong qi	1
+二十四节气	er shi si jie qi	1
+二乙基硫醚	er yi ji liu mi	1
+发皿折算系数	fa min zhe suan xi shu	1
+泛灵论	fan ling lun	1
+反气旋	fan qi xuan	1
+反射虹	fan she hong	1
+反射率	fan she lv	1
+反信风	fan xin feng	1
+反照率	fan zhao lv	1
+防毒口罩	fang du kou zhao	1
+防风林	fang feng lin	1
+放热面形状	fang re mian xing zhuang	1
+放射污染	fang she wu ran	1
+放射性散落物	fang she xing san luo wu	1
+防雾林	fang wu lin	1
+防灾措施	fang zai cuo shi	1
+飞溅	fei jian	1
+非均质气层	fei jun zhi qi ceng	1
+焚风	fen feng	1
+焚风现象	fen feng xian xiang	1
+分子量	fen zi liang	1
+分子筛纯化器	fen zi shai chun hua qi	1
+风暴	feng bao	1
+风暴潮	feng bao chao	1
+风暴潮警报	feng bao chao jing bao	1
+风杯	feng bei	1
+风场	feng chang	1
+风害	feng hai	1
+风季	feng ji	1
+风级	feng ji	1
+风廓线仪	feng kuo xian yi	1
+风浪	feng lang	1
+风力减弱	feng li jian ruo	1
+锋面	feng mian	1
+锋面降水	feng mian jiang shui	1
+锋面气旋	feng mian qi xuan	1
+锋面雾	feng mian wu	1
+风气场	feng qi chang	1
+风切变	feng qie bian	1
+风球	feng qiu	1
+锋区	feng qu	1
+风日程	feng ri cheng	1
+风蚀	feng shi	1
+风时	feng shi	1
+风速	feng su	1
+风速表	feng su biao	1
+风向	feng xiang	1
+风向标	feng xiang biao	1
+风向鸡	feng xiang ji	1
+风向仪	feng xiang yi	1
+风眼	feng yan	1
+浮冰	fu bing	1
+浮尘	fu chen	1
+伏旱	fu han	1
+复合单位线	fu he dan wei xian	1
+复热	fu re	1
+副热带	fu re dai	1
+副热带高压	fu re dai gao ya	1
+副热带季风气候	fu re dai ji feng qi hou	1
+辐射表	fu she biao	1
+辐射能	fu she neng	1
+辐射雾	fu she wu	1
+辐射仪	fu she yi	1
+复式单位线	fu shi dan wei xian	1
+复式过程线	fu shi guo cheng xian	1
+覆雪	fu xue	1
+复云	fu yun	1
+干层	gan ceng	1
+干风	gan feng	1
+干旱	gan han	1
+干旱带	gan han dai	1
+干旱地区	gan han di qu	1
+干旱度	gan han du	1
+干旱区水文学	gan han qu shui wen xue	1
+干旱指数	gan han zhi shu	1
+干绝热	gan jue re	1
+干空气	gan kong qi	1
+干湿表	gan shi biao	1
+干燥	gan zao	1
+干燥度	gan zao du	1
+干燥度高	gan zao du gao	1
+高层大气	gao ceng da qi	1
+高层建筑风	gao ceng jian zhu feng	1
+高层云	gao ceng yun	1
+高纯氮气	gao chun dan qi	1
+高纯气体	gao chun qi ti	1
+高纯氢气	gao chun qing qi	1
+高纯氩气	gao chun ya qi	1
+高纯氧气	gao chun yang qi	1
+高地气候	gao di qi hou	1
+高积云	gao ji yun	1
+高空风	gao kong feng	1
+高空观察	gao kong guan cha	1
+高空急流	gao kong ji liu	1
+高空冷涡	gao kong leng wo	1
+高空气象	gao kong qi xiang	1
+高气压	gao qi ya	1
+高山观察	gao shan guan cha	1
+高纬度	gao wei du	1
+高温	gao wen	1
+高温警报	gao wen jing bao	1
+高雾	gao wu	1
+高压	gao ya	1
+高压带	gao ya dai	1
+高压脊	gao ya ji	1
+高压中心	gao ya zhong xin	1
+高原气候	gao yuan qi hou	1
+高云	gao yun	1
+共吸附能力	gong xi fu neng li	1
+锢囚锋	gu qiu feng	1
+谷雾	gu wu	1
+谷雨	gu yu	1
+观测	guan ce	1
+惯性波	guan xing bo	1
+惯性力除尘	guan xing li chu chen	1
+光环	guang huan	1
+光象	guang xiang	1
+过渡层	guo du ceng	1
+国际云图	guo ji yun tu	1
+过滤除尘	guo lv chu chen	1
+国内城市天气	guo nei cheng shi tian qi	1
+哈得来环流	ha de lai huan liu	1
+哈环流	ha huan liu	1
+海滨气候	hai bin qi hou	1
+海冰	hai bing	1
+海波	hai bo	1
+海潮	hai chao	1
+海风	hai feng	1
+海浪	hai lang	1
+海流	hai liu	1
+海龙卷	hai long juan	1
+海陆风	hai lu feng	1
+海区	hai qu	1
+海水	hai shui	1
+海雾	hai wu	1
+海啸	hai xiao	1
+海洋气象	hai yang qi xiang	1
+海洋性气候	hai yang xing qi hou	1
+寒潮	han chao	1
+寒潮警报	han chao jing bao	1
+寒带	han dai	1
+寒冬	han dong	1
+寒风	han feng	1
+焊接保护气	han jie bao hu qi	1
+寒冷	han leng	1
+寒流	han liu	1
+寒露	han lu	1
+寒露风	han lu feng	1
+旱年	han nian	1
+寒气	han qi	1
+寒热	han re	1
+寒暑表	han shu biao	1
+旱周期	han zhou qi	1
+航空气象	hang kong qi xiang	1
+和风	he feng	1
+河面降水量	he mian jiang shui liang	1
+黑雨	hei yu	1
+黑灾	hei zai	1
+黑子	hei zi	1
+恒风	heng feng	1
+虹彩	hong cai	1
+红潮	hong chao	1
+洪水	hong shui	1
+洪水过程线	hong shui guo cheng xian	1
+华北雨季	hua bei yu ji	1
+华南前汛期	hua nan qian xun qi	1
+滑升云	hua sheng yun	1
+华西秋雨	hua xi qiu yu	1
+化学爆炸	hua xue bao zha	1
+幻景	huan jing	1
+环境公害	huan jing gong hai	1
+环境气象	huan jing qi xiang	1
+环境污染检测气	huan jing wu ran jian ce qi	1
+换热系统	huan re xi tong	1
+幻日	huan ri	1
+黄道	huang dao	1
+黄雨	huang yu	1
+汇气排	hui qi pai	1
+混合层	hun he ceng	1
+火山	huo shan	1
+火山雷	huo shan lei	1
+火星	huo xing	1
+基本气候站	ji ben qi hou zhan	1
+积冰	ji bing	1
+积层云	ji ceng yun	1
+积尘	ji chen	1
+极地东风带	ji di dong feng dai	1
+积分节流效应	ji fen jie liu xiao ying	1
+季风	ji feng	1
+疾风	ji feng	1
+级风	ji feng	1
+季风槽	ji feng cao	1
+极峰急流	ji feng ji liu	1
+极风论	ji feng lun	1
+季风与季风气候	ji feng yu ji feng qi hou	1
+极光	ji guang	1
+激光气	ji guang qi	1
+极轨气象卫星	ji gui qi xiang wei xing	1
+集合预报	ji he yu bao	1
+急流	ji liu	1
+急流轴	ji liu zhou	1
+积水量	ji shui liang	1
+极限暴雨	ji xian bao yu	1
+极限降雨	ji xian jiang yu	1
+积雪	ji xue	1
+积雨云	ji yu yun	1
+积云	ji yun	1
+积云尺度	ji yun chi du	1
+加热法	jia re fa	1
+加温干燥器	jia wen gan zao qi	1
+假雾	jia wu	1
+碱泵	jian beng	1
+间冰期	jian bing qi	1
+监测网络	jian ce wang luo	1
+间接环流	jian jie huan liu	1
+减压蒸发	jian ya zheng fa	1
+碱液过滤器	jian ye guo lv qi	1
+降雹	jiang bao	1
+降低能耗	jiang di neng hao	1
+江淮气旋	jiang huai qi xuan	1
+江淮切变线	jiang huai qie bian xian	1
+降水	jiang shui	1
+降水量	jiang shui liang	1
+降水量预报	jiang shui liang yu bao	1
+降水强度	jiang shui qiang du	1
+降压再生	jiang ya zai sheng	1
+降雨	jiang yu	1
+降雨分布	jiang yu fen bu	1
+降雨量	jiang yu liang	1
+降雨强度	jiang yu qiang du	1
+角动量	jiao dong liang	1
+交通气象	jiao tong qi xiang	1
+结冰	jie bing	1
+接地层	jie di ceng	1
+截留	jie liu	1
+结露	jie lu	1
+解释应用	jie shi ying yong	1
+解吸技术	jie xi ji shu	1
+紧急切断阀	jin ji qie duan fa	1
+津浪	jin lang	1
+净暴雨量	jing bao yu liang	1
+净辐射	jing fu she	1
+净化系统	jing hua xi tong	1
+精馏工况	jing liu gong kuang	1
+精馏系统	jing liu xi tong	1
+井下有害空气	jing xia you hai kong qi	1
+精氩	jing ya	1
+净雨量	jing yu liang	1
+惊至	jing zhi	1
+静止锋	jing zhi feng	1
+静止气象	jing zhi qi xiang	1
+静止气象卫星	jing zhi qi xiang wei xing	1
+局地风	ju di feng	1
+飓风	ju feng	1
+距平线	ju ping xian	1
+巨型计算机	ju xing ji suan ji	1
+卷层云	juan ceng yun	1
+娟层云	juan ceng yun	1
+卷叠积云	juan die ji yun	1
+卷积云	juan ji yun	1
+娟积云	juan ji yun	1
+卷云	juan yun	1
+绢云	juan yun	1
+绝对湿度	jue dui shi du	1
+绝热放气	jue re fang qi	1
+绝热节流	jue re jie liu	1
+绝热图	jue re tu	1
+均质层	jun zhi ceng	1
+均质气层	jun zhi qi ceng	1
+开冻	kai dong	1
+客观分析	ke guan fen xi	1
+科技发展	ke ji fa zhan	1
+可降水量	ke jiang shui liang	1
+柯里奥利力	ke li ao li li	1
+可能蒸发量	ke neng zheng fa liang	1
+可凝性气体	ke ning xing qi ti	1
+可燃成分	ke ran cheng fen	1
+柯氏力	ke shi li	1
+空分控制室	kong fen kong zhi shi	1
+空间尺度	kong jian chi du	1
+空间天气学	kong jian tian qi xue	1
+空气湿度	kong qi shi du	1
+空气水分	kong qi shui fen	1
+空气温度	kong qi wen du	1
+空气污染	kong qi wu ran	1
+空气污染警报	kong qi wu ran jing bao	1
+酷热	ku re	1
+酷暑	ku shu	1
+枯水年	ku shui nian	1
+狂风	kuang feng	1
+狂浪	kuang lang	1
+狂热	kuang re	1
+狂涛	kuang tao	1
+拉尼娜	la ni na	1
+雷暴	lei bao	1
+雷暴天气警报	lei bao tian qi jing bao	1
+雷电	lei dian	1
+雷电云	lei dian yun	1
+雷害	lei hai	1
+雷击	lei ji	1
+累积雨量器	lei ji yu liang qi	1
+雷鸣	lei ming	1
+雷诺应力	lei nuo ying li	1
+雷雨	lei yu	1
+雷雨云	lei yu yun	1
+雷阵雨	lei zhen yu	1
+冷槽	leng cao	1
+冷冻	leng dong	1
+冷锋	leng feng	1
+冷风	leng feng	1
+冷峰	leng feng	1
+冷锋式切变	leng feng shi qie bian	1
+冷锋雨	leng feng yu	1
+冷高压	leng gao ya	1
+冷害	leng hai	1
+冷空气	leng kong qi	1
+冷量平衡	leng liang ping heng	1
+冷凝蒸发器	leng ning zheng fa qi	1
+冷凝作用	leng ning zuo yong	1
+冷平流	leng ping liu	1
+冷夏	leng xia	1
+立春	li chun	1
+立冬	li dong	1
+厉风	li feng	1
+立秋	li qiu	1
+立夏	li xia	1
+离心力除尘	li xin li chu chen	1
+连阴	lian yin	1
+连阴雨	lian yin yu	1
+亮度	liang du	1
+量雪器	liang xue qi	1
+量子化	liang zi hua	1
+烈风	lie feng	1
+磷烷	lin wan	1
+霖雨	lin yu	1
+零点气	ling dian qi	1
+流域响应	liu yu xiang ying	1
+龙卷	long juan	1
+龙卷风	long juan feng	1
+龙卷警报	long juan jing bao	1
+龙卷气旋	long juan qi xuan	1
+露点	lu dian	1
+露点温度	lu dian wen du	1
+陆汉城	lu han cheng	1
+陆龙卷	lu long juan	1
+露珠	lu zhu	1
+乱流	luan liu	1
+落雷	luo lei	1
+罗斯贝波	luo si bei bo	1
+铝胶	lv jiao	1
+埋入式蒸发皿	mai ru shi zheng fa min	1
+芒种	mang zhong	1
+毛毛雨	mao mao yu	1
+贸易风	mao yi feng	1
+梅雨	mei yu	1
+梅雨锋	mei yu feng	1
+梅雨季节	mei yu ji jie	1
+蒙古气旋	meng gu qi xuan	1
+迷雾	mi wu	1
+面降水量	mian jiang shui liang	1
+绵雨	mian yu	1
+摩擦层	mo ca ceng	1
+摩擦力	mo ca li	1
+膜分离法	mo fen li fa	1
+蘑菇云	mo gu yun	1
+模拟降雨器	mo ni jiang yu qi	1
+膜式蒸发器	mo shi zheng fa qi	1
+木星	mu xing	1
+南方涛动	nan fang tao dong	1
+南风	nan feng	1
+南亚高压	nan ya gao ya	1
+内晕	nei yun	1
+能见度	neng jian du	1
+能量平衡	neng liang ping heng	1
+逆风	ni feng	1
+逆卡诺循环	ni ka nuo xun huan	1
+逆流温差	ni liu wen cha	1
+逆温	ni wen	1
+逆温层	ni wen ceng	1
+凝结核	ning jie he	1
+凝结作用	ning jie zuo yong	1
+浓积云	nong ji yun	1
+浓雾	nong wu	1
+农业气象	nong ye qi xiang	1
+浓云	nong yun	1
+暖冬	nuan dong	1
+暖锋	nuan feng	1
+暖峰	nuan feng	1
+暖锋式切变	nuan feng shi qie bian	1
+暖锋雨	nuan feng yu	1
+暖高压	nuan gao ya	1
+暖空气	nuan kong qi	1
+暖流	nuan liu	1
+暖平流	nuan ping liu	1
+暖气	nuan qi	1
+暖云	nuan yun	1
+爬山云	pa shan yun	1
+排气净化	pai qi jing hua	1
+排气烟度	pai qi yan du	1
+滂沱大雨	pang tuo da yu	1
+跑道视程	pao dao shi cheng	1
+喷淋式	pen lin shi	1
+膨胀机制冷量	peng zhang ji zhi leng liang	1
+膨胀式温度计	peng zhang shi wen du ji	1
+霹雳	pi li	1
+皮耶克尼斯	pi ye ke ni si	1
+偏东风	pian dong feng	1
+偏西风	pian xi feng	1
+平衡	ping heng	1
+平衡气	ping heng qi	1
+平流	ping liu	1
+平流层	ping liu ceng	1
+平流雾	ping liu wu	1
+普斑	pu ban	1
+瀑布云	pu bu yun	1
+蒲福风级	pu fu feng ji	1
+气动薄膜调节阀	qi dong bo mo tiao jie fa	1
+气候	qi hou	1
+气候变化	qi hou bian hua	1
+气候参证站	qi hou can zheng zhan	1
+气候区域	qi hou qu yu	1
+气候学	qi hou xue	1
+气候学家	qi hou xue jia	1
+气候因子	qi hou yin zi	1
+气候与人种	qi hou yu ren zhong	1
+气体纯化装置	qi ti chun hua zhuang zhi	1
+气团	qi tuan	1
+气团论	qi tuan lun	1
+气温直减率	qi wen zhi jian lv	1
+气象工作	qi xiang gong zuo	1
+气象观察	qi xiang guan cha	1
+气象火箭	qi xiang huo jian	1
+气象教育	qi xiang jiao yu	1
+气象雷达	qi xiang lei da	1
+气象年	qi xiang nian	1
+气象卫星	qi xiang wei xing	1
+气象学	qi xiang xue	1
+气象要闻	qi xiang yao wen	1
+气象预报	qi xiang yu bao	1
+气象灾害	qi xiang zai hai	1
+气象站	qi xiang zhan	1
+气象中枢	qi xiang zhong shu	1
+气旋	qi xuan	1
+气旋类	qi xuan lei	1
+气旋理论	qi xuan li lun	1
+气旋雨	qi xuan yu	1
+气压	qi ya	1
+气压表	qi ya biao	1
+气压场	qi ya chang	1
+气压计	qi ya ji	1
+气压梯度	qi ya ti du	1
+气压梯度力	qi ya ti du li	1
+气液差压变送器	qi ye cha ya bian song qi	1
+气液处理器	qi ye chu li qi	1
+恰尼	qia ni	1
+前进波	qian jin bo	1
+前期降雨指数	qian qi jiang yu zhi shu	1
+潜热	qian re	1
+潜热交换	qian re jiao huan	1
+潜热流	qian re liu	1
+强对流	qiang dui liu	1
+强对流天气预报	qiang dui liu tian qi yu bao	1
+强风	qiang feng	1
+强风暴	qiang feng bao	1
+强风带	qiang feng dai	1
+强风轴	qiang feng zhou	1
+强热带风暴	qiang re dai feng bao	1
+强台风	qiang tai feng	1
+强雨	qiang yu	1
+强制波	qiang zhi bo	1
+切变线	qie bian xian	1
+切换式换热器	qie huan shi huan re qi	1
+清除	qing chu	1
+轻风	qing feng	1
+晴间阴	qing jian yin	1
+清劲风	qing jing feng	1
+晴空颠簸	qing kong dian bo	1
+晴空雨	qing kong yu	1
+清明	qing ming	1
+倾盆大雨	qing pen da yu	1
+氢气纯化装置	qing qi chun hua zhuang zhi	1
+氢气管道	qing qi guan dao	1
+轻霜	qing shuang	1
+轻雾	qing wu	1
+晴雨表	qing yu biao	1
+晴雨计	qing yu ji	1
+晴转阴	qing zhuan yin	1
+晴转雨	qing zhuan yu	1
+球电	qiu dian	1
+秋冬	qiu dong	1
+秋分	qiu fen	1
+秋风	qiu feng	1
+秋高气爽	qiu gao qi shuang	1
+秋季	qiu ji	1
+秋老虎	qiu lao hu	1
+曲面	qu mian	1
+全精馏无氢制氩	quan jing liu wu qing zhi ya	1
+全球变暖	quan qiu bian nuan	1
+全球环流	quan qiu huan liu	1
+全球气候变化	quan qiu qi hou bian hua	1
+缺水量	que shui liang	1
+群速度	qun su du	1
+燃烧性	ran shao xing	1
+热层	re ceng	1
+热成层	re cheng ceng	1
+热成风	re cheng feng	1
+热带常湿气候	re dai chang shi qi hou	1
+热带低气压	re dai di qi ya	1
+热带低压	re dai di ya	1
+热带冬干气候	re dai dong gan qi hou	1
+热带多雨气候	re dai duo yu qi hou	1
+热带风暴	re dai feng bao	1
+热带辐合带	re dai fu he dai	1
+热带干旱气候	re dai gan han qi hou	1
+热带气象	re dai qi xiang	1
+热带气旋	re dai qi xuan	1
+热带云团	re dai yun tuan	1
+热岛	re dao	1
+热岛效应	re dao xiao ying	1
+热电阻温度计	re dian zu wen du ji	1
+热对流	re dui liu	1
+热风	re feng	1
+热力图	re li tu	1
+热力湍流	re li tuan liu	1
+热力学	re li xue	1
+热量	re liang	1
+热平衡	re ping heng	1
+热质交换	re zhi jiao huan	1
+人工防雹	ren gong fang bao	1
+人工防霜冻	ren gong fang shuang dong	1
+人工降水	ren gong jiang shui	1
+人工降雨	ren gong jiang yu	1
+人工消雾	ren gong xiao wu	1
+人工消云	ren gong xiao yun	1
+人类活动对气候的影响	ren lei huo dong dui qi hou de ying xiang	1
+人造雨	ren zao yu	1
+日华	ri hua	1
+日界	ri jie	1
+日冕	ri mian	1
+日气	ri qi	1
+日射	ri she	1
+日射表	ri she biao	1
+日射量	ri she liang	1
+日蚀	ri shi	1
+日晕	ri yun	1
+日照	ri zhao	1
+日照计	ri zhao ji	1
+日照时数	ri zhao shi shu	1
+日照仪	ri zhao yi	1
+融雪	rong xue	1
+入渗系数	ru shen xi shu	1
+入渗演算	ru shen yan suan	1
+软风	ruan feng	1
+软雪	ruan xue	1
+瑞雪	rui xue	1
+散发	san fa	1
+三伏	san fu	1
+色球层	se qiu ceng	1
+沙暴	sha bao	1
+沙尘暴	sha chen bao	1
+沙尘暴警报	sha chen bao jing bao	1
+沙漠雷	sha mo lei	1
+沙漠气候	sha mo qi hou	1
+沙雪	sha xue	1
+山崩	shan beng	1
+闪电	shan dian	1
+闪电定位仪	shan dian ding wei yi	1
+山谷风	shan gu feng	1
+山帽云	shan mao yun	1
+闪冕	shan mian	1
+山丘降水	shan qiu jiang shui	1
+山丘雨	shan qiu yu	1
+山雾	shan wu	1
+上坡雾	shang po wu	1
+上升气流	shang sheng qi liu	1
+上升区	shang sheng qu	1
+上限	shang xian	1
+少水年	shao shui nian	1
+少云	shao yun	1
+蜃景	shen jing	1
+砷烷电子混合气	shen wan dian zi hun he qi	1
+生成量	sheng cheng liang	1
+生光	sheng guang	1
+圣那现象	sheng na xian xiang	1
+圣偏向摩火	sheng pian xiang mo huo	1
+生物圈	sheng wu quan	1
+湿度	shi du	1
+湿度表	shi du biao	1
+湿度仪	shi du yi	1
+湿季	shi ji	1
+实际蒸发量	shi ji zheng fa liang	1
+时间尺度	shi jian chi du	1
+时间积分方案	shi jian ji fen fang an	1
+世界城市天气	shi jie cheng shi tian qi	1
+失控	shi kong	1
+湿空气	shi kong qi	1
+室内小气候	shi nei xiao qi hou	1
+湿雪	shi xue	1
+石油化工标准气	shi you hua gong biao zhun qi	1
+示踪物	shi zong wu	1
+受光器	shou guang qi	1
+曙暮光	shu mu guang	1
+曙暮辉	shu mu hui	1
+数值天气预报	shu zhi tian qi yu bao	1
+数值预报	shu zhi yu bao	1
+数值预报产品	shu zhi yu bao chan pin	1
+霜冻	shuang dong	1
+霜冻害	shuang dong hai	1
+霜冻害警报	shuang dong hai jing bao	1
+霜度	shuang du	1
+霜害	shuang hai	1
+霜花	shuang hua	1
+霜季	shuang ji	1
+霜降	shuang jiang	1
+霜期	shuang qi	1
+霜日	shuang ri	1
+水分	shui fen	1
+水害	shui hai	1
+水量差	shui liang cha	1
+水龙卷	shui long juan	1
+水面蒸发	shui mian zheng fa	1
+水面蒸发量	shui mian zheng fa liang	1
+水平虹	shui ping hong	1
+水平能见度	shui ping neng jian du	1
+水气	shui qi	1
+水汽混合比	shui qi hun he bi	1
+水气量	shui qi liang	1
+水汽凝结体	shui qi ning jie ti	1
+水文干旱	shui wen gan han	1
+水文气象	shui wen qi xiang	1
+水文气象学	shui wen qi xiang xue	1
+水象	shui xiang	1
+水星	shui xing	1
+顺风	shun feng	1
+顺流温差	shun liu wen cha	1
+顺转风	shun zhuan feng	1
+四维变分同化	si wei bian fen tong hua	1
+四氧化二氮	si yang hua er dan	1
+酸雨	suan yu	1
+岁差	sui cha	1
+碎积云	sui ji yun	1
+碎沿浪	sui yan lang	1
+碎云	sui yun	1
+台风	tai feng	1
+台风槽	tai feng cao	1
+泰森多边形	tai sen duo bian xing	1
+太阳常数	tai yang chang shu	1
+太阳大气	tai yang da qi	1
+太阳风	tai yang feng	1
+太阳辐射	tai yang fu she	1
+太阳黑子	tai yang hei zi	1
+苔原气候	tai yuan qi hou	1
+探空仪	tan kong yi	1
+碳烟	tan yan	1
+陶诗言	tao shi yan	1
+特大暴雪	te da bao xue	1
+特大暴雨	te da bao yu	1
+梯度风	ti du feng	1
+天电	tian dian	1
+天候	tian hou	1
+天气	tian qi	1
+天气符号	tian qi fu hao	1
+天气公报	tian qi gong bao	1
+天气实况	tian qi shi kuang	1
+天气图	tian qi tu	1
+天气预报	tian qi yu bao	1
+天文大潮	tian wen da chao	1
+天响	tian xiang	1
+调整温差	tiao zheng wen cha	1
+通风筒	tong feng tong	1
+透射表	tou she biao	1
+透射率	tou she lv	1
+土壤渗透仪	tu rang shen tou yi	1
+土星	tu xing	1
+湍流	tuan liu	1
+外气层	wai qi ceng	1
+外晕	wai yun	1
+晚霞	wan xia	1
+微尘	wei chen	1
+纬度	wei du	1
+微分等熵效应	wei fen deng shang xiao ying	1
+微分节流效应	wei fen jie liu xiao ying	1
+微风	wei feng	1
+微粒物	wei li wu	1
+微气候	wei qi hou	1
+位温论	wei wen lun	1
+危险天气警报	wei xian tian qi jing bao	1
+温带草原气候	wen dai cao yuan qi hou	1
+温带大陆性气候	wen dai da lu xing qi hou	1
+温带反气旋	wen dai fan qi xuan	1
+温带干旱气候	wen dai gan han qi hou	1
+温带干燥气候	wen dai gan zao qi hou	1
+温带海洋性气候	wen dai hai yang xing qi hou	1
+温带气候	wen dai qi hou	1
+温带气旋	wen dai qi xuan	1
+温带沙漠气候	wen dai sha mo qi hou	1
+稳定层	wen ding ceng	1
+温度表	wen du biao	1
+温度场	wen du chang	1
+温度分布	wen du fen bu	1
+温度计	wen du ji	1
+温和常湿气候	wen he chang shi qi hou	1
+温和冬雨气候	wen he dong yu qi hou	1
+温和夏雨气候	wen he xia yu qi hou	1
+温室效应	wen shi xiao ying	1
+涡动应力	wo dong ying li	1
+涡度传递法	wo du chuan di fa	1
+涡度输送法	wo du shu song fa	1
+涡度通量法	wo du tong liang fa	1
+涡度相关法	wo du xiang guan fa	1
+涡流制冷	wo liu zhi leng	1
+涡旋	wo xuan	1
+无风	wu feng	1
+无风带	wu feng dai	1
+吴国雄	wu guo xiong	1
+雾虹	wu hong	1
+无甲烷碳氢化合物	wu jia wan tan qing hua he wu	1
+武木冰川	wu mu bing chuan	1
+雾气	wu qi	1
+伍荣生	wu rong sheng	1
+雾凇	wu song	1
+雾淞	wu song	1
+雾与城市雾	wu yu cheng shi wu	1
+无云	wu yun	1
+西岸雪	xi an xue	1
+西风	xi feng	1
+西风带	xi feng dai	1
+西风急流	xi feng ji liu	1
+系留气球	xi liu qi qiu	1
+西南季风	xi nan ji feng	1
+西南涡	xi nan wo	1
+吸湿法	xi shi fa	1
+吸收	xi shou	1
+吸收带	xi shou dai	1
+西太平洋副热带高压	xi tai ping yang fu re dai gao ya	1
+细雨	xi yu	1
+夏半年	xia ban nian	1
+下沉区	xia chen qu	1
+下击暴流	xia ji bao liu	1
+夏日	xia ri	1
+下渗系数	xia shen xi shu	1
+下渗演算	xia shen yan suan	1
+下渗指数	xia shen zhi shu	1
+夏至	xia zhi	1
+显热交换	xian re jiao huan	1
+显热流	xian re liu	1
+向岸风	xiang an feng	1
+相对湿度	xiang dui shi du	1
+相对温度	xiang dui wen du	1
+相对蒸发量	xiang dui zheng fa liang	1
+小冰期	xiao bing qi	1
+小冰山	xiao bing shan	1
+消毒杀菌气	xiao du sha jun qi	1
+小寒	xiao han	1
+小满	xiao man	1
+小气候	xiao qi hou	1
+小暑	xiao shu	1
+效位能	xiao wei neng	1
+小雪	xiao xue	1
+小雨	xiao yu	1
+斜压	xie ya	1
+斜压波	xie ya bo	1
+信风	xin feng	1
+信风带	xin feng dai	1
+行星波	xing xing bo	1
+修正海平面气压	xiu zheng hai ping mian qi ya	1
+修正海压	xiu zheng hai ya	1
+旋风	xuan feng	1
+悬状云	xuan zhuang yun	1
+雪暴	xue bao	1
+雪崩	xue beng	1
+雪冰	xue bing	1
+雪堆	xue dui	1
+雪害	xue hai	1
+雪花	xue hua	1
+雪晶	xue jing	1
+雪量	xue liang	1
+雪片	xue pian	1
+雪球	xue qiu	1
+雪人	xue ren	1
+雪深	xue shen	1
+雪深计	xue shen ji	1
+血雨	xue yu	1
+崖崩	ya beng	1
+氩二氧化碳混合气	ya er yang hua tan hun he qi	1
+崖溃	ya kui	1
+压力表校验周期	ya li biao jiao yan zhou qi	1
+压力式温度计	ya li shi wen du ji	1
+压力损失	ya li sun shi	1
+氩气纯化装置	ya qi chun hua zhuang zhi	1
+压强值	ya qiang zhi	1
+压送系统	ya song xi tong	1
+延长预报	yan chang yu bao	1
+盐尘	yan chen	1
+烟度计	yan du ji	1
+盐风	yan feng	1
+沿海气候	yan hai qi hou	1
+烟幕	yan mu	1
+烟浓度	yan nong du	1
+衍射	yan she	1
+岩石圈	yan shi quan	1
+烟雾	yan wu	1
+烟雾情报	yan wu qing bao	1
+盐雪	yan xue	1
+阳伞效应	yang san xiao ying	1
+扬沙	yang sha	1
+氧液位调节器	yang ye wei tiao jie qi	1
+耀斑	yao ban	1
+液氮罐	ye dan guan	1
+夜光云	ye guang yun	1
+液化循环	ye hua xun huan	1
+液空干燥器	ye kong gan zao qi	1
+液空吸附器	ye kong xi fu qi	1
+液态氧气	ye tai yang qi	1
+液氧沸腾	ye yang fei teng	1
+液氧罐	ye yang guan	1
+液氧吸附器	ye yang xi fu qi	1
+异常气象	yi chang qi xiang	1
+一次大气	yi ci da qi	1
+移动式压力容器	yi dong shi ya li rong qi	1
+医疗用气	yi liao yong qi	1
+逸散层	yi san ceng	1
+一周预报	yi zhou yu bao	1
+阴间晴	yin jian qing	1
+阴霾	yin mai	1
+阴转雨	yin zhuan yu	1
+永冻气候	yong dong qi hou	1
+有效降雨	you xiao jiang yu	1
+有效温度	you xiao wen du	1
+有效蒸发量	you xiao zheng fa liang	1
+有效蒸散量	you xiao zheng san liang	1
+预报警报	yu bao jing bao	1
+预报员	yu bao yuan	1
+预测减灾	yu ce jian zai	1
+雨层云	yu ceng yun	1
+雨带	yu dai	1
+雨滴	yu di	1
+雨点	yu dian	1
+雨季	yu ji	1
+雨夹雪	yu jia xue	1
+雨间阴	yu jian yin	1
+雨涝	yu lao	1
+雨量	yu liang	1
+雨量过程线	yu liang guo cheng xian	1
+雨量计	yu liang ji	1
+雨量器	yu liang qi	1
+雨量器防护罩	yu liang qi fang hu zhao	1
+雨量图	yu liang tu	1
+雨量站	yu liang zhan	1
+雨量折算系数	yu liang zhe suan xi shu	1
+雨林气候	yu lin qi hou	1
+雨期	yu qi	1
+雨情	yu qing	1
+雨水	yu shui	1
+余水量	yu shui liang	1
+雨丝	yu si	1
+雨凇	yu song	1
+雨雪	yu xue	1
+雨影	yu ying	1
+雨云	yu yun	1
+宇宙	yu zhou	1
+雨转晴	yu zhuan qing	1
+雨转阴	yu zhuan yin	1
+原始大气	yuan shi da qi	1
+云彩	yun cai	1
+云层	yun ceng	1
+云滴	yun di	1
+云顶温度	yun ding wen du	1
+云端	yun duan	1
+云朵	yun duo	1
+云放射	yun fang she	1
+云高	yun gao	1
+云海	yun hai	1
+云核	yun he	1
+云块	yun kuai	1
+云类	yun lei	1
+云力学	yun li xue	1
+云量	yun liang	1
+云量和云高	yun liang he yun gao	1
+晕轮	yun lun	1
+云幔	yun man	1
+云帽	yun mao	1
+云幂灯	yun mi deng	1
+云幕高度	yun mu gao du	1
+云片	yun pian	1
+云区	yun qu	1
+云属	yun shu	1
+云团	yun tuan	1
+云团尺度	yun tuan chi du	1
+云雾	yun wu	1
+云物理	yun wu li	1
+云向	yun xiang	1
+云霄	yun xiao	1
+云型	yun xing	1
+云烟	yun yan	1
+云种	yun zhong	1
+云状	yun zhuang	1
+灾害性天气	zai hai xing tian qi	1
+灾害性天气警报	zai hai xing tian qi jing bao	1
+贼风	zei feng	1
+曾庆存	zeng qing cun	1
+张大林	zhang da lin	1
+张铭	zhang ming	1
+赵柏林	zhao bo lin	1
+赵九章	zhao jiu zhang	1
+朝露	zhao lu	1
+沼气含量	zhao qi han liang	1
+沼气检查	zhao qi jian cha	1
+沼气空气混合物	zhao qi kong qi hun he wu	1
+沼气泄出	zhao qi xie chu	1
+朝霞	zhao xia	1
+折射	zhe she	1
+阵风	zhen feng	1
+阵性降水	zhen xing jiang shui	1
+阵性雨夹雪	zhen xing yu jia xue	1
+阵雪	zhen xue	1
+阵雨	zhen yu	1
+正常年	zheng chang nian	1
+正丁烷	zheng ding wan	1
+蒸发	zheng fa	1
+蒸发机会	zheng fa ji hui	1
+蒸发量	zheng fa liang	1
+蒸发率	zheng fa lv	1
+蒸发皿	zheng fa min	1
+蒸发能力	zheng fa neng li	1
+蒸发强度	zheng fa qiang du	1
+蒸发雾	zheng fa wu	1
+正环流	zheng huan liu	1
+蒸散	zheng san	1
+蒸散发量	zheng san fa liang	1
+蒸散发能力	zheng san fa neng li	1
+蒸渗仪	zheng shen yi	1
+正戊烷	zheng wu wan	1
+正压	zheng ya	1
+正压波	zheng ya bo	1
+滞后时间	zhi hou shi jian	1
+芝加哥学派	zhi jia ge xue pai	1
+直接降水	zhi jie jiang shui	1
+质量分析仪	zhi liang fen xi yi	1
+质量转移法	zhi liang zhuan yi fa	1
+滞流量	zhi liu liang	1
+滞留时间	zhi liu shi jian	1
+制氢控制室	zhi qing kong zhi shi	1
+中层大气	zhong ceng da qi	1
+中尺度扰动	zhong chi du rao dong	1
+终极沉降速度	zhong ji chen jiang su du	1
+中间层	zhong jian ceng	1
+重霜	zhong shuang	1
+中纬度	zhong wei du	1
+重雾	zhong wu	1
+中性气旋	zhong xing qi xuan	1
+中雪	zhong xue	1
+中压储存容器	zhong ya chu cun rong qi	1
+中压反应容器	zhong ya fan ying rong qi	1
+中央气象台	zhong yang qi xiang tai	1
+中雨	zhong yu	1
+中云	zhong yun	1
+周期	zhou qi	1
+骤雨	zhou yu	1
+主导能见度	zhu dao neng jian du	1
+柱虹	zhu hong	1
+主冷	zhu leng	1
+主冷温差	zhu leng wen cha	1
+珠母云	zhu mu yun	1
+逐瓶	zhu ping	1
+主热交换器	zhu re jiao huan qi	1
+珠状冷凝	zhu zhuang leng ning	1
+准静止锋	zhun jing zhi feng	1
+自动气象站	zi dong qi xiang zhan	1
+自对流	zi dui liu	1
+自洁式过滤器	zi jie shi guo lv qi	1
+自清除	zi qing chu	1
+子午面	zi wu mian	1
+自由波	zi you bo	1
+自由大气	zi you da qi	1
+综合排放浓度	zong he pai fang nong du	1
+总截留损失	zong jie liu sun shi	1
+总蒸发量	zong zheng fa liang	1
+组合单位线	zu he dan wei xian	1
+阻塞高压	zu se gao ya	1
+最大可能降水	zui da ke neng jiang shui	1
+最大蒸散发量	zui da zheng san fa liang	1
+最冷月	zui leng yue	1
+最暖月	zui nuan yue	1

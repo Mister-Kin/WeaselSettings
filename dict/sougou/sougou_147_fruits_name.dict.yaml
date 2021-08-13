@@ -1,0 +1,141 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - 147_fruits_name
+# Source: 搜狗细胞词库「147种水果的名字」
+#
+
+---
+name: sougou_147_fruits_name
+version: "2019/7/12"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+巴旦杏	ba dan xing	1
+白果	bai guo	1
+板栗	ban li	1
+荸荠	bi qi	1
+槟榔子	bing lang zi	1
+菠萝	bo luo	1
+菠萝蜜	bo luo mi	1
+草莓	cao mei	1
+橙	cheng	1
+橙子	cheng zi	1
+醋粟	cu su	1
+袋装水果	dai zhuang shui guo	1
+砀山梨	dang shan li	1
+鳄梨	e li	1
+番石榴	fan shi liu	1
+凤梨	feng li	1
+覆盆子	fu pen zi	1
+干果	gan guo	1
+柑桔	gan ju	1
+柑桔皮	gan ju pi	1
+橄榄	gan lan	1
+干梅子	gan mei zi	1
+拐枣	guai zao	1
+罐头水果	guan tou shui guo	1
+桂圆	gui yuan	1
+果肉	guo rou	1
+哈密瓜	ha mi gua	1
+海棠果	hai tang guo	1
+呵呵	he he	1
+核桃仁	he tao ren	1
+黑莓	hei mei	1
+黑樱桃	hei ying tao	1
+红橙	hong cheng	1
+红醋栗	hong cu li	1
+胡桃	hu tao	1
+花生	hua sheng	1
+火龙果	huo long guo	1
+坚果	jian guo	1
+坚果壳	jian guo ke	1
+坚果仁	jian guo ren	1
+坚硬	jian ying	1
+金桔	jin ju	1
+橘子	ju zi	1
+可可果	ke ke guo	1
+烂果	lan guo	1
+梨	li	1
+李杏	li xing	1
+荔枝	li zhi	1
+荔枝皮	li zhi pi	1
+李子	li zi	1
+栗子	li zi	1
+梨子	li zi	1
+廉价	lian jia	1
+榴梿	liu lian	1
+绿苹果	lv ping guo	1
+麦金托什红苹果	mai jin tuo shi hong ping guo	1
+芒果	mang guo	1
+毛桃	mao tao	1
+美国香瓜	mei guo xiang gua	1
+弥猴桃	mi hou tao	1
+木瓜	mu gua	1
+柠檬	ning meng	1
+欧查果	ou cha guo	1
+蟠桃	pan tao	1
+枇杷	pi pa	1
+苹果	ping guo	1
+苹果核	ping guo he	1
+苹果皮	ping guo pi	1
+苹果汁	ping guo zhi	1
+葡萄	pu tao	1
+葡萄干	pu tao gan	1
+葡萄皮	pu tao pi	1
+葡萄柚	pu tao you	1
+葡萄汁	pu tao zhi	1
+脐橙	qi cheng	1
+奇异果弥猴桃	qi yi guo mi hou tao	1
+青梅	qing mei	1
+仁	ren	1
+肉质果	rou zhi guo	1
+桑椹	sang shen	1
+沙枣	sha zao	1
+山核桃	shan he tao	1
+山毛榉坚果	shan mao ju jian guo	1
+山霉	shan mei	1
+山楂	shan zha	1
+山楂果	shan zha guo	1
+石榴	shi liu	1
+柿子	shi zi	1
+水果	shui guo	1
+水果刀	shui guo dao	1
+水果商	shui guo shang	1
+粟子	su zi	1
+酸橙	suan cheng	1
+酸莓	suan mei	1
+桃	tao	1
+桃子	tao zi	1
+乌饭果	wu fan guo	1
+无核桔	wu he ju	1
+无核小葡萄	wu he xiao pu tao	1
+无花果	wu hua guo	1
+西瓜	xi gua	1
+西洋李子	xi yang li zi	1
+鲜荔枝	xian li zhi	1
+仙人掌果	xian ren zhang guo	1
+香瓜	xiang gua	1
+香蕉	xiang jiao	1
+香蕉皮	xiang jiao pi	1
+新鲜	xin xian	1
+杏	xing	1
+杏核	xing he	1
+杏仁	xing ren	1
+杏肉	xing rou	1
+杏子	xing zi	1
+杨梅	yang mei	1
+杨桃	yang tao	1
+椰奶	ye nai	1
+椰枣	ye zao	1
+椰子	ye zi	1
+椰子汁	ye zi zhi	1
+樱桃	ying tao	1
+樱桃肉	ying tao rou	1
+油葵	you kui	1
+油桃	you tao	1
+柚子	you zi	1
+越蔓橘	yue man ju	1
+枣核	zao he	1
+枣子	zao zi	1
+榛子	zhen zi	1

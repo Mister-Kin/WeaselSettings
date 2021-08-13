@@ -1,0 +1,816 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - color_name
+# Source: 搜狗细胞词库「颜色名称」
+#
+
+---
+name: sougou_color_name
+version: "2021/8/13"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+艾绿	ai lv	1
+暗橙	an cheng	1
+暗粉	an fen	1
+暗粉红	an fen hong	1
+暗黑	an hei	1
+暗红	an hong	1
+暗黄	an huang	1
+暗灰	an hui	1
+暗绛红	an jiang hong	1
+暗兰	an lan	1
+暗绿	an lv	1
+暗麦绿	an mai lv	1
+暗水绿	an shui lv	1
+暗夜蓝	an ye lan	1
+暗紫	an zi	1
+暗紫色	an zi se	1
+白米色	bai mi se	1
+白浅橙	bai qian cheng	1
+白色	bai se	1
+半漂	ban piao	1
+半漂白	ban piao bai	1
+宝贝蓝	bao bei lan	1
+宝兰	bao lan	1
+宝蓝	bao lan	1
+宝蓝色	bao lan se	1
+宝石红	bao shi hong	1
+宝石蓝	bao shi lan	1
+本白	ben bai	1
+本厂白	ben chang bai	1
+本厂黑	ben chang hei	1
+本厂克	ben chang ke	1
+本厂漂白	ben chang piao bai	1
+碧海蓝	bi hai lan	1
+碧绿	bi lv	1
+冰湖蓝	bing hu lan	1
+冰雪蓝	bing xue lan	1
+冰洋蓝	bing yang lan	1
+薄荷绿	bo he lv	1
+薄菏绿	bo he lv	1
+薄荷色	bo he se	1
+彩虹色	cai hong se	1
+彩兰	cai lan	1
+彩蓝	cai lan	1
+藏兰	cang lan	1
+草地绿	cao di lv	1
+草绿	cao lv	1
+草莓红	cao mei hong	1
+茶白	cha bai	1
+茶褐	cha he	1
+茶绿	cha lv	1
+橙红	cheng hong	1
+橙黄	cheng huang	1
+橙色	cheng se	1
+橙王	cheng wang	1
+纯白	chun bai	1
+瓷器蓝	ci qi lan	1
+磁铁紫	ci tie zi	1
+丛林绿	cong lin lv	1
+葱绿	cong lv	1
+翠兰	cui lan	1
+翠绿	cui lv	1
+大白	da bai	1
+大红	da hong	1
+大红灰	da hong hui	1
+黛蓝	dai lan	1
+玳瑁红	dai mao hong	1
+淡白紫	dan bai zi	1
+淡粉	dan fen	1
+淡粉红	dan fen hong	1
+淡红	dan hong	1
+旦黄	dan huang	1
+淡黄	dan huang	1
+蛋黄	dan huang	1
+淡黄色	dan huang se	1
+淡灰	dan hui	1
+淡蓝	dan lan	1
+淡绿	dan lv	1
+淡玫瑰	dan mei gui	1
+淡青	dan qing	1
+淡王	dan wang	1
+蛋王	dan wang	1
+淡子	dan zi	1
+淡紫	dan zi	1
+稻草黄	dao cao huang	1
+淀蓝	dian lan	1
+靛青	dian qing	1
+丁香紫	ding xiang zi	1
+冬白	dong bai	1
+豆红	dou hong	1
+豆绿	dou lv	1
+豆沙红	dou sha hong	1
+豆沙色	dou sha se	1
+都市蓝	du shi lan	1
+鹅黄	e huang	1
+鹅仔黄	e zai huang	1
+番茄红	fan qie hong	1
+翡翠绿	fei cui lv	1
+啡黑	fei hei	1
+啡红	fei hong	1
+绯红	fei hong	1
+啡红色	fei hong se	1
+啡色	fei se	1
+妃色	fei se	1
+啡杏色	fei xing se	1
+非洲紫	fei zhou zi	1
+粉橙	fen cheng	1
+粉红	fen hong	1
+粉红白	fen hong bai	1
+粉红色	fen hong se	1
+粉黄	fen huang	1
+粉兰	fen lan	1
+粉蓝	fen lan	1
+粉绿	fen lv	1
+粉玫瑰	fen mei gui	1
+粉玫红	fen mei hong	1
+粉末蓝	fen mo lan	1
+粉茄紫	fen qie zi	1
+分散黑色	fen san hei se	1
+粉色	fen se	1
+粉紫	fen zi	1
+粉紫红	fen zi hong	1
+粉紫色	fen zi se	1
+蜂蜜黄	feng mi huang	1
+芙蓉红	fu rong hong	1
+干草绿	gan cao lv	1
+橄榄黄	gan lan huang	1
+橄榄绿	gan lan lv	1
+高梁红	gao liang hong	1
+铬红	ge hong	1
+古董白	gu dong bai	1
+钴蓝	gu lan	1
+古铜色	gu tong se	1
+古意绿	gu yi lv	1
+光暗紫红	guang an zi hong	1
+光热蓝	guang re lan	1
+光紫红	guang zi hong	1
+鲑鱼红	gui yu hong	1
+国际绿	guo ji lv	1
+果绿	guo lv	1
+国旗红	guo qi hong	1
+海军兰	hai jun lan	1
+海军蓝	hai jun lan	1
+海军绿	hai jun lv	1
+海兰	hai lan	1
+海蓝	hai lan	1
+海螺红	hai luo hong	1
+海洋蓝	hai yang lan	1
+海洋绿	hai yang lv	1
+韩国大红	han guo da hong	1
+韩国红	han guo hong	1
+韩兰	han lan	1
+韩枣红	han zao hong	1
+褐绿	he lv	1
+黑宝兰	hei bao lan	1
+黑宝蓝	hei bao lan	1
+黑灰	hei hui	1
+黑灰白	hei hui bai	1
+黑咖啡	hei ka fei	1
+黑绿色	hei lv se	1
+黑色	hei se	1
+黑杏	hei xing	1
+红灰	hong hui	1
+红色	hong se	1
+湖兰	hu lan	1
+湖蓝	hu lan	1
+湖绿	hu lv	1
+琥珀粉	hu po fen	1
+湖水兰	hu shui lan	1
+湖水蓝	hu shui lan	1
+湖水绿	hu shui lv	1
+花啡	hua fei	1
+花粉红	hua fen hong	1
+花黑	hua hei	1
+花灰	hua hui	1
+花灰半漂	hua hui ban piao	1
+花灰漂白	hua hui piao bai	1
+花灰色	hua hui se	1
+花灰洗水	hua hui xi shui	1
+花介黄	hua jie huang	1
+花咖啡	hua ka fei	1
+花克	hua ke	1
+花青	hua qing	1
+花深灰	hua shen hui	1
+黄橙	huang cheng	1
+黄灰色	huang hui se	1
+黄栌	huang lu	1
+黄绿	huang lv	1
+黄色	huang se	1
+灰白	hui bai	1
+灰白色	hui bai se	1
+灰大红	hui da hong	1
+灰啡	hui fei	1
+灰褐	hui he	1
+灰褐色	hui he se	1
+灰黑	hui hei	1
+灰湖绿	hui hu lv	1
+灰黄	hui huang	1
+灰咖啡	hui ka fei	1
+灰卡其	hui ka qi	1
+灰克	hui ke	1
+灰兰	hui lan	1
+灰蓝	hui lan	1
+灰绿	hui lv	1
+灰浅蓝	hui qian lan	1
+灰色	hui se	1
+灰深灰	hui shen hui	1
+灰杏	hui xing	1
+灰丈青	hui zhang qing	1
+灰紫	hui zi	1
+火红	huo hong	1
+活性黑	huo xing hei	1
+活性克	huo xing ke	1
+蓟色	ji se	1
+碱化黑	jian hua hei	1
+姜黄	jiang huang	1
+绛紫	jiang zi	1
+芥菜绿	jie cai lv	1
+介黄	jie huang	1
+芥黄	jie huang	1
+介绿	jie lv	1
+芥绿色	jie lv se	1
+芥末黄	jie mo huang	1
+芥茉绿	jie mo lv	1
+介王	jie wang	1
+芥苿绿	jie wei lv	1
+劲黑	jin hei	1
+金红	jin hong	1
+金黄	jin huang	1
+金色	jin se	1
+金属灰	jin shu hui	1
+金属铜	jin shu tong	1
+金属银	jin shu yin	1
+金王	jin wang	1
+酒红	jiu hong	1
+桔红	ju hong	1
+桔红色	ju hong se	1
+桔黄	ju huang	1
+橘黄	ju huang	1
+桔黄色	ju huang se	1
+桔色	ju se	1
+桔子色	ju zi se	1
+军湖蓝	jun hu lan	1
+军兰	jun lan	1
+军绿	jun lv	1
+咖啡	ka fei	1
+咖啡红	ka fei hong	1
+咖啡色	ka fei se	1
+卡其	ka qi	1
+卡其黄	ka qi huang	1
+卡其灰	ka qi hui	1
+卡其绿	ka qi lv	1
+卡其色	ka qi se	1
+卡其杏	ka qi xing	1
+康卡黄	kang ka huang	1
+克宝蓝	ke bao lan	1
+克灰	ke hui	1
+可可色	ke ke se	1
+克兰	ke lan	1
+克米白	ke mi bai	1
+克色	ke se	1
+空军深蓝	kong jun shen lan	1
+孔兰	kong lan	1
+孔绿	kong lv	1
+孔雀蓝	kong que lan	1
+孔雀绿	kong que lv	1
+矿灰	kuang hui	1
+辣椒红	la jiao hong	1
+蓝黑	lan hei	1
+蓝黑色	lan hei se	1
+兰灰	lan hui	1
+蓝灰	lan hui	1
+兰绿	lan lv	1
+榄绿	lan lv	1
+蓝绿	lan lv	1
+兰色	lan se	1
+蓝色	lan se	1
+蓝深绿	lan shen lv	1
+兰紫	lan zi	1
+蓝紫	lan zi	1
+狼族绿	lang zu lv	1
+莲红色	lian hong se	1
+硫化黑	liu hua hei	1
+硫化克	liu hua ke	1
+柳黄	liu huang	1
+鹿角啡	lu jiao fei	1
+罗兰紫	luo lan zi	1
+罗蓝紫	luo lan zi	1
+骆驼色	luo tuo se	1
+绿灰色	lv hui se	1
+绿兰	lv lan	1
+绿色	lv se	1
+玛瑙红	ma nao hong	1
+麦克	mai ke	1
+麦兰	mai lan	1
+麦水蓝	mai shui lan	1
+芒果	mang guo	1
+芒果色	mang guo se	1
+毛毛绿	mao mao lv	1
+玫瑰红	mei gui hong	1
+玫瑰紫	mei gui zi	1
+梅红	mei hong	1
+玫红	mei hong	1
+玫红粉	mei hong fen	1
+米白	mi bai	1
+米白黄	mi bai huang	1
+米白灰	mi bai hui	1
+米白桔色	mi bai ju se	1
+米白克	mi bai ke	1
+米白色	mi bai se	1
+米红	mi hong	1
+米黄	mi huang	1
+米龙果	mi long guo	1
+密绿	mi lv	1
+米色	mi se	1
+米王	mi wang	1
+米杏	mi xing	1
+明黄	ming huang	1
+明王	ming wang	1
+墨黑	mo hei	1
+墨绛红	mo jiang hong	1
+墨兰	mo lan	1
+墨蓝	mo lan	1
+墨绿	mo lv	1
+磨石绿	mo shi lv	1
+墨水蓝	mo shui lan	1
+墨玉绿	mo yu lv	1
+墨紫	mo zi	1
+牡丹红	mu dan hong	1
+牡蛎白	mu li bai	1
+目绿	mu lv	1
+奶白	nai bai	1
+奶油色	nai you se	1
+奶油杏	nai you xing	1
+嫩黄	nen huang	1
+嫩绿	nen lv	1
+嫩牙绿	nen ya lv	1
+嫩芽绿	nen ya lv	1
+霓红绿	ni hong lv	1
+泥黄	ni huang	1
+泥灰	ni hui	1
+泥灰蓝	ni hui lan	1
+柠黄	ning huang	1
+柠檬黄	ning meng huang	1
+柠檬绿	ning meng lv	1
+柠檬王	ning meng wang	1
+牛黄	niu huang	1
+牛津黑	niu jin hei	1
+牛津蓝	niu jin lan	1
+牛仔兰	niu zai lan	1
+牛仔蓝	niu zai lan	1
+暖阳橙	nuan yang cheng	1
+藕红	ou hong	1
+漂白	piao bai	1
+品红	pin hong	1
+苹果绿	ping guo lv	1
+普蓝	pu lan	1
+葡萄	pu tao	1
+葡萄红	pu tao hong	1
+葡萄色	pu tao se	1
+葡萄紫	pu tao zi	1
+漆黑	qi hei	1
+漆蓝	qi lan	1
+浅宝兰	qian bao lan	1
+浅宝蓝	qian bao lan	1
+浅彩兰	qian cai lan	1
+浅橙	qian cheng	1
+浅橙色	qian cheng se	1
+浅豆绿	qian dou lv	1
+浅啡	qian fei	1
+浅啡红	qian fei hong	1
+浅粉	qian fen	1
+浅粉橙	qian fen cheng	1
+浅粉红	qian fen hong	1
+浅粉兰	qian fen lan	1
+浅粉蓝	qian fen lan	1
+浅海蓝	qian hai lan	1
+浅褐	qian he	1
+浅褐绿	qian he lv	1
+浅红	qian hong	1
+浅湖蓝	qian hu lan	1
+浅花杏	qian hua xing	1
+浅黄	qian huang	1
+浅灰	qian hui	1
+浅灰兰	qian hui lan	1
+浅灰蓝	qian hui lan	1
+浅灰绿	qian hui lv	1
+浅绛红	qian jiang hong	1
+浅金黄	qian jin huang	1
+浅桔	qian ju	1
+浅桔黄	qian ju huang	1
+浅军绿	qian jun lv	1
+浅咖啡	qian ka fei	1
+浅卡其	qian ka qi	1
+浅兰	qian lan	1
+浅蓝	qian lan	1
+浅蓝色	qian lan se	1
+浅莲红	qian lian hong	1
+浅绿	qian lv	1
+浅麻灰	qian ma hui	1
+浅梅红	qian mei hong	1
+浅玫红	qian mei hong	1
+浅柠黄	qian ning huang	1
+浅牛仔蓝	qian niu zai lan	1
+浅青绿	qian qing lv	1
+浅色	qian se	1
+浅深灰	qian shen hui	1
+浅碳灰	qian tan hui	1
+浅桃红	qian tao hong	1
+浅驼	qian tuo	1
+浅驼色	qian tuo se	1
+浅王	qian wang	1
+浅瑕黄	qian xia huang	1
+浅杏	qian xing	1
+浅杏色	qian xing se	1
+浅洋红	qian yang hong	1
+浅子	qian zi	1
+浅紫	qian zi	1
+浅紫白	qian zi bai	1
+浅紫红	qian zi hong	1
+浅子兰	qian zi lan	1
+浅紫蓝	qian zi lan	1
+蔷眉紫	qiang mei zi	1
+巧克力	qiao ke li	1
+茄红	qie hong	1
+茄皮紫	qie pi zi	1
+青草绿	qing cao lv	1
+青春绿	qing chun lv	1
+青古铜色	qing gu tong se	1
+青黄	qing huang	1
+青灰	qing hui	1
+青蓝	qing lan	1
+青莲	qing lian	1
+青绿	qing lv	1
+青柠	qing ning	1
+青色	qing se	1
+青王	qing wang	1
+秋绿	qiu lv	1
+秋香绿	qiu xiang lv	1
+秋香色	qiu xiang se	1
+雀蓝	que lan	1
+雀绿	que lv	1
+群青	qun qing	1
+日出黄	ri chu huang	1
+日光黄	ri guang huang	1
+日落黄	ri luo huang	1
+肉色	rou se	1
+乳白	ru bai	1
+软绿	ruan lv	1
+洒红	sa hong	1
+森林绿	sen lin lv	1
+纱白	sha bai	1
+砂黄	sha huang	1
+沙色	sha se	1
+沙棕	sha zong	1
+珊瑚	shan hu	1
+珊瑚红	shan hu hong	1
+深暗红	shen an hong	1
+深宝兰	shen bao lan	1
+深宝蓝	shen bao lan	1
+深彩兰	shen cai lan	1
+深彩蓝	shen cai lan	1
+深蔵青	shen cang qing	1
+深草绿	shen cao lv	1
+深橙	shen cheng	1
+深橙红	shen cheng hong	1
+深橙色	shen cheng se	1
+深啡	shen fei	1
+深粉	shen fen	1
+深粉红	shen fen hong	1
+深果绿	shen guo lv	1
+深海蓝	shen hai lan	1
+深褐绿	shen he lv	1
+深黑	shen hei	1
+深红	shen hong	1
+深湖蓝	shen hu lan	1
+深湖绿	shen hu lv	1
+深花灰	shen hua hui	1
+深黄	shen huang	1
+深灰	shen hui	1
+深灰兰	shen hui lan	1
+深灰蓝	shen hui lan	1
+深灰紫	shen hui zi	1
+深活性黑	shen huo xing hei	1
+深介绿	shen jie lv	1
+深桔红	shen ju hong	1
+深桔黄	shen ju huang	1
+深军蓝	shen jun lan	1
+深军绿	shen jun lv	1
+深咖啡	shen ka fei	1
+深卡其	shen ka qi	1
+深克	shen ke	1
+深兰	shen lan	1
+深蓝	shen lan	1
+深蓝色	shen lan se	1
+深绿	shen lv	1
+深绿色	shen lv se	1
+深梅红	shen mei hong	1
+深玫红	shen mei hong	1
+深梅紫	shen mei zi	1
+深玫紫	shen mei zi	1
+深木绿	shen mu lv	1
+深葡萄红	shen pu tao hong	1
+深青灰	shen qing hui	1
+深青绿	shen qing lv	1
+深炭灰	shen tan hui	1
+深桃红	shen tao hong	1
+深天兰	shen tian lan	1
+深天蓝	shen tian lan	1
+深驼	shen tuo	1
+深王	shen wang	1
+深玟红	shen wen hong	1
+深杏	shen xing	1
+深月	shen yue	1
+深早红	shen zao hong	1
+深枣红	shen zao hong	1
+深子	shen zi	1
+深紫	shen zi	1
+深子红	shen zi hong	1
+深紫红	shen zi hong	1
+深紫蓝	shen zi lan	1
+深棕	shen zong	1
+深棕灰	shen zong hui	1
+圣延绿	sheng yan lv	1
+石白	shi bai	1
+士多啤梨	shi duo pi li	1
+石灰	shi hui	1
+石灰绿	shi hui lv	1
+石卡其	shi ka qi	1
+石蓝	shi lan	1
+石榴红	shi liu hong	1
+石绿	shi lv	1
+石青	shi qing	1
+石色	shi se	1
+石头色	shi tou se	1
+熟褐	shu he	1
+水红	shui hong	1
+水晶蓝	shui jing lan	1
+水晶绿	shui jing lv	1
+水晶色	shui jing se	1
+水兰	shui lan	1
+水蓝	shui lan	1
+水莲	shui lian	1
+水绿	shui lv	1
+水桃红	shui tao hong	1
+松柏绿	song bai lv	1
+松花绿	song hua lv	1
+松石绿	song shi lv	1
+酸橙	suan cheng	1
+酞箐蓝	tai jing lan	1
+苔绿	tai lv	1
+太平洋蓝	tai ping yang lan	1
+苔藓绿	tai xian lv	1
+太阳红	tai yang hong	1
+炭黑	tan hei	1
+炭花灰	tan hua hui	1
+炭灰	tan hui	1
+碳灰	tan hui	1
+炭灰色	tan hui se	1
+碳克	tan ke	1
+桃粉红	tao fen hong	1
+桃紅	tao gong	1
+桃红	tao hong	1
+桃色	tao se	1
+特白	te bai	1
+特黑	te hei	1
+特深啡	te shen fei	1
+特深灰	te shen hui	1
+特深蓝	te shen lan	1
+藤黄	teng huang	1
+提紫	ti zi	1
+天国蓝	tian guo lan	1
+天空蓝	tian kong lan	1
+天兰	tian lan	1
+天蓝	tian lan	1
+天使白	tian shi bai	1
+天堂红	tian tang hong	1
+铁红	tie hong	1
+铁灰	tie hui	1
+铁色	tie se	1
+铁锈红	tie xiu hong	1
+头绿	tou lv	1
+头青	tou qing	1
+土耳其蓝	tu er qi lan	1
+土红	tu hong	1
+土黄	tu huang	1
+土泥灰	tu ni hui	1
+土色	tu se	1
+拖肥啡	tuo fei fei	1
+拖肥色	tuo fei se	1
+酡红	tuo hong	1
+驼色	tuo se	1
+酡颜	tuo yan	1
+晚蓝	wan lan	1
+王橙	wang cheng	1
+王色	wang se	1
+卫黄	wei huang	1
+维加斯金	wei jia si jin	1
+蔚蓝	wei lan	1
+玟瑰红	wen gui hong	1
+乌黑	wu hei	1
+雾灰	wu hui	1
+雾蓝	wu lan	1
+勿绿	wu lv	1
+午夜蓝	wu ye lan	1
+乌紫	wu zi	1
+西瓜红	xi gua hong	1
+洗水	xi shui	1
+洗水白	xi shui bai	1
+夕阳红	xi yang hong	1
+虾肉	xia rou	1
+虾肉色	xia rou se	1
+鲜橙	xian cheng	1
+鲜粉红	xian fen hong	1
+鲜红	xian hong	1
+鲜黄	xian huang	1
+鲜蓝	xian lan	1
+鲜绿	xian lv	1
+鲜桃红	xian tao hong	1
+鲜锈红	xian xiu hong	1
+鲜紫	xian zi	1
+香槟	xiang bin	1
+香草绿	xiang cao lv	1
+香橙	xiang cheng	1
+香粉红	xiang fen hong	1
+香瓜橙	xiang gua cheng	1
+橡皮红	xiang pi hong	1
+象牙白	xiang ya bai	1
+象牙黄	xiang ya huang	1
+蟹壳青	xie ke qing	1
+新宝兰	xin bao lan	1
+新大红	xin da hong	1
+新粉橙	xin fen cheng	1
+新粉红	xin fen hong	1
+新海蓝	xin hai lan	1
+新红	xin hong	1
+新红色	xin hong se	1
+新军绿	xin jun lv	1
+新纶	xin lun	1
+新绿	xin lv	1
+新米白	xin mi bai	1
+新嫩黄	xin nen huang	1
+新天蓝	xin tian lan	1
+新艳绿	xin yan lv	1
+杏甫	xing fu	1
+杏复黑	xing fu hei	1
+杏复丈青	xing fu zhang qing	1
+杏复紫	xing fu zi	1
+杏红	xing hong	1
+杏黄	xing huang	1
+杏克色	xing ke se	1
+星空蓝	xing kong lan	1
+杏色	xing se	1
+杏驼	xing tuo	1
+杏王	xing wang	1
+性性黑	xing xing hei	1
+锈橙	xiu cheng	1
+锈红	xiu hong	1
+锈色	xiu se	1
+雪白	xue bai	1
+血红	xue hong	1
+雪红	xue hong	1
+雪葩	xue pa	1
+雪青	xue qing	1
+薰衣草	xun yi cao	1
+薰衣草紫	xun yi cao zi	1
+牙白	ya bai	1
+鸭蛋	ya dan	1
+雅典蓝	ya dian lan	1
+雅典绿	ya dian lv	1
+鸭蓝	ya lan	1
+鸭绿	ya lu	1
+鸭卵青	ya luan qing	1
+芽绿	ya lv	1
+鸦青	ya qing	1
+牙色	ya se	1
+烟白	yan bai	1
+艳橙红	yan cheng hong	1
+嫣红	yan hong	1
+艳红	yan hong	1
+艳黄	yan huang	1
+烟灰	yan hui	1
+艳蓝	yan lan	1
+胭脂	yan zhi	1
+胭脂红	yan zhi hong	1
+洋红	yang hong	1
+羊毛白	yang mao bai	1
+夜兰	ye lan	1
+夜蓝	ye lan	1
+叶绿	ye lv	1
+夜色蓝	ye se lan	1
+野紫色	ye zi se	1
+意大利蓝	yi da li lan	1
+意蓝	yi lan	1
+银白	yin bai	1
+印第安红	yin di an hong	1
+银灰	yin hui	1
+银灰绿	yin hui lv	1
+银灰色	yin hui se	1
+银色	yin se	1
+樱草色	ying cao se	1
+荧光橙	ying guang cheng	1
+莹光橙	ying guang cheng	1
+荧光绿	ying guang lv	1
+莹光绿	ying guang lv	1
+荧光色	ying guang se	1
+荧黄	ying huang	1
+茔绿	ying lv	1
+荧绿	ying lv	1
+莹绿	ying lv	1
+樱桃红	ying tao hong	1
+幽谷蓝	you gu lan	1
+邮政绿	you zheng lv	1
+羽豆紫	yu dou zi	1
+鱼肚白	yu du bai	1
+瘀粉红	yu fen hong	1
+玉红	yu hong	1
+瘀红	yu hong	1
+玉绿	yu lv	1
+玉米黄	yu mi huang	1
+玉色	yu shai	1
+玉石白	yu shi bai	1
+原白	yuan bai	1
+远航白	yuan hang bai	1
+鸢尾蓝	yuan wei lan	1
+月白	yue bai	1
+月光蓝	yue guang lan	1
+月蓝	yue lan	1
+月色	yue se	1
+藏蓝	zang lan	1
+藏青	zang qing	1
+早红	zao hong	1
+枣红	zao hong	1
+枣红色	zao hong se	1
+增白	zeng bai	1
+丈蓝	zhang lan	1
+丈青	zhang qing	1
+丈青灰	zhang qing hui	1
+丈青蓝	zhang qing lan	1
+丈青色	zhang qing se	1
+珍果黄	zhen guo huang	1
+珍珠白	zhen zhu bai	1
+珍珠灰	zhen zhu hui	1
+珍珠蓝	zhen zhu lan	1
+中宝蓝	zhong bao lan	1
+中橙	zhong cheng	1
+中等蓝	zhong deng lan	1
+中啡	zhong fei	1
+中粉	zhong fen	1
+中粉红	zhong fen hong	1
+中红	zhong hong	1
+中湖蓝	zhong hu lan	1
+中花灰	zhong hua hui	1
+中黄	zhong huang	1
+中灰	zhong hui	1
+中军	zhong jun	1
+中卡其	zhong ka qi	1
+中兰	zhong lan	1
+中蓝	zhong lan	1
+中蓝紫	zhong lan zi	1
+中绿	zhong lv	1
+中色	zhong se	1
+中世纪蓝	zhong shi ji lan	1
+中桃红	zhong tao hong	1
+中杏色	zhong xing se	1
+中仔兰	zhong zai lan	1
+中紫	zhong zi	1
+朱膘	zhu biao	1
+朱肝	zhu gan	1
+朱古力	zhu gu li	1
+朱红	zhu hong	1
+竹绿	zhu lv	1
+煮漂	zhu piao	1
+竹青	zhu qing	1
+朱砂	zhu sha	1
+砖橙	zhuan cheng	1
+砖红	zhuan hong	1
+紫宝兰	zi bao lan	1
+紫丁香	zi ding xiang	1
+紫啡	zi fei	1
+子红	zi hong	1
+紫红	zi hong	1
+紫红色	zi hong se	1
+紫灰	zi hui	1
+紫兰	zi lan	1
+紫蓝	zi lan	1
+紫罗	zi luo	1
+紫罗兰	zi luo lan	1
+紫罗蓝	zi luo lan	1
+紫罗兰色	zi luo lan se	1
+紫玫红	zi mei hong	1
+自然绿	zi ran lv	1
+紫色	zi se	1
+紫水晶色	zi shui jing se	1
+紫玟红	zi wen hong	1
+紫丈青	zi zhang qing	1
+棕啡	zong fei	1
+棕褐色	zong he se	1
+棕红	zong hong	1
+棕黄	zong huang	1
+棕绿	zong lv	1
+棕色	zong se	1
+棕桐绿	zong tong lv	1
+钻石蓝	zuan shi lan	1
