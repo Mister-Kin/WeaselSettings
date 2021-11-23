@@ -5,7 +5,7 @@
 
 patch:
   translator/dictionary: luna_pinyin_simp.extended.list # 载入扩充词库列表
-  schema/dependencies/@1: english # 需要方案依赖，不然仅有 table_translator@english 无法解决
+  schema/dependencies/@next: english # 需要方案依赖，不然仅有 table_translator@english 无法解决
   engine/translators/@next: table_translator@english # 设定输入英文的码表副翻译器，取名为 english
   # english 翻译器的设定项
   english:
@@ -52,7 +52,7 @@ patch:
     '/ywz': [(ಡωಡ), (ಥ﹏ಥ), (ง •_•)ง, (눈_눈), (＞﹏＜), ╥﹏╥..., (lll￢ω￢), (๑•̀ㅂ•́)و✧, (￣▽￣)～■干杯□～(￣▽￣)]
     '/hexo': [hexo generate && hexo server --draft, hexo clean && hexo generate && hexo server --draft, hexo new draft, hexo publish, hexo new page, hexo generate && hexo server, hexo clean && hexo generate && hexo deploy, hexo clean --silent && hexo generate --silent && hexo deploy, hexo clean --silent && hexo generate --silent && hexo server --draft, hexo clean --silent && hexo generate --silent && hexo server, hexo clean, hexo generate, hexo server, hexo server --draft, hexo deploy]
     '/mlh': [pandoc -s -o, pandoc -o, sfc /scannow, dism /online /cleanup-image /scanhealth, dism /online /cleanup-image /restorehealth, 'rundll32.exe powrprof.dll,SetSuspendState']
-    '/url': [https://github.com, https://github.com/Mister-Kin/, https://mister-kin.github.io/, https://github.com/Mister-Kin/OpenDocs/, https://github.com/Mister-Kin/OpenDocs/tree/master/, https://pd.zwc365.com/seturl/, https://pd.zwc365.com/cfworker/]
+    '/url': [https://github.com, https://github.com/Mister-Kin/, https://mister-kin.github.io/, https://mister-kin.gitee.io/, https://github.com/Mister-Kin/OpenDocs/, https://github.com/Mister-Kin/OpenDocs/tree/master/, https://pd.zwc365.com/seturl/, https://pd.zwc365.com/cfworker/]
     '/ipabpy': [p, b, t, d, k, g] # 爆破音
     '/ipamcy': [f, v, s, z, f, ʒ, θ, ð, h] # 摩擦音
     '/ipaby': [m, n, ŋ] # 鼻音
