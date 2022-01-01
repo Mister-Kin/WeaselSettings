@@ -22,6 +22,10 @@ Setting files and lexicons of Weasel which is a windows client of RIME.
 [Jump to Documentation Page]: https://mister-kin.github.io/manuals/weasel-settings/
 [Offline Documentation - PDF]: https://wwr.lanzoui.com/b02c7lamf
 
+## Customized Settings in installation.yaml
+- installation_id: "id"
+- sync_dir: 'sync path'
+
 ## Author
 **WeaselSettings** © Mr. Kin, All files released under the [GNU GPL v3.0][] license.
 
