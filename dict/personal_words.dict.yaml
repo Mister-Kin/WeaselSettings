@@ -1,0 +1,18 @@
+#
+# Author: Mr. Kin <im.misterkin@gmail.com>
+# Description: This file is Rime extended dictionary - personal_words （个人常用语）
+#
+
+---
+name: personal_words
+version: "2022/10/03"
+sort: by_weight
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+...
+
+守得云开见月明	shou de yun kai jian ming yue
+静待花开终有时	jing dai hua kai zhong you shi
+守得云开见月明，静待花开终有时	shou de yun kai jian ming yue

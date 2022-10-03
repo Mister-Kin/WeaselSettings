@@ -1,11 +1,11 @@
 #
 # Author: Mr. Kin <im.misterkin@gmail.com>
-# Description: This file is Rime extended dictionary - personal_words （个人常用语）
+# Description: This file is Rime extended dictionary - personal_words_en （个人常用语-英文）
 #
 
 ---
-name: personal_words
-version: "2021/8/13"
+name: personal_words_en
+version: "2022/10/03"
 sort: by_weight
 use_preset_vocabulary: false
 columns:

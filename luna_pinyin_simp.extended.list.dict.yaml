@@ -11,6 +11,7 @@ use_preset_vocabulary: true
 import_tables:
   - luna_pinyin # 从 luna_pinyin.dict.yaml 导入包含单字的码表
   - ./dict/cn_en # 导入自定义词库
+  - ./dict/personal_words # 导入自定义词库
   - ./dict/THUOCL/THUOCL_animal # 导入 11 个清华大学开放词库
   - ./dict/THUOCL/THUOCL_caijing
   - ./dict/THUOCL/THUOCL_car
