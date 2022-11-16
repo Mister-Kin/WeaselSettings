@@ -8,6 +8,7 @@ function date_translator(input, seg)
         yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), ""))
         yield(Candidate("time", seg.start, seg._end, os.date("%Y/%m/%d %H:%M:%S"), ""))
         yield(Candidate("time", seg.start, seg._end, os.date("%Y%m%d_%H%M%S"), ""))
+        yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d %H:%M%z"), "时区尾缀"))
     end
     if (input == "time" or input == "now" or input == "sj" or input == "shijian" or input == "jfuj") then
         --- Candidate(type, start, end, text, comment)
