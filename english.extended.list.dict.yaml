@@ -10,7 +10,6 @@ sort: by_weight
 use_preset_vocabulary: false
 import_tables:
   - ./dict_en/easy_en
-  - ./dict_en/filename_extension
   - ./dict_en/latex
   - ./dict_en/personal_words_en
 ...
