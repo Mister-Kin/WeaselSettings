@@ -5,7 +5,7 @@
 
 ---
 name: luna_pinyin_simp.extended.list
-version: "2021/8/13"
+version: "2023/06/12"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -23,60 +23,60 @@ import_tables:
   - ./dict/THUOCL/THUOCL_lishimingren
   - ./dict/THUOCL/THUOCL_medical
   - ./dict/THUOCL/THUOCL_poem
-  - ./dict/sougou/sougou_3D # 导入 56 个搜狗细胞词库
-  - ./dict/sougou/sougou_147_fruits_name
-  - ./dict/sougou/sougou_agriculture
-  - ./dict/sougou/sougou_animal
-  - ./dict/sougou/sougou_architecture
-  - ./dict/sougou/sougou_astronomy
-  - ./dict/sougou/sougou_biology
-  - ./dict/sougou/sougou_calligraphy
-  - ./dict/sougou/sougou_car
-  - ./dict/sougou/sougou_chemistry
-  - ./dict/sougou/sougou_chess
-  - ./dict/sougou/sougou_color_name
-  - ./dict/sougou/sougou_computer
-  - ./dict/sougou/sougou_diet
-  - ./dict/sougou/sougou_drug_name
-  - ./dict/sougou/sougou_edaphology
-  - ./dict/sougou/sougou_electricity
-  - ./dict/sougou/sougou_electron
-  - ./dict/sougou/sougou_famous_ancient_poetry
-  - ./dict/sougou/sougou_finance
-  - ./dict/sougou/sougou_fitment
-  - ./dict/sougou/sougou_four_characters_idiom
-  - ./dict/sougou/sougou_geography
-  - ./dict/sougou/sougou_governmental_apparatus
-  - ./dict/sougou/sougou_hacker
-  - ./dict/sougou/sougou_human_acupoint_name
-  - ./dict/sougou/sougou_human_anatomy
-  - ./dict/sougou/sougou_idiom_adage
-  - ./dict/sougou/sougou_IT_computer
-  - ./dict/sougou/sougou_IT
-  - ./dict/sougou/sougou_Japanese_animation
-  - ./dict/sougou/sougou_law
-  - ./dict/sougou/sougou_lunyu
-  - ./dict/sougou/sougou_maths
-  - ./dict/sougou/sougou_matlab
-  - ./dict/sougou/sougou_medical_apparatus
-  - ./dict/sougou/sougou_medical_science
-  - ./dict/sougou/sougou_movie_name
-  - ./dict/sougou/sougou_network_buzzword
-  - ./dict/sougou/sougou_painting_art
-  - ./dict/sougou/sougou_phychology
-  - ./dict/sougou/sougou_physics
-  - ./dict/sougou/sougou_plants
-  - ./dict/sougou/sougou_scenery
-  - ./dict/sougou/sougou_seo_term
-  - ./dict/sougou/sougou_singer_name
-  - ./dict/sougou/sougou_software_development
-  - ./dict/sougou/sougou_software_major
-  - ./dict/sougou/sougou_song_dynasty_poem
-  - ./dict/sougou/sougou_tai_chi
-  - ./dict/sougou/sougou_three_characters_idiom
-  - ./dict/sougou/sougou_tour
-  - ./dict/sougou/sougou_traditional_Chinese_medicine
-  - ./dict/sougou/sougou_tree_name
-  - ./dict/sougou/sougou_university_name
-  - ./dict/sougou/sougou_weather
+  - ./dict/sogou/sogou_3D # 导入 56 个搜狗细胞词库
+  - ./dict/sogou/sogou_147_fruits_name
+  - ./dict/sogou/sogou_agriculture
+  - ./dict/sogou/sogou_animal
+  - ./dict/sogou/sogou_architecture
+  - ./dict/sogou/sogou_astronomy
+  - ./dict/sogou/sogou_biology
+  - ./dict/sogou/sogou_calligraphy
+  - ./dict/sogou/sogou_car
+  - ./dict/sogou/sogou_chemistry
+  - ./dict/sogou/sogou_chess
+  - ./dict/sogou/sogou_color_name
+  - ./dict/sogou/sogou_computer
+  - ./dict/sogou/sogou_diet
+  - ./dict/sogou/sogou_drug_name
+  - ./dict/sogou/sogou_edaphology
+  - ./dict/sogou/sogou_electricity
+  - ./dict/sogou/sogou_electron
+  - ./dict/sogou/sogou_famous_ancient_poetry
+  - ./dict/sogou/sogou_finance
+  - ./dict/sogou/sogou_fitment
+  - ./dict/sogou/sogou_four_characters_idiom
+  - ./dict/sogou/sogou_geography
+  - ./dict/sogou/sogou_governmental_apparatus
+  - ./dict/sogou/sogou_hacker
+  - ./dict/sogou/sogou_human_acupoint_name
+  - ./dict/sogou/sogou_human_anatomy
+  - ./dict/sogou/sogou_idiom_adage
+  - ./dict/sogou/sogou_IT_computer
+  - ./dict/sogou/sogou_IT
+  - ./dict/sogou/sogou_Japanese_animation
+  - ./dict/sogou/sogou_law
+  - ./dict/sogou/sogou_lunyu
+  - ./dict/sogou/sogou_maths
+  - ./dict/sogou/sogou_matlab
+  - ./dict/sogou/sogou_medical_apparatus
+  - ./dict/sogou/sogou_medical_science
+  - ./dict/sogou/sogou_movie_name
+  - ./dict/sogou/sogou_network_buzzword
+  - ./dict/sogou/sogou_painting_art
+  - ./dict/sogou/sogou_phychology
+  - ./dict/sogou/sogou_physics
+  - ./dict/sogou/sogou_plants
+  - ./dict/sogou/sogou_scenery
+  - ./dict/sogou/sogou_seo_term
+  - ./dict/sogou/sogou_singer_name
+  - ./dict/sogou/sogou_software_development
+  - ./dict/sogou/sogou_software_major
+  - ./dict/sogou/sogou_song_dynasty_poem
+  - ./dict/sogou/sogou_tai_chi
+  - ./dict/sogou/sogou_three_characters_idiom
+  - ./dict/sogou/sogou_tour
+  - ./dict/sogou/sogou_traditional_Chinese_medicine
+  - ./dict/sogou/sogou_tree_name
+  - ./dict/sogou/sogou_university_name
+  - ./dict/sogou/sogou_weather
 ...
