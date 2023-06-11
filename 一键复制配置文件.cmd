@@ -1,5 +1,5 @@
 @chcp 65001>nul
-@echo off & title 一键拷贝配置文件 & color F0
+@echo off & title 一键复制配置文件 & color F0
 cd /d %~dp0
 
 @REM 查询当前终端窗口的列数大小
@@ -16,26 +16,26 @@ endlocal & set "draw_line=%line%"
 cls
 echo %draw_line%
 echo.
-echo 欢迎使用「一键拷贝配置文件」自助程序
+echo 欢迎使用「一键复制配置文件」自助程序
 echo.
 echo 程序作者：Mr. Kin ^<im.misterkin@gmail.com^>
 echo.
 echo %draw_line%
 echo.
-echo 本程序会自动将本项目中的所有小狼毫配置文件拷贝到小狼毫的用户文件夹下，即 「%AppData%\Rime」 路径下
+echo 本程序会自动将本项目中的所有小狼毫配置文件复制到小狼毫的用户文件夹下，即 「%AppData%\Rime」 路径下
 echo.
 echo 注意：本程序会对同名文件及文件夹进行强制覆盖，若需保存相关配置文件数据，请先自行处理好文件再执行本程序
 echo.
 echo %draw_line%
 echo.
-echo 请按任意键继续完成拷贝
+echo 请按任意键继续完成复制
 @pause>nul
 echo.
 echo %draw_line%
 echo.
 
 if exist "%AppData%\Rime" (
-    echo 已检测到「%AppData%\Rime」路径，开始进行拷贝操作
+    echo 已检测到「%AppData%\Rime」路径，开始进行复制操作
     echo.
 ) else (
     echo 未检测到「%AppData%\Rime」路径
@@ -85,7 +85,7 @@ if "%errorlevel%" EQU "0" (
 
 echo %draw_line%
 echo.
-echo 已完成拷贝，本程序将于5秒后自动关闭
+echo 已完成复制，本程序将于5秒后自动关闭
 choice /t 5 /d y /n >nul
 exit
 
@@ -95,7 +95,7 @@ echo.
 exit /b
 
 :copy_failed_text
-echo 无法复制%1到「%AppData%\Rime」路径下，请关掉程序尝试重新运行或者手动进行复制。
+echo 无法复制%1到「%AppData%\Rime」路径下，请关掉程序尝试重新运行或者手动进行复制
 echo.
 echo 请按任意键退出或者关闭终端窗口退出
 echo.
