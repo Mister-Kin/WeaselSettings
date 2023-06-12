@@ -37,27 +37,25 @@ echo.
 if exist "%AppData%\Rime" (
     echo 已检测到「%AppData%\Rime」路径，开始进行删除操作
     echo.
+    rmdir /s /q "%AppData%\Rime"
+    if "%errorlevel%" EQU "0" (
+        echo 已删除「%AppData%\Rime」文件夹
+        echo.
+        echo %draw_line%
+        echo.
+        echo 本程序将于5秒后自动关闭
+        choice /t 5 /d y /n >nul
+    ) else (
+        echo 无法删除「%AppData%\Rime」文件夹，请关掉程序尝试重新运行或者手动进行删除
+        echo.
+        echo 请按任意键或者关闭终端窗口退出
+        echo.
+        @pause>nul
+    )
 ) else (
     echo 未检测到「%AppData%\Rime」路径
     echo.
     echo 无需执行删除
-    echo.
-    echo 请按任意键或者关闭终端窗口退出
-    echo.
-    @pause>nul
-    exit
-)
-
-rmdir /s /q "%AppData%\Rime"
-if "%errorlevel%" EQU "0" (
-    echo 已删除「%AppData%\Rime」文件夹
-    echo.
-    echo %draw_line%
-    echo.
-    echo 本程序将于5秒后自动关闭
-    choice /t 5 /d y /n >nul
-) else (
-    echo 无法删除「%AppData%\Rime」文件夹，请关掉程序尝试重新运行或者手动进行删除
     echo.
     echo 请按任意键或者关闭终端窗口退出
     echo.
