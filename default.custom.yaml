@@ -16,4 +16,4 @@ patch:
       Eisu_toggle: noop # 屏蔽该切换键
   schema_list:
     - schema: luna_pinyin_simp
-    - schema: numbers
+    - schema: chinese_numbers

@@ -4,9 +4,9 @@
 #
 
 schema:
-  schema_id: numbers
+  schema_id: chinese_numbers
   name: 中文数字
-  version: "2021/8/13"
+  version: "2023/06/13"
   description: 快捷输入中文数字（包含小写和大写）
 
 switches:
