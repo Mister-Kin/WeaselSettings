@@ -17,9 +17,9 @@ Out-of-box setting files and lexicons of [Weasel][] which is a windows client of
 
 ## Features
 - Out-of-box: easy to deploy
-- rime-pinyin-simp
+- Schema: rime-pinyin-simp and chinese-numbers
+- Support inputting English in Chinese mode of rime-pinyin-simp schema
 - Multi-lexicons: [Sogou Lexicon][], [THU Open Chinese Lexicon][], etc.
-- Support inputting English in Chinese mode
 - Extended output time format based on Lua script
 - ......
 
