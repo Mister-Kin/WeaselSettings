@@ -1,103 +1,110 @@
-@chcp 65001>nul
-@echo off & title ä¸€é”®å¤åˆ¶é…ç½®æ–‡ä»¶ & color F0
+@chcp 936>nul
+@echo off & title Ò»¼ü¸´ÖÆÅäÖÃÎÄ¼ş & color F0
 cd /d %~dp0
 
-@REM æŸ¥è¯¢å½“å‰ç»ˆç«¯çª—å£çš„åˆ—æ•°å¤§å°
-for /f "tokens=2 delims=: " %%c in ('mode con ^| findstr Columns') do set cols=%%c
+goto :start_job
 
-@REM å±€éƒ¨ç¯å¢ƒè®¾ç½®æ‰“å°çš„ç¬¦å·å’Œæ•°é‡ï¼Œå¹¶ä¼ é€’åˆ°å…¨å±€ç¯å¢ƒdraw_lineå˜é‡ä¸­
+:draw_line
+@REM ¾Ö²¿»·¾³ÉèÖÃ´òÓ¡µÄ·ûºÅºÍÊıÁ¿£¬²¢´«µİµ½È«¾Ö»·¾³draw_line_chars±äÁ¿ÖĞ
 setlocal enabledelayedexpansion
-set "char=="
+@REM ²éÑ¯µ±Ç°ÖÕ¶Ë´°¿ÚµÄÁĞÊı´óĞ¡£¬delimsºóÃæ:Ö®ºóÃ»ÓĞ¿Õ¸ñ£¬»òÕßÓĞ¶à¸ö¿Õ¸ñ¶¼ÊÇÒ»ÑùµÄĞ§¹û£¬ËüÎŞ·¨trim¶àÓàµÄ¿Õ¸ñ¡£²¢ÇÒ:ºóÃæ²»ÄÜµ¥¶À¼ÓÒ»¸ö¿Õ¸ñ£¬·ñÔòÎŞ·¨ÕıÈ·»ñÈ¡¡£
+for /f "tokens=2 delims=:" %%c in ('mode con ^| findstr "ÁĞ"') do set cols=%%c
+@REM ÒÆ³ı±äÁ¿ÖĞ×ó±ß¶àÓàµÄ¿Õ¸ñ
+for /f "tokens=* delims=: " %%c in ('echo %cols%') do set cols=%%c
+set "char=%~1"
 set /a "count=%cols%"
 set "line="
 for /l %%i in (1,1,%count%) do set "line=!line!%char%"
-endlocal & set "draw_line=%line%"
+endlocal & set "draw_line_chars=%line%"
+echo %draw_line_chars%
+exit /b
 
+:start_job
 cls
-echo %draw_line%
+call :draw_line "="
 echo.
-echo æ¬¢è¿ä½¿ç”¨ã€Œä¸€é”®å¤åˆ¶é…ç½®æ–‡ä»¶ã€è‡ªåŠ©ç¨‹åº
+echo »¶Ó­Ê¹ÓÃ¡¸Ò»¼ü¸´ÖÆÅäÖÃÎÄ¼ş¡¹×ÔÖú³ÌĞò
 echo.
-echo ç¨‹åºä½œè€…ï¼šMr. Kin ^<im.misterkin@gmail.com^>
+echo ³ÌĞò×÷Õß£ºMr. Kin ^<im.misterkin@gmail.com^>
 echo.
-echo %draw_line%
+call :draw_line "="
 echo.
-echo æœ¬ç¨‹åºä¼šè‡ªåŠ¨å°†æœ¬é¡¹ç›®ä¸­çš„æ‰€æœ‰å°ç‹¼æ¯«é…ç½®æ–‡ä»¶å¤åˆ¶åˆ°å°ç‹¼æ¯«çš„ç”¨æˆ·æ–‡ä»¶å¤¹ä¸‹ï¼Œå³ ã€Œ%AppData%\Rimeã€ è·¯å¾„ä¸‹
+echo ±¾³ÌĞò»á×Ô¶¯½«±¾ÏîÄ¿ÖĞµÄËùÓĞĞ¡ÀÇºÁÅäÖÃÎÄ¼ş¸´ÖÆµ½Ğ¡ÀÇºÁµÄÓÃ»§ÎÄ¼ş¼ĞÏÂ£¬¼´ ¡¸%AppData%\Rime¡¹ Â·¾¶ÏÂ
 echo.
-echo æ³¨æ„ï¼šæœ¬ç¨‹åºä¼šå¯¹åŒåæ–‡ä»¶åŠæ–‡ä»¶å¤¹è¿›è¡Œå¼ºåˆ¶è¦†ç›–ï¼Œè‹¥éœ€ä¿å­˜ç›¸å…³é…ç½®æ–‡ä»¶æ•°æ®ï¼Œè¯·å…ˆè‡ªè¡Œå¤„ç†å¥½æ–‡ä»¶å†æ‰§è¡Œæœ¬ç¨‹åº
+echo ×¢Òâ£º±¾³ÌĞò»á¶ÔÍ¬ÃûÎÄ¼ş¼°ÎÄ¼ş¼Ğ½øĞĞÇ¿ÖÆ¸²¸Ç£¬ÈôĞè±£´æÏà¹ØÅäÖÃÎÄ¼şÊı¾İ£¬ÇëÏÈ×ÔĞĞ´¦ÀíºÃÎÄ¼şÔÙÖ´ĞĞ±¾³ÌĞò
 echo.
-echo %draw_line%
+call :draw_line "="
 echo.
-echo è¯·æŒ‰ä»»æ„é”®ç»§ç»­å®Œæˆå¤åˆ¶
+echo Çë°´ÈÎÒâ¼ü¼ÌĞøÍê³É¸´ÖÆ
 @pause>nul
 echo.
-echo %draw_line%
+call :draw_line "="
 echo.
 
 if exist "%AppData%\Rime" (
-    echo å·²æ£€æµ‹åˆ°ã€Œ%AppData%\Rimeã€è·¯å¾„ï¼Œå¼€å§‹è¿›è¡Œå¤åˆ¶æ“ä½œ
+    echo ÒÑ¼ì²âµ½¡¸%AppData%\Rime¡¹Â·¾¶£¬¿ªÊ¼½øĞĞ¸´ÖÆ²Ù×÷
     echo.
 ) else (
-    echo æœªæ£€æµ‹åˆ°ã€Œ%AppData%\Rimeã€è·¯å¾„
+    echo Î´¼ì²âµ½¡¸%AppData%\Rime¡¹Â·¾¶
     echo.
-    echo è¯·å…ˆå®‰è£…å¥½å°ç‹¼æ¯«è¾“å…¥æ³•ç¨‹åºï¼Œä¹‹åå†è¿è¡Œæœ¬ç¨‹åº
+    echo ÇëÏÈ°²×°ºÃĞ¡ÀÇºÁÊäÈë·¨³ÌĞò£¬Ö®ºóÔÙÔËĞĞ±¾³ÌĞò
     echo.
-    echo è¯·æŒ‰ä»»æ„é”®æˆ–è€…å…³é—­ç»ˆç«¯çª—å£é€€å‡º
+    echo Çë°´ÈÎÒâ¼ü»òÕß¹Ø±ÕÖÕ¶Ë´°¿ÚÍË³ö
     echo.
     @pause>nul
     exit
 )
-echo %draw_line%
+call :draw_line "="
 echo.
-echo å½“å‰è·¯å¾„ä¸ºã€Œ%cd%ã€
+echo µ±Ç°Â·¾¶Îª¡¸%cd%¡¹
 echo.
-echo %draw_line%
+call :draw_line "="
 echo.
 
-@REM å¦‚æœä¸åŠ /iå‚æ•°ï¼Œéœ€è¦æ‰‹åŠ¨åœ¨ç›®æ ‡è·¯å¾„çš„æœ€ååŠ ä¸Šåæ–œæ \ç¬¦å·è¡¨æ˜è¿™æ˜¯ä¸ªç›®å½•ï¼Œå¦åˆ™xcopyä¼šæé—®ç›®å½•è·¯å¾„æ˜¯æ–‡ä»¶è¿˜æ˜¯æ–‡ä»¶å¤¹
+@REM Èç¹û²»¼Ó/i²ÎÊı£¬ĞèÒªÊÖ¶¯ÔÚÄ¿±êÂ·¾¶µÄ×îºó¼ÓÉÏ·´Ğ±¸Ü\·ûºÅ±íÃ÷ÕâÊÇ¸öÄ¿Â¼£¬·ñÔòxcopy»áÌáÎÊÄ¿Â¼Â·¾¶ÊÇÎÄ¼ş»¹ÊÇÎÄ¼ş¼Ğ
 xcopy /s /i /y .\dict "%AppData%\Rime\dict">nul
 if "%errorlevel%" EQU "0" (
-    call :copy_success_text ã€Œdictã€æ–‡ä»¶å¤¹
+    call :copy_success_text ¡¸dict¡¹ÎÄ¼ş¼Ğ
 ) else (
-    call :copy_failed_text ã€Œdictã€æ–‡ä»¶å¤¹
+    call :copy_failed_text ¡¸dict¡¹ÎÄ¼ş¼Ğ
 )
 
 xcopy /s /i /y .\dict_en "%AppData%\Rime\dict_en">nul
 if "%errorlevel%" EQU "0" (
-    call :copy_success_text ã€Œdict_enã€æ–‡ä»¶å¤¹
+    call :copy_success_text ¡¸dict_en¡¹ÎÄ¼ş¼Ğ
 ) else (
-    call :copy_failed_text ã€Œdict_enã€æ–‡ä»¶å¤¹
+    call :copy_failed_text ¡¸dict_en¡¹ÎÄ¼ş¼Ğ
 )
 
 xcopy /y .\*.yaml "%AppData%\Rime\">nul
 if "%errorlevel%" EQU "0" (
-    call :copy_success_text ã€Œæ‰€æœ‰yamlã€æ–‡ä»¶
+    call :copy_success_text ¡¸ËùÓĞyaml¡¹ÎÄ¼ş
 ) else (
-    call :copy_failed_text ã€Œæ‰€æœ‰yamlã€æ–‡ä»¶
+    call :copy_failed_text ¡¸ËùÓĞyaml¡¹ÎÄ¼ş
 )
 
 xcopy /y .\rime.lua "%AppData%\Rime\">nul
 if "%errorlevel%" EQU "0" (
-    call :copy_success_text ã€Œrime.luaã€æ–‡ä»¶
+    call :copy_success_text ¡¸rime.lua¡¹ÎÄ¼ş
 ) else (
-    call :copy_failed_text ã€Œrime.luaã€æ–‡ä»¶
+    call :copy_failed_text ¡¸rime.lua¡¹ÎÄ¼ş
 )
 
-echo %draw_line%
+call :draw_line "="
 echo.
-echo å·²å®Œæˆå¤åˆ¶ï¼Œæœ¬ç¨‹åºå°†äº5ç§’åè‡ªåŠ¨å…³é—­
+echo ÒÑÍê³É¸´ÖÆ£¬±¾³ÌĞò½«ÓÚ5Ãëºó×Ô¶¯¹Ø±Õ
 choice /t 5 /d y /n >nul
 exit
 
 :copy_success_text
-echo å·²æˆåŠŸå¤åˆ¶%1åˆ°ã€Œ%AppData%\Rimeã€è·¯å¾„ä¸‹
+echo ÒÑ³É¹¦¸´ÖÆ%1µ½¡¸%AppData%\Rime¡¹Â·¾¶ÏÂ
 echo.
 exit /b
 
 :copy_failed_text
-echo æ— æ³•å¤åˆ¶%1åˆ°ã€Œ%AppData%\Rimeã€è·¯å¾„ä¸‹ï¼Œè¯·å…³æ‰ç¨‹åºå°è¯•é‡æ–°è¿è¡Œæˆ–è€…æ‰‹åŠ¨è¿›è¡Œå¤åˆ¶
+echo ÎŞ·¨¸´ÖÆ%1µ½¡¸%AppData%\Rime¡¹Â·¾¶ÏÂ£¬Çë¹Øµô³ÌĞò³¢ÊÔÖØĞÂÔËĞĞ»òÕßÊÖ¶¯½øĞĞ¸´ÖÆ
 echo.
-echo è¯·æŒ‰ä»»æ„é”®é€€å‡ºæˆ–è€…å…³é—­ç»ˆç«¯çª—å£é€€å‡º
+echo Çë°´ÈÎÒâ¼üÍË³ö»òÕß¹Ø±ÕÖÕ¶Ë´°¿ÚÍË³ö
 echo.
 @pause>nul
 exit

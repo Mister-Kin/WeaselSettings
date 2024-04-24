@@ -1,63 +1,70 @@
-@chcp 65001>nul
-@echo off & title ä¸€é”®åˆ é™¤æ®‹ç•™çš„ç”¨æˆ·æ–‡ä»¶å¤¹ & color F0
+@chcp 936>nul
+@echo off & title Ò»¼üÉ¾³ı²ĞÁôµÄÓÃ»§ÎÄ¼ş¼Ğ & color F0
 cd /d %~dp0
 
-@REM æŸ¥è¯¢å½“å‰ç»ˆç«¯çª—å£çš„åˆ—æ•°å¤§å°
-for /f "tokens=2 delims=: " %%c in ('mode con ^| findstr Columns') do set cols=%%c
+goto :start_job
 
-@REM å±€éƒ¨ç¯å¢ƒè®¾ç½®æ‰“å°çš„ç¬¦å·å’Œæ•°é‡ï¼Œå¹¶ä¼ é€’åˆ°å…¨å±€ç¯å¢ƒdraw_lineå˜é‡ä¸­
+:draw_line
+@REM ¾Ö²¿»·¾³ÉèÖÃ´òÓ¡µÄ·ûºÅºÍÊıÁ¿£¬²¢´«µİµ½È«¾Ö»·¾³draw_line_chars±äÁ¿ÖĞ
 setlocal enabledelayedexpansion
-set "char=="
+@REM ²éÑ¯µ±Ç°ÖÕ¶Ë´°¿ÚµÄÁĞÊı´óĞ¡£¬delimsºóÃæ:Ö®ºóÃ»ÓĞ¿Õ¸ñ£¬»òÕßÓĞ¶à¸ö¿Õ¸ñ¶¼ÊÇÒ»ÑùµÄĞ§¹û£¬ËüÎŞ·¨trim¶àÓàµÄ¿Õ¸ñ¡£²¢ÇÒ:ºóÃæ²»ÄÜµ¥¶À¼ÓÒ»¸ö¿Õ¸ñ£¬·ñÔòÎŞ·¨ÕıÈ·»ñÈ¡¡£
+for /f "tokens=2 delims=:" %%c in ('mode con ^| findstr "ÁĞ"') do set cols=%%c
+@REM ÒÆ³ı±äÁ¿ÖĞ×ó±ß¶àÓàµÄ¿Õ¸ñ
+for /f "tokens=* delims=: " %%c in ('echo %cols%') do set cols=%%c
+set "char=%~1"
 set /a "count=%cols%"
 set "line="
 for /l %%i in (1,1,%count%) do set "line=!line!%char%"
-endlocal & set "draw_line=%line%"
+endlocal & set "draw_line_chars=%line%"
+echo %draw_line_chars%
+exit /b
 
+:start_job
 cls
-echo %draw_line%
+call :draw_line "="
 echo.
-echo æ¬¢è¿ä½¿ç”¨ã€Œä¸€é”®åˆ é™¤æ®‹ç•™çš„ç”¨æˆ·æ–‡ä»¶å¤¹ã€è‡ªåŠ©ç¨‹åº
+echo »¶Ó­Ê¹ÓÃ¡¸Ò»¼üÉ¾³ı²ĞÁôµÄÓÃ»§ÎÄ¼ş¼Ğ¡¹×ÔÖú³ÌĞò
 echo.
-echo ç¨‹åºä½œè€…ï¼šMr. Kin ^<im.misterkin@gmail.com^>
+echo ³ÌĞò×÷Õß£ºMr. Kin ^<im.misterkin@gmail.com^>
 echo.
-echo %draw_line%
+call :draw_line "="
 echo.
-echo æœ¬ç¨‹åºç”¨äºå¸è½½å°ç‹¼æ¯«è¾“å…¥æ³•ç¨‹åºåï¼Œè‡ªåŠ¨åˆ é™¤æ®‹ç•™çš„ç”¨æˆ·æ–‡ä»¶å¤¹ï¼Œå³ ã€Œ%AppData%\Rimeã€ è·¯å¾„
+echo ±¾³ÌĞòÓÃÓÚĞ¶ÔØĞ¡ÀÇºÁÊäÈë·¨³ÌĞòºó£¬×Ô¶¯É¾³ı²ĞÁôµÄÓÃ»§ÎÄ¼ş¼Ğ£¬¼´ ¡¸%AppData%\Rime¡¹ Â·¾¶
 echo.
-echo æ³¨æ„ï¼šæ•°æ®æ— ä»·ï¼Œè‹¥éœ€ä¿å­˜ç›¸å…³é…ç½®æ–‡ä»¶æ•°æ®ï¼Œè¯·å…ˆè‡ªè¡Œå¤„ç†å¥½æ–‡ä»¶å†æ‰§è¡Œæœ¬ç¨‹åº
+echo ×¢Òâ£ºÊı¾İÎŞ¼Û£¬ÈôĞè±£´æÏà¹ØÅäÖÃÎÄ¼şÊı¾İ£¬ÇëÏÈ×ÔĞĞ´¦ÀíºÃÎÄ¼şÔÙÖ´ĞĞ±¾³ÌĞò
 echo.
-echo %draw_line%
+call :draw_line "="
 echo.
-echo è¯·æŒ‰ä»»æ„é”®ç»§ç»­å®Œæˆåˆ é™¤
+echo Çë°´ÈÎÒâ¼ü¼ÌĞøÍê³ÉÉ¾³ı
 @pause>nul
 echo.
-echo %draw_line%
+call :draw_line "="
 echo.
 
 if exist "%AppData%\Rime" (
-    echo å·²æ£€æµ‹åˆ°ã€Œ%AppData%\Rimeã€è·¯å¾„ï¼Œå¼€å§‹è¿›è¡Œåˆ é™¤æ“ä½œ
+    echo ÒÑ¼ì²âµ½¡¸%AppData%\Rime¡¹Â·¾¶£¬¿ªÊ¼½øĞĞÉ¾³ı²Ù×÷
     echo.
     rmdir /s /q "%AppData%\Rime"
     if "%errorlevel%" EQU "0" (
-        echo å·²åˆ é™¤ã€Œ%AppData%\Rimeã€æ–‡ä»¶å¤¹
+        echo ÒÑÉ¾³ı¡¸%AppData%\Rime¡¹ÎÄ¼ş¼Ğ
         echo.
-        echo %draw_line%
+        call :draw_line "="
         echo.
-        echo æœ¬ç¨‹åºå°†äº5ç§’åè‡ªåŠ¨å…³é—­
+        echo ±¾³ÌĞò½«ÓÚ5Ãëºó×Ô¶¯¹Ø±Õ
         choice /t 5 /d y /n >nul
     ) else (
-        echo æ— æ³•åˆ é™¤ã€Œ%AppData%\Rimeã€æ–‡ä»¶å¤¹ï¼Œè¯·å…³æ‰ç¨‹åºå°è¯•é‡æ–°è¿è¡Œæˆ–è€…æ‰‹åŠ¨è¿›è¡Œåˆ é™¤
+        echo ÎŞ·¨É¾³ı¡¸%AppData%\Rime¡¹ÎÄ¼ş¼Ğ£¬Çë¹Øµô³ÌĞò³¢ÊÔÖØĞÂÔËĞĞ»òÕßÊÖ¶¯½øĞĞÉ¾³ı
         echo.
-        echo è¯·æŒ‰ä»»æ„é”®æˆ–è€…å…³é—­ç»ˆç«¯çª—å£é€€å‡º
+        echo Çë°´ÈÎÒâ¼ü»òÕß¹Ø±ÕÖÕ¶Ë´°¿ÚÍË³ö
         echo.
         @pause>nul
     )
 ) else (
-    echo æœªæ£€æµ‹åˆ°ã€Œ%AppData%\Rimeã€è·¯å¾„
+    echo Î´¼ì²âµ½¡¸%AppData%\Rime¡¹Â·¾¶
     echo.
-    echo æ— éœ€æ‰§è¡Œåˆ é™¤
+    echo ÎŞĞèÖ´ĞĞÉ¾³ı
     echo.
-    echo è¯·æŒ‰ä»»æ„é”®æˆ–è€…å…³é—­ç»ˆç«¯çª—å£é€€å‡º
+    echo Çë°´ÈÎÒâ¼ü»òÕß¹Ø±ÕÖÕ¶Ë´°¿ÚÍË³ö
     echo.
     @pause>nul
 )
