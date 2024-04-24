@@ -12,7 +12,7 @@ patch:
       Shift_R: inline_ascii # 右 shift 不上屏，可进入临时编辑区内输入字母、数字、符号、空格等，回车上屏后自动复位到中文
       Control_L: clear # 左 control 清除编辑区内的字符，之后切换为英文输入
       Control_R: commit_text # 右 control 文字上屏，之后切换为英文输入
-      Caps_Lock: noop # 屏蔽该切换键（满足大写字母开头的英文单词输入）
+      Caps_Lock: clear # 左 control 清除编辑区内的字符，之后切换为英文输入。不能使用noop屏蔽该切换键，否则会导致中文输入时切换大写导致无法正常删除修改（满足大写字母开头的英文单词输入只能另找方案实现），问题参见https://github.com/rime/weasel/issues/404
       Eisu_toggle: noop # 屏蔽该切换键
   schema_list:
     - schema: luna_pinyin_simp
