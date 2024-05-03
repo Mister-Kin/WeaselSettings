@@ -53,7 +53,7 @@ patch:
     '/ywz': [🌿,(ಡωಡ), (ಥ﹏ಥ), (ง •_•)ง, (눈_눈), (＞﹏＜), ╥﹏╥..., (lll￢ω￢), (๑•̀ㅂ•́)و✧, (￣▽￣)～■干杯□～(￣▽￣)]
     '/hexo': [hexo generate && hexo server --draft, hexo clean && hexo generate && hexo server --draft, hexo new draft, hexo publish, hexo new post, hexo new page, hexo generate && hexo server, hexo clean --silent && hexo generate --silent && hexo server --draft, hexo clean --silent && hexo generate --silent && hexo server, hexo clean, hexo generate, hexo server, hexo server --draft]
     '/mlh': [cd D:/git/BatchTools/ && ./ffmpeg.sh, cd D:/git/BatchTools/ && ./text.sh, auto-changelog --commit-limit false --unreleased-only --template D:/git/changelog_template.hbs -o D:/git/changelog.md, ipconfig /flushdns,sfc /scannow, dism /online /cleanup-image /scanhealth, dism /online /cleanup-image /restorehealth, 'rundll32.exe powrprof.dll,SetSuspendState']
-    '/url': [https://github.com, https://github.com/Mister-Kin/, https://mister-kin.github.io/, https://mister-kin.gitee.io/, https://ghproxy.com/]
+    '/url': [https://github.com, https://github.com/Mister-Kin/, https://mister-kin.github.io/]
     '/ipabpy': [p, b, t, d, k, g] # 爆破音
     '/ipamcy': [f, v, s, z, f, ʒ, θ, ð, h] # 摩擦音
     '/ipaby': [m, n, ŋ] # 鼻音
